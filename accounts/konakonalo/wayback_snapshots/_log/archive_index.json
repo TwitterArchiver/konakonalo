@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:24:43",
+  "last_updated": "2026-08-02T12:26:31",
   "html": {
     "https://web.archive.org/web/20260129073110if_/https://twitter.com/konakonalo/status/2016776115654983864": {
       "status": "done",
@@ -11444,13 +11444,13 @@
       "last_updated": "2026-08-02T11:24:47"
     },
     "https://video.twimg.com/amplify_video/2071630102287511553/vid/avc1/720x1280/UL1y9tambWdRw1m2.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260629162135_twitter_com_konakonalo_status_2071630168976945169.json"
       ],
-      "last_updated": "2026-08-02T11:56:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629162135/https://video.twimg.com/amplify_video/2071630102287511553/vid/avc1/720x1280/UL1y9tambWdRw1m2.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f836039fcb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:34",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629162135/https://video.twimg.com/amplify_video/2071630102287511553/vid/avc1/720x1280/UL1y9tambWdRw1m2.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2038308505413644288/vid/avc1/884x484/W3sHkH6z3TfdTqrm.mp4": {
       "status": "done",
@@ -11460,13 +11460,13 @@
       "last_updated": "2026-08-02T11:24:47"
     },
     "https://video.twimg.com/amplify_video/2072373139388973056/vid/avc1/720x1280/aZkNNpX8gTApgrFk.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260701173413_twitter_com_konakonalo_status_2072373221786046695.json"
       ],
-      "last_updated": "2026-08-02T11:56:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701173413/https://video.twimg.com/amplify_video/2072373139388973056/vid/avc1/720x1280/aZkNNpX8gTApgrFk.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f836074bbc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:35",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260701173413/https://video.twimg.com/amplify_video/2072373139388973056/vid/avc1/720x1280/aZkNNpX8gTApgrFk.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2072558516393443328/vid/avc1/1280x720/FSXLNoJpeIXTwNiS.mp4": {
       "status": "done",
@@ -11477,13 +11477,13 @@
       "last_updated": "2026-08-02T11:24:47"
     },
     "https://video.twimg.com/amplify_video/2073093287783600128/vid/avc1/720x1280/FDJw5aDYmPWxAG6G.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260703171743_twitter_com_konakonalo_status_2073093846171349460.json"
       ],
-      "last_updated": "2026-08-02T11:56:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703171743/https://video.twimg.com/amplify_video/2073093287783600128/vid/avc1/720x1280/FDJw5aDYmPWxAG6G.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f836074af00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:38",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703171743/https://video.twimg.com/amplify_video/2073093287783600128/vid/avc1/720x1280/FDJw5aDYmPWxAG6G.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2072605146450681856/vid/avc1/960x720/OqKTZOkhusv0hxks.mp4": {
       "status": "done",
@@ -11493,13 +11493,13 @@
       "last_updated": "2026-08-02T11:24:47"
     },
     "https://video.twimg.com/amplify_video/2073361371756929024/vid/avc1/1280x720/QsFyNiBsS-u69KH8.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260704110103_twitter_com_konakonalo_status_2073361440535122060.json"
       ],
-      "last_updated": "2026-08-02T11:56:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704110103if_/https://video.twimg.com/amplify_video/2073361371756929024/vid/avc1/1280x720/QsFyNiBsS-u69KH8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074dc10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:40",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704110103/https://video.twimg.com/amplify_video/2073361371756929024/vid/avc1/1280x720/QsFyNiBsS-u69KH8.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2053860362299076608/pu/vid/avc1/904x718/Fd7HvCTycwY2518f.mp4?tag=12": {
       "status": "done",
@@ -11542,18 +11542,18 @@
       "referenced_by": [
         "20260705141639_twitter_com_konakonalo_status_2073773054790938630.json"
       ],
-      "last_updated": "2026-08-02T11:56:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260705141639im_/https://video.twimg.com/amplify_video/2073772949803282432/vid/avc1/720x1280/Nv2lPofZ4RO-HWNE.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074ebd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260705141639/https://video.twimg.com/amplify_video/2073772949803282432/vid/avc1/720x1280/Nv2lPofZ4RO-HWNE.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a3568440>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2075108116639997952/vid/avc1/720x1280/2jajaH8zjZb67qbY.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260709064204_twitter_com_konakonalo_status_2075108207501197498.json"
       ],
-      "last_updated": "2026-08-02T11:56:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260709064204im_/https://video.twimg.com/amplify_video/2075108116639997952/vid/avc1/720x1280/2jajaH8zjZb67qbY.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f83607489b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260709064204im_/https://video.twimg.com/amplify_video/2075108116639997952/vid/avc1/720x1280/2jajaH8zjZb67qbY.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a2540>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2075558195704295424/vid/avc1/960x720/R_z99wzADdlIr0K8.mp4?tag=14": {
       "status": "done",
@@ -11575,81 +11575,81 @@
         "20260711160959_twitter_com_konakonalo_status_2075975900496273475.json",
         "20260711161315_twitter_com_konakonalo_status_2075976724115038710.json"
       ],
-      "last_updated": "2026-08-02T11:56:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711160959im_/https://video.twimg.com/amplify_video/2075975812944404480/vid/avc1/1280x720/MplvR7h-VmpsMrOZ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074e270>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-02T12:25:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711160959im_/https://video.twimg.com/amplify_video/2075975812944404480/vid/avc1/1280x720/MplvR7h-VmpsMrOZ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a1730>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2076244676320116737/vid/avc1/720x1280/TiDaDrtmoA60I4Ka.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260712095815_twitter_com_konakonalo_status_2076244741990256699.json"
       ],
-      "last_updated": "2026-08-02T11:56:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260712095815im_/https://video.twimg.com/amplify_video/2076244676320116737/vid/avc1/720x1280/TiDaDrtmoA60I4Ka.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074d760>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:25:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260712095815im_/https://video.twimg.com/amplify_video/2076244676320116737/vid/avc1/720x1280/TiDaDrtmoA60I4Ka.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a06b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2077024796429463552/vid/avc1/1280x720/KsSolZCHhd5QKZrH.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260714133812_twitter_com_konakonalo_status_2077024867992707340.json"
       ],
-      "last_updated": "2026-08-02T11:56:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714133812im_/https://video.twimg.com/amplify_video/2077024796429463552/vid/avc1/1280x720/KsSolZCHhd5QKZrH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074f770>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260714133812im_/https://video.twimg.com/amplify_video/2077024796429463552/vid/avc1/1280x720/KsSolZCHhd5QKZrH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a3569700>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2077998385060294656/vid/avc1/1280x720/RQ_4zGanboG6tCgx.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260717060646_twitter_com_konakonalo_status_2077998423912091925.json"
       ],
-      "last_updated": "2026-08-02T11:56:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717060646im_/https://video.twimg.com/amplify_video/2077998385060294656/vid/avc1/1280x720/RQ_4zGanboG6tCgx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8360788b90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717060646im_/https://video.twimg.com/amplify_video/2077998385060294656/vid/avc1/1280x720/RQ_4zGanboG6tCgx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a0d10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2078075617631989760/vid/avc1/1280x720/87HdkLQQJIuvgaPp.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260717111338_twitter_com_konakonalo_status_2078075652511769005.json"
       ],
-      "last_updated": "2026-08-02T11:56:16",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260717111338/https://video.twimg.com/amplify_video/2078075617631989760/vid/avc1/1280x720/87HdkLQQJIuvgaPp.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T12:26:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717111338im_/https://video.twimg.com/amplify_video/2078075617631989760/vid/avc1/1280x720/87HdkLQQJIuvgaPp.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a1f70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2078076280189452288/vid/avc1/1280x720/Khj7pSkjXug53JI-.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260717111616_twitter_com_konakonalo_status_2078076314326823307.json"
       ],
-      "last_updated": "2026-08-02T11:56:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717111616im_/https://video.twimg.com/amplify_video/2078076280189452288/vid/avc1/1280x720/Khj7pSkjXug53JI-.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074ef30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717111616im_/https://video.twimg.com/amplify_video/2078076280189452288/vid/avc1/1280x720/Khj7pSkjXug53JI-.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a3590>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2079008224435748864/vid/avc1/720x1280/6H5wbE9NbrLN7ESr.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260720005931_twitter_com_konakonalo_status_2079008267796369863.json"
       ],
-      "last_updated": "2026-08-02T11:57:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260720005931im_/https://video.twimg.com/amplify_video/2079008224435748864/vid/avc1/720x1280/6H5wbE9NbrLN7ESr.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074e990>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260720005931im_/https://video.twimg.com/amplify_video/2079008224435748864/vid/avc1/720x1280/6H5wbE9NbrLN7ESr.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35692b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2079944695590133760/vid/avc1/1280x720/noKaH9NjJTtOWwVN.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260722150042_twitter_com_konakonalo_status_2079944732411867208.json"
       ],
-      "last_updated": "2026-08-02T11:57:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260722150042im_/https://video.twimg.com/amplify_video/2079944695590133760/vid/avc1/1280x720/noKaH9NjJTtOWwVN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f836074ab40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260722150042im_/https://video.twimg.com/amplify_video/2079944695590133760/vid/avc1/1280x720/noKaH9NjJTtOWwVN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35bc080>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2080414183951335424/vid/avc1/1280x720/Pnns2mL_vbCVGhRH.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260723220618_twitter_com_konakonalo_status_2080414225626001629.json"
       ],
-      "last_updated": "2026-08-02T11:57:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723220618im_/https://video.twimg.com/amplify_video/2080414183951335424/vid/avc1/1280x720/Pnns2mL_vbCVGhRH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8360788ef0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723220618im_/https://video.twimg.com/amplify_video/2080414183951335424/vid/avc1/1280x720/Pnns2mL_vbCVGhRH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a3cb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2081396004382023680/vid/avc1/1280x720/nSrZ5RhnudCMIf8H.mp4": {
       "status": "done",
@@ -11685,9 +11685,9 @@
       "referenced_by": [
         "20260729160455_twitter_com_konakonalo_status_2082497608380239881.json"
       ],
-      "last_updated": "2026-08-02T11:57:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260729160455im_/https://video.twimg.com/amplify_video/2082497566516932608/vid/avc1/1280x720/HGOlbzMe4m6nHtr1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8360789e20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-02T12:26:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260729160455im_/https://video.twimg.com/amplify_video/2082497566516932608/vid/avc1/1280x720/HGOlbzMe4m6nHtr1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a35a2810>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2083176732895686657/vid/avc1/720x1280/ayvrl0mKHaJRVdUV.mp4": {
       "status": "done",
@@ -22626,7 +22626,7 @@
       "last_updated": "2026-08-02T11:25:25"
     },
     "20260629162135_twitter_com_konakonalo_status_2071630168976945169.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -22636,7 +22636,7 @@
           "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:56:16",
+      "last_updated": "2026-08-02T12:25:34",
       "miss_count": 2
     },
     "20260629162623_twitter_com_konakonalo_status_2071631374294086045.json": {
@@ -23706,7 +23706,7 @@
       "last_updated": "2026-08-02T11:25:25"
     },
     "20260701173413_twitter_com_konakonalo_status_2072373221786046695.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -23716,7 +23716,7 @@
           "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:56:16",
+      "last_updated": "2026-08-02T12:25:35",
       "miss_count": 2
     },
     "20260701173514_twitter_com_konakonalo_status_2072373477751837011.json": {
@@ -25050,7 +25050,7 @@
       "last_updated": "2026-08-02T11:25:25"
     },
     "20260703171743_twitter_com_konakonalo_status_2073093846171349460.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -25060,7 +25060,7 @@
           "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:56:16",
+      "last_updated": "2026-08-02T12:25:38",
       "miss_count": 2
     },
     "20260703185103_twitter_com_konakonalo_status_2073117331018919995.json": {
@@ -25475,7 +25475,7 @@
       "last_updated": "2026-08-02T11:25:35"
     },
     "20260704110103_twitter_com_konakonalo_status_2073361440535122060.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -25485,7 +25485,7 @@
           "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:56:16",
+      "last_updated": "2026-08-02T12:25:40",
       "miss_count": 2
     },
     "20260704114120_twitter_com_konakonalo_status_2073371579422011615.json": {
@@ -32210,7 +32210,7 @@
       "last_updated": "2026-08-02T11:25:43"
     },
     "20260717111338_twitter_com_konakonalo_status_2078075652511769005.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -32220,7 +32220,7 @@
           "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T11:56:16",
+      "last_updated": "2026-08-02T12:26:11",
       "miss_count": 1
     },
     "20260717111616_twitter_com_konakonalo_status_2078076314326823307.json": {
