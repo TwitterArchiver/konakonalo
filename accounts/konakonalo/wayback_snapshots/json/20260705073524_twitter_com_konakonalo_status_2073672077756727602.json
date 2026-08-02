@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073531372325490688",
+        "3_2073531380013703168"
+      ],
+      "media_source_tweet_id": [
+        "2073648070512812465",
+        "2073648070512812465"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Hedi Slimane",
+          "id": "955412606986027008",
+          "name": "Hedi Slimane"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10025257871",
+          "name": "Yves Saint Laurent"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10025257871",
+          "name": "Yves Saint Laurent"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1255950086699315200",
+          "name": "Designer fashion"
+        }
+      }
+    ],
+    "conversation_id": "2073672077756727602",
+    "created_at": "2026-07-05T07:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073672077756727602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4166425527",
+          "start": 3,
+          "username": "solisolsoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lDdYRhGNOc",
+          "end": 90,
+          "expanded_url": "https://x.com/solisolsoli/status/2073648070512812465/photo/1",
+          "media_key": "3_2073531372325490688",
+          "start": 67,
+          "url": "https://t.co/lDdYRhGNOc"
+        },
+        {
+          "display_url": "pic.x.com/lDdYRhGNOc",
+          "end": 90,
+          "expanded_url": "https://x.com/solisolsoli/status/2073648070512812465/photo/1",
+          "media_key": "3_2073531380013703168",
+          "start": 67,
+          "url": "https://t.co/lDdYRhGNOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073672077756727602",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073648070512812465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solisolsoli: Hedi Slimane's photography for Yves Saint Laurent https://t.co/lDdYRhGNOc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2073531372325490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMapzA4W0AA_d7C.jpg",
+        "width": 544
+      },
+      {
+        "height": 975,
+        "media_key": "3_2073531380013703168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMapzdhXoAAG4n5.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073531372325490688",
+            "3_2073531380013703168"
+          ],
+          "media_source_tweet_id": [
+            "2073648070512812465",
+            "2073648070512812465"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Hedi Slimane",
+              "id": "955412606986027008",
+              "name": "Hedi Slimane"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2073672077756727602",
+        "created_at": "2026-07-05T07:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073672077756727602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4166425527",
+              "start": 3,
+              "username": "solisolsoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDdYRhGNOc",
+              "end": 90,
+              "expanded_url": "https://x.com/solisolsoli/status/2073648070512812465/photo/1",
+              "media_key": "3_2073531372325490688",
+              "start": 67,
+              "url": "https://t.co/lDdYRhGNOc"
+            },
+            {
+              "display_url": "pic.x.com/lDdYRhGNOc",
+              "end": 90,
+              "expanded_url": "https://x.com/solisolsoli/status/2073648070512812465/photo/1",
+              "media_key": "3_2073531380013703168",
+              "start": 67,
+              "url": "https://t.co/lDdYRhGNOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073672077756727602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073648070512812465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solisolsoli: Hedi Slimane's photography for Yves Saint Laurent https://t.co/lDdYRhGNOc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073531372325490688",
+            "3_2073531380013703168"
+          ]
+        },
+        "author_id": "4166425527",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Hedi Slimane",
+              "id": "955412606986027008",
+              "name": "Hedi Slimane"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2073648070512812465",
+        "created_at": "2026-07-05T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073648070512812465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDdYRhGNOc",
+              "end": 73,
+              "expanded_url": "https://x.com/solisolsoli/status/2073648070512812465/photo/1",
+              "media_key": "3_2073531372325490688",
+              "start": 50,
+              "url": "https://t.co/lDdYRhGNOc"
+            },
+            {
+              "display_url": "pic.x.com/lDdYRhGNOc",
+              "end": 73,
+              "expanded_url": "https://x.com/solisolsoli/status/2073648070512812465/photo/1",
+              "media_key": "3_2073531380013703168",
+              "start": 50,
+              "url": "https://t.co/lDdYRhGNOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073648070512812465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 27411,
+          "like_count": 1473,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "Hedi Slimane's photography for Yves Saint Laurent https://t.co/lDdYRhGNOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 131,
+          "like_count": 5225,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCFmKb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCFmKb"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221000,
+          "following_count": 604,
+          "like_count": 13048,
+          "listed_count": 4360,
+          "media_count": 14925,
+          "tweet_count": 16939
+        },
+        "url": "",
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

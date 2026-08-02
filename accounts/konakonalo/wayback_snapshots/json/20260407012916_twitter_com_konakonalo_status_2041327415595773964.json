@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041199624464318464",
+        "3_2041199624493613056"
+      ],
+      "media_source_tweet_id": [
+        "2041199649080688930",
+        "2041199649080688930"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1256292690309689344",
+          "name": "Tamagotchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256292690309689344",
+          "name": "Tamagotchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      }
+    ],
+    "conversation_id": "2041327415595773964",
+    "created_at": "2026-04-07T01:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041327415595773964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938078052334112771",
+          "start": 3,
+          "username": "ura_photo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZGAUxeuU7",
+          "end": 48,
+          "expanded_url": "https://x.com/ura_photo_/status/2041199649080688930/photo/1",
+          "media_key": "3_2041199624464318464",
+          "start": 25,
+          "url": "https://t.co/qZGAUxeuU7"
+        },
+        {
+          "display_url": "pic.x.com/qZGAUxeuU7",
+          "end": 48,
+          "expanded_url": "https://x.com/ura_photo_/status/2041199649080688930/photo/1",
+          "media_key": "3_2041199624493613056",
+          "start": 25,
+          "url": "https://t.co/qZGAUxeuU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041327415595773964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041199649080688930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ura_photo_: たまごっちネイル https://t.co/qZGAUxeuU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2041199624464318464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPMPmPbQAAFWT4.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041199624493613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPMPmWaQAABJxc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041199624464318464",
+            "3_2041199624493613056"
+          ],
+          "media_source_tweet_id": [
+            "2041199649080688930",
+            "2041199649080688930"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2041327415595773964",
+        "created_at": "2026-04-07T01:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041327415595773964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938078052334112771",
+              "start": 3,
+              "username": "ura_photo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZGAUxeuU7",
+              "end": 48,
+              "expanded_url": "https://x.com/ura_photo_/status/2041199649080688930/photo/1",
+              "media_key": "3_2041199624464318464",
+              "start": 25,
+              "url": "https://t.co/qZGAUxeuU7"
+            },
+            {
+              "display_url": "pic.x.com/qZGAUxeuU7",
+              "end": 48,
+              "expanded_url": "https://x.com/ura_photo_/status/2041199649080688930/photo/1",
+              "media_key": "3_2041199624493613056",
+              "start": 25,
+              "url": "https://t.co/qZGAUxeuU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041327415595773964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041199649080688930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ura_photo_: たまごっちネイル https://t.co/qZGAUxeuU7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041199624464318464",
+            "3_2041199624493613056"
+          ]
+        },
+        "author_id": "1938078052334112771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2041199649080688930",
+        "created_at": "2026-04-06T17:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041199649080688930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZGAUxeuU7",
+              "end": 32,
+              "expanded_url": "https://x.com/ura_photo_/status/2041199649080688930/photo/1",
+              "media_key": "3_2041199624464318464",
+              "start": 9,
+              "url": "https://t.co/qZGAUxeuU7"
+            },
+            {
+              "display_url": "pic.x.com/qZGAUxeuU7",
+              "end": 32,
+              "expanded_url": "https://x.com/ura_photo_/status/2041199649080688930/photo/1",
+              "media_key": "3_2041199624493613056",
+              "start": 9,
+              "url": "https://t.co/qZGAUxeuU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041199649080688930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 8540,
+          "like_count": 1051,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "たまごっちネイル https://t.co/qZGAUxeuU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 34,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 96
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T03:33:22.000Z",
+        "description": "アイコンは、牧場にいた知らないシーズーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ura_photo_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ura_photo_?igsh=MTVlNTR4d3YxN2Nj&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/iu5LZaHaGK"
+              }
+            ]
+          }
+        },
+        "id": "1938078052334112771",
+        "name": "め、ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938209842726092800/7Z-Wb_ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4766,
+          "following_count": 4,
+          "like_count": 328,
+          "listed_count": 16,
+          "media_count": 150,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/iu5LZaHaGK",
+        "username": "ura_photo_",
+        "verified": false
+      }
+    ]
+  }
+}

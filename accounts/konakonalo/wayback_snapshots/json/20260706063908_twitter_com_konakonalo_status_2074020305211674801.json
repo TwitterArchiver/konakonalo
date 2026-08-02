@@ -1,0 +1,653 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1179475592837615616",
+          "name": "Martin Scorsese"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "id": "1179475592837615616",
+          "name": "Martin Scorsese"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1290268694782701574",
+          "name": "Taxi Driver"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1284215709757628416",
+          "name": "Cult classics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1287840544744329216",
+          "name": "Crime Films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1179475592837615616",
+          "name": "Martin Scorsese"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284215709757628416",
+          "name": "Cult classics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287840544744329216",
+          "name": "Crime Films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1290268694782701574",
+          "name": "Taxi Driver"
+        }
+      }
+    ],
+    "conversation_id": "2074020305211674801",
+    "created_at": "2026-07-06T06:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074020305211674801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gibboanxious/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/gibboanxious/status/2073814162703294649",
+          "start": 9,
+          "url": "https://t.co/R3BB2E3MGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074020305211674801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073814162703294649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最讨厌的电影之一 https://t.co/R3BB2E3MGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2073026179397738496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTeU6kWYAAYFTe.png",
+        "width": 360
+      },
+      {
+        "height": 195,
+        "media_key": "3_2073026190458175488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTeVjxXQAAU_Y9.png",
+        "width": 360
+      },
+      {
+        "height": 195,
+        "media_key": "3_2073026202634194944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTeWRIWkAAqu-O.png",
+        "width": 360
+      },
+      {
+        "height": 195,
+        "media_key": "3_2073026220514476032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTeXTvWAAA9X0x.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179475592837615616",
+              "name": "Martin Scorsese"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1179475592837615616",
+              "name": "Martin Scorsese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179475592837615616",
+              "name": "Martin Scorsese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          }
+        ],
+        "conversation_id": "2074020305211674801",
+        "created_at": "2026-07-06T06:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074020305211674801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gibboanxious/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/gibboanxious/status/2073814162703294649",
+              "start": 9,
+              "url": "https://t.co/R3BB2E3MGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074020305211674801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073814162703294649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最讨厌的电影之一 https://t.co/R3BB2E3MGr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073026179397738496",
+            "3_2073026190458175488",
+            "3_2073026202634194944",
+            "3_2073026220514476032"
+          ]
+        },
+        "author_id": "98696877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179475592837615616",
+              "name": "Martin Scorsese"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1179475592837615616",
+              "name": "Martin Scorsese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179475592837615616",
+              "name": "Martin Scorsese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          }
+        ],
+        "conversation_id": "2073814162703294649",
+        "created_at": "2026-07-05T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073814162703294649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDthZeZyhi",
+              "end": 65,
+              "expanded_url": "https://x.com/Gibboanxious/status/2073814162703294649/photo/1",
+              "media_key": "3_2073026179397738496",
+              "start": 42,
+              "url": "https://t.co/cDthZeZyhi"
+            },
+            {
+              "display_url": "pic.x.com/cDthZeZyhi",
+              "end": 65,
+              "expanded_url": "https://x.com/Gibboanxious/status/2073814162703294649/photo/1",
+              "media_key": "3_2073026190458175488",
+              "start": 42,
+              "url": "https://t.co/cDthZeZyhi"
+            },
+            {
+              "display_url": "pic.x.com/cDthZeZyhi",
+              "end": 65,
+              "expanded_url": "https://x.com/Gibboanxious/status/2073814162703294649/photo/1",
+              "media_key": "3_2073026202634194944",
+              "start": 42,
+              "url": "https://t.co/cDthZeZyhi"
+            },
+            {
+              "display_url": "pic.x.com/cDthZeZyhi",
+              "end": 65,
+              "expanded_url": "https://x.com/Gibboanxious/status/2073814162703294649/photo/1",
+              "media_key": "3_2073026220514476032",
+              "start": 42,
+              "url": "https://t.co/cDthZeZyhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073814162703294649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2679,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Taxi Driver (1976) \n\ndir. Martin Scorsese https://t.co/cDthZeZyhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 150,
+          "like_count": 5591,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-22T18:56:47.000Z",
+        "description": "Film & TV Reviews 🇮🇪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/3lwbF",
+                "end": 23,
+                "expanded_url": "https://boxd.it/3lwbF",
+                "start": 0,
+                "url": "https://t.co/fABF6YbQ1F"
+              }
+            ]
+          }
+        },
+        "id": "98696877",
+        "location": "Ireland",
+        "name": "Stephen Gibbons",
+        "pinned_tweet_id": "2073738676551516381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2411806883/v3cgm5vv0846b3q65pza_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68897,
+          "following_count": 59,
+          "like_count": 381813,
+          "listed_count": 234,
+          "media_count": 78921,
+          "tweet_count": 132745
+        },
+        "url": "https://t.co/fABF6YbQ1F",
+        "username": "Gibboanxious",
+        "verified": true
+      }
+    ]
+  }
+}

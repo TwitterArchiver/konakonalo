@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2063942262128832966",
+    "created_at": "2026-06-26T03:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070345415040631093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941289376669106177",
+          "start": 0,
+          "username": "jelllllyfiiiish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070345415040631093",
+    "in_reply_to_user_id": "1941289376669106177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070321969938272491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelllllyfiiiish 啊啊啊啊啊加油！相信kllppeaea一定可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2063942262128832966",
+        "created_at": "2026-06-26T03:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070345415040631093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941289376669106177",
+              "start": 0,
+              "username": "jelllllyfiiiish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070345415040631093",
+        "in_reply_to_user_id": "1941289376669106177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070321969938272491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelllllyfiiiish 啊啊啊啊啊加油！相信kllppeaea一定可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941289376669106177",
+        "conversation_id": "2063942262128832966",
+        "created_at": "2026-06-26T01:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070321969938272491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070321969938272491",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063942262128832966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 我不知道我有没有精神病 但我可以一周不洗头 房间一直不收拾乱七八糟 地板上、桌子上、床上都令人无法直视 还有会囤一些垃圾一直没丢\n我觉得自己这样真是恶心爆了。。！今天一定会把房间收拾得干干净净的嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 72,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T00:14:14.000Z",
+        "description": "垃圾桶@kllppeaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kllppeaea"
+              }
+            ]
+          }
+        },
+        "id": "1941289376669106177",
+        "name": "kllppeaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064388328313724928/8CaE0BxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 524,
+          "like_count": 11842,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "jelllllyfiiiish",
+        "verified": false
+      }
+    ]
+  }
+}

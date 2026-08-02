@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073121852759965956",
+    "created_at": "2026-07-05T07:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073663392267612468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942973643962634240",
+          "start": 0,
+          "username": "whywhymemee"
+        },
+        {
+          "end": 25,
+          "id": "1769033709179871232",
+          "start": 13,
+          "username": "75ccc134836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073663392267612468",
+    "in_reply_to_user_id": "1942973643962634240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073454904803545170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whywhymemee @75ccc134836 泰国吃的真的太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073121852759965956",
+        "created_at": "2026-07-05T07:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073663392267612468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942973643962634240",
+              "start": 0,
+              "username": "whywhymemee"
+            },
+            {
+              "end": 25,
+              "id": "1769033709179871232",
+              "start": 13,
+              "username": "75ccc134836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073663392267612468",
+        "in_reply_to_user_id": "1942973643962634240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454904803545170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whywhymemee @75ccc134836 泰国吃的真的太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942973643962634240",
+        "conversation_id": "2073121852759965956",
+        "created_at": "2026-07-04T17:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073454904803545170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769033709179871232",
+              "start": 0,
+              "username": "75ccc134836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073454904803545170",
+        "in_reply_to_user_id": "1769033709179871232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073121852759965956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@75ccc134836 我也想去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 130,
+          "like_count": 5197,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T15:46:39.000Z",
+        "description": "",
+        "id": "1942973643962634240",
+        "name": "（：sorryimbat",
+        "pinned_tweet_id": "2016983691499884835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070534337909669888/andVJjiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 98,
+          "like_count": 2031,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "whywhymemee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T16:11:29.000Z",
+        "description": "「popi提问箱」有什么想问的？Ask me anything——来自75ccc：https://t.co/ppxTbu7dCU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/mhj89vhu",
+                "end": 64,
+                "expanded_url": "https://popibox.top/p/mhj89vhu",
+                "start": 41,
+                "url": "https://t.co/ppxTbu7dCU"
+              }
+            ]
+          }
+        },
+        "id": "1769033709179871232",
+        "location": "🚪75",
+        "name": "75ccc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781366556100034560/Ej1y4K0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 543,
+          "like_count": 6754,
+          "listed_count": 1,
+          "media_count": 3056,
+          "tweet_count": 11881
+        },
+        "url": "",
+        "username": "75ccc134836",
+        "verified": false
+      }
+    ]
+  }
+}

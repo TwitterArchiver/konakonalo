@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072872289637720357",
+    "created_at": "2026-07-03T03:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072884627715580131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1922389433510461442",
+          "start": 0,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072884627715580131",
+    "in_reply_to_user_id": "1922389433510461442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072872289637720357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RieXwX 你很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072872289637720357",
+        "created_at": "2026-07-03T03:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072884627715580131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1922389433510461442",
+              "start": 0,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072884627715580131",
+        "in_reply_to_user_id": "1922389433510461442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072872289637720357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RieXwX 你很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922389433510461442",
+        "conversation_id": "2072872289637720357",
+        "created_at": "2026-07-03T02:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072872289637720357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072872289637720357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有很多人都把推特当成一个没有人会关注的随心所欲表达自己内心情感的地方 我经常会点进给我点赞的人的主页仔细看到底 看到那些吃到好吃的 买到喜欢的东西发出来的一大串文字 悲伤或思念某些人的帖子 虽然这样可能有点冒犯吧 但是看到大家都有柔软的地方我会觉得世界还是美好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 100,
+          "like_count": 4625,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9874,
+          "following_count": 52,
+          "like_count": 351,
+          "listed_count": 11,
+          "media_count": 354,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

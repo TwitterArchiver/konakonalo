@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2061086740698538152",
+    "created_at": "2026-05-31T14:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061086740698538152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505596113813876736",
+          "start": 3,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061086740698538152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060358738050265243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chrorine_17: 全球毒虫大串联来了有感觉吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2061086740698538152",
+        "created_at": "2026-05-31T14:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061086740698538152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505596113813876736",
+              "start": 3,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061086740698538152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060358738050265243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chrorine_17: 全球毒虫大串联来了有感觉吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505596113813876736",
+        "conversation_id": "2060358738050265243",
+        "created_at": "2026-05-29T13:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060358738050265243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060358738050265243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16633,
+          "like_count": 215,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "全球毒虫大串联来了有感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "like_count": 2408,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 146
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057245773130272768/VTd_dgeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 242,
+          "like_count": 18602,
+          "listed_count": 7,
+          "media_count": 253,
+          "tweet_count": 6509
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2076010123311632508",
+    "created_at": "2026-07-11T18:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076010123311632508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/korewoizontoyo…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/korewoizontoyo/status/2075973655679623185",
+          "start": 31,
+          "url": "https://t.co/yM2dCMQ53s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076010123311632508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075973655679623185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱歉，但我的生活已经无聊到不使用精神活性物质就想自杀的程度了 https://t.co/yM2dCMQ53s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076010123311632508",
+        "created_at": "2026-07-11T18:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076010123311632508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/korewoizontoyo…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/korewoizontoyo/status/2075973655679623185",
+              "start": 31,
+              "url": "https://t.co/yM2dCMQ53s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076010123311632508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075973655679623185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱歉，但我的生活已经无聊到不使用精神活性物质就想自杀的程度了 https://t.co/yM2dCMQ53s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2075973655679623185",
+        "created_at": "2026-07-11T16:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075973655679623185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breakcorewtf/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/breakcorewtf/status/2075921182403232194",
+              "start": 31,
+              "url": "https://t.co/ZeuxfjlOnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075973655679623185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075921182403232194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱歉，但我的生活已经无聊到不使用精神活性物质就想自杀的程度了 https://t.co/ZeuxfjlOnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 189,
+          "like_count": 6617,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。我会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。 \n \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2075254657912586502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073322324108197888/-Av3yAdK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 516,
+          "like_count": 3648,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074524211532697600"
+      ],
+      "media_source_tweet_id": [
+        "2074524215135670686"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2074707697296179597",
+    "created_at": "2026-07-08T04:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074707697296179597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1525662222755635200",
+          "start": 3,
+          "username": "ginyobi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8kLp3pBvu",
+          "end": 37,
+          "expanded_url": "https://x.com/ginyobi_/status/2074524215135670686/photo/1",
+          "media_key": "3_2074524211532697600",
+          "start": 14,
+          "url": "https://t.co/T8kLp3pBvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074707697296179597",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074524215135670686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ginyobi_: https://t.co/T8kLp3pBvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 461,
+        "media_key": "3_2074524211532697600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMowx3JakAACC0Q.jpg",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074524211532697600"
+          ],
+          "media_source_tweet_id": [
+            "2074524215135670686"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2074707697296179597",
+        "created_at": "2026-07-08T04:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074707697296179597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1525662222755635200",
+              "start": 3,
+              "username": "ginyobi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8kLp3pBvu",
+              "end": 37,
+              "expanded_url": "https://x.com/ginyobi_/status/2074524215135670686/photo/1",
+              "media_key": "3_2074524211532697600",
+              "start": 14,
+              "url": "https://t.co/T8kLp3pBvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074707697296179597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074524215135670686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ginyobi_: https://t.co/T8kLp3pBvu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074524211532697600"
+          ]
+        },
+        "author_id": "1525662222755635200",
+        "conversation_id": "2074524215135670686",
+        "created_at": "2026-07-07T16:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074524215135670686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8kLp3pBvu",
+              "end": 23,
+              "expanded_url": "https://x.com/ginyobi_/status/2074524215135670686/photo/1",
+              "media_key": "3_2074524211532697600",
+              "start": 0,
+              "url": "https://t.co/T8kLp3pBvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074524215135670686",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1288,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T8kLp3pBvu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 181,
+          "like_count": 6079,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T02:23:00.000Z",
+        "description": "銀曜日（ginyobi) /絵 drawing https://t.co/SqnafJsgKN ✉️→bonibon0729@gmail.com 簡易skeb→ https://t.co/CFfopesKYb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ginyobi_",
+                "end": 47,
+                "expanded_url": "https://skeb.jp/@ginyobi_",
+                "start": 24,
+                "url": "https://t.co/SqnafJsgKN"
+              },
+              {
+                "display_url": "skeb.jp/@lurara_urara",
+                "end": 104,
+                "expanded_url": "http://skeb.jp/@lurara_urara",
+                "start": 81,
+                "url": "https://t.co/CFfopesKYb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ginyobi",
+                "end": 23,
+                "expanded_url": "https://lit.link/ginyobi",
+                "start": 0,
+                "url": "https://t.co/vKyRjzbns7"
+              }
+            ]
+          }
+        },
+        "id": "1525662222755635200",
+        "name": "銀曜日",
+        "pinned_tweet_id": "2022311094262661455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774682096801619968/FNeZlt5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 315,
+          "like_count": 8188,
+          "listed_count": 15,
+          "media_count": 641,
+          "tweet_count": 4339
+        },
+        "url": "https://t.co/vKyRjzbns7",
+        "username": "ginyobi_",
+        "verified": false
+      }
+    ]
+  }
+}

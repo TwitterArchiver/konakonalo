@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074977084674293760"
+      ],
+      "media_source_tweet_id": [
+        "2074977089824952328"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2075423147529322780",
+    "created_at": "2026-07-10T03:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075423147529322780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417667007420506116",
+          "start": 3,
+          "username": "schwarztwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwobXcEf1W",
+          "end": 93,
+          "expanded_url": "https://x.com/schwarztwt/status/2074977089824952328/photo/1",
+          "media_key": "3_2074977084674293760",
+          "start": 70,
+          "url": "https://t.co/fwobXcEf1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075423147529322780",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2421
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074977089824952328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @schwarztwt: queria que todas minhas calças tivessem esse caimento https://t.co/fwobXcEf1W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_2074977084674293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvMqjEWQAA79cI.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074977084674293760"
+          ],
+          "media_source_tweet_id": [
+            "2074977089824952328"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2075423147529322780",
+        "created_at": "2026-07-10T03:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075423147529322780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417667007420506116",
+              "start": 3,
+              "username": "schwarztwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwobXcEf1W",
+              "end": 93,
+              "expanded_url": "https://x.com/schwarztwt/status/2074977089824952328/photo/1",
+              "media_key": "3_2074977084674293760",
+              "start": 70,
+              "url": "https://t.co/fwobXcEf1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075423147529322780",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2421
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074977089824952328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @schwarztwt: queria que todas minhas calças tivessem esse caimento https://t.co/fwobXcEf1W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074977084674293760"
+          ]
+        },
+        "author_id": "1417667007420506116",
+        "conversation_id": "2074977089824952328",
+        "created_at": "2026-07-08T22:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074977089824952328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwobXcEf1W",
+              "end": 77,
+              "expanded_url": "https://x.com/schwarztwt/status/2074977089824952328/photo/1",
+              "media_key": "3_2074977084674293760",
+              "start": 54,
+              "url": "https://t.co/fwobXcEf1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074977089824952328",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 662,
+          "impression_count": 159394,
+          "like_count": 18095,
+          "quote_count": 104,
+          "reply_count": 39,
+          "retweet_count": 2421
+        },
+        "reply_settings": "everyone",
+        "text": "queria que todas minhas calças tivessem esse caimento https://t.co/fwobXcEf1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 189,
+          "like_count": 6346,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T02:05:39.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/math.rodrigz",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/math.rodrigz",
+                "start": 0,
+                "url": "https://t.co/ozHHmJBgFh"
+              }
+            ]
+          }
+        },
+        "id": "1417667007420506116",
+        "name": "matheus schwarz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075241077003415552/szOZHnSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 841,
+          "like_count": 43505,
+          "listed_count": 1,
+          "media_count": 1068,
+          "tweet_count": 13803
+        },
+        "url": "https://t.co/ozHHmJBgFh",
+        "username": "schwarztwt",
+        "verified": false
+      }
+    ]
+  }
+}

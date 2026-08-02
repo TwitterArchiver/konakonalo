@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2071800283399909468",
+    "created_at": "2026-06-30T04:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071813952305266912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071813952305266912",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071804839613591856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 不管怎么样出轨在我眼里就是绝对不能被原谅的。我不能理解她为什么同情加害者合理化加害者的行为。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2071800283399909468",
+        "created_at": "2026-06-30T04:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071813952305266912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071813952305266912",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071804839613591856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 不管怎么样出轨在我眼里就是绝对不能被原谅的。我不能理解她为什么同情加害者合理化加害者的行为。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2071800283399909468",
+        "created_at": "2026-06-30T03:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071804839613591856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071804839613591856",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071800899325018200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 能仔细描述一下语境，语气和背景吗，这样来说的话只能感觉到她确实没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 94,
+          "like_count": 4122,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "@GLaDOS8964 的转生，老号被人搞丢了，脾气极好，随时随地无聊中，欢迎来骚扰，🌈友好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2070547811993801064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 186,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2069869392041754874",
+    "created_at": "2026-06-24T19:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069869392041754874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069869392041754874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果这就是我出生的意义我就是为了感受到恨的话那我自割血肉搓成脐带爬回我妈肚子里行不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2069869392041754874",
+        "created_at": "2026-06-24T19:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069869392041754874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069869392041754874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果这就是我出生的意义我就是为了感受到恨的话那我自割血肉搓成脐带爬回我妈肚子里行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 55,
+          "like_count": 3333,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

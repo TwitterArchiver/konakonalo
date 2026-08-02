@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062948874134904832",
+        "3_2062948874126589952"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2062948879931494543",
+    "created_at": "2026-06-05T17:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062948879931494543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X7YaJ00bIv",
+          "end": 30,
+          "expanded_url": "https://x.com/konakonalo/status/2062948879931494543/photo/1",
+          "media_key": "3_2062948874134904832",
+          "start": 7,
+          "url": "https://t.co/X7YaJ00bIv"
+        },
+        {
+          "display_url": "pic.x.com/X7YaJ00bIv",
+          "end": 30,
+          "expanded_url": "https://x.com/konakonalo/status/2062948879931494543/photo/1",
+          "media_key": "3_2062948874126589952",
+          "start": 7,
+          "url": "https://t.co/X7YaJ00bIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062948879931494543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好懵逼的说！ https://t.co/X7YaJ00bIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2062948874134904832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEREjCaYAAhVCI.jpg",
+        "width": 948
+      },
+      {
+        "height": 717,
+        "media_key": "3_2062948874126589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEREjAbgAA3BU0.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062948874134904832",
+            "3_2062948874126589952"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2062948879931494543",
+        "created_at": "2026-06-05T17:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062948879931494543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7YaJ00bIv",
+              "end": 30,
+              "expanded_url": "https://x.com/konakonalo/status/2062948879931494543/photo/1",
+              "media_key": "3_2062948874134904832",
+              "start": 7,
+              "url": "https://t.co/X7YaJ00bIv"
+            },
+            {
+              "display_url": "pic.x.com/X7YaJ00bIv",
+              "end": 30,
+              "expanded_url": "https://x.com/konakonalo/status/2062948879931494543/photo/1",
+              "media_key": "3_2062948874126589952",
+              "start": 7,
+              "url": "https://t.co/X7YaJ00bIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062948879931494543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好懵逼的说！ https://t.co/X7YaJ00bIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 47,
+          "like_count": 2885,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 176
+        },
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

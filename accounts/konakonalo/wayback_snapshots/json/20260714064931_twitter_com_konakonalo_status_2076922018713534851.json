@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2076911288467521727",
+    "created_at": "2026-07-14T06:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076922018713534851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587790416057077760",
+          "start": 0,
+          "username": "musk_xxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076922018713534851",
+    "in_reply_to_user_id": "1587790416057077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076921623144522151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musk_xxl 好的我是一个失败高二生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076911288467521727",
+        "created_at": "2026-07-14T06:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076922018713534851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587790416057077760",
+              "start": 0,
+              "username": "musk_xxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076922018713534851",
+        "in_reply_to_user_id": "1587790416057077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076921623144522151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musk_xxl 好的我是一个失败高二生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587790416057077760",
+        "conversation_id": "2076911288467521727",
+        "created_at": "2026-07-14T06:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076921623144522151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076921623144522151",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076911288467521727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 高二就高二！中国人说高二"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 174,
+          "like_count": 7123,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 845
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。",
+        "id": "1587790416057077760",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 284,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false
+      }
+    ]
+  }
+}

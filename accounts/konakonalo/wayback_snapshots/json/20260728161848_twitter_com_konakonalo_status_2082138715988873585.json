@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082138654986924032"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2082138715988873585",
+    "created_at": "2026-07-28T16:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082138715988873585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o3XKiGKDoD",
+          "end": 32,
+          "expanded_url": "https://x.com/konakonalo/status/2082138715988873585/video/1",
+          "media_key": "13_2082138654986924032",
+          "start": 9,
+          "url": "https://t.co/o3XKiGKDoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082138715988873585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烟灰差点掉我床上 https://t.co/o3XKiGKDoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9681,
+        "height": 720,
+        "media_key": "13_2082138654986924032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082138654986924032/img/dA3BQDVfjXKdWkG9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082138654986924032/vid/avc1/480x270/RsBC0h_yZo_IiB7B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082138654986924032/vid/avc1/640x360/I7--H4knJMhET-14.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082138654986924032/vid/avc1/1280x720/-CA4CXNb_JfC4FG2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082138654986924032/pl/C6CSIRdy-kOFUoSU.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082138654986924032"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2082138715988873585",
+        "created_at": "2026-07-28T16:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082138715988873585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3XKiGKDoD",
+              "end": 32,
+              "expanded_url": "https://x.com/konakonalo/status/2082138715988873585/video/1",
+              "media_key": "13_2082138654986924032",
+              "start": 9,
+              "url": "https://t.co/o3XKiGKDoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082138715988873585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟灰差点掉我床上 https://t.co/o3XKiGKDoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 264,
+          "like_count": 8557,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

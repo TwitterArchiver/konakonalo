@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2081426006209097862",
+    "created_at": "2026-07-26T18:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081445320819700096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942973643962634240",
+          "start": 0,
+          "username": "whywhymemee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081445320819700096",
+    "in_reply_to_user_id": "1942973643962634240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081426006209097862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whywhymemee 想和你玩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2081426006209097862",
+        "created_at": "2026-07-26T18:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081445320819700096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942973643962634240",
+              "start": 0,
+              "username": "whywhymemee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081445320819700096",
+        "in_reply_to_user_id": "1942973643962634240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081426006209097862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whywhymemee 想和你玩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942973643962634240",
+        "conversation_id": "2081426006209097862",
+        "created_at": "2026-07-26T17:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081426006209097862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081426006209097862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也在怀疑大家都不想和我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 250,
+          "like_count": 8378,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T15:46:39.000Z",
+        "description": "",
+        "id": "1942973643962634240",
+        "name": "（：sorryimbat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075949529384509440/QDd0sZvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 97,
+          "like_count": 2696,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "whywhymemee",
+        "verified": false
+      }
+    ]
+  }
+}

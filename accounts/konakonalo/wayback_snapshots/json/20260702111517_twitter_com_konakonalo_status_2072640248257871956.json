@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072640228389523456"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072640248257871956",
+    "created_at": "2026-07-02T11:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072640248257871956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WoF9tME6X8",
+          "end": 51,
+          "expanded_url": "https://x.com/konakonalo/status/2072640248257871956/photo/1",
+          "media_key": "3_2072640228389523456",
+          "start": 28,
+          "url": "https://t.co/WoF9tME6X8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072640248257871956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有一撮红毛因为我给自己染黑头发的时候不小心没染到这里 https://t.co/WoF9tME6X8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072640228389523456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN_TnBXkAA1txb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072640228389523456"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072640248257871956",
+        "created_at": "2026-07-02T11:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072640248257871956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoF9tME6X8",
+              "end": 51,
+              "expanded_url": "https://x.com/konakonalo/status/2072640248257871956/photo/1",
+              "media_key": "3_2072640228389523456",
+              "start": 28,
+              "url": "https://t.co/WoF9tME6X8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072640248257871956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一撮红毛因为我给自己染黑头发的时候不小心没染到这里 https://t.co/WoF9tME6X8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 95,
+          "like_count": 4530,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

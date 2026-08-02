@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067703500461465600"
+      ],
+      "media_source_tweet_id": [
+        "2067703514332098594"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2067950552965898312",
+    "created_at": "2026-06-19T12:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067950552965898312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1673169030042009600",
+          "start": 3,
+          "username": "odysseyrebuild"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1cGmWePMq",
+          "end": 71,
+          "expanded_url": "https://x.com/odysseyrebuild/status/2067703514332098594/photo/1",
+          "media_key": "3_2067703500461465600",
+          "start": 48,
+          "url": "https://t.co/R1cGmWePMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067950552965898312",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067703514332098594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odysseyrebuild: Martin Margiela\nSummer 1999 https://t.co/R1cGmWePMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_2067703500461465600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLH1YOXWYAAnt4T.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067703500461465600"
+          ],
+          "media_source_tweet_id": [
+            "2067703514332098594"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2067950552965898312",
+        "created_at": "2026-06-19T12:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067950552965898312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1673169030042009600",
+              "start": 3,
+              "username": "odysseyrebuild"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1cGmWePMq",
+              "end": 71,
+              "expanded_url": "https://x.com/odysseyrebuild/status/2067703514332098594/photo/1",
+              "media_key": "3_2067703500461465600",
+              "start": 48,
+              "url": "https://t.co/R1cGmWePMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067950552965898312",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067703514332098594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odysseyrebuild: Martin Margiela\nSummer 1999 https://t.co/R1cGmWePMq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067703500461465600"
+          ]
+        },
+        "author_id": "1673169030042009600",
+        "conversation_id": "2067703514332098594",
+        "created_at": "2026-06-18T20:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067703514332098594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1cGmWePMq",
+              "end": 51,
+              "expanded_url": "https://x.com/odysseyrebuild/status/2067703514332098594/photo/1",
+              "media_key": "3_2067703500461465600",
+              "start": 28,
+              "url": "https://t.co/R1cGmWePMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067703514332098594",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 5566,
+          "like_count": 439,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "Martin Margiela\nSummer 1999 https://t.co/R1cGmWePMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 55,
+          "like_count": 3214,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T03:19:38.000Z",
+        "description": "ig: odysseyrebuild",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odysseyrebuild.com",
+                "end": 23,
+                "expanded_url": "https://odysseyrebuild.com/",
+                "start": 0,
+                "url": "https://t.co/XDDalsqTFU"
+              }
+            ]
+          }
+        },
+        "id": "1673169030042009600",
+        "location": "Chicago, IL",
+        "name": "odsyrbld",
+        "pinned_tweet_id": "2053230778419474905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791141553827618819/qwNLlTJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7824,
+          "following_count": 29,
+          "like_count": 2034,
+          "listed_count": 18,
+          "media_count": 6591,
+          "tweet_count": 9153
+        },
+        "url": "https://t.co/XDDalsqTFU",
+        "username": "odysseyrebuild",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2076833030509838683",
+    "created_at": "2026-07-14T06:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076911117352517994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055822314969665536",
+          "start": 0,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076911117352517994",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076833030509838683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrievousPotato1 我也是，简直一模一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076833030509838683",
+        "created_at": "2026-07-14T06:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076911117352517994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076911117352517994",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076833030509838683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 我也是，简直一模一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076833030509838683",
+        "created_at": "2026-07-14T00:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833030509838683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833030509838683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候喜欢盯着墙壁看，因为盯着盯着墙壁会动，我就喜欢盯着墙壁一直看\n之后我会时不时突然感到光线变化，字体扭曲，身体下坠，就像造物主在调明暗度和色差一样\n有时我会觉得自己突然飞了起来，突然出不了声音，突然感觉自己进行了时间线跳跃，突然觉得自己看到了未来\n一开始我只觉得是小孩子想象力好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 172,
+          "like_count": 7116,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 329,
+          "like_count": 11218,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

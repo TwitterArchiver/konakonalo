@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2077018721504370740",
+    "created_at": "2026-07-14T13:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077018928594001962"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077018928594001962",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077018721504370740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我乱画的，凭感觉画的，凭心情画的，还有没有女孩裸体给我画画"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077018712293748736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMNg6obsAA5T33.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2077018721504370740",
+        "created_at": "2026-07-14T13:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077018928594001962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077018928594001962",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077018721504370740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我乱画的，凭感觉画的，凭心情画的，还有没有女孩裸体给我画画"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077018712293748736"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2077018721504370740",
+        "created_at": "2026-07-14T13:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077018721504370740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739908593254883328",
+              "start": 3,
+              "username": "AngelSexyHem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6S93a9CFJn",
+              "end": 43,
+              "expanded_url": "https://x.com/konakonalo/status/2077018721504370740/photo/1",
+              "media_key": "3_2077018712293748736",
+              "start": 20,
+              "url": "https://t.co/6S93a9CFJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077018721504370740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我画了@AngelSexyHem ！！ https://t.co/6S93a9CFJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 175,
+          "like_count": 7152,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 851
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

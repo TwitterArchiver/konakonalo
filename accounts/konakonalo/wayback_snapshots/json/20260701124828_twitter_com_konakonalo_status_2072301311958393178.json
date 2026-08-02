@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072301311958393178",
+    "created_at": "2026-07-01T12:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072301311958393178"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072301311958393178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我男朋友在和我谈恋爱以前关系很近的女性朋友依旧在被我强烈的恨着。。虽然我们都谈了快一年了虽然他们都已经完全不联系了。诅咒她。诅咒她。偶尔也会反思一下这样是不是太不正常了可是我真的一想到他们曾经也很亲密我就强烈的嫉愤。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072301311958393178",
+        "created_at": "2026-07-01T12:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072301311958393178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072301311958393178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我男朋友在和我谈恋爱以前关系很近的女性朋友依旧在被我强烈的恨着。。虽然我们都谈了快一年了虽然他们都已经完全不联系了。诅咒她。诅咒她。偶尔也会反思一下这样是不是太不正常了可是我真的一想到他们曾经也很亲密我就强烈的嫉愤。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 89,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

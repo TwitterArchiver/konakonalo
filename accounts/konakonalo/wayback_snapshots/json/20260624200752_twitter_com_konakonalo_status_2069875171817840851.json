@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069794572562259969"
+      ],
+      "media_source_tweet_id": [
+        "2069794598969541029"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2069875171817840851",
+    "created_at": "2026-06-24T20:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069875171817840851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1983364475928621062",
+          "start": 3,
+          "username": "BBBltltlt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CD87wiMiVE",
+          "end": 41,
+          "expanded_url": "https://x.com/BBBltltlt/status/2069794598969541029/photo/1",
+          "media_key": "3_2069794572562259969",
+          "start": 18,
+          "url": "https://t.co/CD87wiMiVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069875171817840851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069794598969541029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BBBltltlt: 死尸 https://t.co/CD87wiMiVE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2069794572562259969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLljMo-a4AE2FDe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069794572562259969"
+          ],
+          "media_source_tweet_id": [
+            "2069794598969541029"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2069875171817840851",
+        "created_at": "2026-06-24T20:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069875171817840851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1983364475928621062",
+              "start": 3,
+              "username": "BBBltltlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CD87wiMiVE",
+              "end": 41,
+              "expanded_url": "https://x.com/BBBltltlt/status/2069794598969541029/photo/1",
+              "media_key": "3_2069794572562259969",
+              "start": 18,
+              "url": "https://t.co/CD87wiMiVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069875171817840851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069794598969541029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BBBltltlt: 死尸 https://t.co/CD87wiMiVE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069794572562259969"
+          ]
+        },
+        "author_id": "1983364475928621062",
+        "conversation_id": "2069794598969541029",
+        "created_at": "2026-06-24T14:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069794598969541029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CD87wiMiVE",
+              "end": 26,
+              "expanded_url": "https://x.com/BBBltltlt/status/2069794598969541029/photo/1",
+              "media_key": "3_2069794572562259969",
+              "start": 3,
+              "url": "https://t.co/CD87wiMiVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069794598969541029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2322,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "死尸 https://t.co/CD87wiMiVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 56,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:45:41.000Z",
+        "description": "新号/new account🤧中文/eng，什么都画一点 ，❌ai",
+        "id": "1983364475928621062",
+        "location": "👽",
+        "name": "BBBlt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983365266538119168/JRrtlUtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 181,
+          "like_count": 1172,
+          "listed_count": 5,
+          "media_count": 100,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "BBBltltlt",
+        "verified": false
+      }
+    ]
+  }
+}

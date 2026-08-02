@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074588626776920064"
+      ],
+      "media_source_tweet_id": [
+        "2074588636839055825"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2074895947822399874",
+    "created_at": "2026-07-08T16:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074895947822399874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1506962714869960707",
+          "start": 3,
+          "username": "kipoo_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9KBMY0IE3h",
+          "end": 36,
+          "expanded_url": "https://x.com/kipoooe/status/2074588636839055825/photo/1",
+          "media_key": "3_2074588626776920064",
+          "start": 13,
+          "url": "https://t.co/9KBMY0IE3h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074895947822399874",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074588636839055825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kipoo_o: https://t.co/9KBMY0IE3h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074588626776920064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMprXUoakAAb5Ky.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074588626776920064"
+          ],
+          "media_source_tweet_id": [
+            "2074588636839055825"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2074895947822399874",
+        "created_at": "2026-07-08T16:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074895947822399874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506962714869960707",
+              "start": 3,
+              "username": "kipoo_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KBMY0IE3h",
+              "end": 36,
+              "expanded_url": "https://x.com/kipoooe/status/2074588636839055825/photo/1",
+              "media_key": "3_2074588626776920064",
+              "start": 13,
+              "url": "https://t.co/9KBMY0IE3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074895947822399874",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074588636839055825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kipoo_o: https://t.co/9KBMY0IE3h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074588626776920064"
+          ]
+        },
+        "author_id": "1506962714869960707",
+        "conversation_id": "2074588636839055825",
+        "created_at": "2026-07-07T20:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074588636839055825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KBMY0IE3h",
+              "end": 23,
+              "expanded_url": "https://x.com/kipoooe/status/2074588636839055825/photo/1",
+              "media_key": "3_2074588626776920064",
+              "start": 0,
+              "url": "https://t.co/9KBMY0IE3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074588636839055825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2677,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9KBMY0IE3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 186,
+          "like_count": 6149,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T11:54:56.000Z",
+        "description": "",
+        "id": "1506962714869960707",
+        "name": "kipo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809299727017734144/Pb2YBJ2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 154,
+          "like_count": 81,
+          "listed_count": 7,
+          "media_count": 26,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "kipoo_o",
+        "verified": false
+      }
+    ]
+  }
+}

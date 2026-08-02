@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073149513678606489",
+    "created_at": "2026-07-03T20:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073149513678606489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tearsofagoth/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/tearsofagoth/status/2072899821917147411",
+          "start": 17,
+          "url": "https://t.co/6BlP28PsYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073149513678606489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072899821917147411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别逗我笑了这个meme咋那么搞笑 https://t.co/6BlP28PsYX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 706,
+        "media_key": "3_2072899817475342336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRrZruXAAAGZko.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073149513678606489",
+        "created_at": "2026-07-03T20:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073149513678606489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tearsofagoth/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tearsofagoth/status/2072899821917147411",
+              "start": 17,
+              "url": "https://t.co/6BlP28PsYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073149513678606489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072899821917147411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别逗我笑了这个meme咋那么搞笑 https://t.co/6BlP28PsYX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072899817475342336"
+          ]
+        },
+        "author_id": "1033199432525914112",
+        "conversation_id": "2072899821917147411",
+        "created_at": "2026-07-03T04:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072899821917147411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbqyD6lMON",
+              "end": 23,
+              "expanded_url": "https://x.com/tearsofagoth/status/2072899821917147411/photo/1",
+              "media_key": "3_2072899817475342336",
+              "start": 0,
+              "url": "https://t.co/JbqyD6lMON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072899821917147411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 11912,
+          "like_count": 969,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JbqyD6lMON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 117,
+          "like_count": 5016,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-25T03:48:35.000Z",
+        "description": "🕸️🦇",
+        "id": "1033199432525914112",
+        "name": "Tears of a Goth",
+        "pinned_tweet_id": "2069236441188618601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417560966494105618/CrWO9-ob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1307,
+          "like_count": 921,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "tearsofagoth",
+        "verified": false
+      }
+    ]
+  }
+}

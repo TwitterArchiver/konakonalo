@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061219331178975233",
+        "3_2061219330465882114"
+      ],
+      "media_source_tweet_id": [
+        "2061219334752530700",
+        "2061219334752530700"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1186720248818388992",
+          "name": "Hideaki Anno"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1186720248818388992",
+          "name": "Hideaki Anno"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352442350125056",
+          "name": "Animation directors, producers, & writers"
+        }
+      }
+    ],
+    "conversation_id": "2062420907591913754",
+    "created_at": "2026-06-04T06:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062420907591913754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1567199719201415169",
+          "start": 3,
+          "username": "OldInternetFeel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KG4yRyb9AX",
+          "end": 84,
+          "expanded_url": "https://x.com/OldInternetFeel/status/2061219334752530700/photo/1",
+          "media_key": "3_2061219331178975233",
+          "start": 61,
+          "url": "https://t.co/KG4yRyb9AX"
+        },
+        {
+          "display_url": "pic.x.com/KG4yRyb9AX",
+          "end": 84,
+          "expanded_url": "https://x.com/OldInternetFeel/status/2061219334752530700/photo/1",
+          "media_key": "3_2061219330465882114",
+          "start": 61,
+          "url": "https://t.co/KG4yRyb9AX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062420907591913754",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061219334752530700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OldInternetFeel: Love &amp; Pop (1998) Dir. Hideaki Anno https://t.co/KG4yRyb9AX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_2061219331178975233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrsD5cXUAECcMz.jpg",
+        "width": 516
+      },
+      {
+        "height": 251,
+        "media_key": "3_2061219330465882114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrsD2yWYAIM1qv.jpg",
+        "width": 336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061219331178975233",
+            "3_2061219330465882114"
+          ],
+          "media_source_tweet_id": [
+            "2061219334752530700",
+            "2061219334752530700"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2062420907591913754",
+        "created_at": "2026-06-04T06:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062420907591913754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1567199719201415169",
+              "start": 3,
+              "username": "OldInternetFeel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KG4yRyb9AX",
+              "end": 84,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2061219334752530700/photo/1",
+              "media_key": "3_2061219331178975233",
+              "start": 61,
+              "url": "https://t.co/KG4yRyb9AX"
+            },
+            {
+              "display_url": "pic.x.com/KG4yRyb9AX",
+              "end": 84,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2061219334752530700/photo/1",
+              "media_key": "3_2061219330465882114",
+              "start": 61,
+              "url": "https://t.co/KG4yRyb9AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062420907591913754",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061219334752530700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OldInternetFeel: Love &amp; Pop (1998) Dir. Hideaki Anno https://t.co/KG4yRyb9AX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061219331178975233",
+            "3_2061219330465882114"
+          ]
+        },
+        "author_id": "1567199719201415169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2061219334752530700",
+        "created_at": "2026-05-31T22:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061219334752530700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KG4yRyb9AX",
+              "end": 63,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2061219334752530700/photo/1",
+              "media_key": "3_2061219331178975233",
+              "start": 40,
+              "url": "https://t.co/KG4yRyb9AX"
+            },
+            {
+              "display_url": "pic.x.com/KG4yRyb9AX",
+              "end": 63,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2061219334752530700/photo/1",
+              "media_key": "3_2061219330465882114",
+              "start": 40,
+              "url": "https://t.co/KG4yRyb9AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061219334752530700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 54835,
+          "like_count": 1192,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "Love &amp; Pop (1998) Dir. Hideaki Anno https://t.co/KG4yRyb9AX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 56,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 163
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:15:49.000Z",
+        "description": "I post things that have the feel of the old internet or just old things (meaning before 2017)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameronsworld.net",
+                "end": 23,
+                "expanded_url": "https://www.cameronsworld.net",
+                "start": 0,
+                "url": "https://t.co/gKUdfBxaKs"
+              }
+            ]
+          }
+        },
+        "id": "1567199719201415169",
+        "location": "The Cyberspace",
+        "name": "Old Internet",
+        "pinned_tweet_id": "1567213969684717568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567212634386071552/FYxctdTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488708,
+          "following_count": 77,
+          "like_count": 168,
+          "listed_count": 970,
+          "media_count": 15727,
+          "tweet_count": 17483
+        },
+        "url": "https://t.co/gKUdfBxaKs",
+        "username": "OldInternetFeel",
+        "verified": true
+      }
+    ]
+  }
+}

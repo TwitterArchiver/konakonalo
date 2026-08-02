@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2076020565182480807",
+    "created_at": "2026-07-11T19:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076023495331639636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4501476797",
+          "start": 0,
+          "username": "TongYiAssam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076023495331639636",
+    "in_reply_to_user_id": "4501476797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076023124232188023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TongYiAssam 懂你的意思。就是说，分清那个边界，吸收那些故事里对我有益的部分而不要过多幻想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076020565182480807",
+        "created_at": "2026-07-11T19:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076023495331639636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4501476797",
+              "start": 0,
+              "username": "TongYiAssam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076023495331639636",
+        "in_reply_to_user_id": "4501476797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076023124232188023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TongYiAssam 懂你的意思。就是说，分清那个边界，吸收那些故事里对我有益的部分而不要过多幻想。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4501476797",
+        "conversation_id": "2076020565182480807",
+        "created_at": "2026-07-11T19:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076023124232188023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076023124232188023",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076020946843074593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 有的时候跳出来，不要把这些当成生命的意义，可能会有更好的生活。活在文艺里面会很虚无，他们的故事很精彩，但是照亮不了我的生命，我只是远远的看着，越靠近那束光反而变成黑洞。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 190,
+          "like_count": 6642,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-16T09:28:29.000Z",
+        "description": "阿萨姆联合酋长国-国王",
+        "id": "4501476797",
+        "location": "成都",
+        "name": "⁺✞ʚ统一阿萨姆重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1718307508710940766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966568248000102400/_7_N5-kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 273,
+          "like_count": 2871,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "TongYiAssam",
+        "verified": true
+      }
+    ]
+  }
+}

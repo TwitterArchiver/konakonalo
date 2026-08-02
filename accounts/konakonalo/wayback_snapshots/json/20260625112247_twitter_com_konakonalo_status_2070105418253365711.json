@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2070105418253365711",
+    "created_at": "2026-06-25T11:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070105418253365711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615232114466627584",
+          "start": 3,
+          "username": "antitocndef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070105418253365711",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069481557065175549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @antitocndef: ojo d loca desquiciada trastornada celosa manipuladora psiquiátrica no se equivoca"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2070105418253365711",
+        "created_at": "2026-06-25T11:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070105418253365711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615232114466627584",
+              "start": 3,
+              "username": "antitocndef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070105418253365711",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069481557065175549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @antitocndef: ojo d loca desquiciada trastornada celosa manipuladora psiquiátrica no se equivoca"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615232114466627584",
+        "conversation_id": "2069481557065175549",
+        "created_at": "2026-06-23T18:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069481557065175549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069481557065175549",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 168503,
+          "like_count": 10723,
+          "quote_count": 65,
+          "reply_count": 0,
+          "retweet_count": 4185
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ojo d loca desquiciada trastornada celosa manipuladora psiquiátrica no se equivoca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 60,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T06:18:51.000Z",
+        "description": "Sangre Pura Tricolor 🇳🇱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/antoriivero?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/antoriivero?igsh=MWlpcnpkYW14cnprZQ==",
+                "start": 0,
+                "url": "https://t.co/M8CnqL9nvq"
+              }
+            ]
+          }
+        },
+        "id": "1615232114466627584",
+        "location": "donde el manya tranca el culo",
+        "name": "antito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066323900271665152/eAMGUHuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7908,
+          "following_count": 261,
+          "like_count": 60129,
+          "listed_count": 5,
+          "media_count": 111,
+          "tweet_count": 13902
+        },
+        "url": "https://t.co/M8CnqL9nvq",
+        "username": "antitocndef",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079944695590133760"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2079944732411867208",
+    "created_at": "2026-07-22T15:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079944732411867208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ouKGkK9Fmg",
+          "end": 34,
+          "expanded_url": "https://x.com/konakonalo/status/2079944732411867208/video/1",
+          "media_key": "13_2079944695590133760",
+          "start": 11,
+          "url": "https://t.co/ouKGkK9Fmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079944732411867208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想学校旁边的灯塔了 https://t.co/ouKGkK9Fmg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8218,
+        "height": 720,
+        "media_key": "13_2079944695590133760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079944695590133760/img/exrINKG7f13kIf-N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079944695590133760/vid/avc1/480x270/KaZk8Kd695oxmKCb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079944695590133760/vid/avc1/640x360/F-BhnJRL6IzMTJOx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079944695590133760/vid/avc1/1280x720/noKaH9NjJTtOWwVN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079944695590133760/pl/3meotvm5OhkAlyU5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079944695590133760"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2079944732411867208",
+        "created_at": "2026-07-22T15:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079944732411867208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouKGkK9Fmg",
+              "end": 34,
+              "expanded_url": "https://x.com/konakonalo/status/2079944732411867208/video/1",
+              "media_key": "13_2079944695590133760",
+              "start": 11,
+              "url": "https://t.co/ouKGkK9Fmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079944732411867208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想学校旁边的灯塔了 https://t.co/ouKGkK9Fmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 217,
+          "like_count": 7938,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

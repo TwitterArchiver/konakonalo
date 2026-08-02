@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073801115821547520"
+      ],
+      "media_source_tweet_id": [
+        "2073801119156060219"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073810376131576059",
+    "created_at": "2026-07-05T16:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073810376131576059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917890381104271361",
+          "start": 3,
+          "username": "AV1O492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N8KTUcc93Q",
+          "end": 41,
+          "expanded_url": "https://x.com/AV1O492/status/2073801119156060219/photo/1",
+          "media_key": "3_2073801115821547520",
+          "start": 18,
+          "url": "https://t.co/N8KTUcc93Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073810376131576059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073801119156060219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AV1O492: 雨中塞壬 https://t.co/N8KTUcc93Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073801115821547520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMefIJtaIAAs1JV.jpg",
+        "width": 1835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073801115821547520"
+          ],
+          "media_source_tweet_id": [
+            "2073801119156060219"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073810376131576059",
+        "created_at": "2026-07-05T16:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073810376131576059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917890381104271361",
+              "start": 3,
+              "username": "AV1O492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8KTUcc93Q",
+              "end": 41,
+              "expanded_url": "https://x.com/AV1O492/status/2073801119156060219/photo/1",
+              "media_key": "3_2073801115821547520",
+              "start": 18,
+              "url": "https://t.co/N8KTUcc93Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073810376131576059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073801119156060219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AV1O492: 雨中塞壬 https://t.co/N8KTUcc93Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073801115821547520"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2073801119156060219",
+        "created_at": "2026-07-05T16:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073801119156060219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8KTUcc93Q",
+              "end": 28,
+              "expanded_url": "https://x.com/AV1O492/status/2073801119156060219/photo/1",
+              "media_key": "3_2073801115821547520",
+              "start": 5,
+              "url": "https://t.co/N8KTUcc93Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073801119156060219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 107,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "雨中塞壬 https://t.co/N8KTUcc93Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 139,
+          "like_count": 5319,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜别找我要东西和渠道 我永远不建议任何人学习我滥用毒品和药物｜我的vpn不好 有时会发不了帖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Temen-ni-gru Tower",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844793362046976/Wq4eKVhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 84,
+          "like_count": 5096,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2606
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

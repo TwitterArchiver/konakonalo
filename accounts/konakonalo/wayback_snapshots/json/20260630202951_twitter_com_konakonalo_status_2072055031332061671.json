@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072055024017092609"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072055031332061671",
+    "created_at": "2026-06-30T20:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072055031332061671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rs10UKlILW",
+          "end": 32,
+          "expanded_url": "https://x.com/konakonalo/status/2072055031332061671/photo/1",
+          "media_key": "3_2072055024017092609",
+          "start": 9,
+          "url": "https://t.co/rs10UKlILW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072055031332061671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男朋友很呆怎么办 https://t.co/rs10UKlILW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072055024017092609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFrEO2aMAEY-jv.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072055024017092609"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072055031332061671",
+        "created_at": "2026-06-30T20:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072055031332061671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rs10UKlILW",
+              "end": 32,
+              "expanded_url": "https://x.com/konakonalo/status/2072055031332061671/photo/1",
+              "media_key": "3_2072055024017092609",
+              "start": 9,
+              "url": "https://t.co/rs10UKlILW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072055031332061671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友很呆怎么办 https://t.co/rs10UKlILW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 96,
+          "like_count": 4343,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

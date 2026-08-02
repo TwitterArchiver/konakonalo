@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2069874853944205314",
+    "created_at": "2026-06-24T20:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069874853944205314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1341569922002870274",
+          "start": 3,
+          "username": "danielagbd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069874853944205314",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3516
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069651284701872365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danielagbd_: mis tweets no son indirectas, a veces son brotes psicóticos q tengo mientras me dan flashbacks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069874853944205314",
+        "created_at": "2026-06-24T20:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069874853944205314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1341569922002870274",
+              "start": 3,
+              "username": "danielagbd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069874853944205314",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3516
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069651284701872365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danielagbd_: mis tweets no son indirectas, a veces son brotes psicóticos q tengo mientras me dan flashbacks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341569922002870274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2069651284701872365",
+        "created_at": "2026-06-24T05:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069651284701872365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069651284701872365",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 106954,
+          "like_count": 7346,
+          "quote_count": 99,
+          "reply_count": 6,
+          "retweet_count": 3516
+        },
+        "reply_settings": "everyone",
+        "text": "mis tweets no son indirectas, a veces son brotes psicóticos q tengo mientras me dan flashbacks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 55,
+          "like_count": 3352,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T02:23:19.000Z",
+        "description": "lol k mal :):\nhttps://t.co/Bj7GnRbgy7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vsco.co/bdannny",
+                "end": 37,
+                "expanded_url": "http://vsco.co/bdannny",
+                "start": 14,
+                "url": "https://t.co/Bj7GnRbgy7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/danielagbd_",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/danielagbd_",
+                "start": 0,
+                "url": "https://t.co/GQhkSlcXpC"
+              }
+            ]
+          }
+        },
+        "id": "1341569922002870274",
+        "name": "danni",
+        "pinned_tweet_id": "1908660841504768452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056947131131310080/4AFbDECJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22037,
+          "following_count": 671,
+          "like_count": 47037,
+          "listed_count": 22,
+          "media_count": 157,
+          "tweet_count": 4877
+        },
+        "url": "https://t.co/GQhkSlcXpC",
+        "username": "danielagbd_",
+        "verified": false
+      }
+    ]
+  }
+}

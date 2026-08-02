@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073997570456551424",
+        "3_2073997570544693248",
+        "3_2073997570469253120",
+        "3_2073997570448261120"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073997586327912658",
+    "created_at": "2026-07-06T05:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073997586327912658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AOIKdgkh1z",
+          "end": 37,
+          "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+          "media_key": "3_2073997570456551424",
+          "start": 14,
+          "url": "https://t.co/AOIKdgkh1z"
+        },
+        {
+          "display_url": "pic.x.com/AOIKdgkh1z",
+          "end": 37,
+          "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+          "media_key": "3_2073997570544693248",
+          "start": 14,
+          "url": "https://t.co/AOIKdgkh1z"
+        },
+        {
+          "display_url": "pic.x.com/AOIKdgkh1z",
+          "end": 37,
+          "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+          "media_key": "3_2073997570469253120",
+          "start": 14,
+          "url": "https://t.co/AOIKdgkh1z"
+        },
+        {
+          "display_url": "pic.x.com/AOIKdgkh1z",
+          "end": 37,
+          "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+          "media_key": "3_2073997570448261120",
+          "start": 14,
+          "url": "https://t.co/AOIKdgkh1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073997586327912658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的朋友们喜欢用横构图拍我 https://t.co/AOIKdgkh1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2073997570456551424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRzUQWAAAcUtd.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2073997570544693248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRzUlW8AAY0AB.jpg",
+        "width": 1440
+      },
+      {
+        "height": 960,
+        "media_key": "3_2073997570469253120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRzUTX0AAjM31.jpg",
+        "width": 1440
+      },
+      {
+        "height": 960,
+        "media_key": "3_2073997570448261120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhRzUOXgAAnUPW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073997570456551424",
+            "3_2073997570544693248",
+            "3_2073997570469253120",
+            "3_2073997570448261120"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073997586327912658",
+        "created_at": "2026-07-06T05:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073997586327912658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOIKdgkh1z",
+              "end": 37,
+              "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+              "media_key": "3_2073997570456551424",
+              "start": 14,
+              "url": "https://t.co/AOIKdgkh1z"
+            },
+            {
+              "display_url": "pic.x.com/AOIKdgkh1z",
+              "end": 37,
+              "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+              "media_key": "3_2073997570544693248",
+              "start": 14,
+              "url": "https://t.co/AOIKdgkh1z"
+            },
+            {
+              "display_url": "pic.x.com/AOIKdgkh1z",
+              "end": 37,
+              "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+              "media_key": "3_2073997570469253120",
+              "start": 14,
+              "url": "https://t.co/AOIKdgkh1z"
+            },
+            {
+              "display_url": "pic.x.com/AOIKdgkh1z",
+              "end": 37,
+              "expanded_url": "https://x.com/konakonalo/status/2073997586327912658/photo/1",
+              "media_key": "3_2073997570448261120",
+              "start": 14,
+              "url": "https://t.co/AOIKdgkh1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073997586327912658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的朋友们喜欢用横构图拍我 https://t.co/AOIKdgkh1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 146,
+          "like_count": 5520,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

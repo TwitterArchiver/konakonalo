@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2074066312725254217",
+    "created_at": "2026-07-06T09:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074066312725254217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nostalgiacore/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/nostalgiacore/status/2074060539588743234",
+          "start": 4,
+          "url": "https://t.co/rLIqHMBngr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074066312725254217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074060539588743234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人 https://t.co/rLIqHMBngr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2074060537554485248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiLEe-XQAAdWoy.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2074066312725254217",
+        "created_at": "2026-07-06T09:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074066312725254217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nostalgiacore/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nostalgiacore/status/2074060539588743234",
+              "start": 4,
+              "url": "https://t.co/rLIqHMBngr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066312725254217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074060539588743234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人 https://t.co/rLIqHMBngr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074060537554485248"
+          ]
+        },
+        "author_id": "1265564617759227905",
+        "conversation_id": "2074060539588743234",
+        "created_at": "2026-07-06T09:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074060539588743234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hSIOdMM7R",
+              "end": 76,
+              "expanded_url": "https://x.com/nostalgiacore/status/2074060539588743234/photo/1",
+              "media_key": "3_2074060537554485248",
+              "start": 53,
+              "url": "https://t.co/0hSIOdMM7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074060539588743234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Every friend group had someone carrying a Cyber-shot https://t.co/0hSIOdMM7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 151,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-27T08:45:02.000Z",
+        "description": "nostalgic music, movies, & more",
+        "id": "1265564617759227905",
+        "name": "nostalgia core",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043564279106834432/gF0wGgQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231000,
+          "following_count": 0,
+          "like_count": 693,
+          "listed_count": 2147,
+          "media_count": 10767,
+          "tweet_count": 12575
+        },
+        "url": "",
+        "username": "nostalgiacore",
+        "verified": true
+      }
+    ]
+  }
+}

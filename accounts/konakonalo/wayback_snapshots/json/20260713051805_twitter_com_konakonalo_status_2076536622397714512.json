@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076007875084955648"
+      ],
+      "media_source_tweet_id": [
+        "2076007884677320753"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2076536622397714512",
+    "created_at": "2026-07-13T05:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076536622397714512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939338058199191553",
+          "start": 3,
+          "username": "konakonalo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4qpkBtVfm",
+          "end": 48,
+          "expanded_url": "https://x.com/konakonalo/status/2076007884677320753/photo/1",
+          "media_key": "3_2076007875084955648",
+          "start": 25,
+          "url": "https://t.co/O4qpkBtVfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076536622397714512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076007884677320753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konakonalo: 那你也太棒了吧？ https://t.co/O4qpkBtVfm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2076007875084955648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM92KclaMAAX0XY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076007875084955648"
+          ],
+          "media_source_tweet_id": [
+            "2076007884677320753"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076536622397714512",
+        "created_at": "2026-07-13T05:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076536622397714512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939338058199191553",
+              "start": 3,
+              "username": "konakonalo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4qpkBtVfm",
+              "end": 48,
+              "expanded_url": "https://x.com/konakonalo/status/2076007884677320753/photo/1",
+              "media_key": "3_2076007875084955648",
+              "start": 25,
+              "url": "https://t.co/O4qpkBtVfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076536622397714512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076007884677320753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konakonalo: 那你也太棒了吧？ https://t.co/O4qpkBtVfm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076007875084955648"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076007884677320753",
+        "created_at": "2026-07-11T18:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076007884677320753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4qpkBtVfm",
+              "end": 32,
+              "expanded_url": "https://x.com/konakonalo/status/2076007884677320753/photo/1",
+              "media_key": "3_2076007875084955648",
+              "start": 9,
+              "url": "https://t.co/O4qpkBtVfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076007884677320753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你也太棒了吧？ https://t.co/O4qpkBtVfm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 168,
+          "like_count": 6952,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 834
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2041374996828959021",
+    "created_at": "2026-04-07T04:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041374996828959021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1954213002678546432",
+          "start": 3,
+          "username": "gFu2IpWTlM39908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041374996828959021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041098924300398918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gFu2IpWTlM39908: 你们真的不觉得伴侣只对自己有生理反应很爽吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2041374996828959021",
+        "created_at": "2026-04-07T04:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041374996828959021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1954213002678546432",
+              "start": 3,
+              "username": "gFu2IpWTlM39908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041374996828959021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041098924300398918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gFu2IpWTlM39908: 你们真的不觉得伴侣只对自己有生理反应很爽吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954213002678546432",
+        "conversation_id": "2041098924300398918",
+        "created_at": "2026-04-06T10:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041098924300398918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041098924300398918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 137449,
+          "like_count": 1647,
+          "quote_count": 15,
+          "reply_count": 93,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "你们真的不觉得伴侣只对自己有生理反应很爽吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 34,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T16:07:53.000Z",
+        "description": "你怎么能抛弃自己拥有的最珍贵的馈赠",
+        "id": "1954213002678546432",
+        "name": "LUMI",
+        "pinned_tweet_id": "1979584150995882006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983897495483904001/GVQkDBjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 42,
+          "like_count": 654,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 2493
+        },
+        "url": "",
+        "username": "gFu2IpWTlM39908",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T16:07:53.000Z",
+        "description": "你怎么能抛弃自己拥有的最珍贵的馈赠",
+        "id": "1954213002678546432",
+        "name": "LUMI",
+        "pinned_tweet_id": "1979584150995882006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983897495483904001/GVQkDBjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 42,
+          "like_count": 654,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 2493
+        },
+        "username": "gFu2IpWTlM39908",
+        "verified": false
+      }
+    ]
+  }
+}

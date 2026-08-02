@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070200279396388864",
+        "3_2070200279404797952",
+        "3_2070200279400615936"
+      ],
+      "media_source_tweet_id": [
+        "2070200282571571551",
+        "2070200282571571551",
+        "2070200282571571551"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2070456917470925185",
+    "created_at": "2026-06-26T10:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070456917470925185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944531888464400384",
+          "start": 3,
+          "username": "rickipediaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m68P7Cyg2Y",
+          "end": 69,
+          "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+          "media_key": "3_2070200279396388864",
+          "start": 46,
+          "url": "https://t.co/m68P7Cyg2Y"
+        },
+        {
+          "display_url": "pic.x.com/m68P7Cyg2Y",
+          "end": 69,
+          "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+          "media_key": "3_2070200279404797952",
+          "start": 46,
+          "url": "https://t.co/m68P7Cyg2Y"
+        },
+        {
+          "display_url": "pic.x.com/m68P7Cyg2Y",
+          "end": 69,
+          "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+          "media_key": "3_2070200279400615936",
+          "start": 46,
+          "url": "https://t.co/m68P7Cyg2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070456917470925185",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070200282571571551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rickipediaaa: makeup tests for stone ss27 https://t.co/m68P7Cyg2Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070200279396388864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrUL4tWEAAqTtE.jpg",
+        "width": 1159
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070200279404797952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrUL4vWYAArlhj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070200279400615936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrUL4uWkAA1aPq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070200279396388864",
+            "3_2070200279404797952",
+            "3_2070200279400615936"
+          ],
+          "media_source_tweet_id": [
+            "2070200282571571551",
+            "2070200282571571551",
+            "2070200282571571551"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2070456917470925185",
+        "created_at": "2026-06-26T10:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070456917470925185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944531888464400384",
+              "start": 3,
+              "username": "rickipediaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m68P7Cyg2Y",
+              "end": 69,
+              "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+              "media_key": "3_2070200279396388864",
+              "start": 46,
+              "url": "https://t.co/m68P7Cyg2Y"
+            },
+            {
+              "display_url": "pic.x.com/m68P7Cyg2Y",
+              "end": 69,
+              "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+              "media_key": "3_2070200279404797952",
+              "start": 46,
+              "url": "https://t.co/m68P7Cyg2Y"
+            },
+            {
+              "display_url": "pic.x.com/m68P7Cyg2Y",
+              "end": 69,
+              "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+              "media_key": "3_2070200279400615936",
+              "start": 46,
+              "url": "https://t.co/m68P7Cyg2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070456917470925185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070200282571571551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rickipediaaa: makeup tests for stone ss27 https://t.co/m68P7Cyg2Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070200279396388864",
+            "3_2070200279404797952",
+            "3_2070200279400615936"
+          ]
+        },
+        "author_id": "1944531888464400384",
+        "conversation_id": "2070200282571571551",
+        "created_at": "2026-06-25T17:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070200282571571551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m68P7Cyg2Y",
+              "end": 51,
+              "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+              "media_key": "3_2070200279396388864",
+              "start": 28,
+              "url": "https://t.co/m68P7Cyg2Y"
+            },
+            {
+              "display_url": "pic.x.com/m68P7Cyg2Y",
+              "end": 51,
+              "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+              "media_key": "3_2070200279404797952",
+              "start": 28,
+              "url": "https://t.co/m68P7Cyg2Y"
+            },
+            {
+              "display_url": "pic.x.com/m68P7Cyg2Y",
+              "end": 51,
+              "expanded_url": "https://x.com/rickipediaaa/status/2070200282571571551/photo/1",
+              "media_key": "3_2070200279400615936",
+              "start": 28,
+              "url": "https://t.co/m68P7Cyg2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070200282571571551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3268,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "makeup tests for stone ss27 https://t.co/m68P7Cyg2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 73,
+          "like_count": 3647,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T22:58:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rickipedia_onl…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/rickipedia_online?igsh=MXBwbnM3bHMwaXpidA==",
+                "start": 0,
+                "url": "https://t.co/DZ2CBjI0QC"
+              }
+            ]
+          }
+        },
+        "id": "1944531888464400384",
+        "name": "posting rick",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944544742559170560/czihz2fO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1,
+          "like_count": 324,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/DZ2CBjI0QC",
+        "username": "rickipediaaa",
+        "verified": false
+      }
+    ]
+  }
+}

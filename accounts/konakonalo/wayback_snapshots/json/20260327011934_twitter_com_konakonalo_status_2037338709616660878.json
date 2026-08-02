@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2037338709616660878",
+    "created_at": "2026-03-27T01:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T02:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037338709616660878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1731704955721932800",
+          "start": 3,
+          "username": "ling1639040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037338709616660878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037228086769704995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ling1639040: 晚安，好梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2037338709616660878",
+        "created_at": "2026-03-27T01:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037338709616660878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1731704955721932800",
+              "start": 3,
+              "username": "ling1639040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037338709616660878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037228086769704995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ling1639040: 晚安，好梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731704955721932800",
+        "conversation_id": "2037228086769704995",
+        "created_at": "2026-03-26T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037228086769704995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037228086769704995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8670,
+          "like_count": 19,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，好梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T16:00:20.000Z",
+        "description": "07//\nling会带来不幸，不要太靠近我\n                                 ❤ 老婆@LCG_Akiball /lingの猫猫@nanami_mua/🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1731704955721932800",
+        "location": "一个疯子？",
+        "name": "ling",
+        "pinned_tweet_id": "1938940959611592945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005944188467306496/Nc0fJRQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 988,
+          "like_count": 9413,
+          "listed_count": 6,
+          "media_count": 52,
+          "tweet_count": 541
+        },
+        "username": "ling1639040",
+        "verified": false
+      }
+    ]
+  }
+}

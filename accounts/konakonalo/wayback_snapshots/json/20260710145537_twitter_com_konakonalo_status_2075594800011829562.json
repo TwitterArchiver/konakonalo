@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2075579751532773585",
+    "created_at": "2026-07-10T14:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075594800011829562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1990864785685032960",
+          "start": 0,
+          "username": "Wygn4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075594800011829562",
+    "in_reply_to_user_id": "1990864785685032960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075579751532773585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wygn4m 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075579740380123136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3wxuha0AAaUfK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2075579751532773585",
+        "created_at": "2026-07-10T14:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075594800011829562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1990864785685032960",
+              "start": 0,
+              "username": "Wygn4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075594800011829562",
+        "in_reply_to_user_id": "1990864785685032960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075579751532773585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wygn4m 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075579740380123136"
+          ]
+        },
+        "author_id": "1990864785685032960",
+        "conversation_id": "2075579751532773585",
+        "created_at": "2026-07-10T13:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075579751532773585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtoGxdpj32",
+              "end": 50,
+              "expanded_url": "https://x.com/Wygn4m/status/2075579751532773585/photo/1",
+              "media_key": "3_2075579740380123136",
+              "start": 27,
+              "url": "https://t.co/GtoGxdpj32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075579751532773585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次在公园抽烟拍的。不敢在外面拍照。只能偷摸摸的拍。 https://t.co/GtoGxdpj32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 188,
+          "like_count": 6407,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:29:45.000Z",
+        "description": "我是owai ｜这人是个自闭症｜ADHD并患焦虑抑郁治疗中｜发碎碎念 我的画 自拍照｜日本語を勉強しています",
+        "id": "1990864785685032960",
+        "name": "おわい⛑️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066967970408968192/VSOEXV9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 137,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "Wygn4m",
+        "verified": false
+      }
+    ]
+  }
+}

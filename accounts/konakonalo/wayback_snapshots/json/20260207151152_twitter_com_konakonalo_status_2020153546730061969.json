@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019982498231709696"
+      ],
+      "media_source_tweet_id": [
+        "2019982501675176432"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020153546730061969",
+    "created_at": "2026-02-07T15:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T16:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020153546730061969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "92728606",
+          "start": 3,
+          "username": "Nicoaprilian"
+        },
+        {
+          "end": 31,
+          "id": "1233903147220905985",
+          "start": 18,
+          "username": "PostsOfSatan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VOqjhEYGs6",
+          "end": 63,
+          "expanded_url": "https://x.com/Nicoaprilian/status/2019982501675176432/photo/1",
+          "media_key": "3_2019982498231709696",
+          "start": 40,
+          "url": "https://t.co/VOqjhEYGs6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020153546730061969",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019982501675176432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nicoaprilian: @PostsOfSatan reality https://t.co/VOqjhEYGs6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_2019982498231709696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhrYTubcAAhbWo.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019982498231709696"
+          ],
+          "media_source_tweet_id": [
+            "2019982501675176432"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020153546730061969",
+        "created_at": "2026-02-07T15:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020153546730061969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "92728606",
+              "start": 3,
+              "username": "Nicoaprilian"
+            },
+            {
+              "end": 31,
+              "id": "1233903147220905985",
+              "start": 18,
+              "username": "PostsOfSatan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOqjhEYGs6",
+              "end": 63,
+              "expanded_url": "https://x.com/Nicoaprilian/status/2019982501675176432/photo/1",
+              "media_key": "3_2019982498231709696",
+              "start": 40,
+              "url": "https://t.co/VOqjhEYGs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020153546730061969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019982501675176432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nicoaprilian: @PostsOfSatan reality https://t.co/VOqjhEYGs6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019982498231709696"
+          ]
+        },
+        "author_id": "92728606",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019808057543238038",
+        "created_at": "2026-02-07T03:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019982501675176432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1233903147220905985",
+              "start": 0,
+              "username": "PostsOfSatan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOqjhEYGs6",
+              "end": 45,
+              "expanded_url": "https://x.com/Nicoaprilian/status/2019982501675176432/photo/1",
+              "media_key": "3_2019982498231709696",
+              "start": 22,
+              "url": "https://t.co/VOqjhEYGs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019982501675176432",
+        "in_reply_to_user_id": "1233903147220905985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10666,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019808057543238038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PostsOfSatan reality https://t.co/VOqjhEYGs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-26T10:32:35.000Z",
+        "description": "Trust me im an engineer.",
+        "id": "92728606",
+        "location": "Indonesia",
+        "name": "ՏᎪᎡᎫᎪΝᎪ ͲᎬᎷᏴᎪᏞᎪΝᏀ",
+        "pinned_tweet_id": "1468019439375249408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019644204151177216/JtGuPdTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 1245,
+          "like_count": 946,
+          "listed_count": 4,
+          "media_count": 908,
+          "tweet_count": 21854
+        },
+        "username": "Nicoaprilian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T23:53:40.000Z",
+        "description": "I hate @PostsOfGod 😈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "PostsOfGod"
+              }
+            ]
+          }
+        },
+        "id": "1233903147220905985",
+        "location": "Hell",
+        "name": "Satan",
+        "pinned_tweet_id": "1987991667589157207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864827293555662848/OYTMfpIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352187,
+          "following_count": 291,
+          "like_count": 12603,
+          "listed_count": 345,
+          "media_count": 3094,
+          "tweet_count": 8212
+        },
+        "username": "PostsOfSatan",
+        "verified": true
+      }
+    ]
+  }
+}

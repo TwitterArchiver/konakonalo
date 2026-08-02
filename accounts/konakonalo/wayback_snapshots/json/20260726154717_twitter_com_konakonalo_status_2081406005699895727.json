@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2081406005699895727",
+    "created_at": "2026-07-26T15:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081406005699895727"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081406005699895727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校里有个对着湖的亭子。我喜欢和男朋友躲到亭子的角落里。空间很小，两个人勉强能挤下。我经常在那个角落里靠在他身上大哭大喊。冬天的时候风声很大，湖拍打岸边的声音也很大。我的声音融入嘈杂中就这样没有第二个人能听见。放任泛滥的情绪不知道最后都跑到哪里去了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2081406005699895727",
+        "created_at": "2026-07-26T15:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081406005699895727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081406005699895727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校里有个对着湖的亭子。我喜欢和男朋友躲到亭子的角落里。空间很小，两个人勉强能挤下。我经常在那个角落里靠在他身上大哭大喊。冬天的时候风声很大，湖拍打岸边的声音也很大。我的声音融入嘈杂中就这样没有第二个人能听见。放任泛滥的情绪不知道最后都跑到哪里去了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 246,
+          "like_count": 8347,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Quentin Tarantino",
+          "id": "936665160759967745",
+          "name": "Quentin Tarantino"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Quentin Tarantino",
+          "id": "936665160759967745",
+          "name": "Quentin Tarantino"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      }
+    ],
+    "conversation_id": "2070740174917849588",
+    "created_at": "2026-06-27T05:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070740174917849588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/filmfr4me/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/filmfr4me/status/2070567386667778458",
+          "start": 16,
+          "url": "https://t.co/cXjIPsIzoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070740174917849588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070567386667778458",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这其实是我最喜欢的昆汀电影嗯对 https://t.co/cXjIPsIzoa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2070567368334426112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwiDRkWwAAqF1H.jpg",
+        "width": 1920
+      },
+      {
+        "height": 819,
+        "media_key": "3_2070567368393138176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwiDRyWoAA2xhd.jpg",
+        "width": 1920
+      },
+      {
+        "height": 819,
+        "media_key": "3_2070567368313442304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwiDRfWkAAAadL.jpg",
+        "width": 1920
+      },
+      {
+        "height": 819,
+        "media_key": "3_2070567368309227520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwiDReWQAAdpIk.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Quentin Tarantino",
+              "id": "936665160759967745",
+              "name": "Quentin Tarantino"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Quentin Tarantino",
+              "id": "936665160759967745",
+              "name": "Quentin Tarantino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          }
+        ],
+        "conversation_id": "2070740174917849588",
+        "created_at": "2026-06-27T05:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070740174917849588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/filmfr4me/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/filmfr4me/status/2070567386667778458",
+              "start": 16,
+              "url": "https://t.co/cXjIPsIzoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070740174917849588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070567386667778458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这其实是我最喜欢的昆汀电影嗯对 https://t.co/cXjIPsIzoa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070567368334426112",
+            "3_2070567368393138176",
+            "3_2070567368313442304",
+            "3_2070567368309227520"
+          ]
+        },
+        "author_id": "1573735311556972544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Quentin Tarantino",
+              "id": "936665160759967745",
+              "name": "Quentin Tarantino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Quentin Tarantino",
+              "id": "936665160759967745",
+              "name": "Quentin Tarantino"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          }
+        ],
+        "conversation_id": "2070567386667778458",
+        "created_at": "2026-06-26T17:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070567386667778458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhoEzCH85U",
+              "end": 73,
+              "expanded_url": "https://x.com/filmfr4me/status/2070567386667778458/photo/1",
+              "media_key": "3_2070567368334426112",
+              "start": 50,
+              "url": "https://t.co/zhoEzCH85U"
+            },
+            {
+              "display_url": "pic.x.com/zhoEzCH85U",
+              "end": 73,
+              "expanded_url": "https://x.com/filmfr4me/status/2070567386667778458/photo/1",
+              "media_key": "3_2070567368393138176",
+              "start": 50,
+              "url": "https://t.co/zhoEzCH85U"
+            },
+            {
+              "display_url": "pic.x.com/zhoEzCH85U",
+              "end": 73,
+              "expanded_url": "https://x.com/filmfr4me/status/2070567386667778458/photo/1",
+              "media_key": "3_2070567368313442304",
+              "start": 50,
+              "url": "https://t.co/zhoEzCH85U"
+            },
+            {
+              "display_url": "pic.x.com/zhoEzCH85U",
+              "end": 73,
+              "expanded_url": "https://x.com/filmfr4me/status/2070567386667778458/photo/1",
+              "media_key": "3_2070567368309227520",
+              "start": 50,
+              "url": "https://t.co/zhoEzCH85U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070567386667778458",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 6138,
+          "like_count": 267,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Reservoir Dogs (1992)\ndirector: Quentin Tarantino https://t.co/zhoEzCH85U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 74,
+          "like_count": 3709,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T18:05:22.000Z",
+        "description": "I love cinema\nFor Promotions DM or Email: seylumbt@proton.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinterest.com/filmfr4me",
+                "end": 23,
+                "expanded_url": "http://pinterest.com/filmfr4me",
+                "start": 0,
+                "url": "https://t.co/PiNHmPCMY2"
+              }
+            ]
+          }
+        },
+        "id": "1573735311556972544",
+        "name": "FilmFrame",
+        "pinned_tweet_id": "2064723565878902925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069489392125980672/rovT4Q0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37355,
+          "following_count": 0,
+          "like_count": 8008,
+          "listed_count": 197,
+          "media_count": 959,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/PiNHmPCMY2",
+        "username": "filmfr4me",
+        "verified": false
+      }
+    ]
+  }
+}

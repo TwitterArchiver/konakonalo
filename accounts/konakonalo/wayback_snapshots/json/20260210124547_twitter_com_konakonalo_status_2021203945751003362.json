@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021191565067345920"
+      ],
+      "media_source_tweet_id": [
+        "2021191567361351810"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2021203945751003362",
+    "created_at": "2026-02-10T12:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T13:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021203945751003362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 21,
+          "tag": "SerialExperimentsLain"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1813064917668306944",
+          "start": 3,
+          "username": "LaimExperiments"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vIcUN5rW6S",
+          "end": 67,
+          "expanded_url": "https://x.com/LaimExperiments/status/2021191567361351810/photo/1",
+          "media_key": "3_2021191565067345920",
+          "start": 44,
+          "url": "https://t.co/vIcUN5rW6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021203945751003362",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021191567361351810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaimExperiments: #SerialExperimentsLain https://t.co/vIcUN5rW6S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2021191565067345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAy3BQra4AA8Zye.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021191565067345920"
+          ],
+          "media_source_tweet_id": [
+            "2021191567361351810"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2021203945751003362",
+        "created_at": "2026-02-10T12:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021203945751003362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 21,
+              "tag": "SerialExperimentsLain"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1813064917668306944",
+              "start": 3,
+              "username": "LaimExperiments"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIcUN5rW6S",
+              "end": 67,
+              "expanded_url": "https://x.com/LaimExperiments/status/2021191567361351810/photo/1",
+              "media_key": "3_2021191565067345920",
+              "start": 44,
+              "url": "https://t.co/vIcUN5rW6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021203945751003362",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021191567361351810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaimExperiments: #SerialExperimentsLain https://t.co/vIcUN5rW6S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021191565067345920"
+          ]
+        },
+        "author_id": "1813064917668306944",
+        "conversation_id": "2021191567361351810",
+        "created_at": "2026-02-10T11:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021191567361351810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "SerialExperimentsLain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIcUN5rW6S",
+              "end": 46,
+              "expanded_url": "https://x.com/LaimExperiments/status/2021191567361351810/photo/1",
+              "media_key": "3_2021191565067345920",
+              "start": 23,
+              "url": "https://t.co/vIcUN5rW6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021191567361351810",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#SerialExperimentsLain https://t.co/vIcUN5rW6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T04:16:39.000Z",
+        "description": "Let's All Love Lain.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/laim_experimen…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/laim_experiments",
+                "start": 0,
+                "url": "https://t.co/mqi19tokCO"
+              }
+            ]
+          }
+        },
+        "id": "1813064917668306944",
+        "name": "Laim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827623643767021568/jmUa0N0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 54,
+          "like_count": 6677,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/mqi19tokCO",
+        "username": "LaimExperiments",
+        "verified": false
+      }
+    ]
+  }
+}

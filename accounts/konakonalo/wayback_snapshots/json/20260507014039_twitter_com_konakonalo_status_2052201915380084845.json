@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052178299028484097"
+      ],
+      "media_source_tweet_id": [
+        "2052178308385915191"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2052201915380084845",
+    "created_at": "2026-05-07T01:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052201915380084845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444954536636923911",
+          "start": 3,
+          "username": "PrettyVacantJap"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DruLIAMmPz",
+          "end": 73,
+          "expanded_url": "https://x.com/PrettyVacantJap/status/2052178308385915191/photo/1",
+          "media_key": "3_2052178299028484097",
+          "start": 50,
+          "url": "https://t.co/DruLIAMmPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052201915380084845",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052178308385915191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PrettyVacantJap: OMG, Jun-chan's on the cover https://t.co/DruLIAMmPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2052178299028484097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrNSkFbsAEAIdR.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052178299028484097"
+          ],
+          "media_source_tweet_id": [
+            "2052178308385915191"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2052201915380084845",
+        "created_at": "2026-05-07T01:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052201915380084845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444954536636923911",
+              "start": 3,
+              "username": "PrettyVacantJap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DruLIAMmPz",
+              "end": 73,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2052178308385915191/photo/1",
+              "media_key": "3_2052178299028484097",
+              "start": 50,
+              "url": "https://t.co/DruLIAMmPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052201915380084845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052178308385915191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PrettyVacantJap: OMG, Jun-chan's on the cover https://t.co/DruLIAMmPz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052178299028484097"
+          ]
+        },
+        "author_id": "1444954536636923911",
+        "conversation_id": "2052178308385915191",
+        "created_at": "2026-05-07T00:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052178308385915191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DruLIAMmPz",
+              "end": 52,
+              "expanded_url": "https://x.com/PrettyVacantJap/status/2052178308385915191/photo/1",
+              "media_key": "3_2052178299028484097",
+              "start": 29,
+              "url": "https://t.co/DruLIAMmPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052178308385915191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1601,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "OMG, Jun-chan's on the cover https://t.co/DruLIAMmPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T09:16:43.000Z",
+        "description": "Unearthing the buried past",
+        "id": "1444954536636923911",
+        "name": "Pretty Vacant Jap",
+        "pinned_tweet_id": "1550248101801504768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542703428635267072/61qsDePt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68969,
+          "following_count": 2,
+          "like_count": 18005,
+          "listed_count": 288,
+          "media_count": 13446,
+          "tweet_count": 51703
+        },
+        "url": "",
+        "username": "PrettyVacantJap",
+        "verified": false
+      }
+    ]
+  }
+}

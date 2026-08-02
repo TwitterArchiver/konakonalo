@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082844403828445184"
+      ],
+      "media_source_tweet_id": [
+        "2082844409411068345"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2082867433724096544",
+    "created_at": "2026-07-30T16:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082867433724096544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014429848568266752",
+          "start": 3,
+          "username": "igobaegopda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIp756pp9A",
+          "end": 57,
+          "expanded_url": "https://x.com/igobaegopda/status/2082844409411068345/photo/1",
+          "media_key": "3_2082844403828445184",
+          "start": 34,
+          "url": "https://t.co/kIp756pp9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082867433724096544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082844409411068345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @igobaegopda: 퍼펙트 블루\nパーフェクトブルー https://t.co/kIp756pp9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2082844403828445184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe_8yya0AADFL9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082844403828445184"
+          ]
+        },
+        "author_id": "2014429848568266752",
+        "conversation_id": "2082844409411068345",
+        "created_at": "2026-07-30T15:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082844409411068345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIp756pp9A",
+              "end": 40,
+              "expanded_url": "https://x.com/igobaegopda/status/2082844409411068345/photo/1",
+              "media_key": "3_2082844403828445184",
+              "start": 17,
+              "url": "https://t.co/kIp756pp9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082844409411068345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 228,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "퍼펙트 블루\nパーフェクトブルー https://t.co/kIp756pp9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082844403828445184"
+          ],
+          "media_source_tweet_id": [
+            "2082844409411068345"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2082867433724096544",
+        "created_at": "2026-07-30T16:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082867433724096544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014429848568266752",
+              "start": 3,
+              "username": "igobaegopda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIp756pp9A",
+              "end": 57,
+              "expanded_url": "https://x.com/igobaegopda/status/2082844409411068345/photo/1",
+              "media_key": "3_2082844403828445184",
+              "start": 34,
+              "url": "https://t.co/kIp756pp9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082867433724096544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082844409411068345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @igobaegopda: 퍼펙트 블루\nパーフェクトブルー https://t.co/kIp756pp9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 270,
+          "like_count": 8885,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1112
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T20:09:01.000Z",
+        "description": "Drunk on a dream",
+        "id": "2014429848568266752",
+        "location": "火",
+        "name": "Masangku",
+        "pinned_tweet_id": "2079120624300306733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075269988429217793/9qvlWGzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 133,
+          "like_count": 6657,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "igobaegopda",
+        "verified": false
+      }
+    ]
+  }
+}

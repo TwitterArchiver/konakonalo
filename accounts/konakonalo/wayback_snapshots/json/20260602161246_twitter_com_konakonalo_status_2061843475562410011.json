@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1335300177125650433",
+        "3_1335300181990969345",
+        "3_1335300210109583363",
+        "3_1335300216304640000"
+      ],
+      "media_source_tweet_id": [
+        "1335384711871414274",
+        "1335384711871414274",
+        "1335384711871414274",
+        "1335384711871414274"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2061843475562410011",
+    "created_at": "2026-06-02T16:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061843475562410011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "459489950",
+          "start": 3,
+          "username": "CINEMA505"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYmZ1zAmXb",
+          "end": 51,
+          "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+          "media_key": "3_1335300177125650433",
+          "start": 28,
+          "url": "https://t.co/XYmZ1zAmXb"
+        },
+        {
+          "display_url": "pic.x.com/XYmZ1zAmXb",
+          "end": 51,
+          "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+          "media_key": "3_1335300181990969345",
+          "start": 28,
+          "url": "https://t.co/XYmZ1zAmXb"
+        },
+        {
+          "display_url": "pic.x.com/XYmZ1zAmXb",
+          "end": 51,
+          "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+          "media_key": "3_1335300210109583363",
+          "start": 28,
+          "url": "https://t.co/XYmZ1zAmXb"
+        },
+        {
+          "display_url": "pic.x.com/XYmZ1zAmXb",
+          "end": 51,
+          "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+          "media_key": "3_1335300216304640000",
+          "start": 28,
+          "url": "https://t.co/XYmZ1zAmXb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061843475562410011",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1335384711871414274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CINEMA505: Skins (2009) https://t.co/XYmZ1zAmXb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 281,
+        "media_key": "3_1335300177125650433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Eofwb7YXMAEnWkj.jpg",
+        "width": 500
+      },
+      {
+        "height": 281,
+        "media_key": "3_1335300181990969345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EofwcNgWEAEm95n.jpg",
+        "width": 500
+      },
+      {
+        "height": 281,
+        "media_key": "3_1335300210109583363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Eofwd2QWEAMlcGZ.jpg",
+        "width": 500
+      },
+      {
+        "height": 281,
+        "media_key": "3_1335300216304640000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/EofweNVXIAAajo8.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1335300177125650433",
+            "3_1335300181990969345",
+            "3_1335300210109583363",
+            "3_1335300216304640000"
+          ],
+          "media_source_tweet_id": [
+            "1335384711871414274",
+            "1335384711871414274",
+            "1335384711871414274",
+            "1335384711871414274"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2061843475562410011",
+        "created_at": "2026-06-02T16:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061843475562410011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "459489950",
+              "start": 3,
+              "username": "CINEMA505"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 51,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300177125650433",
+              "start": 28,
+              "url": "https://t.co/XYmZ1zAmXb"
+            },
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 51,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300181990969345",
+              "start": 28,
+              "url": "https://t.co/XYmZ1zAmXb"
+            },
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 51,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300210109583363",
+              "start": 28,
+              "url": "https://t.co/XYmZ1zAmXb"
+            },
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 51,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300216304640000",
+              "start": 28,
+              "url": "https://t.co/XYmZ1zAmXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061843475562410011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1335384711871414274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CINEMA505: Skins (2009) https://t.co/XYmZ1zAmXb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1335300177125650433",
+            "3_1335300181990969345",
+            "3_1335300210109583363",
+            "3_1335300216304640000"
+          ]
+        },
+        "author_id": "459489950",
+        "conversation_id": "1335384711871414274",
+        "created_at": "2020-12-06T00:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2020-12-06T01:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1335384711871414274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 36,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300177125650433",
+              "start": 13,
+              "url": "https://t.co/XYmZ1zAmXb"
+            },
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 36,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300181990969345",
+              "start": 13,
+              "url": "https://t.co/XYmZ1zAmXb"
+            },
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 36,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300210109583363",
+              "start": 13,
+              "url": "https://t.co/XYmZ1zAmXb"
+            },
+            {
+              "display_url": "pic.x.com/XYmZ1zAmXb",
+              "end": 36,
+              "expanded_url": "https://x.com/CINEMA505/status/1335384711871414274/photo/1",
+              "media_key": "3_1335300216304640000",
+              "start": 13,
+              "url": "https://t.co/XYmZ1zAmXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1335384711871414274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 0,
+          "like_count": 592,
+          "quote_count": 35,
+          "reply_count": 2,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "Skins (2009) https://t.co/XYmZ1zAmXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 51,
+          "like_count": 2616,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T18:39:19.000Z",
+        "description": "O melhor conteúdo sobre cinema e séries.| 📩: ocontatocinema505@gmail.com",
+        "id": "459489950",
+        "name": "CINEMA 505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302116214056026115/lLmSl9Tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477443,
+          "following_count": 285,
+          "like_count": 27444,
+          "listed_count": 1019,
+          "media_count": 24632,
+          "tweet_count": 26024
+        },
+        "username": "CINEMA505",
+        "verified": true
+      }
+    ]
+  }
+}

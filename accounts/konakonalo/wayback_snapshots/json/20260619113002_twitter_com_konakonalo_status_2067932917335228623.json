@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067652301720825856",
+        "3_2067652362387222528",
+        "3_2067652420197330944",
+        "3_2067652473360207872"
+      ],
+      "media_source_tweet_id": [
+        "2067672544476377244",
+        "2067672544476377244",
+        "2067672544476377244",
+        "2067672544476377244"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2067932917335228623",
+    "created_at": "2026-06-19T11:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067932917335228623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1246805687386152960",
+          "start": 3,
+          "username": "laluzproyectada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3EvkdQfNqd",
+          "end": 94,
+          "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+          "media_key": "3_2067652301720825856",
+          "start": 71,
+          "url": "https://t.co/3EvkdQfNqd"
+        },
+        {
+          "display_url": "pic.x.com/3EvkdQfNqd",
+          "end": 94,
+          "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+          "media_key": "3_2067652362387222528",
+          "start": 71,
+          "url": "https://t.co/3EvkdQfNqd"
+        },
+        {
+          "display_url": "pic.x.com/3EvkdQfNqd",
+          "end": 94,
+          "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+          "media_key": "3_2067652420197330944",
+          "start": 71,
+          "url": "https://t.co/3EvkdQfNqd"
+        },
+        {
+          "display_url": "pic.x.com/3EvkdQfNqd",
+          "end": 94,
+          "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+          "media_key": "3_2067652473360207872",
+          "start": 71,
+          "url": "https://t.co/3EvkdQfNqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067932917335228623",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067672544476377244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laluzproyectada: El uso de los espacios en el cine de Edward Yang: https://t.co/3EvkdQfNqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2067652301720825856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHG0EMWsAAcRy-.jpg",
+        "width": 1920
+      },
+      {
+        "height": 720,
+        "media_key": "3_2067652362387222528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHG3mMWcAAzbr0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2067652420197330944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHG69jWsAAsOcn.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2067652473360207872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHG-DmX0AAoXiy.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067652301720825856",
+            "3_2067652362387222528",
+            "3_2067652420197330944",
+            "3_2067652473360207872"
+          ],
+          "media_source_tweet_id": [
+            "2067672544476377244",
+            "2067672544476377244",
+            "2067672544476377244",
+            "2067672544476377244"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2067932917335228623",
+        "created_at": "2026-06-19T11:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067932917335228623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1246805687386152960",
+              "start": 3,
+              "username": "laluzproyectada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 94,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652301720825856",
+              "start": 71,
+              "url": "https://t.co/3EvkdQfNqd"
+            },
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 94,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652362387222528",
+              "start": 71,
+              "url": "https://t.co/3EvkdQfNqd"
+            },
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 94,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652420197330944",
+              "start": 71,
+              "url": "https://t.co/3EvkdQfNqd"
+            },
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 94,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652473360207872",
+              "start": 71,
+              "url": "https://t.co/3EvkdQfNqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067932917335228623",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067672544476377244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laluzproyectada: El uso de los espacios en el cine de Edward Yang: https://t.co/3EvkdQfNqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067652301720825856",
+            "3_2067652362387222528",
+            "3_2067652420197330944",
+            "3_2067652473360207872"
+          ]
+        },
+        "author_id": "1246805687386152960",
+        "conversation_id": "2067672544476377244",
+        "created_at": "2026-06-18T18:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067672544476377244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 73,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652301720825856",
+              "start": 50,
+              "url": "https://t.co/3EvkdQfNqd"
+            },
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 73,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652362387222528",
+              "start": 50,
+              "url": "https://t.co/3EvkdQfNqd"
+            },
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 73,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652420197330944",
+              "start": 50,
+              "url": "https://t.co/3EvkdQfNqd"
+            },
+            {
+              "display_url": "pic.x.com/3EvkdQfNqd",
+              "end": 73,
+              "expanded_url": "https://x.com/laluzproyectada/status/2067672544476377244/photo/1",
+              "media_key": "3_2067652473360207872",
+              "start": 50,
+              "url": "https://t.co/3EvkdQfNqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067672544476377244",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 17232,
+          "like_count": 602,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "El uso de los espacios en el cine de Edward Yang: https://t.co/3EvkdQfNqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 55,
+          "like_count": 3206,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-05T14:23:45.000Z",
+        "description": "Edward Yang | Capítulo 1: La arquitectura fílmica\nhttps://t.co/HegrRK3QnT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=035wfJ…",
+                "end": 73,
+                "expanded_url": "https://www.youtube.com/watch?v=035wfJAVghM&t=1s",
+                "start": 50,
+                "url": "https://t.co/HegrRK3QnT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laluzproyectada.art",
+                "end": 23,
+                "expanded_url": "https://laluzproyectada.art/",
+                "start": 0,
+                "url": "https://t.co/opJzOoJ8ZK"
+              }
+            ]
+          }
+        },
+        "id": "1246805687386152960",
+        "name": "Álvaro Morán",
+        "pinned_tweet_id": "1569544598476984320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918750866305159168/fpe9bLRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1347,
+          "like_count": 2205,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/opJzOoJ8ZK",
+        "username": "laluzproyectada",
+        "verified": false
+      }
+    ]
+  }
+}

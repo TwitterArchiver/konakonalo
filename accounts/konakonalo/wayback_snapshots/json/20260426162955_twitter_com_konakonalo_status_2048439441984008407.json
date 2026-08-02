@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048133693005508608"
+      ],
+      "media_source_tweet_id": [
+        "2048133699733012612"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2048439441984008407",
+    "created_at": "2026-04-26T16:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048439441984008407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3226727230",
+          "start": 3,
+          "username": "BillPourquoimec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mb433RGamA",
+          "end": 137,
+          "expanded_url": "https://x.com/BillPourquoimec/status/2048133699733012612/photo/1",
+          "media_key": "3_2048133693005508608",
+          "start": 114,
+          "url": "https://t.co/mb433RGamA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048439441984008407",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048133699733012612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BillPourquoimec: UNKNOWN GIRL\nph. by Derek Ridgers - taken at a house party in Stoke Newington, UK\nJune, 1981 https://t.co/mb433RGamA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_2048133693005508608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxuvggaMAAWjPk.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048133693005508608"
+          ],
+          "media_source_tweet_id": [
+            "2048133699733012612"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2048439441984008407",
+        "created_at": "2026-04-26T16:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048439441984008407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3226727230",
+              "start": 3,
+              "username": "BillPourquoimec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mb433RGamA",
+              "end": 137,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2048133699733012612/photo/1",
+              "media_key": "3_2048133693005508608",
+              "start": 114,
+              "url": "https://t.co/mb433RGamA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048439441984008407",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048133699733012612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BillPourquoimec: UNKNOWN GIRL\nph. by Derek Ridgers - taken at a house party in Stoke Newington, UK\nJune, 1981 https://t.co/mb433RGamA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048133693005508608"
+          ]
+        },
+        "author_id": "3226727230",
+        "conversation_id": "2048133699733012612",
+        "created_at": "2026-04-25T20:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048133699733012612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mb433RGamA",
+              "end": 116,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2048133699733012612/photo/1",
+              "media_key": "3_2048133693005508608",
+              "start": 93,
+              "url": "https://t.co/mb433RGamA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048133699733012612",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 668,
+          "impression_count": 77053,
+          "like_count": 3715,
+          "quote_count": 39,
+          "reply_count": 13,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "UNKNOWN GIRL\nph. by Derek Ridgers - taken at a house party in Stoke Newington, UK\nJune, 1981 https://t.co/mb433RGamA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-01T18:58:19.000Z",
+        "description": "animal de nuit au sang chaud, né sous le signe du désespoir un matin d'hiver.\n 💙🤍",
+        "id": "3226727230",
+        "location": "Villefargeau Auxerre, France",
+        "name": "Bill Pourquoimec",
+        "pinned_tweet_id": "1793153879997141328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549649980285227008/Io1oYt5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18356,
+          "following_count": 1617,
+          "like_count": 59173,
+          "listed_count": 97,
+          "media_count": 9874,
+          "tweet_count": 16420
+        },
+        "username": "BillPourquoimec",
+        "verified": false
+      }
+    ]
+  }
+}

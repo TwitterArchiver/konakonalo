@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2074403061943214180",
+    "created_at": "2026-07-07T08:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074406603588358310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902831178090156037",
+          "start": 0,
+          "username": "O_o_1701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074406603588358310",
+    "in_reply_to_user_id": "1902831178090156037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074403061943214180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_o_1701 我天，我也特喜欢The Radio Dept"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2074403041571467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnCk13bcAAhmio.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2074403061943214180",
+        "created_at": "2026-07-07T08:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074406603588358310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902831178090156037",
+              "start": 0,
+              "username": "O_o_1701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074406603588358310",
+        "in_reply_to_user_id": "1902831178090156037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074403061943214180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_o_1701 我天，我也特喜欢The Radio Dept"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074403041571467264"
+          ]
+        },
+        "author_id": "1902831178090156037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2074403061943214180",
+        "created_at": "2026-07-07T08:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074403061943214180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crRqQhEsoI",
+              "end": 172,
+              "expanded_url": "https://x.com/O_o_1701/status/2074403061943214180/photo/1",
+              "media_key": "3_2074403041571467264",
+              "start": 149,
+              "url": "https://t.co/crRqQhEsoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074403061943214180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o_all好好听，刚刚看了live录像去听了Dream deep dreams这张专辑，没有乐理知识所以不清楚该怎么界定他们的风格，梦泡盯鞋之类的吧。很有灵气！突然下起的暴雨配他们的音乐很合适。本来开始觉得梦泡有些无聊，我可以接受o_all这样的，The Radio Dept那样的也还是很喜欢。 https://t.co/crRqQhEsoI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 171,
+          "like_count": 5895,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T21:14:49.000Z",
+        "description": "",
+        "id": "1902831178090156037",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067512995585081344/5zGdM6FX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 130,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "O_o_1701",
+        "verified": false
+      }
+    ]
+  }
+}

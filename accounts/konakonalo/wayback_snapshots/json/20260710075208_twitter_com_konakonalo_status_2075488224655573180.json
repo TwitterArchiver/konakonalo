@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2075485925069726054",
+    "created_at": "2026-07-10T07:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075488224655573180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917009430845194240",
+          "start": 0,
+          "username": "BDcivetcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075488224655573180",
+    "in_reply_to_user_id": "1917009430845194240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075485925069726054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDcivetcat 😣😣抱一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2075485925069726054",
+        "created_at": "2026-07-10T07:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075488224655573180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917009430845194240",
+              "start": 0,
+              "username": "BDcivetcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075488224655573180",
+        "in_reply_to_user_id": "1917009430845194240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075485925069726054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDcivetcat 😣😣抱一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917009430845194240",
+        "conversation_id": "2075485925069726054",
+        "created_at": "2026-07-10T07:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075485925069726054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075485925069726054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哭的好难受。。我感觉我每一天都是紧绷着神经 从来没有放松过 我想什么都不想只靠在别人身边淌眼泪。。。我到现在看到别人对着妈妈撒娇拥抱也会羡慕。。我一直不知道妈妈是什么样子的 我好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 189,
+          "like_count": 6356,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T00:14:10.000Z",
+        "description": "07 精神病休学中 自残 高强度负能掉落 我是男的我也很抱歉 又不是我选的😿 喜欢互fo同类 交友扩列私信大欢迎 舟批老大找我打舟( ᐪ꒳ᐪ )｜大家过得都很痛苦 就算这么说很残忍 我还是不希望你们死掉 我希望你们可以过不用依赖嗑药自残也能获得自己想要幸福的生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%91%AB%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%91%AB%E8%8A%A6%E8%8A%B1%E6%97%A5%E5%BF%97",
+                "start": 0,
+                "url": "https://t.co/YkUZ8VBaOv"
+              }
+            ]
+          }
+        },
+        "id": "1917009430845194240",
+        "name": "葫芦花日志",
+        "pinned_tweet_id": "2068366360993014158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065074655925608448/UjqBCc9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 193,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/YkUZ8VBaOv",
+        "username": "BDcivetcat",
+        "verified": false
+      }
+    ]
+  }
+}

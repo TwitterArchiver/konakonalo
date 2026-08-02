@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071845709226123264"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071845724078379504",
+    "created_at": "2026-06-30T06:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071845724078379504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/muCMEv7l8c",
+          "end": 31,
+          "expanded_url": "https://x.com/konakonalo/status/2071845724078379504/photo/1",
+          "media_key": "3_2071845709226123264",
+          "start": 8,
+          "url": "https://t.co/muCMEv7l8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071845724078379504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个滤镜很帅气 https://t.co/muCMEv7l8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2071845709226123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCssgfXIAAtSrZ.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071845709226123264"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071845724078379504",
+        "created_at": "2026-06-30T06:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071845724078379504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muCMEv7l8c",
+              "end": 31,
+              "expanded_url": "https://x.com/konakonalo/status/2071845724078379504/photo/1",
+              "media_key": "3_2071845709226123264",
+              "start": 8,
+              "url": "https://t.co/muCMEv7l8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071845724078379504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个滤镜很帅气 https://t.co/muCMEv7l8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 97,
+          "like_count": 4200,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

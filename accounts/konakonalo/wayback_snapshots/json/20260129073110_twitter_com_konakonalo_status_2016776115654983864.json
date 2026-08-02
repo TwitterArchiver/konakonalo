@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2016776115654983864",
+    "created_at": "2026-01-29T07:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T08:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016776115654983864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739908593254883328",
+          "start": 3,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016776115654983864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858506449175171325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSexyHem: 当某一天我们可能都同时想起对方的时候 我们已经分开很久了 我们都无法告知对方 这就是分开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2016776115654983864",
+        "created_at": "2026-01-29T07:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016776115654983864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739908593254883328",
+              "start": 3,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016776115654983864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858506449175171325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelSexyHem: 当某一天我们可能都同时想起对方的时候 我们已经分开很久了 我们都无法告知对方 这就是分开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739908593254883328",
+        "conversation_id": "1858506449175171325",
+        "created_at": "2024-11-18T13:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T14:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858506449175171325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858506449175171325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当某一天我们可能都同时想起对方的时候 我们已经分开很久了 我们都无法告知对方 这就是分开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖😚我是鸭鸭^^⚠️#drugtwt ⚠️https://t.co/FGoF2GVimc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/adxahemhemhem",
+                "end": 80,
+                "expanded_url": "https://t.me/adxahemhemhem",
+                "start": 57,
+                "url": "https://t.co/FGoF2GVimc"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1966161191346253866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 356,
+          "like_count": 4522,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2163
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

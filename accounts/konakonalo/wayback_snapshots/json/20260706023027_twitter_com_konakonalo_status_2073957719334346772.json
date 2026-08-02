@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073953668970561581",
+    "created_at": "2026-07-06T02:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073957719334346772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073957719334346772",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073953668970561581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 我吃一兰喜欢选最软的那一档"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073953660984508416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgp3cuaQAATUo-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073953668970561581",
+        "created_at": "2026-07-06T02:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073957719334346772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073957719334346772",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073953668970561581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 我吃一兰喜欢选最软的那一档"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073953660984508416"
+          ]
+        },
+        "author_id": "1897913540432068608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073953668970561581",
+        "created_at": "2026-07-06T02:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073953668970561581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pacN2GqL6e",
+              "end": 75,
+              "expanded_url": "https://x.com/1lc5si9/status/2073953668970561581/photo/1",
+              "media_key": "3_2073953660984508416",
+              "start": 52,
+              "url": "https://t.co/pacN2GqL6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073953668970561581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "第一次吃一兰。太香了原来日本有这么完全没有腥味的面。而且第一次见到细面。而且这个面还有鸡蛋香味。太爽了 https://t.co/pacN2GqL6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 146,
+          "like_count": 5407,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "東京┊maimai┊od┊",
+        "id": "1897913540432068608",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071619605592981504/bF-BAaPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 240,
+          "like_count": 9219,
+          "listed_count": 0,
+          "media_count": 1394,
+          "tweet_count": 7060
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

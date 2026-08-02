@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056471222461014016"
+      ],
+      "media_source_tweet_id": [
+        "2056471225275412716"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2056581337843486972",
+    "created_at": "2026-05-19T03:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056581337843486972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609503807834296320",
+          "start": 3,
+          "username": "Koine2l23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mpRAEWz8x5",
+          "end": 45,
+          "expanded_url": "https://x.com/Koine2l23/status/2056471225275412716/photo/1",
+          "media_key": "3_2056471222461014016",
+          "start": 22,
+          "url": "https://t.co/mpRAEWz8x5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056581337843486972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056471225275412716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koine2l23: 愛のむきだし https://t.co/mpRAEWz8x5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056471222461014016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIoNrmGaIAARbxr.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056471222461014016"
+          ],
+          "media_source_tweet_id": [
+            "2056471225275412716"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2056581337843486972",
+        "created_at": "2026-05-19T03:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056581337843486972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609503807834296320",
+              "start": 3,
+              "username": "Koine2l23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpRAEWz8x5",
+              "end": 45,
+              "expanded_url": "https://x.com/Koine2l23/status/2056471225275412716/photo/1",
+              "media_key": "3_2056471222461014016",
+              "start": 22,
+              "url": "https://t.co/mpRAEWz8x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056581337843486972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056471225275412716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koine2l23: 愛のむきだし https://t.co/mpRAEWz8x5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056471222461014016"
+          ]
+        },
+        "author_id": "1609503807834296320",
+        "conversation_id": "2056471225275412716",
+        "created_at": "2026-05-18T20:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056471225275412716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpRAEWz8x5",
+              "end": 30,
+              "expanded_url": "https://x.com/Koine2l23/status/2056471225275412716/photo/1",
+              "media_key": "3_2056471222461014016",
+              "start": 7,
+              "url": "https://t.co/mpRAEWz8x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056471225275412716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 2614,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "愛のむきだし https://t.co/mpRAEWz8x5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 44,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 138
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T10:56:56.000Z",
+        "description": "＝Koine  3000↓/雑多/中文·日本語勉強中(翻訳機を使う）",
+        "id": "1609503807834296320",
+        "name": "电子老鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020435558212968448/MxugjVBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 136,
+          "like_count": 4637,
+          "listed_count": 10,
+          "media_count": 88,
+          "tweet_count": 2530
+        },
+        "username": "Koine2l23",
+        "verified": false
+      }
+    ]
+  }
+}

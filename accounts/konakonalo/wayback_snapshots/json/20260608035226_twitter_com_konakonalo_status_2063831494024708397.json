@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2063831494024708397",
+    "created_at": "2026-06-08T03:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063831494024708397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cinema505/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/cinema505/status/2063796038176051442",
+          "start": 20,
+          "url": "https://t.co/3Puq7JtYj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063831494024708397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063796038176051442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最喜欢的post-new wave电影 https://t.co/3Puq7JtYj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2063796031280562177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQTjlVWwAENWAM.jpg",
+        "width": 730
+      },
+      {
+        "height": 591,
+        "media_key": "3_2063796031280590848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQTjlVXMAAavh-.jpg",
+        "width": 591
+      },
+      {
+        "height": 659,
+        "media_key": "3_2063796031276417024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQTjlUXgAA1kKH.jpg",
+        "width": 1200
+      },
+      {
+        "height": 652,
+        "media_key": "3_2063796031280562176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQTjlVWwAAFZ-Q.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2063831494024708397",
+        "created_at": "2026-06-08T03:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063831494024708397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cinema505/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/cinema505/status/2063796038176051442",
+              "start": 20,
+              "url": "https://t.co/3Puq7JtYj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063831494024708397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063796038176051442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢的post-new wave电影 https://t.co/3Puq7JtYj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063796031280562177",
+            "3_2063796031280590848",
+            "3_2063796031276417024",
+            "3_2063796031280562176"
+          ]
+        },
+        "author_id": "459489950",
+        "conversation_id": "2063796038176051442",
+        "created_at": "2026-06-08T01:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063796038176051442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKI5DH11J2",
+              "end": 68,
+              "expanded_url": "https://x.com/CINEMA505/status/2063796038176051442/photo/1",
+              "media_key": "3_2063796031280562177",
+              "start": 45,
+              "url": "https://t.co/hKI5DH11J2"
+            },
+            {
+              "display_url": "pic.x.com/hKI5DH11J2",
+              "end": 68,
+              "expanded_url": "https://x.com/CINEMA505/status/2063796038176051442/photo/1",
+              "media_key": "3_2063796031280590848",
+              "start": 45,
+              "url": "https://t.co/hKI5DH11J2"
+            },
+            {
+              "display_url": "pic.x.com/hKI5DH11J2",
+              "end": 68,
+              "expanded_url": "https://x.com/CINEMA505/status/2063796038176051442/photo/1",
+              "media_key": "3_2063796031276417024",
+              "start": 45,
+              "url": "https://t.co/hKI5DH11J2"
+            },
+            {
+              "display_url": "pic.x.com/hKI5DH11J2",
+              "end": 68,
+              "expanded_url": "https://x.com/CINEMA505/status/2063796038176051442/photo/1",
+              "media_key": "3_2063796031280562176",
+              "start": 45,
+              "url": "https://t.co/hKI5DH11J2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063796038176051442",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 9531,
+          "like_count": 375,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "The Dreamers (2003) Dir. Bernardo Bertolucci https://t.co/hKI5DH11J2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 49,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 185
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T18:39:19.000Z",
+        "description": "O melhor conteúdo sobre cinema e séries.| 📩: ocontatocinema505@gmail.com",
+        "id": "459489950",
+        "name": "CINEMA 505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302116214056026115/lLmSl9Tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478346,
+          "following_count": 286,
+          "like_count": 27753,
+          "listed_count": 1022,
+          "media_count": 24724,
+          "tweet_count": 26120
+        },
+        "username": "CINEMA505",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073141936114881003",
+    "created_at": "2026-07-04T16:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073444087227617763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971786415420985350",
+          "start": 0,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073444087227617763",
+    "in_reply_to_user_id": "1971786415420985350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073443643218911237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_luu 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073141936114881003",
+        "created_at": "2026-07-04T16:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073444087227617763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971786415420985350",
+              "start": 0,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073444087227617763",
+        "in_reply_to_user_id": "1971786415420985350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073443643218911237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_luu 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971786415420985350",
+        "conversation_id": "2073141936114881003",
+        "created_at": "2026-07-04T16:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073443643218911237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073443643218911237",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073141936114881003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 拉斯冯提尔...我看的第一部他的作品也是这个，后面接触到此房是我造我感觉也蛮好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 122,
+          "like_count": 5153,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": "好好吃饭 好好睡觉",
+        "id": "1971786415420985350",
+        "name": "你又是谁的电子宠物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 104,
+          "like_count": 6914,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false
+      }
+    ]
+  }
+}

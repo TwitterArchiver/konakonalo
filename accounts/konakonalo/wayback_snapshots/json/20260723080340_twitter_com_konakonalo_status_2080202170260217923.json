@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2080202170260217923",
+    "created_at": "2026-07-23T08:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080202170260217923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505944743695503362",
+          "start": 1,
+          "username": "silentfarewe11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080202170260217923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@silentfarewe11 面基刚见面我就抽烟抽吐了🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2080202170260217923",
+        "created_at": "2026-07-23T08:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080202170260217923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505944743695503362",
+              "start": 1,
+              "username": "silentfarewe11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080202170260217923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@silentfarewe11 面基刚见面我就抽烟抽吐了🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 219,
+          "like_count": 7982,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T16:29:49.000Z",
+        "description": "💖有事请私信@earthwalker520 (是我)\n💖@like___minded @Earthwalker__bb 也是我推特\n💖侵权联删，感谢。 无意冒犯任何人，真诚致歉。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "earthwalker520"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "like___minded"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Earthwalker__bb"
+              }
+            ]
+          }
+        },
+        "id": "1505944743695503362",
+        "name": "骚话bb机",
+        "pinned_tweet_id": "1681298644434325504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514263760470425606/leSM-ADa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293111,
+          "following_count": 223,
+          "like_count": 1055,
+          "listed_count": 441,
+          "media_count": 761,
+          "tweet_count": 2566
+        },
+        "url": "",
+        "username": "silentfarewe11",
+        "verified": false
+      }
+    ]
+  }
+}

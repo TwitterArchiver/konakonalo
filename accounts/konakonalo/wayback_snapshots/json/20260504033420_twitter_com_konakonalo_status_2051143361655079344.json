@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050982473102934016",
+        "3_2050982473056870400"
+      ],
+      "media_source_tweet_id": [
+        "2050982476257075277",
+        "2050982476257075277"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2051143361655079344",
+    "created_at": "2026-05-04T03:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051143361655079344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831185942830567424",
+          "start": 3,
+          "username": "42CEO_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHSvsGuQjq",
+          "end": 66,
+          "expanded_url": "https://x.com/42CEO_/status/2050982476257075277/photo/1",
+          "media_key": "3_2050982473102934016",
+          "start": 43,
+          "url": "https://t.co/YHSvsGuQjq"
+        },
+        {
+          "display_url": "pic.x.com/YHSvsGuQjq",
+          "end": 66,
+          "expanded_url": "https://x.com/42CEO_/status/2050982476257075277/photo/1",
+          "media_key": "3_2050982473056870400",
+          "start": 43,
+          "url": "https://t.co/YHSvsGuQjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051143361655079344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050982476257075277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @42CEO_: 2hollis has updated his hair 👀 https://t.co/YHSvsGuQjq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2050982473102934016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaNsVXaQAA8asT.jpg",
+        "width": 540
+      },
+      {
+        "height": 555,
+        "media_key": "3_2050982473056870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaNsVMbYAASSbn.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050982473102934016",
+            "3_2050982473056870400"
+          ],
+          "media_source_tweet_id": [
+            "2050982476257075277",
+            "2050982476257075277"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2051143361655079344",
+        "created_at": "2026-05-04T03:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051143361655079344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831185942830567424",
+              "start": 3,
+              "username": "42CEO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHSvsGuQjq",
+              "end": 66,
+              "expanded_url": "https://x.com/42CEO_/status/2050982476257075277/photo/1",
+              "media_key": "3_2050982473102934016",
+              "start": 43,
+              "url": "https://t.co/YHSvsGuQjq"
+            },
+            {
+              "display_url": "pic.x.com/YHSvsGuQjq",
+              "end": 66,
+              "expanded_url": "https://x.com/42CEO_/status/2050982476257075277/photo/1",
+              "media_key": "3_2050982473056870400",
+              "start": 43,
+              "url": "https://t.co/YHSvsGuQjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051143361655079344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050982476257075277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @42CEO_: 2hollis has updated his hair 👀 https://t.co/YHSvsGuQjq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050982473102934016",
+            "3_2050982473056870400"
+          ]
+        },
+        "author_id": "1831185942830567424",
+        "conversation_id": "2050982476257075277",
+        "created_at": "2026-05-03T16:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050982476257075277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHSvsGuQjq",
+              "end": 54,
+              "expanded_url": "https://x.com/42CEO_/status/2050982476257075277/photo/1",
+              "media_key": "3_2050982473102934016",
+              "start": 31,
+              "url": "https://t.co/YHSvsGuQjq"
+            },
+            {
+              "display_url": "pic.x.com/YHSvsGuQjq",
+              "end": 54,
+              "expanded_url": "https://x.com/42CEO_/status/2050982476257075277/photo/1",
+              "media_key": "3_2050982473056870400",
+              "start": 31,
+              "url": "https://t.co/YHSvsGuQjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050982476257075277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 204733,
+          "like_count": 5215,
+          "quote_count": 410,
+          "reply_count": 122,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "2hollis has updated his hair 👀 https://t.co/YHSvsGuQjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 128
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T04:22:14.000Z",
+        "description": "THE FASTEST NEWS 📰 || IG - 42CEO || TWITCH EVERYDAY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/42ceo_",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/42ceo_",
+                "start": 0,
+                "url": "https://t.co/5YtUtuE3P3"
+              }
+            ]
+          }
+        },
+        "id": "1831185942830567424",
+        "name": "42",
+        "pinned_tweet_id": "2006083185919287355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018082244288815104/ChhNyF2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29514,
+          "following_count": 480,
+          "like_count": 4375,
+          "listed_count": 14,
+          "media_count": 3281,
+          "tweet_count": 6645
+        },
+        "url": "https://t.co/5YtUtuE3P3",
+        "username": "42CEO_",
+        "verified": true
+      }
+    ]
+  }
+}

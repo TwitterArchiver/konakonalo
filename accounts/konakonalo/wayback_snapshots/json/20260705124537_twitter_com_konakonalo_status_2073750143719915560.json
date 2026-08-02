@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073695626114871296"
+      ],
+      "media_source_tweet_id": [
+        "2073695631424802912"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073750143719915560",
+    "created_at": "2026-07-05T12:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073750143719915560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1209776487898828800",
+          "start": 3,
+          "username": "eli_yamamoto_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HDBRgKS3wP",
+          "end": 42,
+          "expanded_url": "https://x.com/eli_yamamoto_/status/2073695631424802912/photo/1",
+          "media_key": "3_2073695626114871296",
+          "start": 19,
+          "url": "https://t.co/HDBRgKS3wP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073750143719915560",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073695631424802912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eli_yamamoto_: https://t.co/HDBRgKS3wP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073695626114871296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc_L17bsAAaI5G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073695626114871296"
+          ],
+          "media_source_tweet_id": [
+            "2073695631424802912"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073750143719915560",
+        "created_at": "2026-07-05T12:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073750143719915560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1209776487898828800",
+              "start": 3,
+              "username": "eli_yamamoto_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDBRgKS3wP",
+              "end": 42,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2073695631424802912/photo/1",
+              "media_key": "3_2073695626114871296",
+              "start": 19,
+              "url": "https://t.co/HDBRgKS3wP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073750143719915560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073695631424802912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eli_yamamoto_: https://t.co/HDBRgKS3wP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073695626114871296"
+          ]
+        },
+        "author_id": "1209776487898828800",
+        "conversation_id": "2073695631424802912",
+        "created_at": "2026-07-05T09:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073695631424802912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDBRgKS3wP",
+              "end": 23,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2073695631424802912/photo/1",
+              "media_key": "3_2073695626114871296",
+              "start": 0,
+              "url": "https://t.co/HDBRgKS3wP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073695631424802912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3154,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HDBRgKS3wP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 136,
+          "like_count": 5285,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-25T10:03:06.000Z",
+        "description": ".*･ﾟ絵はメディア欄 °･*. / 現在ご依頼停止中 / ご用件はkotowarimegumi@gmail.com迄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_eri_yamamoto_…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_eri_yamamoto_?igsh=NzdtZ2pwMW54bGlr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/bgn8dnLyF7"
+              }
+            ]
+          }
+        },
+        "id": "1209776487898828800",
+        "location": "大阪",
+        "name": "𝖤𝗅𝗂 𝖸𝖺𝗆𝖺𝗆𝗈𝗍𝗈",
+        "pinned_tweet_id": "2062845847344464189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022641733985800193/LvIgCKN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 489,
+          "like_count": 71758,
+          "listed_count": 24,
+          "media_count": 332,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/bgn8dnLyF7",
+        "username": "eli_yamamoto_",
+        "verified": false
+      }
+    ]
+  }
+}

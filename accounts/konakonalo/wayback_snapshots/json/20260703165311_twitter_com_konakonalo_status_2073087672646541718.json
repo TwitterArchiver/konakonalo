@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072974952383561871",
+    "created_at": "2026-07-03T16:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073087672646541718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746110754611511296",
+          "start": 0,
+          "username": "ruoruoruoruo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073087672646541718",
+    "in_reply_to_user_id": "1746110754611511296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072974952383561871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoruo1 ruoruoruoruo1抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072974952383561871",
+        "created_at": "2026-07-03T16:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073087672646541718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746110754611511296",
+              "start": 0,
+              "username": "ruoruoruoruo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073087672646541718",
+        "in_reply_to_user_id": "1746110754611511296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072974952383561871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoruo1 ruoruoruoruo1抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746110754611511296",
+        "conversation_id": "2072974952383561871",
+        "created_at": "2026-07-03T09:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072974952383561871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072974952383561871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和你最开心的那晚，我们都睡不着。你说你能预料到，未来有一天你会为我哭泣到深夜。可到最后哭泣的人是我，不仅仅在深夜，而是年复一年。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 115,
+          "like_count": 4966,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T10:03:56.000Z",
+        "description": "不要說你見過我",
+        "id": "1746110754611511296",
+        "name": "Я буду скучать по Тарковскому вечно.",
+        "pinned_tweet_id": "1891258505107054812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071478788001824769/Ks6SkS9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 61,
+          "like_count": 6705,
+          "listed_count": 2,
+          "media_count": 614,
+          "tweet_count": 2428
+        },
+        "url": "",
+        "username": "ruoruoruoruo1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2056218927475359829",
+    "created_at": "2026-05-18T03:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056218927475359829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860730309559623680",
+          "start": 3,
+          "username": "ybbyy19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056218927475359829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055667520376569891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ybbyy19: 我的床跟粘鼠板有什么区别，粘性大，上面还有一只老鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2056218927475359829",
+        "created_at": "2026-05-18T03:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056218927475359829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860730309559623680",
+              "start": 3,
+              "username": "ybbyy19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056218927475359829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055667520376569891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ybbyy19: 我的床跟粘鼠板有什么区别，粘性大，上面还有一只老鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860730309559623680",
+        "conversation_id": "2055667520376569891",
+        "created_at": "2026-05-16T15:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055667520376569891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055667520376569891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 65090,
+          "like_count": 2541,
+          "quote_count": 16,
+          "reply_count": 203,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "我的床跟粘鼠板有什么区别，粘性大，上面还有一只老鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 2167,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 137
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "又阳痿了，低素质选手。不是🚪没有🚪，我爱回谁回谁|胖墩子不爱看别看|被烦到就锁推或拉黑，不定时删",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "pinned_tweet_id": "2036767587493941457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037506051009073152/UV6V_k-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 397,
+          "like_count": 32453,
+          "listed_count": 6,
+          "media_count": 53,
+          "tweet_count": 907
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072938331063927115",
+    "created_at": "2026-07-03T06:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072938331063927115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990455987552256000",
+          "start": 3,
+          "username": "yikuqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072938331063927115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072873148907917500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yikuqwq: 分不清依赖和爱 崇拜和爱 怜悯和爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072938331063927115",
+        "created_at": "2026-07-03T06:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072938331063927115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990455987552256000",
+              "start": 3,
+              "username": "yikuqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072938331063927115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072873148907917500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yikuqwq: 分不清依赖和爱 崇拜和爱 怜悯和爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990455987552256000",
+        "conversation_id": "2072873148907917500",
+        "created_at": "2026-07-03T02:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072873148907917500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072873148907917500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分不清依赖和爱 崇拜和爱 怜悯和爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 107,
+          "like_count": 4859,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T16:24:34.000Z",
+        "description": "1i＞4i，最苦命柏拉图善良可爱温良爱吃药的女孩",
+        "id": "1990455987552256000",
+        "name": "世界消失之后",
+        "pinned_tweet_id": "2067643251918778426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067477085275459584/MxAi-Zl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 270,
+          "like_count": 2954,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "yikuqwq",
+        "verified": false
+      }
+    ]
+  }
+}

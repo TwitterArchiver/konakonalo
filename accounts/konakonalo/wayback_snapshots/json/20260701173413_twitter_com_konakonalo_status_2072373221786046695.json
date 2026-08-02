@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072373139388973056"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072373221786046695",
+    "created_at": "2026-07-01T17:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072373221786046695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gE5Yrkssqo",
+          "end": 35,
+          "expanded_url": "https://x.com/konakonalo/status/2072373221786046695/video/1",
+          "media_key": "13_2072373139388973056",
+          "start": 12,
+          "url": "https://t.co/gE5Yrkssqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072373221786046695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "红头发的时候在宿舍拍的 https://t.co/gE5Yrkssqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9170,
+        "height": 1280,
+        "media_key": "13_2072373139388973056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072373139388973056/img/DxCaTz4hb5WO8bOZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072373139388973056/vid/avc1/320x568/gkV5ayMIT8Vd2SRh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072373139388973056/vid/avc1/480x852/gzqHkjXKsS20eaW4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072373139388973056/vid/avc1/720x1280/aZkNNpX8gTApgrFk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072373139388973056/pl/5E7VR9X4dwjLkrW1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072373139388973056"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072373221786046695",
+        "created_at": "2026-07-01T17:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072373221786046695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE5Yrkssqo",
+              "end": 35,
+              "expanded_url": "https://x.com/konakonalo/status/2072373221786046695/video/1",
+              "media_key": "13_2072373139388973056",
+              "start": 12,
+              "url": "https://t.co/gE5Yrkssqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072373221786046695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "红头发的时候在宿舍拍的 https://t.co/gE5Yrkssqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 90,
+          "like_count": 4427,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073666479245898020",
+    "created_at": "2026-07-05T07:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073666479245898020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900422705415151618",
+          "start": 3,
+          "username": "uketamawarui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073666479245898020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073630390129197323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uketamawarui: 我就是会在地铁坐满人也不贴防窥膜的情况下大胆刷推特呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073666479245898020",
+        "created_at": "2026-07-05T07:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073666479245898020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900422705415151618",
+              "start": 3,
+              "username": "uketamawarui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073666479245898020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073630390129197323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uketamawarui: 我就是会在地铁坐满人也不贴防窥膜的情况下大胆刷推特呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900422705415151618",
+        "conversation_id": "2073630390129197323",
+        "created_at": "2026-07-05T04:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073630390129197323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073630390129197323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就是会在地铁坐满人也不贴防窥膜的情况下大胆刷推特呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 131,
+          "like_count": 5202,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:44:25.000Z",
+        "description": "等你忘记了我们就说拜拜\n@Yueiru718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Yueiru718"
+              }
+            ]
+          }
+        },
+        "id": "1900422705415151618",
+        "location": "傍観",
+        "name": "torinaku",
+        "pinned_tweet_id": "2067438323996745745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071928650887213056/cw169qbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 109,
+          "like_count": 11344,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2262
+        },
+        "url": "",
+        "username": "uketamawarui",
+        "verified": false
+      }
+    ]
+  }
+}

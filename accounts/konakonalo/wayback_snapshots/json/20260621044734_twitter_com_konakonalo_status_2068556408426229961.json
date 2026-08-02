@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068499927496376320"
+      ],
+      "media_source_tweet_id": [
+        "2068499932563066913"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1186720248818388992",
+          "name": "Hideaki Anno"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1186720248818388992",
+          "name": "Hideaki Anno"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352442350125056",
+          "name": "Animation directors, producers, & writers"
+        }
+      }
+    ],
+    "conversation_id": "2068556408426229961",
+    "created_at": "2026-06-21T04:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068556408426229961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "852487234171404288",
+          "start": 3,
+          "username": "TheOtaking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDGqjL1kZ9",
+          "end": 132,
+          "expanded_url": "https://x.com/TheOtaking/status/2068499932563066913/photo/1",
+          "media_key": "3_2068499927496376320",
+          "start": 109,
+          "url": "https://t.co/eDGqjL1kZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068556408426229961",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068499932563066913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheOtaking: Love &amp; Pop (Live movie) - Hideaki Anno - 1998\n\nPoster illustration by Yoshiyuki Sadamoto https://t.co/eDGqjL1kZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2068499927496376320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTJuYRXwAAw5am.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068499927496376320"
+          ],
+          "media_source_tweet_id": [
+            "2068499932563066913"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2068556408426229961",
+        "created_at": "2026-06-21T04:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068556408426229961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "852487234171404288",
+              "start": 3,
+              "username": "TheOtaking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDGqjL1kZ9",
+              "end": 132,
+              "expanded_url": "https://x.com/TheOtaking/status/2068499932563066913/photo/1",
+              "media_key": "3_2068499927496376320",
+              "start": 109,
+              "url": "https://t.co/eDGqjL1kZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068556408426229961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068499932563066913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheOtaking: Love &amp; Pop (Live movie) - Hideaki Anno - 1998\n\nPoster illustration by Yoshiyuki Sadamoto https://t.co/eDGqjL1kZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068499927496376320"
+          ]
+        },
+        "author_id": "852487234171404288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1186720248818388992",
+              "name": "Hideaki Anno"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2068499932563066913",
+        "created_at": "2026-06-21T01:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068499932563066913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDGqjL1kZ9",
+              "end": 116,
+              "expanded_url": "https://x.com/TheOtaking/status/2068499932563066913/photo/1",
+              "media_key": "3_2068499927496376320",
+              "start": 93,
+              "url": "https://t.co/eDGqjL1kZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068499932563066913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 8471,
+          "like_count": 445,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "Love &amp; Pop (Live movie) - Hideaki Anno - 1998\n\nPoster illustration by Yoshiyuki Sadamoto https://t.co/eDGqjL1kZ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 57,
+          "like_count": 3343,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-13T11:42:49.000Z",
+        "description": "I like to post gifs and official pics from animes, mangas & video games. Sometimes I also recommend things I like. My main is @HichamKiy / https://t.co/NHMek04q30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "HichamKiy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "boxd.it/7tJdV",
+                "end": 162,
+                "expanded_url": "https://boxd.it/7tJdV",
+                "start": 139,
+                "url": "https://t.co/NHMek04q30"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/profile/Hicham…",
+                "end": 23,
+                "expanded_url": "https://myanimelist.net/profile/Hicham_Kiy",
+                "start": 0,
+                "url": "https://t.co/z0pRHJAGZw"
+              }
+            ]
+          }
+        },
+        "id": "852487234171404288",
+        "location": "Iblard",
+        "name": "Otaking 🇵🇸",
+        "pinned_tweet_id": "1021884226600427520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809294485483905025/5-DtoQBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167142,
+          "following_count": 147,
+          "like_count": 796,
+          "listed_count": 1148,
+          "media_count": 22041,
+          "tweet_count": 32691
+        },
+        "url": "https://t.co/z0pRHJAGZw",
+        "username": "TheOtaking",
+        "verified": false
+      }
+    ]
+  }
+}

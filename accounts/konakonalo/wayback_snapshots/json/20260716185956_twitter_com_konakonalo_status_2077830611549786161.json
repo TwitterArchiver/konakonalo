@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077505798582984705"
+      ],
+      "media_source_tweet_id": [
+        "2077505802370527411"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2077830611549786161",
+    "created_at": "2026-07-16T18:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077830611549786161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518823971461877760",
+          "start": 3,
+          "username": "uusseerr_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4PxblL7rwm",
+          "end": 39,
+          "expanded_url": "https://x.com/uusseerr_7/status/2077505802370527411/photo/1",
+          "media_key": "3_2077505798582984705",
+          "start": 16,
+          "url": "https://t.co/4PxblL7rwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077830611549786161",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077505802370527411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uusseerr_7: https://t.co/4PxblL7rwm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077505798582984705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTIhEdaYAEG9ZZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077505798582984705"
+          ]
+        },
+        "author_id": "1518823971461877760",
+        "conversation_id": "2077505802370527411",
+        "created_at": "2026-07-15T21:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077505802370527411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PxblL7rwm",
+              "end": 23,
+              "expanded_url": "https://x.com/uusseerr_7/status/2077505802370527411/photo/1",
+              "media_key": "3_2077505798582984705",
+              "start": 0,
+              "url": "https://t.co/4PxblL7rwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077505802370527411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5792,
+          "like_count": 537,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4PxblL7rwm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077505798582984705"
+          ],
+          "media_source_tweet_id": [
+            "2077505802370527411"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2077830611549786161",
+        "created_at": "2026-07-16T18:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077830611549786161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518823971461877760",
+              "start": 3,
+              "username": "uusseerr_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PxblL7rwm",
+              "end": 39,
+              "expanded_url": "https://x.com/uusseerr_7/status/2077505802370527411/photo/1",
+              "media_key": "3_2077505798582984705",
+              "start": 16,
+              "url": "https://t.co/4PxblL7rwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077830611549786161",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077505802370527411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uusseerr_7: https://t.co/4PxblL7rwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 185,
+          "like_count": 7350,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T05:27:24.000Z",
+        "description": "nevermind",
+        "id": "1518823971461877760",
+        "name": "shy",
+        "pinned_tweet_id": "2071695140746604603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821779065038127104/l27rThlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 319,
+          "like_count": 58192,
+          "listed_count": 5,
+          "media_count": 743,
+          "tweet_count": 5791
+        },
+        "url": "",
+        "username": "uusseerr_7",
+        "verified": false
+      }
+    ]
+  }
+}

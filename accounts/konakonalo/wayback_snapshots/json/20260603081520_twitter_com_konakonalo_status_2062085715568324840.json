@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2062082839752134774",
+    "created_at": "2026-06-03T08:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062085715568324840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1614176856638640128",
+          "start": 0,
+          "username": "cellkeroppiben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062085715568324840",
+    "in_reply_to_user_id": "1614176856638640128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062082839752134774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cellkeroppiben 大姐姐你为什么要用鼻子放屁呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062082805333667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ39YtVasAAPi--.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2062082805333680128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ39YtVa4AAhJkt.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062082805379796992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ39YtgakAAgr_i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2062082805379842048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ39YtgbQAAxquW.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2062082839752134774",
+        "created_at": "2026-06-03T08:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062085715568324840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1614176856638640128",
+              "start": 0,
+              "username": "cellkeroppiben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062085715568324840",
+        "in_reply_to_user_id": "1614176856638640128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062082839752134774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cellkeroppiben 大姐姐你为什么要用鼻子放屁呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062082805333667840",
+            "3_2062082805333680128",
+            "3_2062082805379796992",
+            "3_2062082805379842048"
+          ]
+        },
+        "author_id": "1614176856638640128",
+        "conversation_id": "2062082839752134774",
+        "created_at": "2026-06-03T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062082839752134774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjthcEkoWY",
+              "end": 25,
+              "expanded_url": "https://x.com/cellkeroppiben/status/2062082839752134774/photo/1",
+              "media_key": "3_2062082805333667840",
+              "start": 2,
+              "url": "https://t.co/JjthcEkoWY"
+            },
+            {
+              "display_url": "pic.x.com/JjthcEkoWY",
+              "end": 25,
+              "expanded_url": "https://x.com/cellkeroppiben/status/2062082839752134774/photo/1",
+              "media_key": "3_2062082805333680128",
+              "start": 2,
+              "url": "https://t.co/JjthcEkoWY"
+            },
+            {
+              "display_url": "pic.x.com/JjthcEkoWY",
+              "end": 25,
+              "expanded_url": "https://x.com/cellkeroppiben/status/2062082839752134774/photo/1",
+              "media_key": "3_2062082805379796992",
+              "start": 2,
+              "url": "https://t.co/JjthcEkoWY"
+            },
+            {
+              "display_url": "pic.x.com/JjthcEkoWY",
+              "end": 25,
+              "expanded_url": "https://x.com/cellkeroppiben/status/2062082839752134774/photo/1",
+              "media_key": "3_2062082805379842048",
+              "start": 2,
+              "url": "https://t.co/JjthcEkoWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062082839752134774",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😤 https://t.co/JjthcEkoWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 2681,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 158
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T08:25:36.000Z",
+        "description": "@MichaelJackson",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "MichaelJackson"
+              }
+            ]
+          }
+        },
+        "id": "1614176856638640128",
+        "name": "般若心经开朗的一面",
+        "pinned_tweet_id": "1695360089706963449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694959006975197184/Q0REqvGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 139,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 181
+        },
+        "username": "cellkeroppiben",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2071827871627448504",
+    "created_at": "2026-06-30T05:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071827871627448504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2069199904434700288",
+          "start": 3,
+          "username": "xiaoyun0824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071827871627448504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071819528724722109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyun0824: 姐妹，你要是全家死了可以直接跟我说，不用做一些死全家的事来隐晦地告诉我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2071827871627448504",
+        "created_at": "2026-06-30T05:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071827871627448504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2069199904434700288",
+              "start": 3,
+              "username": "xiaoyun0824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071827871627448504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071819528724722109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyun0824: 姐妹，你要是全家死了可以直接跟我说，不用做一些死全家的事来隐晦地告诉我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069199904434700288",
+        "conversation_id": "2071819528724722109",
+        "created_at": "2026-06-30T04:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071819528724722109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071819528724722109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹，你要是全家死了可以直接跟我说，不用做一些死全家的事来隐晦地告诉我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 95,
+          "like_count": 4149,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T23:25:48.000Z",
+        "description": "我是妮娅塔｜磕药自残ed｜智商低情商低认知低没朋友身份证号2301开头脾气不好学籍山东别惹我｜06｜🚫粉红事逼｜我搞史向oc同人｜除朋友外不回复渠道谢谢你们",
+        "id": "2069199904434700288",
+        "location": "0.2km",
+        "name": "ninetta",
+        "pinned_tweet_id": "2069203462328635841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071596568000839680/OgQxLcMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 91,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "xiaoyun0824",
+        "verified": false
+      }
+    ]
+  }
+}

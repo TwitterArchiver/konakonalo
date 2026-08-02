@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073629336247136256"
+      ],
+      "media_source_tweet_id": [
+        "2073629339795537984"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073673927889440892",
+    "created_at": "2026-07-05T07:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073673927889440892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2071392819109883904",
+          "start": 3,
+          "username": "sennergia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DE0J8bQefU",
+          "end": 38,
+          "expanded_url": "https://x.com/sennergia/status/2073629339795537984/photo/1",
+          "media_key": "3_2073629336247136256",
+          "start": 15,
+          "url": "https://t.co/DE0J8bQefU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073673927889440892",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073629339795537984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sennergia: https://t.co/DE0J8bQefU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 333,
+        "media_key": "3_2073629336247136256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcC5Q7W8AAhZtL.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073629336247136256"
+          ],
+          "media_source_tweet_id": [
+            "2073629339795537984"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073673927889440892",
+        "created_at": "2026-07-05T07:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073673927889440892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2071392819109883904",
+              "start": 3,
+              "username": "sennergia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DE0J8bQefU",
+              "end": 38,
+              "expanded_url": "https://x.com/sennergia/status/2073629339795537984/photo/1",
+              "media_key": "3_2073629336247136256",
+              "start": 15,
+              "url": "https://t.co/DE0J8bQefU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073673927889440892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073629339795537984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sennergia: https://t.co/DE0J8bQefU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073629336247136256"
+          ]
+        },
+        "author_id": "2071392819109883904",
+        "conversation_id": "2073629339795537984",
+        "created_at": "2026-07-05T04:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073629339795537984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DE0J8bQefU",
+              "end": 23,
+              "expanded_url": "https://x.com/sennergia/status/2073629339795537984/photo/1",
+              "media_key": "3_2073629336247136256",
+              "start": 0,
+              "url": "https://t.co/DE0J8bQefU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073629339795537984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 709,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DE0J8bQefU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 131,
+          "like_count": 5230,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T00:40:05.000Z",
+        "description": "#Dornenherz",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "Dornenherz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pin.it/47ZEMlfJD",
+                "end": 23,
+                "expanded_url": "https://pin.it/47ZEMlfJD",
+                "start": 0,
+                "url": "https://t.co/0nLP0bK7E8"
+              }
+            ]
+          }
+        },
+        "id": "2071392819109883904",
+        "location": "Alexandria, Egypt",
+        "name": "4CIDØ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071665785794080768/Wt2ZV-yJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 46,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/0nLP0bK7E8",
+        "username": "sennergia",
+        "verified": false
+      }
+    ]
+  }
+}

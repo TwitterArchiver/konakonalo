@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083085477616156672"
+      ],
+      "media_source_tweet_id": [
+        "2083085482737459604"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2083352818916987348",
+    "created_at": "2026-08-01T00:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083352818916987348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1355138035726376965",
+          "start": 3,
+          "username": "fragiltities"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/stdjrYE6Wx",
+          "end": 41,
+          "expanded_url": "https://x.com/fragiltities/status/2083085482737459604/photo/1",
+          "media_key": "3_2083085477616156672",
+          "start": 18,
+          "url": "https://t.co/stdjrYE6Wx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083352818916987348",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083085482737459604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fragiltities: https://t.co/stdjrYE6Wx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_2083085477616156672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOibNIoWAAAKkLy.jpg",
+        "width": 348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083085477616156672"
+          ]
+        },
+        "author_id": "1355138035726376965",
+        "conversation_id": "2083085482737459604",
+        "created_at": "2026-07-31T07:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083085482737459604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/stdjrYE6Wx",
+              "end": 23,
+              "expanded_url": "https://x.com/fragiltities/status/2083085482737459604/photo/1",
+              "media_key": "3_2083085477616156672",
+              "start": 0,
+              "url": "https://t.co/stdjrYE6Wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085482737459604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1415,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/stdjrYE6Wx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083085477616156672"
+          ],
+          "media_source_tweet_id": [
+            "2083085482737459604"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2083352818916987348",
+        "created_at": "2026-08-01T00:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083352818916987348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1355138035726376965",
+              "start": 3,
+              "username": "fragiltities"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/stdjrYE6Wx",
+              "end": 41,
+              "expanded_url": "https://x.com/fragiltities/status/2083085482737459604/photo/1",
+              "media_key": "3_2083085477616156672",
+              "start": 18,
+              "url": "https://t.co/stdjrYE6Wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083352818916987348",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083085482737459604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fragiltities: https://t.co/stdjrYE6Wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 278,
+          "like_count": 8978,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T12:57:51.000Z",
+        "description": "everyone i once admired is now a pornstar or a pedophile\n\na blog and media i like",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "…udontwanttoseemeinfuriated.straw.page",
+                "end": 23,
+                "expanded_url": "https://youdontwanttoseemeinfuriated.straw.page/",
+                "start": 0,
+                "url": "https://t.co/3Nzww0mbdk"
+              }
+            ]
+          }
+        },
+        "id": "1355138035726376965",
+        "location": "suffer and die",
+        "name": "Youdontwanttoseemeinfuriated",
+        "pinned_tweet_id": "2070734195270287521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083091511533568000/usdTZRR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 56,
+          "like_count": 3722,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/3Nzww0mbdk",
+        "username": "fragiltities",
+        "verified": false
+      }
+    ]
+  }
+}

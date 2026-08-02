@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072717196833198200",
+    "created_at": "2026-07-02T16:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072718350019449212"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072718350019449212",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072717196833198200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讨厌他们这种装腔作势的感觉。娄烨的拍摄风格，周迅的演技都像一口黏痰啪的一下被吐进我的嘴巴里顺着食道缓缓下滑。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072717196833198200",
+        "created_at": "2026-07-02T16:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072718350019449212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072718350019449212",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072717196833198200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讨厌他们这种装腔作势的感觉。娄烨的拍摄风格，周迅的演技都像一口黏痰啪的一下被吐进我的嘴巴里顺着食道缓缓下滑。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072717196833198200",
+        "created_at": "2026-07-02T16:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072717196833198200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072717196833198200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌娄烨，讨厌周迅，因此我特别的讨厌苏州河。没有不讨厌春风沉醉的夜晚和不讨厌李米的猜想的意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 96,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2069873971689046332",
+    "created_at": "2026-06-25T11:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070104215947796847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2070016419409141760",
+          "start": 0,
+          "username": "songcheng09151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070104215947796847",
+    "in_reply_to_user_id": "2070016419409141760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070044741480386955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songcheng09151 好呀好呀快来私信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2069873971689046332",
+        "created_at": "2026-06-25T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070104215947796847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2070016419409141760",
+              "start": 0,
+              "username": "songcheng09151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070104215947796847",
+        "in_reply_to_user_id": "2070016419409141760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070044741480386955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songcheng09151 好呀好呀快来私信我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070016419409141760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069873971689046332",
+        "created_at": "2026-06-25T07:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070044741480386955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070044741480386955",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069873971689046332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 申请网易云好友，还有电影位好友(*＾3＾)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 60,
+          "like_count": 3384,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T05:30:37.000Z",
+        "description": "04/infp/女♀\n希望成为香辣鸡腿堡，因为我爱吃",
+        "id": "2070016419409141760",
+        "name": "香辣鸡腿堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070016946117234689/dW2nFpzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "songcheng09151",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082184715537371136"
+      ],
+      "media_source_tweet_id": [
+        "2082184786651893867"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082249279348019660",
+    "created_at": "2026-07-28T23:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082249279348019660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1357843337873530881",
+          "start": 3,
+          "username": "elaifresh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOF9gjCeow",
+          "end": 66,
+          "expanded_url": "https://x.com/elaifresh/status/2082184786651893867/video/1",
+          "media_key": "13_2082184715537371136",
+          "start": 43,
+          "url": "https://t.co/eOF9gjCeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082249279348019660",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082184786651893867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elaifresh: This is such cool technique https://t.co/eOF9gjCeow"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65065,
+        "height": 1024,
+        "media_key": "13_2082184715537371136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082184715537371136/img/n2vL1PFiHdoRzpH4.jpg",
+        "public_metrics": {
+          "view_count": 91532
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082184715537371136/vid/avc1/320x568/HWhHEWw9KVNqiPqJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082184715537371136/vid/avc1/480x852/EGmqyj7IcoHXzkSK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082184715537371136/vid/avc1/576x1024/5c-H_NH4mgs-QPsm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082184715537371136/pl/SbCH8_FyCh5Hm5k_.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082184715537371136"
+          ]
+        },
+        "author_id": "1357843337873530881",
+        "conversation_id": "2082184786651893867",
+        "created_at": "2026-07-28T19:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082184786651893867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOF9gjCeow",
+              "end": 51,
+              "expanded_url": "https://x.com/elaifresh/status/2082184786651893867/video/1",
+              "media_key": "13_2082184715537371136",
+              "start": 28,
+              "url": "https://t.co/eOF9gjCeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082184786651893867",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1313,
+          "impression_count": 178574,
+          "like_count": 9007,
+          "quote_count": 24,
+          "reply_count": 7,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "This is such cool technique https://t.co/eOF9gjCeow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082184715537371136"
+          ],
+          "media_source_tweet_id": [
+            "2082184786651893867"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082249279348019660",
+        "created_at": "2026-07-28T23:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082249279348019660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1357843337873530881",
+              "start": 3,
+              "username": "elaifresh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOF9gjCeow",
+              "end": 66,
+              "expanded_url": "https://x.com/elaifresh/status/2082184786651893867/video/1",
+              "media_key": "13_2082184715537371136",
+              "start": 43,
+              "url": "https://t.co/eOF9gjCeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082249279348019660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082184786651893867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elaifresh: This is such cool technique https://t.co/eOF9gjCeow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 265,
+          "like_count": 8663,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T00:07:48.000Z",
+        "description": "Water engineer, cyclist, walker, talker. A better world is possible. 🇭🇺🇷🇺🇸🇰🇵🇸🇮🇱🇪🇹🇲🇦🇪🇸🇦🇷🇬🇧🇺🇲",
+        "id": "1357843337873530881",
+        "location": "San Francisco, CA",
+        "name": "Elai",
+        "pinned_tweet_id": "1662604766776803328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855667672710631424/6j4jub7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7851,
+          "following_count": 6902,
+          "like_count": 909660,
+          "listed_count": 36,
+          "media_count": 8978,
+          "tweet_count": 63823
+        },
+        "url": "",
+        "username": "elaifresh",
+        "verified": false
+      }
+    ]
+  }
+}

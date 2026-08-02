@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052555741593010177"
+      ],
+      "media_source_tweet_id": [
+        "2052555803760918688"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2052573810239644068",
+    "created_at": "2026-05-08T02:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052573810239644068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1439289760787349511",
+          "start": 3,
+          "username": "filmasians"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sS14LoHkUM",
+          "end": 82,
+          "expanded_url": "https://x.com/filmasians/status/2052555803760918688/video/1",
+          "media_key": "13_2052555741593010177",
+          "start": 59,
+          "url": "https://t.co/sS14LoHkUM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052573810239644068",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052555803760918688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @filmasians: dear friends (2007) dir. kazuyuki morosawa https://t.co/sS14LoHkUM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21133,
+        "height": 1080,
+        "media_key": "13_2052555741593010177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052555741593010177/img/DSVAre8HY_A-Ankb.jpg",
+        "public_metrics": {
+          "view_count": 457
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052555741593010177/pl/SPTmaLwtfX7Kjsk4.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555741593010177/vid/avc1/1440x1080/TqQ_NEHTQ_09ttJN.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555741593010177/vid/avc1/360x270/3mzBfrXAZz5htmBN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555741593010177/vid/avc1/480x360/2BAhKYoiEEsg9BqV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052555741593010177/vid/avc1/960x720/rPyvXzFmeSa64UxW.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052555741593010177"
+          ],
+          "media_source_tweet_id": [
+            "2052555803760918688"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2052573810239644068",
+        "created_at": "2026-05-08T02:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052573810239644068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1439289760787349511",
+              "start": 3,
+              "username": "filmasians"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sS14LoHkUM",
+              "end": 82,
+              "expanded_url": "https://x.com/filmasians/status/2052555803760918688/video/1",
+              "media_key": "13_2052555741593010177",
+              "start": 59,
+              "url": "https://t.co/sS14LoHkUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052573810239644068",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052555803760918688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @filmasians: dear friends (2007) dir. kazuyuki morosawa https://t.co/sS14LoHkUM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052555741593010177"
+          ]
+        },
+        "author_id": "1439289760787349511",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1443271952647348224",
+              "name": "Jung HoYeon"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1443271952647348224",
+              "name": "Jung HoYeon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1443271952647348224",
+              "name": "Jung HoYeon"
+            }
+          }
+        ],
+        "conversation_id": "2052555803760918688",
+        "created_at": "2026-05-08T01:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052555803760918688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sS14LoHkUM",
+              "end": 66,
+              "expanded_url": "https://x.com/filmasians/status/2052555803760918688/video/1",
+              "media_key": "13_2052555741593010177",
+              "start": 43,
+              "url": "https://t.co/sS14LoHkUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052555803760918688",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 1482,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "dear friends (2007) dir. kazuyuki morosawa https://t.co/sS14LoHkUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 2006,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 131
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T18:06:49.000Z",
+        "description": "cinema",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/4Pjhp",
+                "end": 23,
+                "expanded_url": "https://boxd.it/4Pjhp",
+                "start": 0,
+                "url": "https://t.co/6tAmgIMzT5"
+              }
+            ]
+          }
+        },
+        "id": "1439289760787349511",
+        "name": "ִ",
+        "pinned_tweet_id": "1782199720028328106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811494394446643202/1H54Pdaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149938,
+          "following_count": 189,
+          "like_count": 3482,
+          "listed_count": 315,
+          "media_count": 396,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/6tAmgIMzT5",
+        "username": "filmasians",
+        "verified": true
+      }
+    ]
+  }
+}

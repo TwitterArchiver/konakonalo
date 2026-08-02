@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072897621396447232"
+      ],
+      "media_source_tweet_id": [
+        "2072897637519413313"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072930837839196423",
+    "created_at": "2026-07-03T06:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072930837839196423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066201463664308224",
+          "start": 3,
+          "username": "tiantokot2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nZSP3SZcLG",
+          "end": 41,
+          "expanded_url": "https://x.com/tiantokot2/status/2072897637519413313/photo/1",
+          "media_key": "3_2072897621396447232",
+          "start": 18,
+          "url": "https://t.co/nZSP3SZcLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072930837839196423",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072897637519413313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantokot2: 朝 https://t.co/nZSP3SZcLG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_2072897621396447232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRpZ2sWYAAxFxH.jpg",
+        "width": 1339
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072897621396447232"
+          ],
+          "media_source_tweet_id": [
+            "2072897637519413313"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072930837839196423",
+        "created_at": "2026-07-03T06:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072930837839196423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066201463664308224",
+              "start": 3,
+              "username": "tiantokot2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZSP3SZcLG",
+              "end": 41,
+              "expanded_url": "https://x.com/tiantokot2/status/2072897637519413313/photo/1",
+              "media_key": "3_2072897621396447232",
+              "start": 18,
+              "url": "https://t.co/nZSP3SZcLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072930837839196423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072897637519413313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantokot2: 朝 https://t.co/nZSP3SZcLG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072897621396447232"
+          ]
+        },
+        "author_id": "2066201463664308224",
+        "conversation_id": "2072897637519413313",
+        "created_at": "2026-07-03T04:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072897637519413313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZSP3SZcLG",
+              "end": 25,
+              "expanded_url": "https://x.com/tiantokot2/status/2072897637519413313/photo/1",
+              "media_key": "3_2072897621396447232",
+              "start": 2,
+              "url": "https://t.co/nZSP3SZcLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072897637519413313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1422,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "朝 https://t.co/nZSP3SZcLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 106,
+          "like_count": 4806,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T16:50:44.000Z",
+        "description": "Illustrator 🦷dm for cooperation /commission\n前身：東京牛乳",
+        "id": "2066201463664308224",
+        "name": "東京牛乳（2）",
+        "pinned_tweet_id": "2066746475338469563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066203855831089153/SkMv61OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 157,
+          "like_count": 1084,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "tiantokot2",
+        "verified": false
+      }
+    ]
+  }
+}

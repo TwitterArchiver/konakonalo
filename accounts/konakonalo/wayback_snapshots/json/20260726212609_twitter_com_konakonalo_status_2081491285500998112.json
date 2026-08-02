@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2081425596475998270",
+    "created_at": "2026-07-26T21:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081491285500998112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Tisav5000sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081491285500998112",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081425596475998270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tisav5000sd 是啊，完全搞不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2081425596475998270",
+        "created_at": "2026-07-26T21:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081491285500998112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Tisav5000sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081491285500998112",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081425596475998270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tisav5000sd 是啊，完全搞不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777636769187676160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1401963861658378255",
+              "name": "X Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1401963861658378255",
+              "name": "X Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401963861658378255",
+              "name": "X Japan"
+            }
+          }
+        ],
+        "conversation_id": "2081425596475998270",
+        "created_at": "2026-07-26T17:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081425596475998270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081425596475998270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就一直没搞懂视觉系难道不是从X Japan一类的Jrock的舞台妆造延伸出来的吗 为什么现在和udg强绑定了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 254,
+          "like_count": 8405,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "再活几年不活了 我可不想看到我变成中年\n啦啦啦外星人啊 快来把我们掳走吧",
+        "id": "1777636769187676160",
+        "location": "Los Angeles, CA",
+        "name": "TisaV 5680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 146,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "Tisav5000sd",
+        "verified": false
+      }
+    ]
+  }
+}

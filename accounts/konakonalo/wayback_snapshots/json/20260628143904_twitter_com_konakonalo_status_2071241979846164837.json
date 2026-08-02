@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2071241979846164837",
+    "created_at": "2026-06-28T14:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071241979846164837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abcdeadxyz/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/abcdeadxyz/status/2070871351011983797",
+          "start": 4,
+          "url": "https://t.co/8Cl4QukKk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071241979846164837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070871351011983797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "母亲… https://t.co/8Cl4QukKk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2070870955057152000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL02KWPbAAAVF-a.jpg",
+        "width": 422
+      },
+      {
+        "height": 354,
+        "media_key": "3_2070870998652715008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL02M4pagAAqNkn.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2071241979846164837",
+        "created_at": "2026-06-28T14:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071241979846164837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abcdeadxyz/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/abcdeadxyz/status/2070871351011983797",
+              "start": 4,
+              "url": "https://t.co/8Cl4QukKk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071241979846164837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070871351011983797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "母亲… https://t.co/8Cl4QukKk1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070870955057152000",
+            "3_2070870998652715008"
+          ]
+        },
+        "author_id": "1768945204328026112",
+        "conversation_id": "2070871351011983797",
+        "created_at": "2026-06-27T14:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070871351011983797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8xTz2D8F5",
+              "end": 39,
+              "expanded_url": "https://x.com/ABCdeadXYZ/status/2070871351011983797/photo/1",
+              "media_key": "3_2070870955057152000",
+              "start": 16,
+              "url": "https://t.co/Y8xTz2D8F5"
+            },
+            {
+              "display_url": "pic.x.com/Y8xTz2D8F5",
+              "end": 39,
+              "expanded_url": "https://x.com/ABCdeadXYZ/status/2070871351011983797/photo/1",
+              "media_key": "3_2070870998652715008",
+              "start": 16,
+              "url": "https://t.co/Y8xTz2D8F5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070871351011983797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 228843,
+          "like_count": 4488,
+          "quote_count": 41,
+          "reply_count": 4,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "戸川純「レーダーマン」腕パーツ https://t.co/Y8xTz2D8F5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 91,
+          "like_count": 3844,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T10:20:28.000Z",
+        "description": "そろそろ終活",
+        "id": "1768945204328026112",
+        "name": "エキゾチカ・ララバイ(改）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771529109996478464/uXaOYJ9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7205,
+          "following_count": 260,
+          "like_count": 12,
+          "listed_count": 31,
+          "media_count": 3426,
+          "tweet_count": 4598
+        },
+        "url": "",
+        "username": "ABCdeadXYZ",
+        "verified": false
+      }
+    ]
+  }
+}

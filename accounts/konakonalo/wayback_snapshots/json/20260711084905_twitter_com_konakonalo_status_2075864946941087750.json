@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075628873761406976"
+      ],
+      "media_source_tweet_id": [
+        "2075628876005269670"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1298715487476449280",
+          "name": "University of California Berkeley"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1298715487476449280",
+          "name": "University of California Berkeley"
+        }
+      }
+    ],
+    "conversation_id": "2075864946941087750",
+    "created_at": "2026-07-11T08:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075864946941087750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "14216617",
+          "start": 3,
+          "username": "benjancewicz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/snIUv6uDiK",
+          "end": 80,
+          "expanded_url": "https://x.com/benjancewicz/status/2075628876005269670/photo/1",
+          "media_key": "3_2075628873761406976",
+          "start": 57,
+          "url": "https://t.co/snIUv6uDiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075864946941087750",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075628876005269670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benjancewicz: Designed by UC Berkeley students, 1970 https://t.co/snIUv6uDiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2075628873761406976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4ddqoXwAApBnS.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075628873761406976"
+          ],
+          "media_source_tweet_id": [
+            "2075628876005269670"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          }
+        ],
+        "conversation_id": "2075864946941087750",
+        "created_at": "2026-07-11T08:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075864946941087750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "14216617",
+              "start": 3,
+              "username": "benjancewicz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snIUv6uDiK",
+              "end": 80,
+              "expanded_url": "https://x.com/benjancewicz/status/2075628876005269670/photo/1",
+              "media_key": "3_2075628873761406976",
+              "start": 57,
+              "url": "https://t.co/snIUv6uDiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075864946941087750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075628876005269670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benjancewicz: Designed by UC Berkeley students, 1970 https://t.co/snIUv6uDiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075628873761406976"
+          ]
+        },
+        "author_id": "14216617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          }
+        ],
+        "conversation_id": "2075628876005269670",
+        "created_at": "2026-07-10T17:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075628876005269670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snIUv6uDiK",
+              "end": 62,
+              "expanded_url": "https://x.com/benjancewicz/status/2075628876005269670/photo/1",
+              "media_key": "3_2075628873761406976",
+              "start": 39,
+              "url": "https://t.co/snIUv6uDiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075628876005269670",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 68461,
+          "like_count": 6338,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 498
+        },
+        "reply_settings": "everyone",
+        "text": "Designed by UC Berkeley students, 1970 https://t.co/snIUv6uDiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 190,
+          "like_count": 6521,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-03-25T16:20:19.000Z",
+        "description": "Independent Abolitionist • Photo/Graphic/Artist • Rez Raised • 🧔🏻👩🏽‍🦱🧑🏽‍🦱 • 🐻💕🐯 • 👨🏻‍💻@Zerflin • 🇺🇸🇨🇦•🇵🇱🇮🇪 Views = Mine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Zerflin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BenJancewicz.com",
+                "end": 23,
+                "expanded_url": "https://BenJancewicz.com",
+                "start": 0,
+                "url": "https://t.co/PcDINEP6QO"
+              }
+            ]
+          }
+        },
+        "id": "14216617",
+        "location": "Baltimore, MD",
+        "name": "Benjamin Young Savage (ᐱᓐᒋᐱᓐ) ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1386507747991109632/z6CnJFsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15062,
+          "following_count": 3663,
+          "like_count": 190552,
+          "listed_count": 279,
+          "media_count": 90799,
+          "tweet_count": 324287
+        },
+        "url": "https://t.co/PcDINEP6QO",
+        "username": "benjancewicz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2082138715988873585",
+    "created_at": "2026-07-28T22:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082224918176075896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1638205648541306882",
+          "start": 0,
+          "username": "megu5907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082224918176075896",
+    "in_reply_to_user_id": "1638205648541306882",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082224351575716166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@megu5907 tyyy☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2082138715988873585",
+        "created_at": "2026-07-28T22:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082224918176075896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1638205648541306882",
+              "start": 0,
+              "username": "megu5907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082224918176075896",
+        "in_reply_to_user_id": "1638205648541306882",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082224351575716166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@megu5907 tyyy☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638205648541306882",
+        "conversation_id": "2082138715988873585",
+        "created_at": "2026-07-28T21:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082224351575716166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082224351575716166",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082138715988873585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo you're so cool"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 266,
+          "like_count": 8633,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1067
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T15:47:28.000Z",
+        "description": "reading vns and stuff\n21 yo\nmyanimelist: https://t.co/mmkPVDdVnm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/profile/Megu59…",
+                "end": 64,
+                "expanded_url": "https://myanimelist.net/profile/Megu5907",
+                "start": 41,
+                "url": "https://t.co/mmkPVDdVnm"
+              }
+            ]
+          }
+        },
+        "id": "1638205648541306882",
+        "name": "megu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075125429250236416/nkQUA_Tt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 214,
+          "like_count": 1443,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "megu5907",
+        "verified": false
+      }
+    ]
+  }
+}

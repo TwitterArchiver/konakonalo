@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2079088846013358430",
+    "created_at": "2026-07-20T10:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079157913952944297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907794558550945793",
+          "start": 0,
+          "username": "yeza5911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079157913952944297",
+    "in_reply_to_user_id": "1907794558550945793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079143634482737576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeza5911 啊，我上一些打鼻中隔也疼晕了。我感觉鼻中隔壁我打耳桥还疼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2079088846013358430",
+        "created_at": "2026-07-20T10:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079157913952944297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907794558550945793",
+              "start": 0,
+              "username": "yeza5911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079157913952944297",
+        "in_reply_to_user_id": "1907794558550945793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079143634482737576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeza5911 啊，我上一些打鼻中隔也疼晕了。我感觉鼻中隔壁我打耳桥还疼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907794558550945793",
+        "conversation_id": "2079088846013358430",
+        "created_at": "2026-07-20T09:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079143634482737576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079143634482737576",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079088846013358430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 但是鼻中隔好像不疼 宝宝你现在碰它如果疼得厉害或者不碰也会疼可能是打在骨头上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 213,
+          "like_count": 7792,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T13:57:36.000Z",
+        "description": "Strawberry Fields Forever -",
+        "id": "1907794558550945793",
+        "location": "🟡小号 @yonghu59111",
+        "name": "保鲜室里的尸块",
+        "pinned_tweet_id": "2068999291956523423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957941973391986688/DpMCyKOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 355,
+          "like_count": 6615,
+          "listed_count": 3,
+          "media_count": 1685,
+          "tweet_count": 3844
+        },
+        "url": "",
+        "username": "yeza5911",
+        "verified": false
+      }
+    ]
+  }
+}

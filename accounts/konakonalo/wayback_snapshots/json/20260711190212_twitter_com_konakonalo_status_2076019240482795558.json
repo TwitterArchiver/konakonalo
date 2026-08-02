@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076019232924704768"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076019240482795558",
+    "created_at": "2026-07-11T19:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076019240482795558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EBcby83ykb",
+          "end": 29,
+          "expanded_url": "https://x.com/konakonalo/status/2076019240482795558/photo/1",
+          "media_key": "3_2076019232924704768",
+          "start": 6,
+          "url": "https://t.co/EBcby83ykb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076019240482795558",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mood： https://t.co/EBcby83ykb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2076019232924704768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-Afj1bIAACWdi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076019232924704768"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076019240482795558",
+        "created_at": "2026-07-11T19:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076019240482795558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBcby83ykb",
+              "end": 29,
+              "expanded_url": "https://x.com/konakonalo/status/2076019240482795558/photo/1",
+              "media_key": "3_2076019232924704768",
+              "start": 6,
+              "url": "https://t.co/EBcby83ykb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076019240482795558",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mood： https://t.co/EBcby83ykb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭可以叫我眼球。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 190,
+          "like_count": 6632,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

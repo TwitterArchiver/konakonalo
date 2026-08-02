@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048514191074672640"
+      ],
+      "media_source_tweet_id": [
+        "2048514193393930296"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2049113743930630654",
+    "created_at": "2026-04-28T13:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049113743930630654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1787478835895676929",
+          "start": 3,
+          "username": "egl_archive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MkJGx7evFS",
+          "end": 40,
+          "expanded_url": "https://x.com/egl_archive/status/2048514193393930296/photo/1",
+          "media_key": "3_2048514191074672640",
+          "start": 17,
+          "url": "https://t.co/MkJGx7evFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049113743930630654",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048514193393930296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egl_archive: https://t.co/MkJGx7evFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2048514191074672640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3IzaRaQAAx689.jpg",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048514191074672640"
+          ],
+          "media_source_tweet_id": [
+            "2048514193393930296"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2049113743930630654",
+        "created_at": "2026-04-28T13:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049113743930630654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1787478835895676929",
+              "start": 3,
+              "username": "egl_archive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkJGx7evFS",
+              "end": 40,
+              "expanded_url": "https://x.com/egl_archive/status/2048514193393930296/photo/1",
+              "media_key": "3_2048514191074672640",
+              "start": 17,
+              "url": "https://t.co/MkJGx7evFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049113743930630654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048514193393930296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egl_archive: https://t.co/MkJGx7evFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048514191074672640"
+          ]
+        },
+        "author_id": "1787478835895676929",
+        "conversation_id": "2048514193393930296",
+        "created_at": "2026-04-26T21:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T22:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048514193393930296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkJGx7evFS",
+              "end": 23,
+              "expanded_url": "https://x.com/egl_archive/status/2048514193393930296/photo/1",
+              "media_key": "3_2048514191074672640",
+              "start": 0,
+              "url": "https://t.co/MkJGx7evFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048514193393930296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 23920,
+          "like_count": 3490,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 684
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MkJGx7evFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 1679,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 114
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T13:45:59.000Z",
+        "description": "#no1 minori mon fan ^ω^ !! #egltwt #lolitatwt #jfashion 🍦 owned by : @sophi_sacrality 🍪 dm 4 creds or removal !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "no1"
+              },
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "egltwt"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "tag": "lolitatwt"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "tag": "jfashion"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "sophi_sacrality"
+              }
+            ]
+          }
+        },
+        "id": "1787478835895676929",
+        "location": "unicorn land !! 💭",
+        "name": "lolita/egl archive („• ֊ •„)੭",
+        "pinned_tweet_id": "2048479510975123654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048477374094942209/jsGQpdwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 49,
+          "like_count": 9042,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 1330
+        },
+        "username": "egl_archive",
+        "verified": false
+      }
+    ]
+  }
+}

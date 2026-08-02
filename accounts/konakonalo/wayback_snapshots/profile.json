@@ -1,0 +1,20 @@
+{
+  "name": "98岁游生梦死",
+  "username": "@konakonalo",
+  "bio": "@NoQ__NoQ 98岁游生梦死今日也在沉睡。 我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+  "location": "98岁游生梦死",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 9,
+        "start": 0,
+        "username": "NoQ__NoQ"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg"
+}

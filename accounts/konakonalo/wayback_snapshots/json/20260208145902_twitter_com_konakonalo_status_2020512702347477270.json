@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020429502229389313"
+      ],
+      "media_source_tweet_id": [
+        "2020429508701311333"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2020512702347477270",
+    "created_at": "2026-02-08T14:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020512702347477270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923322654800367616",
+          "start": 3,
+          "username": "softgazeclub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oa7lTl67WY",
+          "end": 41,
+          "expanded_url": "https://x.com/softgazeclub/status/2020429508701311333/photo/1",
+          "media_key": "3_2020429502229389313",
+          "start": 18,
+          "url": "https://t.co/oa7lTl67WY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020512702347477270",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020429508701311333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @softgazeclub: https://t.co/oa7lTl67WY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2020429502229389313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoB7XYaIAEMOFT.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020429502229389313"
+          ],
+          "media_source_tweet_id": [
+            "2020429508701311333"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2020512702347477270",
+        "created_at": "2026-02-08T14:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020512702347477270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923322654800367616",
+              "start": 3,
+              "username": "softgazeclub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oa7lTl67WY",
+              "end": 41,
+              "expanded_url": "https://x.com/softgazeclub/status/2020429508701311333/photo/1",
+              "media_key": "3_2020429502229389313",
+              "start": 18,
+              "url": "https://t.co/oa7lTl67WY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020512702347477270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020429508701311333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @softgazeclub: https://t.co/oa7lTl67WY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020429502229389313"
+          ]
+        },
+        "author_id": "1923322654800367616",
+        "conversation_id": "2020429508701311333",
+        "created_at": "2026-02-08T09:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020429508701311333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oa7lTl67WY",
+              "end": 23,
+              "expanded_url": "https://x.com/softgazeclub/status/2020429508701311333/photo/1",
+              "media_key": "3_2020429502229389313",
+              "start": 0,
+              "url": "https://t.co/oa7lTl67WY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020429508701311333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 30963,
+          "like_count": 2951,
+          "quote_count": 40,
+          "reply_count": 19,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oa7lTl67WY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T10:20:46.000Z",
+        "description": "",
+        "id": "1923322654800367616",
+        "name": "❁✿❀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928793559387299840/CLzwtxAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8639,
+          "following_count": 8406,
+          "like_count": 6285,
+          "listed_count": 26,
+          "media_count": 1436,
+          "tweet_count": 4239
+        },
+        "username": "softgazeclub",
+        "verified": true
+      }
+    ]
+  }
+}

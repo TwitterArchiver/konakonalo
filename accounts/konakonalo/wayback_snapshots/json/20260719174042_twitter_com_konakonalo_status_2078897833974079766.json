@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078854364198850560"
+      ],
+      "media_source_tweet_id": [
+        "2078854368233685190"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2078897833974079766",
+    "created_at": "2026-07-19T17:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078897833974079766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062131456575438848",
+          "start": 3,
+          "username": "wesartistes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBFbrrinZP",
+          "end": 40,
+          "expanded_url": "https://x.com/wesartistes/status/2078854368233685190/photo/1",
+          "media_key": "3_2078854364198850560",
+          "start": 17,
+          "url": "https://t.co/SBFbrrinZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078897833974079766",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078854368233685190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wesartistes: https://t.co/SBFbrrinZP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2078854364198850560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmTB63X0AAmaGl.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078854364198850560"
+          ]
+        },
+        "author_id": "2062131456575438848",
+        "conversation_id": "2078854368233685190",
+        "created_at": "2026-07-19T14:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078854368233685190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBFbrrinZP",
+              "end": 23,
+              "expanded_url": "https://x.com/wesartistes/status/2078854368233685190/photo/1",
+              "media_key": "3_2078854364198850560",
+              "start": 0,
+              "url": "https://t.co/SBFbrrinZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078854368233685190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 920,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SBFbrrinZP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078854364198850560"
+          ],
+          "media_source_tweet_id": [
+            "2078854368233685190"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2078897833974079766",
+        "created_at": "2026-07-19T17:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078897833974079766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062131456575438848",
+              "start": 3,
+              "username": "wesartistes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBFbrrinZP",
+              "end": 40,
+              "expanded_url": "https://x.com/wesartistes/status/2078854368233685190/photo/1",
+              "media_key": "3_2078854364198850560",
+              "start": 17,
+              "url": "https://t.co/SBFbrrinZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078897833974079766",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078854368233685190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wesartistes: https://t.co/SBFbrrinZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 195,
+          "like_count": 7630,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T11:17:58.000Z",
+        "description": "I can say I hope it will be worth what I give up",
+        "id": "2062131456575438848",
+        "location": "Wood Cabin",
+        "name": "Wes",
+        "pinned_tweet_id": "2073875376531448072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078879864036155392/4yfDL5Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 230,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 585
+        },
+        "url": "",
+        "username": "wesartistes",
+        "verified": false
+      }
+    ]
+  }
+}

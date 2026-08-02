@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2070175313125142679",
+    "created_at": "2026-06-25T16:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070175748644913324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070175748644913324",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070175313125142679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操吃这个愚昧片我一阵狂呕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070175302119256064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq9eBGa8AA3LHg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2070175313125142679",
+        "created_at": "2026-06-25T16:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070175748644913324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070175748644913324",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070175313125142679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操吃这个愚昧片我一阵狂呕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070175302119256064"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2070175313125142679",
+        "created_at": "2026-06-25T16:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070175313125142679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkxkWh9rTV",
+              "end": 37,
+              "expanded_url": "https://x.com/konakonalo/status/2070175313125142679/photo/1",
+              "media_key": "3_2070175302119256064",
+              "start": 14,
+              "url": "https://t.co/HkxkWh9rTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070175313125142679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界禁毒日直接奖励自己一波 https://t.co/HkxkWh9rTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

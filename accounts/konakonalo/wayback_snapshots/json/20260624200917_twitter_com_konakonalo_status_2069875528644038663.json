@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2069875528644038663",
+    "created_at": "2026-06-24T20:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069875528644038663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kyanuro/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kyanuro/status/2069170003736146283",
+          "start": 3,
+          "url": "https://t.co/gsm6Wc9T2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069875528644038663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069170003736146283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全 https://t.co/gsm6Wc9T2u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2069875528644038663",
+        "created_at": "2026-06-24T20:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069875528644038663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kyanuro/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kyanuro/status/2069170003736146283",
+              "start": 3,
+              "url": "https://t.co/gsm6Wc9T2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069875528644038663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069170003736146283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全 https://t.co/gsm6Wc9T2u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026652417392332800",
+        "conversation_id": "2069170003736146283",
+        "created_at": "2026-06-22T21:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069170003736146283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069170003736146283",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1530,
+          "impression_count": 669912,
+          "like_count": 76428,
+          "quote_count": 351,
+          "reply_count": 127,
+          "retweet_count": 16201
+        },
+        "reply_settings": "everyone",
+        "text": "si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 57,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T13:36:17.000Z",
+        "description": "dni OBESOS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/7R8XZ",
+                "end": 23,
+                "expanded_url": "https://boxd.it/7R8XZ",
+                "start": 0,
+                "url": "https://t.co/UfQap4Goiu"
+              }
+            ]
+          }
+        },
+        "id": "2026652417392332800",
+        "location": "´ཀ`   she   ||   murdertwt",
+        "name": "eri DEIDAD",
+        "pinned_tweet_id": "2066209572369453282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027127385338880001/IvMUTuhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 109,
+          "like_count": 4515,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/UfQap4Goiu",
+        "username": "kyanuro",
+        "verified": false
+      }
+    ]
+  }
+}

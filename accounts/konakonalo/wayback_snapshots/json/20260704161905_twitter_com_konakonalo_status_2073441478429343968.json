@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073441478429343968",
+    "created_at": "2026-07-04T16:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073441478429343968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/artdontsleep/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/artdontsleep/status/2053860566729420883",
+          "start": 15,
+          "url": "https://t.co/ciTLlwAQYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073441478429343968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053860566729420883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我如同被脑控一般每天哼唱这首 https://t.co/ciTLlwAQYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80101,
+        "height": 719,
+        "media_key": "7_2053860362299076608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053860362299076608/pu/img/qYhCaq5qfrjTL4TF.jpg",
+        "public_metrics": {
+          "view_count": 32732
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053860362299076608/pu/vid/avc1/340x270/kXEZRWcgBzS8td4P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053860362299076608/pu/vid/avc1/452x360/o6_lELQ10qlj5tvV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053860362299076608/pu/vid/avc1/904x718/Fd7HvCTycwY2518f.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053860362299076608/pu/pl/1AnKTJQFtoDc_POF.m3u8?tag=12"
+          }
+        ],
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073441478429343968",
+        "created_at": "2026-07-04T16:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073441478429343968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/artdontsleep/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/artdontsleep/status/2053860566729420883",
+              "start": 15,
+              "url": "https://t.co/ciTLlwAQYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073441478429343968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053860566729420883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我如同被脑控一般每天哼唱这首 https://t.co/ciTLlwAQYL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053860362299076608"
+          ]
+        },
+        "author_id": "18362169",
+        "conversation_id": "2053860566729420883",
+        "created_at": "2026-05-11T15:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053860566729420883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQMBAJ5LtY",
+              "end": 53,
+              "expanded_url": "https://x.com/ArtDontSleep/status/2053860566729420883/video/1",
+              "media_key": "7_2053860362299076608",
+              "start": 30,
+              "url": "https://t.co/vQMBAJ5LtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053860566729420883",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 82377,
+          "like_count": 2211,
+          "quote_count": 37,
+          "reply_count": 18,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "Portishead. \"All Mine,\" 1997. https://t.co/vQMBAJ5LtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 121,
+          "like_count": 5151,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-24T18:19:31.000Z",
+        "description": "Artist Management, Event Production and Promotion, Record Label Management: https://t.co/fCWzNsB0ta #jazzisdead",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 100,
+                "tag": "jazzisdead"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linearlabsmusic.com",
+                "end": 99,
+                "expanded_url": "http://linearlabsmusic.com",
+                "start": 76,
+                "url": "https://t.co/fCWzNsB0ta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/artdontsleep",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/artdontsleep",
+                "start": 0,
+                "url": "https://t.co/uGOQcQjLm1"
+              }
+            ]
+          }
+        },
+        "id": "18362169",
+        "location": "Los Angeles",
+        "name": "ArtDontSleep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1038239503301758976/ncdqXWZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9051,
+          "following_count": 1022,
+          "like_count": 10177,
+          "listed_count": 132,
+          "media_count": 3439,
+          "tweet_count": 26095
+        },
+        "url": "https://t.co/uGOQcQjLm1",
+        "username": "ArtDontSleep",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073817318166086001",
+    "created_at": "2026-07-05T17:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073817318166086001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/freakyfilms0/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/freakyfilms0/status/2073687145362186693",
+          "start": 6,
+          "url": "https://t.co/fTnaDn4kqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073817318166086001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073687145362186693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在哭 https://t.co/fTnaDn4kqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2073687105226817536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc3b3JaQAAObo-.jpg",
+        "width": 736
+      },
+      {
+        "height": 414,
+        "media_key": "3_2073687116673159168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc3chybkAAMKfA.jpg",
+        "width": 736
+      },
+      {
+        "height": 398,
+        "media_key": "3_2073687126471061504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc3dGSbsAAfh_N.jpg",
+        "width": 736
+      },
+      {
+        "height": 397,
+        "media_key": "3_2073687135136415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMc3dmkagAAVHAl.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073817318166086001",
+        "created_at": "2026-07-05T17:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073817318166086001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freakyfilms0/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/freakyfilms0/status/2073687145362186693",
+              "start": 6,
+              "url": "https://t.co/fTnaDn4kqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073817318166086001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073687145362186693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在哭 https://t.co/fTnaDn4kqN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073687105226817536",
+            "3_2073687116673159168",
+            "3_2073687126471061504",
+            "3_2073687135136415744"
+          ]
+        },
+        "author_id": "1906370614044364800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073687145362186693",
+        "created_at": "2026-07-05T08:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073687145362186693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uA1duOjhH",
+              "end": 36,
+              "expanded_url": "https://x.com/freakyfilms0/status/2073687145362186693/photo/1",
+              "media_key": "3_2073687105226817536",
+              "start": 13,
+              "url": "https://t.co/3uA1duOjhH"
+            },
+            {
+              "display_url": "pic.x.com/3uA1duOjhH",
+              "end": 36,
+              "expanded_url": "https://x.com/freakyfilms0/status/2073687145362186693/photo/1",
+              "media_key": "3_2073687116673159168",
+              "start": 13,
+              "url": "https://t.co/3uA1duOjhH"
+            },
+            {
+              "display_url": "pic.x.com/3uA1duOjhH",
+              "end": 36,
+              "expanded_url": "https://x.com/freakyfilms0/status/2073687145362186693/photo/1",
+              "media_key": "3_2073687126471061504",
+              "start": 13,
+              "url": "https://t.co/3uA1duOjhH"
+            },
+            {
+              "display_url": "pic.x.com/3uA1duOjhH",
+              "end": 36,
+              "expanded_url": "https://x.com/freakyfilms0/status/2073687145362186693/photo/1",
+              "media_key": "3_2073687135136415744",
+              "start": 13,
+              "url": "https://t.co/3uA1duOjhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073687145362186693",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2539,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "YI YI (2000) https://t.co/3uA1duOjhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 141,
+          "like_count": 5327,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T15:39:38.000Z",
+        "description": "⚰️",
+        "id": "1906370614044364800",
+        "name": "ilikefreakyfilms",
+        "pinned_tweet_id": "2073247930157510851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058498296101191680/xGqIPHCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 922,
+          "like_count": 744,
+          "listed_count": 5,
+          "media_count": 667,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "freakyfilms0",
+        "verified": true
+      }
+    ]
+  }
+}

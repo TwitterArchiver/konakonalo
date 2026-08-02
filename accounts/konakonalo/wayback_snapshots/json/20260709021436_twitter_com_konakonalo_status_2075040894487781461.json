@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2074880987474072001",
+    "created_at": "2026-07-09T02:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075040894487781461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626209229542666240",
+          "start": 0,
+          "username": "Himenoskyland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075040894487781461",
+    "in_reply_to_user_id": "1626209229542666240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074880987474072001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Himenoskyland 小真抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074880970755629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt1P-0bYAAobEY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2074880987474072001",
+        "created_at": "2026-07-09T02:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075040894487781461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626209229542666240",
+              "start": 0,
+              "username": "Himenoskyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075040894487781461",
+        "in_reply_to_user_id": "1626209229542666240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074880987474072001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Himenoskyland 小真抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074880970755629056"
+          ]
+        },
+        "author_id": "1626209229542666240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074880987474072001",
+        "created_at": "2026-07-08T15:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074880987474072001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WShzNiP17G",
+              "end": 35,
+              "expanded_url": "https://x.com/Himenoskyland/status/2074880987474072001/photo/1",
+              "media_key": "3_2074880970755629056",
+              "start": 12,
+              "url": "https://t.co/WShzNiP17G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074880987474072001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以切一块猪肉尝尝啊嗯 https://t.co/WShzNiP17G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 184,
+          "like_count": 6159,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T13:18:24.000Z",
+        "description": "∧＿ ∧ ＿ ∧\n(๑･ω･)•ㅅ•๑)\n/ ⌒ づ⊂ ⌒ ヽ୨",
+        "id": "1626209229542666240",
+        "location": "🚪52/88/188",
+        "name": "小真",
+        "pinned_tweet_id": "2073902630984917071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070800964089499648/dEvz2Fcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 241,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "Himenoskyland",
+        "verified": false
+      }
+    ]
+  }
+}

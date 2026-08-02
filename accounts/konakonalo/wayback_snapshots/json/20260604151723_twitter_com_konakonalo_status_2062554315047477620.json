@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2062554315047477620",
+    "created_at": "2026-06-04T15:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062554315047477620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741980969265987584",
+          "start": 3,
+          "username": "eliswez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062554315047477620",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062335354808484258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eliswez: olhar pra fumaca do cigarro me traz sensacao de paz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2062554315047477620",
+        "created_at": "2026-06-04T15:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062554315047477620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741980969265987584",
+              "start": 3,
+              "username": "eliswez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062554315047477620",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062335354808484258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eliswez: olhar pra fumaca do cigarro me traz sensacao de paz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741980969265987584",
+        "conversation_id": "2062335354808484258",
+        "created_at": "2026-06-04T00:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062335354808484258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062335354808484258",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 13933,
+          "like_count": 898,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "olhar pra fumaca do cigarro me traz sensacao de paz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 59,
+          "like_count": 2797,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 164
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T00:33:28.000Z",
+        "description": "besta enjaulada",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/eliwezs",
+                "end": 23,
+                "expanded_url": "http://instagram.com/eliwezs",
+                "start": 0,
+                "url": "https://t.co/E6RwL368W6"
+              }
+            ]
+          }
+        },
+        "id": "1741980969265987584",
+        "location": "hell",
+        "name": "eli",
+        "pinned_tweet_id": "2057165828680712653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061997597200351232/nW4MTz2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 216,
+          "like_count": 10690,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/E6RwL368W6",
+        "username": "eliswez",
+        "verified": false
+      }
+    ]
+  }
+}

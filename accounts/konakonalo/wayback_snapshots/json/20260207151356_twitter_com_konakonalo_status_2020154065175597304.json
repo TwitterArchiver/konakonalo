@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019908393197072384"
+      ],
+      "media_source_tweet_id": [
+        "2019908397886476617"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2020154065175597304",
+    "created_at": "2026-02-07T15:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T16:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020154065175597304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1567199719201415169",
+          "start": 3,
+          "username": "OldInternetFeel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47zsPS8S3N",
+          "end": 49,
+          "expanded_url": "https://x.com/OldInternetFeel/status/2019908397886476617/photo/1",
+          "media_key": "3_2019908393197072384",
+          "start": 26,
+          "url": "https://t.co/47zsPS8S3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020154065175597304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 618
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019908397886476617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OldInternetFeel: 2005 https://t.co/47zsPS8S3N"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Young Goth and the Virgin Mary parallel pray in a cemetery in Puerto Rico, 2005.",
+        "height": 946,
+        "media_key": "3_2019908393197072384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAgn-09XcAAomGW.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019908393197072384"
+          ],
+          "media_source_tweet_id": [
+            "2019908397886476617"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2020154065175597304",
+        "created_at": "2026-02-07T15:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020154065175597304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1567199719201415169",
+              "start": 3,
+              "username": "OldInternetFeel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47zsPS8S3N",
+              "end": 49,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2019908397886476617/photo/1",
+              "media_key": "3_2019908393197072384",
+              "start": 26,
+              "url": "https://t.co/47zsPS8S3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020154065175597304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 618
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019908397886476617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OldInternetFeel: 2005 https://t.co/47zsPS8S3N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019908393197072384"
+          ]
+        },
+        "author_id": "1567199719201415169",
+        "conversation_id": "2019908397886476617",
+        "created_at": "2026-02-06T22:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T23:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019908397886476617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47zsPS8S3N",
+              "end": 28,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2019908397886476617/photo/1",
+              "media_key": "3_2019908393197072384",
+              "start": 5,
+              "url": "https://t.co/47zsPS8S3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019908397886476617",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 49071,
+          "like_count": 5605,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 618
+        },
+        "reply_settings": "everyone",
+        "text": "2005 https://t.co/47zsPS8S3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:15:49.000Z",
+        "description": "I post things that have the feel of the old internet or just old things (meaning before 2017)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameronsworld.net",
+                "end": 23,
+                "expanded_url": "https://www.cameronsworld.net",
+                "start": 0,
+                "url": "https://t.co/gKUdfBxaKs"
+              }
+            ]
+          }
+        },
+        "id": "1567199719201415169",
+        "location": "The Cyberspace",
+        "name": "Old Internet",
+        "pinned_tweet_id": "1567213969684717568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567212634386071552/FYxctdTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466736,
+          "following_count": 55,
+          "like_count": 153,
+          "listed_count": 911,
+          "media_count": 13505,
+          "tweet_count": 15144
+        },
+        "url": "https://t.co/gKUdfBxaKs",
+        "username": "OldInternetFeel",
+        "verified": true
+      }
+    ]
+  }
+}

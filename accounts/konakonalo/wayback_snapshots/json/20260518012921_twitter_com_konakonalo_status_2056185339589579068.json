@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055980881035337728"
+      ],
+      "media_source_tweet_id": [
+        "2055980885804265814"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2056185339589579068",
+    "created_at": "2026-05-18T01:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056185339589579068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1284999091",
+          "start": 3,
+          "username": "_Obscr_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u2ad7l2e7W",
+          "end": 38,
+          "expanded_url": "https://x.com/_Obscr_/status/2055980885804265814/photo/1",
+          "media_key": "3_2055980881035337728",
+          "start": 15,
+          "url": "https://t.co/u2ad7l2e7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056185339589579068",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 975
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055980885804265814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Obscr_: 9 https://t.co/u2ad7l2e7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2282,
+        "media_key": "3_2055980881035337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhPt98bIAAyRnV.jpg",
+        "width": 2061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055980881035337728"
+          ],
+          "media_source_tweet_id": [
+            "2055980885804265814"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2056185339589579068",
+        "created_at": "2026-05-18T01:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056185339589579068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1284999091",
+              "start": 3,
+              "username": "_Obscr_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2ad7l2e7W",
+              "end": 38,
+              "expanded_url": "https://x.com/_Obscr_/status/2055980885804265814/photo/1",
+              "media_key": "3_2055980881035337728",
+              "start": 15,
+              "url": "https://t.co/u2ad7l2e7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056185339589579068",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 975
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055980885804265814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Obscr_: 9 https://t.co/u2ad7l2e7W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055980881035337728"
+          ]
+        },
+        "author_id": "1284999091",
+        "conversation_id": "2055980885804265814",
+        "created_at": "2026-05-17T11:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055980885804265814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2ad7l2e7W",
+              "end": 25,
+              "expanded_url": "https://x.com/_Obscr_/status/2055980885804265814/photo/1",
+              "media_key": "3_2055980881035337728",
+              "start": 2,
+              "url": "https://t.co/u2ad7l2e7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055980885804265814",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1711,
+          "impression_count": 145452,
+          "like_count": 11839,
+          "quote_count": 52,
+          "reply_count": 19,
+          "retweet_count": 975
+        },
+        "reply_settings": "everyone",
+        "text": "9 https://t.co/u2ad7l2e7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 2151,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 136
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-21T03:52:14.000Z",
+        "description": "\"共犯の痕\"(制作過程/進捗/思考の公開): https://t.co/MP2KeV54LA Instagram: https://t.co/vAhOFVaB5m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "obscr.fanbox.cc",
+                "end": 46,
+                "expanded_url": "https://obscr.fanbox.cc/",
+                "start": 23,
+                "url": "https://t.co/MP2KeV54LA"
+              },
+              {
+                "display_url": "instagram.com/___obscr___/?h…",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/___obscr___/?hl=ja",
+                "start": 58,
+                "url": "https://t.co/vAhOFVaB5m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "obscr.base.ec",
+                "end": 23,
+                "expanded_url": "https://obscr.base.ec/",
+                "start": 0,
+                "url": "https://t.co/BYmHYrmzOX"
+              }
+            ]
+          }
+        },
+        "id": "1284999091",
+        "name": "OBSCR",
+        "pinned_tweet_id": "2055256810312049112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827333976295714816/8kbACDRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28498,
+          "following_count": 0,
+          "like_count": 953,
+          "listed_count": 140,
+          "media_count": 1520,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/BYmHYrmzOX",
+        "username": "_Obscr_",
+        "verified": true
+      }
+    ]
+  }
+}

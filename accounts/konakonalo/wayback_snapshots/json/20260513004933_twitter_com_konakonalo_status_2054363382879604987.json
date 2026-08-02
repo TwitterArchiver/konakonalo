@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054225529633492993",
+        "3_2054225529633464320",
+        "3_2054225529633460224",
+        "3_2054225529629261824"
+      ],
+      "media_source_tweet_id": [
+        "2054225535098560884",
+        "2054225535098560884",
+        "2054225535098560884",
+        "2054225535098560884"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054363382879604987",
+    "created_at": "2026-05-13T00:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054363382879604987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028821228413444096",
+          "start": 3,
+          "username": "filmnjz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SxGDIQ6Lb9",
+          "end": 81,
+          "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+          "media_key": "3_2054225529633492993",
+          "start": 58,
+          "url": "https://t.co/SxGDIQ6Lb9"
+        },
+        {
+          "display_url": "pic.x.com/SxGDIQ6Lb9",
+          "end": 81,
+          "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+          "media_key": "3_2054225529633464320",
+          "start": 58,
+          "url": "https://t.co/SxGDIQ6Lb9"
+        },
+        {
+          "display_url": "pic.x.com/SxGDIQ6Lb9",
+          "end": 81,
+          "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+          "media_key": "3_2054225529633460224",
+          "start": 58,
+          "url": "https://t.co/SxGDIQ6Lb9"
+        },
+        {
+          "display_url": "pic.x.com/SxGDIQ6Lb9",
+          "end": 81,
+          "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+          "media_key": "3_2054225529629261824",
+          "start": 58,
+          "url": "https://t.co/SxGDIQ6Lb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054363382879604987",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054225535098560884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @filmnjz: kamikaze girls (2004) dir. tetsuya nakashima https://t.co/SxGDIQ6Lb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2054225529633492993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIITPEZX0AEWCgT.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2054225529633464320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIITPEZXYAAKr_N.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2054225529633460224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIITPEZXUAAPYqO.jpg",
+        "width": 1200
+      },
+      {
+        "height": 421,
+        "media_key": "3_2054225529629261824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIITPEYXQAARJP_.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054225529633492993",
+            "3_2054225529633464320",
+            "3_2054225529633460224",
+            "3_2054225529629261824"
+          ],
+          "media_source_tweet_id": [
+            "2054225535098560884",
+            "2054225535098560884",
+            "2054225535098560884",
+            "2054225535098560884"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054363382879604987",
+        "created_at": "2026-05-13T00:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054363382879604987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028821228413444096",
+              "start": 3,
+              "username": "filmnjz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 81,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529633492993",
+              "start": 58,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 81,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529633464320",
+              "start": 58,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 81,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529633460224",
+              "start": 58,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 81,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529629261824",
+              "start": 58,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054363382879604987",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054225535098560884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @filmnjz: kamikaze girls (2004) dir. tetsuya nakashima https://t.co/SxGDIQ6Lb9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054225529633492993",
+            "3_2054225529633464320",
+            "3_2054225529633460224",
+            "3_2054225529629261824"
+          ]
+        },
+        "author_id": "2028821228413444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054225535098560884",
+        "created_at": "2026-05-12T15:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054225535098560884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 68,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529633492993",
+              "start": 45,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 68,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529633464320",
+              "start": 45,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 68,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529633460224",
+              "start": 45,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "pic.x.com/SxGDIQ6Lb9",
+              "end": 68,
+              "expanded_url": "https://x.com/filmnjz/status/2054225535098560884/photo/1",
+              "media_key": "3_2054225529629261824",
+              "start": 45,
+              "url": "https://t.co/SxGDIQ6Lb9"
+            },
+            {
+              "display_url": "x.com/buffys/status/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/buffys/status/2053285387661942949",
+              "start": 69,
+              "url": "https://t.co/G2Xt6KxoDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054225535098560884",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 53217,
+          "like_count": 2489,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053285387661942949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kamikaze girls (2004) dir. tetsuya nakashima https://t.co/SxGDIQ6Lb9 https://t.co/G2Xt6KxoDx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 138
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T13:14:17.000Z",
+        "description": "cinema and music",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/6O5tR",
+                "end": 23,
+                "expanded_url": "https://boxd.it/6O5tR",
+                "start": 0,
+                "url": "https://t.co/qFjU3d1WrZ"
+              }
+            ]
+          }
+        },
+        "id": "2028821228413444096",
+        "name": "ؘ",
+        "pinned_tweet_id": "2031076597407613174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034325345600520192/3iAX6l-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 49,
+          "like_count": 767,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/qFjU3d1WrZ",
+        "username": "filmnjz",
+        "verified": false
+      }
+    ]
+  }
+}

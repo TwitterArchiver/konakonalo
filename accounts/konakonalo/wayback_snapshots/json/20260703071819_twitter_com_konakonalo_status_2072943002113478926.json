@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072592761757249536"
+      ],
+      "media_source_tweet_id": [
+        "2072592763565007120"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046650581",
+          "name": "Vogue Magazine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046650581",
+          "name": "Vogue Magazine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1255877953726017536",
+          "name": "Fashion magazines"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046650581",
+          "name": "Vogue Magazine"
+        }
+      }
+    ],
+    "conversation_id": "2072943002113478926",
+    "created_at": "2026-07-03T07:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072943002113478926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "36889519",
+          "start": 3,
+          "username": "RaminNasibov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVMBz91x7Y",
+          "end": 59,
+          "expanded_url": "https://x.com/RaminNasibov/status/2072592763565007120/photo/1",
+          "media_key": "3_2072592761757249536",
+          "start": 36,
+          "url": "https://t.co/UVMBz91x7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072943002113478926",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072592763565007120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaminNasibov: Vogue Japan,1967. https://t.co/UVMBz91x7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_2072592761757249536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNUIsCWMAAyvIF.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072592761757249536"
+          ],
+          "media_source_tweet_id": [
+            "2072592763565007120"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650581",
+              "name": "Vogue Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650581",
+              "name": "Vogue Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1255877953726017536",
+              "name": "Fashion magazines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046650581",
+              "name": "Vogue Magazine"
+            }
+          }
+        ],
+        "conversation_id": "2072943002113478926",
+        "created_at": "2026-07-03T07:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072943002113478926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "36889519",
+              "start": 3,
+              "username": "RaminNasibov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVMBz91x7Y",
+              "end": 59,
+              "expanded_url": "https://x.com/RaminNasibov/status/2072592763565007120/photo/1",
+              "media_key": "3_2072592761757249536",
+              "start": 36,
+              "url": "https://t.co/UVMBz91x7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072943002113478926",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072592763565007120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaminNasibov: Vogue Japan,1967. https://t.co/UVMBz91x7Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072592761757249536"
+          ]
+        },
+        "author_id": "36889519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650581",
+              "name": "Vogue Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650581",
+              "name": "Vogue Magazine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1255877953726017536",
+              "name": "Fashion magazines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046650581",
+              "name": "Vogue Magazine"
+            }
+          }
+        ],
+        "conversation_id": "2072592763565007120",
+        "created_at": "2026-07-02T08:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072592763565007120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVMBz91x7Y",
+              "end": 41,
+              "expanded_url": "https://x.com/RaminNasibov/status/2072592763565007120/photo/1",
+              "media_key": "3_2072592761757249536",
+              "start": 18,
+              "url": "https://t.co/UVMBz91x7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072592763565007120",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 12075,
+          "like_count": 887,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "Vogue Japan,1967. https://t.co/UVMBz91x7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 110,
+          "like_count": 4898,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T05:13:30.000Z",
+        "description": "Branding & Visual Identity Designer ✦ Available for new projects: ramin@nasibov.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasibov.me",
+                "end": 23,
+                "expanded_url": "https://www.nasibov.me",
+                "start": 0,
+                "url": "https://t.co/iCqDSJzjlc"
+              }
+            ]
+          }
+        },
+        "id": "36889519",
+        "location": "Book a project →",
+        "name": "Ramin Nasibov",
+        "pinned_tweet_id": "2072923516765126775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006792793650323456/WI88G3rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859062,
+          "following_count": 317868,
+          "like_count": 908908,
+          "listed_count": 3971,
+          "media_count": 76496,
+          "tweet_count": 92778
+        },
+        "url": "https://t.co/iCqDSJzjlc",
+        "username": "RaminNasibov",
+        "verified": true
+      }
+    ]
+  }
+}

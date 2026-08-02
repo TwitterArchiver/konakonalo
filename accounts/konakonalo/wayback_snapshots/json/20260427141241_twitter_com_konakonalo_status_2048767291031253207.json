@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048558933267329024",
+        "3_2048558933242150912"
+      ],
+      "media_source_tweet_id": [
+        "2048558938770096359",
+        "2048558938770096359"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2048767291031253207",
+    "created_at": "2026-04-27T14:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048767291031253207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827902278428160000",
+          "start": 3,
+          "username": "luchikdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oD9YSLecM7",
+          "end": 39,
+          "expanded_url": "https://x.com/luchikdoll/status/2048558938770096359/photo/1",
+          "media_key": "3_2048558933267329024",
+          "start": 16,
+          "url": "https://t.co/oD9YSLecM7"
+        },
+        {
+          "display_url": "pic.x.com/oD9YSLecM7",
+          "end": 39,
+          "expanded_url": "https://x.com/luchikdoll/status/2048558938770096359/photo/1",
+          "media_key": "3_2048558933242150912",
+          "start": 16,
+          "url": "https://t.co/oD9YSLecM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048767291031253207",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048558938770096359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luchikdoll: https://t.co/oD9YSLecM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2048558933267329024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3xfv7aMAAppva.jpg",
+        "width": 544
+      },
+      {
+        "height": 975,
+        "media_key": "3_2048558933242150912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3xfv1aAAApj9g.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048558933267329024",
+            "3_2048558933242150912"
+          ],
+          "media_source_tweet_id": [
+            "2048558938770096359",
+            "2048558938770096359"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2048767291031253207",
+        "created_at": "2026-04-27T14:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048767291031253207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827902278428160000",
+              "start": 3,
+              "username": "luchikdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oD9YSLecM7",
+              "end": 39,
+              "expanded_url": "https://x.com/luchikdoll/status/2048558938770096359/photo/1",
+              "media_key": "3_2048558933267329024",
+              "start": 16,
+              "url": "https://t.co/oD9YSLecM7"
+            },
+            {
+              "display_url": "pic.x.com/oD9YSLecM7",
+              "end": 39,
+              "expanded_url": "https://x.com/luchikdoll/status/2048558938770096359/photo/1",
+              "media_key": "3_2048558933242150912",
+              "start": 16,
+              "url": "https://t.co/oD9YSLecM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048767291031253207",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048558938770096359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luchikdoll: https://t.co/oD9YSLecM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048558933267329024",
+            "3_2048558933242150912"
+          ]
+        },
+        "author_id": "1827902278428160000",
+        "conversation_id": "2048558938770096359",
+        "created_at": "2026-04-27T00:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048558938770096359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oD9YSLecM7",
+              "end": 23,
+              "expanded_url": "https://x.com/luchikdoll/status/2048558938770096359/photo/1",
+              "media_key": "3_2048558933267329024",
+              "start": 0,
+              "url": "https://t.co/oD9YSLecM7"
+            },
+            {
+              "display_url": "pic.x.com/oD9YSLecM7",
+              "end": 23,
+              "expanded_url": "https://x.com/luchikdoll/status/2048558938770096359/photo/1",
+              "media_key": "3_2048558933242150912",
+              "start": 0,
+              "url": "https://t.co/oD9YSLecM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048558938770096359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1941,
+          "impression_count": 168620,
+          "like_count": 8264,
+          "quote_count": 245,
+          "reply_count": 6,
+          "retweet_count": 1160
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oD9YSLecM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 113
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T02:54:52.000Z",
+        "description": "I’m just made for the fashion industry",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ballet1dolls?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ballet1dolls?igsh=MXJxN3lubDljcGxtcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/NC6ySNdRCd"
+              }
+            ]
+          }
+        },
+        "id": "1827902278428160000",
+        "location": "🇸🇦 | 🇬🇧",
+        "name": "PinkRunwayDiary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042645182156292096/jXoy5PJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 83,
+          "like_count": 16903,
+          "listed_count": 8,
+          "media_count": 294,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/NC6ySNdRCd",
+        "username": "luchikdoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2071625993614401990",
+    "created_at": "2026-06-29T16:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071625993614401990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1472005223417847822",
+          "start": 3,
+          "username": "estherpornstar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071625993614401990",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1799
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071354668031054166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @estherpornstar: vazia ou cheia a mente continua sendo a oficina do diabo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2071625993614401990",
+        "created_at": "2026-06-29T16:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071625993614401990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1472005223417847822",
+              "start": 3,
+              "username": "estherpornstar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071625993614401990",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1799
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071354668031054166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @estherpornstar: vazia ou cheia a mente continua sendo a oficina do diabo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472005223417847822",
+        "conversation_id": "2071354668031054166",
+        "created_at": "2026-06-28T22:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071354668031054166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071354668031054166",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 58877,
+          "like_count": 3815,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 1799
+        },
+        "reply_settings": "everyone",
+        "text": "vazia ou cheia a mente continua sendo a oficina do diabo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 88,
+          "like_count": 4064,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T00:46:24.000Z",
+        "description": "͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏paranoia, blood pacts & https://t.co/k1yvNYaOro",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cannibalism.⠀",
+                "end": 66,
+                "expanded_url": "http://cannibalism.xn--6ii",
+                "start": 43,
+                "url": "https://t.co/k1yvNYaOro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/vallentimz",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/vallentimz",
+                "start": 0,
+                "url": "https://t.co/uMFOfzghUt"
+              }
+            ]
+          }
+        },
+        "id": "1472005223417847822",
+        "location": "⚧︎ | ig vallentimz ",
+        "name": "esther",
+        "pinned_tweet_id": "2057941116666745307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018021320932368384/-vq05ecn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 1384,
+          "like_count": 31474,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 16645
+        },
+        "url": "https://t.co/uMFOfzghUt",
+        "username": "estherpornstar",
+        "verified": false
+      }
+    ]
+  }
+}

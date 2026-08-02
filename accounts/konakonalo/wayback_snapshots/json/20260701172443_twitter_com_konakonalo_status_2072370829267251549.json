@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2072370829267251549",
+    "created_at": "2026-07-01T17:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072370829267251549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651273923114455041",
+          "start": 3,
+          "username": "X1anx1anZong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072370829267251549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072323285069746494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1anx1anZong: 你太健康了 我喜欢分手能开车撞死我的女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2072370829267251549",
+        "created_at": "2026-07-01T17:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072370829267251549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651273923114455041",
+              "start": 3,
+              "username": "X1anx1anZong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072370829267251549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072323285069746494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X1anx1anZong: 你太健康了 我喜欢分手能开车撞死我的女人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2072323285069746494",
+        "created_at": "2026-07-01T14:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072323285069746494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072323285069746494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1936,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你太健康了 我喜欢分手能开车撞死我的女人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 89,
+          "like_count": 4404,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "魔女裁判",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039711550400057345/hBevM-k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 56,
+          "like_count": 20590,
+          "listed_count": 4,
+          "media_count": 318,
+          "tweet_count": 11866
+        },
+        "url": "",
+        "username": "X1anx1anZong",
+        "verified": false
+      }
+    ]
+  }
+}

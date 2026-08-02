@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2077039717905019327",
+    "created_at": "2026-07-14T14:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077045234207539517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1923100693944299520",
+          "start": 0,
+          "username": "MoYoHe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077045234207539517",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077042654987407645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoYoHe_ 我以前听过 谢谢推荐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2077039717905019327",
+        "created_at": "2026-07-14T14:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077045234207539517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077045234207539517",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077042654987407645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 我以前听过 谢谢推荐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2077039717905019327",
+        "created_at": "2026-07-14T14:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077042654987407645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "歌曲名《Engine Kickin' In》，由 General Elektriks 演唱，收录于《Good City for Dreamers》专辑中，《Engine Kickin' In》下载，《Engine Kickin' In》在线试听，更多Engine Kickin' In相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ba1mWQNu",
+              "end": 85,
+              "expanded_url": "https://163cn.tv/ba1mWQNu",
+              "images": [
+                {
+                  "height": 363,
+                  "url": "https://pbs.twimg.com/news_img/2077042698427764736/BdrAk3Rd?format=png&name=orig",
+                  "width": 363
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077042698427764736/BdrAk3Rd?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "Engine Kickin' In - General Elektriks - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2645764&uct2=d2%2FTb3uUgnMlitd4kWsPVA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t3&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.37&sc=wm&tn=",
+              "url": "https://t.co/dGw8NkcKLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077042654987407645",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077039717905019327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 推荐一下这首\n分享General Elektriks的单曲《Engine Kickin' In》: https://t.co/dGw8NkcKLF (来自@网易云音乐)\n这首挺神经的而且间奏感觉很好听😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 176,
+          "like_count": 7162,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 118,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

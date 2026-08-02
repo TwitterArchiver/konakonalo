@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042946602491613192"
+      ],
+      "media_source_tweet_id": [
+        "2042946661937484130"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2043535501416899027",
+    "created_at": "2026-04-13T03:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043535501416899027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796797664912101376",
+          "start": 3,
+          "username": "QUEENP0P_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FBICdxQ3Av",
+          "end": 52,
+          "expanded_url": "https://x.com/QUEENP0P_/status/2042946661937484130/photo/1",
+          "media_key": "3_2042946602491613192",
+          "start": 29,
+          "url": "https://t.co/FBICdxQ3Av"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043535501416899027",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042946661937484130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @QUEENP0P_: Skins (2007)★ https://t.co/FBICdxQ3Av"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_2042946602491613192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoBHGiakAg_gWT.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042946602491613192"
+          ],
+          "media_source_tweet_id": [
+            "2042946661937484130"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2043535501416899027",
+        "created_at": "2026-04-13T03:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043535501416899027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796797664912101376",
+              "start": 3,
+              "username": "QUEENP0P_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBICdxQ3Av",
+              "end": 52,
+              "expanded_url": "https://x.com/QUEENP0P_/status/2042946661937484130/photo/1",
+              "media_key": "3_2042946602491613192",
+              "start": 29,
+              "url": "https://t.co/FBICdxQ3Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043535501416899027",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042946661937484130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @QUEENP0P_: Skins (2007)★ https://t.co/FBICdxQ3Av"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042946602491613192"
+          ]
+        },
+        "author_id": "1796797664912101376",
+        "conversation_id": "2042946661937484130",
+        "created_at": "2026-04-11T12:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042946661937484130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBICdxQ3Av",
+              "end": 37,
+              "expanded_url": "https://x.com/QUEENP0P_/status/2042946661937484130/photo/1",
+              "media_key": "3_2042946602491613192",
+              "start": 14,
+              "url": "https://t.co/FBICdxQ3Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042946661937484130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6612,
+          "like_count": 363,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Skins (2007)★ https://t.co/FBICdxQ3Av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 103
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T06:55:38.000Z",
+        "description": "pop culture | turn on notifications 🔔 \nBackup: @P0PKULTURE\nJoin our community and become a member.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "P0PKULTURE"
+              }
+            ]
+          }
+        },
+        "id": "1796797664912101376",
+        "name": "☆",
+        "pinned_tweet_id": "2042415510642704446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040340219355074560/Gls9nmNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14374,
+          "following_count": 1,
+          "like_count": 1286,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 371
+        },
+        "username": "QUEENP0P_",
+        "verified": true
+      }
+    ]
+  }
+}

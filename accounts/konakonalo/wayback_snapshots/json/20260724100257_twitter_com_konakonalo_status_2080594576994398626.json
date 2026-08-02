@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2061810607188484137",
+    "created_at": "2026-07-24T10:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080594576994398626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004937362128994304",
+          "start": 0,
+          "username": "RanYu1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080594576994398626",
+    "in_reply_to_user_id": "2004937362128994304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080593652116795775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RanYu1111 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2061810607188484137",
+        "created_at": "2026-07-24T10:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080594576994398626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004937362128994304",
+              "start": 0,
+              "username": "RanYu1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080594576994398626",
+        "in_reply_to_user_id": "2004937362128994304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080593652116795775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RanYu1111 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004937362128994304",
+        "conversation_id": "2061810607188484137",
+        "created_at": "2026-07-24T09:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080593652116795775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080593652116795775",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061810607188484137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 可爱☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 241,
+          "like_count": 8118,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T15:28:19.000Z",
+        "description": "（攒钱买皮套ing） b站同名\n🚪：15\n小视频价格设计中\n会时不时掉落套图哦 \n定制or调教也是可以滴，但是另收费\n含糖🍥🏳️‍⚧️～可约，但是，PAY FOR JOY\n（万fo追求中…求扩散…",
+        "id": "2004937362128994304",
+        "name": "染欲酱",
+        "pinned_tweet_id": "2064376558324990091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004937731596857344/balw-d-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 58,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "RanYu1111",
+        "verified": false
+      }
+    ]
+  }
+}

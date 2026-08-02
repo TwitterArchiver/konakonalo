@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082075208966418432"
+      ],
+      "media_source_tweet_id": [
+        "2082133986818834595"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082197755351707788",
+    "created_at": "2026-07-28T20:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082197755351707788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1965152889011404802",
+          "start": 3,
+          "username": "skeletalsmile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cCkP5AgNJb",
+          "end": 42,
+          "expanded_url": "https://x.com/skeletalsmile/status/2082133986818834595/video/1",
+          "media_key": "13_2082075208966418432",
+          "start": 19,
+          "url": "https://t.co/cCkP5AgNJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082197755351707788",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082133986818834595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skeletalsmile: https://t.co/cCkP5AgNJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12650,
+        "height": 720,
+        "media_key": "13_2082075208966418432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082075208966418432/img/knu0IvwYWP3U6Z2p.jpg",
+        "public_metrics": {
+          "view_count": 1511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082075208966418432/vid/avc1/436x270/d42YDb_R8CX_EBD_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082075208966418432/vid/avc1/582x360/mj3MUR1yrTu72FHi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082075208966418432/vid/avc1/1164x720/yZDTuWSdCuKTqef-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082075208966418432/pl/SkUJbuibnrJ1IgQ6.m3u8?tag=14"
+          }
+        ],
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082075208966418432"
+          ]
+        },
+        "author_id": "1965152889011404802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082133986818834595",
+        "created_at": "2026-07-28T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082133986818834595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCkP5AgNJb",
+              "end": 23,
+              "expanded_url": "https://x.com/skeletalsmile/status/2082133986818834595/video/1",
+              "media_key": "13_2082075208966418432",
+              "start": 0,
+              "url": "https://t.co/cCkP5AgNJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082133986818834595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 3889,
+          "like_count": 425,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cCkP5AgNJb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082075208966418432"
+          ],
+          "media_source_tweet_id": [
+            "2082133986818834595"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082197755351707788",
+        "created_at": "2026-07-28T20:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082197755351707788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1965152889011404802",
+              "start": 3,
+              "username": "skeletalsmile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCkP5AgNJb",
+              "end": 42,
+              "expanded_url": "https://x.com/skeletalsmile/status/2082133986818834595/video/1",
+              "media_key": "13_2082075208966418432",
+              "start": 19,
+              "url": "https://t.co/cCkP5AgNJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082197755351707788",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082133986818834595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skeletalsmile: https://t.co/cCkP5AgNJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 266,
+          "like_count": 8562,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1056
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T20:39:04.000Z",
+        "description": "⚢ ⋆˙⟡ ⊹ SecondLife Archive  ₊. no nsfw, 18+ only 𑣲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeletalsmile.straw.page",
+                "end": 23,
+                "expanded_url": "https://skeletalsmile.straw.page/",
+                "start": 0,
+                "url": "https://t.co/ydmzZWbvCP"
+              }
+            ]
+          }
+        },
+        "id": "1965152889011404802",
+        "location": " ݁Monster Girl Heaven ",
+        "name": "❤︎",
+        "pinned_tweet_id": "2079234882463797692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073695106008313856/8KpeMD_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5871,
+          "following_count": 41,
+          "like_count": 1432,
+          "listed_count": 21,
+          "media_count": 182,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/ydmzZWbvCP",
+        "username": "skeletalsmile",
+        "verified": false
+      }
+    ]
+  }
+}

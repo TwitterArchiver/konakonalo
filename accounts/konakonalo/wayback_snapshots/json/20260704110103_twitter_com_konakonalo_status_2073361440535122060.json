@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073361371756929024"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073361440535122060",
+    "created_at": "2026-07-04T11:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073361440535122060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qz6IVm5HZc",
+          "end": 28,
+          "expanded_url": "https://x.com/konakonalo/status/2073361440535122060/video/1",
+          "media_key": "13_2073361371756929024",
+          "start": 5,
+          "url": "https://t.co/Qz6IVm5HZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073361440535122060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是主人 https://t.co/Qz6IVm5HZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7312,
+        "height": 720,
+        "media_key": "13_2073361371756929024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073361371756929024/img/9hay-CojBa7Jw8PE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073361371756929024/vid/avc1/480x270/0tMNU46lo95wXpsz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073361371756929024/vid/avc1/640x360/-98yJQfb0Qb6UG55.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073361371756929024/vid/avc1/1280x720/QsFyNiBsS-u69KH8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073361371756929024/pl/dCgGJNc8YpxU0J-s.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073361371756929024"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073361440535122060",
+        "created_at": "2026-07-04T11:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073361440535122060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qz6IVm5HZc",
+              "end": 28,
+              "expanded_url": "https://x.com/konakonalo/status/2073361440535122060/video/1",
+              "media_key": "13_2073361371756929024",
+              "start": 5,
+              "url": "https://t.co/Qz6IVm5HZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073361440535122060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是主人 https://t.co/Qz6IVm5HZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 118,
+          "like_count": 5081,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

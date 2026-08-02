@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2082060152702931319",
+    "created_at": "2026-07-29T02:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082293576038551599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941289376669106177",
+          "start": 0,
+          "username": "jelllllyfiiiish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082293576038551599",
+    "in_reply_to_user_id": "1941289376669106177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082060152702931319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelllllyfiiiish 我有脏乱症，无法保持干净症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2082060152702931319",
+        "created_at": "2026-07-29T02:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082293576038551599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941289376669106177",
+              "start": 0,
+              "username": "jelllllyfiiiish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082293576038551599",
+        "in_reply_to_user_id": "1941289376669106177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082060152702931319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelllllyfiiiish 我有脏乱症，无法保持干净症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941289376669106177",
+        "conversation_id": "2082060152702931319",
+        "created_at": "2026-07-28T11:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082060152702931319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082060152702931319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1278,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对爱强调自己有洁癖的人印象很不好。\n遇见的几个强调自己有洁癖的人往往都没有很爱干净\n并且喜欢嫌弃别人不爱干净\n其实这类人位置底下已经脏得不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 266,
+          "like_count": 8700,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T00:14:14.000Z",
+        "description": "垃圾桶@kllppeaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kllppeaea"
+              }
+            ]
+          }
+        },
+        "id": "1941289376669106177",
+        "name": "kllppeaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079564631685873664/Sd7dphq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 568,
+          "like_count": 13535,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2073
+        },
+        "url": "",
+        "username": "jelllllyfiiiish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2062419504819524095",
+    "created_at": "2026-06-04T06:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062419504819524095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019833368028819456",
+          "start": 3,
+          "username": "Heinxel210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062419504819524095",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 431
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062245226345820658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heinxel210: Cigarrillos y alcohol perdónenme por criticarlos cuando era mas chico"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2062419504819524095",
+        "created_at": "2026-06-04T06:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062419504819524095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019833368028819456",
+              "start": 3,
+              "username": "Heinxel210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062419504819524095",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 431
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062245226345820658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heinxel210: Cigarrillos y alcohol perdónenme por criticarlos cuando era mas chico"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019833368028819456",
+        "conversation_id": "2062245226345820658",
+        "created_at": "2026-06-03T18:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062245226345820658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062245226345820658",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 17700,
+          "like_count": 1735,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 431
+        },
+        "reply_settings": "everyone",
+        "text": "Cigarrillos y alcohol perdónenme por criticarlos cuando era mas chico"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 57,
+          "like_count": 2779,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T18:00:04.000Z",
+        "description": "🗝️ \n\n     ° ☪⋆ ✯. • ° ⋆ \n                         ¿!ᗰₒᗰ fₒᵤ𝚗𝚍 𝚝𝓱ₑ yₐₒᵢ?!\n     ° ☪⋆ ✯. • ° ⋆           \n \n  🗝️\n        ɱƖɱ",
+        "id": "2019833368028819456",
+        "location": "🇦🇷|he|they ",
+        "name": "Ale | Hikaru de Berazategui",
+        "pinned_tweet_id": "2062266997048500645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062264651836973057/8DHEjWzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 159,
+          "like_count": 3836,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 3010
+        },
+        "username": "Heinxel210",
+        "verified": false
+      }
+    ]
+  }
+}

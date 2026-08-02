@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073453099096940546",
+    "created_at": "2026-07-04T19:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073489867359522907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587790416057077760",
+          "start": 0,
+          "username": "musk_xxl"
+        },
+        {
+          "end": 23,
+          "id": "1614340494007623681",
+          "start": 10,
+          "username": "Kkmm35380328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073489867359522907",
+    "in_reply_to_user_id": "1587790416057077760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073474479989371145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musk_xxl @Kkmm35380328 那你也太棒了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073453099096940546",
+        "created_at": "2026-07-04T19:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073489867359522907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587790416057077760",
+              "start": 0,
+              "username": "musk_xxl"
+            },
+            {
+              "end": 23,
+              "id": "1614340494007623681",
+              "start": 10,
+              "username": "Kkmm35380328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073489867359522907",
+        "in_reply_to_user_id": "1587790416057077760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073474479989371145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musk_xxl @Kkmm35380328 那你也太棒了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587790416057077760",
+        "conversation_id": "2073453099096940546",
+        "created_at": "2026-07-04T18:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073474479989371145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1614340494007623681",
+              "start": 0,
+              "username": "Kkmm35380328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073474479989371145",
+        "in_reply_to_user_id": "1614340494007623681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073453099096940546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkmm35380328 我开新闻发布会呢不好意思哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 123,
+          "like_count": 5171,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 544
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。",
+        "id": "1587790416057077760",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 258,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T19:15:50.000Z",
+        "description": "一个较为挑食的女性\n对颜值要求比较高\n好的酒店也能让我心情愉悦",
+        "id": "1614340494007623681",
+        "location": "杭州",
+        "name": "(˵¯͒〰¯͒˵)",
+        "pinned_tweet_id": "1944312769253454320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653047147464646657/7Uacsv1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6132,
+          "following_count": 72,
+          "like_count": 1370,
+          "listed_count": 10,
+          "media_count": 197,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "Kkmm35380328",
+        "verified": false
+      }
+    ]
+  }
+}

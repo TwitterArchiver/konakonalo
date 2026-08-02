@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073642470311919783",
+    "created_at": "2026-07-05T08:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073685762541806011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073685762541806011",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073642470311919783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 我喜欢你的语言系统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073642470311919783",
+        "created_at": "2026-07-05T08:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073685762541806011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073685762541806011",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073642470311919783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 我喜欢你的语言系统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897913540432068608",
+        "conversation_id": "2073642470311919783",
+        "created_at": "2026-07-05T05:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073642470311919783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073642470311919783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "其实我所谓前女友是我所有前女友的综合体 是一个很强的怨灵或者什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 133,
+          "like_count": 5246,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "東京┊maimai┊od┊",
+        "id": "1897913540432068608",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071619605592981504/bF-BAaPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 239,
+          "like_count": 9166,
+          "listed_count": 0,
+          "media_count": 1375,
+          "tweet_count": 7002
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

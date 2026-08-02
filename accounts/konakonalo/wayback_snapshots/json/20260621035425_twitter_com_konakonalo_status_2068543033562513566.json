@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068003214457212928",
+        "3_2068003214570483712",
+        "3_2068003214570442752",
+        "3_2068003214591500288"
+      ],
+      "media_source_tweet_id": [
+        "2068003229560983988",
+        "2068003229560983988",
+        "2068003229560983988",
+        "2068003229560983988"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2068543033562513566",
+    "created_at": "2026-06-21T03:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068543033562513566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "954470584498483201",
+          "start": 3,
+          "username": "EARTHM0VERRR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5awbyXV0PQ",
+          "end": 68,
+          "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+          "media_key": "3_2068003214457212928",
+          "start": 45,
+          "url": "https://t.co/5awbyXV0PQ"
+        },
+        {
+          "display_url": "pic.x.com/5awbyXV0PQ",
+          "end": 68,
+          "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+          "media_key": "3_2068003214570483712",
+          "start": 45,
+          "url": "https://t.co/5awbyXV0PQ"
+        },
+        {
+          "display_url": "pic.x.com/5awbyXV0PQ",
+          "end": 68,
+          "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+          "media_key": "3_2068003214570442752",
+          "start": 45,
+          "url": "https://t.co/5awbyXV0PQ"
+        },
+        {
+          "display_url": "pic.x.com/5awbyXV0PQ",
+          "end": 68,
+          "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+          "media_key": "3_2068003214591500288",
+          "start": 45,
+          "url": "https://t.co/5awbyXV0PQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068543033562513566",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068003229560983988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EARTHM0VERRR: same director, all bangers https://t.co/5awbyXV0PQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068003214457212928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMF94AWkAAJyCy.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2068003214570483712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMF94bW8AAkuLE.jpg",
+        "width": 1920
+      },
+      {
+        "height": 720,
+        "media_key": "3_2068003214570442752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMF94bWUAAmYfC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 784,
+        "media_key": "3_2068003214591500288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMF94gXoAA7Pmt.jpg",
+        "width": 1393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068003214457212928",
+            "3_2068003214570483712",
+            "3_2068003214570442752",
+            "3_2068003214591500288"
+          ],
+          "media_source_tweet_id": [
+            "2068003229560983988",
+            "2068003229560983988",
+            "2068003229560983988",
+            "2068003229560983988"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2068543033562513566",
+        "created_at": "2026-06-21T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068543033562513566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "954470584498483201",
+              "start": 3,
+              "username": "EARTHM0VERRR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 68,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214457212928",
+              "start": 45,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 68,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214570483712",
+              "start": 45,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 68,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214570442752",
+              "start": 45,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 68,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214591500288",
+              "start": 45,
+              "url": "https://t.co/5awbyXV0PQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068543033562513566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068003229560983988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EARTHM0VERRR: same director, all bangers https://t.co/5awbyXV0PQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068003214457212928",
+            "3_2068003214570483712",
+            "3_2068003214570442752",
+            "3_2068003214591500288"
+          ]
+        },
+        "author_id": "954470584498483201",
+        "conversation_id": "2068003229560983988",
+        "created_at": "2026-06-19T16:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068003229560983988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 50,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214457212928",
+              "start": 27,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 50,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214570483712",
+              "start": 27,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 50,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214570442752",
+              "start": 27,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "pic.x.com/5awbyXV0PQ",
+              "end": 50,
+              "expanded_url": "https://x.com/EARTHM0VERRR/status/2068003229560983988/photo/1",
+              "media_key": "3_2068003214591500288",
+              "start": 27,
+              "url": "https://t.co/5awbyXV0PQ"
+            },
+            {
+              "display_url": "x.com/filmnjz/status…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/filmnjz/status/2067670691843870776",
+              "start": 51,
+              "url": "https://t.co/ZKjMpavYRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003229560983988",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 133404,
+          "like_count": 2972,
+          "quote_count": 16,
+          "reply_count": 9,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067670691843870776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "same director, all bangers https://t.co/5awbyXV0PQ https://t.co/ZKjMpavYRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 57,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-19T21:48:15.000Z",
+        "description": "carved out of stone\nanimanga/film/sports | cw: leftovers l cr: dededede, ippo, fata | \n| playing: nier | priv: @REDLIGHTRAVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "REDLIGHTRAVER"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/2Zf81",
+                "end": 23,
+                "expanded_url": "https://boxd.it/2Zf81",
+                "start": 0,
+                "url": "https://t.co/b4La4plAN7"
+              }
+            ]
+          }
+        },
+        "id": "954470584498483201",
+        "name": "er✩stus",
+        "pinned_tweet_id": "2006797517502165118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036139506911395840/kC9B_MTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 1607,
+          "like_count": 111396,
+          "listed_count": 11,
+          "media_count": 8418,
+          "tweet_count": 25267
+        },
+        "url": "https://t.co/b4La4plAN7",
+        "username": "EARTHM0VERRR",
+        "verified": false
+      }
+    ]
+  }
+}

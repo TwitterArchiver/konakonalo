@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083082126765989888"
+      ],
+      "media_source_tweet_id": [
+        "2083082135192363484"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2083361635427844175",
+    "created_at": "2026-08-01T01:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083361635427844175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795796351558758400",
+          "start": 3,
+          "username": "kukuri1957"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lpoqAtJVTt",
+          "end": 50,
+          "expanded_url": "https://x.com/kukuri1957/status/2083082135192363484/photo/1",
+          "media_key": "3_2083082126765989888",
+          "start": 27,
+          "url": "https://t.co/lpoqAtJVTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083361635427844175",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083082135192363484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kukuri1957: cigarette. https://t.co/lpoqAtJVTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083082126765989888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiYKFvaIAApR8R.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083082126765989888"
+          ]
+        },
+        "author_id": "1795796351558758400",
+        "conversation_id": "2083082135192363484",
+        "created_at": "2026-07-31T06:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083082135192363484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpoqAtJVTt",
+              "end": 34,
+              "expanded_url": "https://x.com/kukuri1957/status/2083082135192363484/photo/1",
+              "media_key": "3_2083082126765989888",
+              "start": 11,
+              "url": "https://t.co/lpoqAtJVTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083082135192363484",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 798,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "cigarette. https://t.co/lpoqAtJVTt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083082126765989888"
+          ],
+          "media_source_tweet_id": [
+            "2083082135192363484"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2083361635427844175",
+        "created_at": "2026-08-01T01:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083361635427844175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795796351558758400",
+              "start": 3,
+              "username": "kukuri1957"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpoqAtJVTt",
+              "end": 50,
+              "expanded_url": "https://x.com/kukuri1957/status/2083082135192363484/photo/1",
+              "media_key": "3_2083082126765989888",
+              "start": 27,
+              "url": "https://t.co/lpoqAtJVTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083361635427844175",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083082135192363484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kukuri1957: cigarette. https://t.co/lpoqAtJVTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 280,
+          "like_count": 8994,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T12:36:54.000Z",
+        "description": "イラストを描いてます。Instagramもやってます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kukuri.artwork…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kukuri.artworks?igsh=MW90NGd2ZHNsMHFmeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xKwQHvPQSR"
+              }
+            ]
+          }
+        },
+        "id": "1795796351558758400",
+        "name": "kukuri.artworks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076977748267175936/l0-45-bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 93,
+          "like_count": 36498,
+          "listed_count": 1,
+          "media_count": 1257,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/xKwQHvPQSR",
+        "username": "kukuri1957",
+        "verified": false
+      }
+    ]
+  }
+}

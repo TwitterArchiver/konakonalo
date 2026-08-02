@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2031019469288669627",
+    "created_at": "2026-03-09T14:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031019469288669627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "840039717794131968",
+          "start": 3,
+          "username": "MosesTalking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031019469288669627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017217217201320327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MosesTalking: 支黑是粉红的孪生兄弟\n———————————\n支黑叙事“你们支那人劣等，活该被中共统治……”\n\n把“被暴政统治”解释成“民族原罪”，是用结果证明罪责。\n\n若这逻辑成立，奴隶制、纳粹、红色高棉皆属“活该”。\n\n支黑与粉红本质一致：\n一个跪着护暴…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2031019469288669627",
+        "created_at": "2026-03-09T14:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031019469288669627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "840039717794131968",
+              "start": 3,
+              "username": "MosesTalking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031019469288669627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017217217201320327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MosesTalking: 支黑是粉红的孪生兄弟\n———————————\n支黑叙事“你们支那人劣等，活该被中共统治……”\n\n把“被暴政统治”解释成“民族原罪”，是用结果证明罪责。\n\n若这逻辑成立，奴隶制、纳粹、红色高棉皆属“活该”。\n\n支黑与粉红本质一致：\n一个跪着护暴…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840039717794131968",
+        "conversation_id": "2017217217201320327",
+        "created_at": "2026-01-30T12:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017217217201320327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017217217201320327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3823,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "支黑是粉红的孪生兄弟\n———————————\n支黑叙事“你们支那人劣等，活该被中共统治……”\n\n把“被暴政统治”解释成“民族原罪”，是用结果证明罪责。\n\n若这逻辑成立，奴隶制、纳粹、红色高棉皆属“活该”。\n\n支黑与粉红本质一致：\n一个跪着护暴政；\n一个站着替暴政洗白。\n\n🙏😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-10T03:20:50.000Z",
+        "description": "旧秩序的结局， 从来不是改革， 而是出埃及",
+        "id": "840039717794131968",
+        "location": "Flushing",
+        "name": "摩西煮酒MOSES TALKING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758904876585590786/cdo0Mr2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127906,
+          "following_count": 3387,
+          "like_count": 61476,
+          "listed_count": 344,
+          "media_count": 6805,
+          "tweet_count": 43963
+        },
+        "username": "MosesTalking",
+        "verified": false
+      }
+    ]
+  }
+}

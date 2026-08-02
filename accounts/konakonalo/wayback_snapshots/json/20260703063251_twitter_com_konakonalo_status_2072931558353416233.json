@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072485262383296512"
+      ],
+      "media_source_tweet_id": [
+        "2072485264522416150"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072931558353416233",
+    "created_at": "2026-07-03T06:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072931558353416233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559607777563066373",
+          "start": 3,
+          "username": "lekimgym"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gdLhhrz3M7",
+          "end": 37,
+          "expanded_url": "https://x.com/lekimgym/status/2072485264522416150/photo/1",
+          "media_key": "3_2072485262383296512",
+          "start": 14,
+          "url": "https://t.co/gdLhhrz3M7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072931558353416233",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3079
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072485264522416150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lekimgym: https://t.co/gdLhhrz3M7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2072485262383296512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLyXZqWsAAE_18.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072485262383296512"
+          ],
+          "media_source_tweet_id": [
+            "2072485264522416150"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072931558353416233",
+        "created_at": "2026-07-03T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072931558353416233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559607777563066373",
+              "start": 3,
+              "username": "lekimgym"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdLhhrz3M7",
+              "end": 37,
+              "expanded_url": "https://x.com/lekimgym/status/2072485264522416150/photo/1",
+              "media_key": "3_2072485262383296512",
+              "start": 14,
+              "url": "https://t.co/gdLhhrz3M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072931558353416233",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3079
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072485264522416150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lekimgym: https://t.co/gdLhhrz3M7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072485262383296512"
+          ]
+        },
+        "author_id": "1559607777563066373",
+        "conversation_id": "2072485264522416150",
+        "created_at": "2026-07-02T00:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072485264522416150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdLhhrz3M7",
+              "end": 23,
+              "expanded_url": "https://x.com/lekimgym/status/2072485264522416150/photo/1",
+              "media_key": "3_2072485262383296512",
+              "start": 0,
+              "url": "https://t.co/gdLhhrz3M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072485264522416150",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 963,
+          "impression_count": 213170,
+          "like_count": 24072,
+          "quote_count": 55,
+          "reply_count": 21,
+          "retweet_count": 3079
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gdLhhrz3M7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 106,
+          "like_count": 4811,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T18:27:33.000Z",
+        "description": "why the rush?",
+        "id": "1559607777563066373",
+        "location": "jupiter",
+        "name": "⚭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844063780059357184/C-o-x2OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8225,
+          "following_count": 11,
+          "like_count": 223,
+          "listed_count": 25,
+          "media_count": 444,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "lekimgym",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2071120793702903808"
+      ],
+      "media_source_tweet_id": [
+        "2071247249741320599"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2071289312793289078",
+    "created_at": "2026-06-28T17:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071289312793289078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647330882796023815",
+          "start": 3,
+          "username": "no_hygiene"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GaiuLzrrjA",
+          "end": 41,
+          "expanded_url": "https://x.com/no_hygiene/status/2071247249741320599/photo/1",
+          "media_key": "16_2071120793702903808",
+          "start": 18,
+          "url": "https://t.co/GaiuLzrrjA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071289312793289078",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071247249741320599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @no_hygiene: 🪽 https://t.co/GaiuLzrrjA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2071120793702903808",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HL4ZY3uWMAA-PBX.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HL4ZY3uWMAA-PBX.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071120793702903808"
+          ],
+          "media_source_tweet_id": [
+            "2071247249741320599"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2071289312793289078",
+        "created_at": "2026-06-28T17:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071289312793289078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647330882796023815",
+              "start": 3,
+              "username": "no_hygiene"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaiuLzrrjA",
+              "end": 41,
+              "expanded_url": "https://x.com/no_hygiene/status/2071247249741320599/photo/1",
+              "media_key": "16_2071120793702903808",
+              "start": 18,
+              "url": "https://t.co/GaiuLzrrjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071289312793289078",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071247249741320599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @no_hygiene: 🪽 https://t.co/GaiuLzrrjA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071120793702903808"
+          ]
+        },
+        "author_id": "1647330882796023815",
+        "conversation_id": "2071247249741320599",
+        "created_at": "2026-06-28T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071247249741320599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaiuLzrrjA",
+              "end": 25,
+              "expanded_url": "https://x.com/no_hygiene/status/2071247249741320599/photo/1",
+              "media_key": "16_2071120793702903808",
+              "start": 2,
+              "url": "https://t.co/GaiuLzrrjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071247249741320599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1077,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "🪽 https://t.co/GaiuLzrrjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 77,
+          "like_count": 3862,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T20:07:48.000Z",
+        "description": "iamanangel.eth - nohygiene.eth\nhttps://t.co/fg8TETVibe\nhttps://t.co/OIKnrySEb4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "manifold.xyz/@nohygiene/p/a…",
+                "end": 54,
+                "expanded_url": "https://manifold.xyz/@nohygiene/p/angel",
+                "start": 31,
+                "url": "https://t.co/fg8TETVibe"
+              },
+              {
+                "display_url": "objkt.com/@nohygiene",
+                "end": 78,
+                "expanded_url": "https://objkt.com/@nohygiene",
+                "start": 55,
+                "url": "https://t.co/OIKnrySEb4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daily.xyz/artist/nohygie…",
+                "end": 23,
+                "expanded_url": "https://daily.xyz/artist/nohygiene",
+                "start": 0,
+                "url": "https://t.co/CUoQcw1DaS"
+              }
+            ]
+          }
+        },
+        "id": "1647330882796023815",
+        "name": "nohygiene",
+        "pinned_tweet_id": "1868578719692157271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689367390528679936/Qvxyis5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9164,
+          "following_count": 1737,
+          "like_count": 69191,
+          "listed_count": 69,
+          "media_count": 4443,
+          "tweet_count": 42218
+        },
+        "url": "https://t.co/CUoQcw1DaS",
+        "username": "no_hygiene",
+        "verified": true
+      }
+    ]
+  }
+}

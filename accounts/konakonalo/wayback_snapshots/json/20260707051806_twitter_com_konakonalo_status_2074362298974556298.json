@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074288357861928961"
+      ],
+      "media_source_tweet_id": [
+        "2074288363742363926"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2074362298974556298",
+    "created_at": "2026-07-07T05:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074362298974556298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "10192392",
+          "start": 3,
+          "username": "kikillo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vlQd9bVp1Q",
+          "end": 59,
+          "expanded_url": "https://x.com/kikillo/status/2074288363742363926/photo/1",
+          "media_key": "3_2074288357861928961",
+          "start": 36,
+          "url": "https://t.co/vlQd9bVp1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074362298974556298",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074288363742363926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kikillo: Seiichi Hayashi, 1970s https://t.co/vlQd9bVp1Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2074288357861928961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlaRXwWsAEaHSj.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074288357861928961"
+          ],
+          "media_source_tweet_id": [
+            "2074288363742363926"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2074362298974556298",
+        "created_at": "2026-07-07T05:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074362298974556298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "10192392",
+              "start": 3,
+              "username": "kikillo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlQd9bVp1Q",
+              "end": 59,
+              "expanded_url": "https://x.com/kikillo/status/2074288363742363926/photo/1",
+              "media_key": "3_2074288357861928961",
+              "start": 36,
+              "url": "https://t.co/vlQd9bVp1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074362298974556298",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074288363742363926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kikillo: Seiichi Hayashi, 1970s https://t.co/vlQd9bVp1Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074288357861928961"
+          ]
+        },
+        "author_id": "10192392",
+        "conversation_id": "2074288363742363926",
+        "created_at": "2026-07-07T00:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074288363742363926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlQd9bVp1Q",
+              "end": 46,
+              "expanded_url": "https://x.com/kikillo/status/2074288363742363926/photo/1",
+              "media_key": "3_2074288357861928961",
+              "start": 23,
+              "url": "https://t.co/vlQd9bVp1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074288363742363926",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 546,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Seiichi Hayashi, 1970s https://t.co/vlQd9bVp1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 162,
+          "like_count": 5790,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-12T20:10:05.000Z",
+        "description": "store:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kikillopieces.com",
+                "end": 23,
+                "expanded_url": "https://kikillopieces.com",
+                "start": 0,
+                "url": "https://t.co/gbMzYpnp91"
+              }
+            ]
+          }
+        },
+        "id": "10192392",
+        "name": "kiki 🕯️",
+        "pinned_tweet_id": "2016506692658167931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012855764801466368/uJPYFIbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33010,
+          "following_count": 1404,
+          "like_count": 57351,
+          "listed_count": 206,
+          "media_count": 7511,
+          "tweet_count": 20729
+        },
+        "url": "https://t.co/gbMzYpnp91",
+        "username": "kikillo",
+        "verified": true
+      }
+    ]
+  }
+}

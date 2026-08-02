@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052040263229403141"
+      ],
+      "media_source_tweet_id": [
+        "2052040379466166458"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2052196808106094848",
+    "created_at": "2026-05-07T01:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052196808106094848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028821228413444096",
+          "start": 3,
+          "username": "filmnjz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjQ0CIcA6J",
+          "end": 59,
+          "expanded_url": "https://x.com/filmnjz/status/2052040379466166458/video/1",
+          "media_key": "13_2052040263229403141",
+          "start": 36,
+          "url": "https://t.co/mjQ0CIcA6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052196808106094848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 825
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052040379466166458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @filmnjz: comfort movie, forever https://t.co/mjQ0CIcA6J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18749,
+        "height": 720,
+        "media_key": "13_2052040263229403141",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052040263229403141/img/UlAm9Ll70rp55VWH.jpg",
+        "public_metrics": {
+          "view_count": 29256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052040263229403141/vid/avc1/360x270/rDirlriNtSLUZAzy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052040263229403141/vid/avc1/480x360/K8qVCyr52ZqUEVSI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052040263229403141/vid/avc1/960x720/MA4eS0Rkis0zQ_Cw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052040263229403141/pl/MbjQszvMIqlJeX3E.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052040263229403141"
+          ],
+          "media_source_tweet_id": [
+            "2052040379466166458"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2052196808106094848",
+        "created_at": "2026-05-07T01:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052196808106094848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028821228413444096",
+              "start": 3,
+              "username": "filmnjz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjQ0CIcA6J",
+              "end": 59,
+              "expanded_url": "https://x.com/filmnjz/status/2052040379466166458/video/1",
+              "media_key": "13_2052040263229403141",
+              "start": 36,
+              "url": "https://t.co/mjQ0CIcA6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052196808106094848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052040379466166458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @filmnjz: comfort movie, forever https://t.co/mjQ0CIcA6J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052040263229403141"
+          ]
+        },
+        "author_id": "2028821228413444096",
+        "conversation_id": "2052040379466166458",
+        "created_at": "2026-05-06T14:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052040379466166458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjQ0CIcA6J",
+              "end": 46,
+              "expanded_url": "https://x.com/filmnjz/status/2052040379466166458/video/1",
+              "media_key": "13_2052040263229403141",
+              "start": 23,
+              "url": "https://t.co/mjQ0CIcA6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052040379466166458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 932,
+          "impression_count": 62415,
+          "like_count": 3926,
+          "quote_count": 40,
+          "reply_count": 10,
+          "retweet_count": 825
+        },
+        "reply_settings": "everyone",
+        "text": "comfort movie, forever https://t.co/mjQ0CIcA6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T13:14:17.000Z",
+        "description": "cinema and music",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/6O5tR",
+                "end": 23,
+                "expanded_url": "https://boxd.it/6O5tR",
+                "start": 0,
+                "url": "https://t.co/qFjU3d1WrZ"
+              }
+            ]
+          }
+        },
+        "id": "2028821228413444096",
+        "name": "ؘ",
+        "pinned_tweet_id": "2031076597407613174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034325345600520192/3iAX6l-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 48,
+          "like_count": 669,
+          "listed_count": 5,
+          "media_count": 53,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/qFjU3d1WrZ",
+        "username": "filmnjz",
+        "verified": false
+      }
+    ]
+  }
+}

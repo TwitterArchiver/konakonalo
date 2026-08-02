@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2071854999748108491",
+    "created_at": "2026-06-30T07:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071854999748108491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Noa_anim/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Noa_anim/status/2071481352419991595",
+          "start": 3,
+          "url": "https://t.co/kLJgCUmDnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071854999748108491",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071481352419991595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我： https://t.co/kLJgCUmDnV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2071481349504942080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9hT-wWwAAlsJz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2071854999748108491",
+        "created_at": "2026-06-30T07:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071854999748108491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Noa_anim/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Noa_anim/status/2071481352419991595",
+              "start": 3,
+              "url": "https://t.co/kLJgCUmDnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071854999748108491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071481352419991595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/kLJgCUmDnV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071481349504942080"
+          ]
+        },
+        "author_id": "2054617478974853120",
+        "conversation_id": "2071481352419991595",
+        "created_at": "2026-06-29T06:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071481352419991595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5RSv3ne63",
+              "end": 23,
+              "expanded_url": "https://x.com/Noa_anim/status/2071481352419991595/photo/1",
+              "media_key": "3_2071481349504942080",
+              "start": 0,
+              "url": "https://t.co/O5RSv3ne63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071481352419991595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 456,
+          "impression_count": 64684,
+          "like_count": 4436,
+          "quote_count": 49,
+          "reply_count": 11,
+          "retweet_count": 771
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O5RSv3ne63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 93,
+          "like_count": 4232,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T17:40:53.000Z",
+        "description": "Noa 雨𖤐ノア♡",
+        "id": "2054617478974853120",
+        "name": "Noa",
+        "pinned_tweet_id": "2054866827558203637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054617996652646400/kkwHLXNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 903,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "Noa_anim",
+        "verified": true
+      }
+    ]
+  }
+}

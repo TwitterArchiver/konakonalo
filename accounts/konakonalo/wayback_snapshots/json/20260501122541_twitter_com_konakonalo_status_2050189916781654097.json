@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2049926188290953548",
+    "created_at": "2026-05-01T12:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050189916781654097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746110754611511296",
+          "start": 0,
+          "username": "ruoruoruoruo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050189916781654097",
+    "in_reply_to_user_id": "1746110754611511296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049926188290953548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoruo1 这是个刻薄的世界"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049926188290953548].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049926188290953548",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049926188290953548"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2049926188290953548",
+        "created_at": "2026-05-01T12:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050189916781654097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746110754611511296",
+              "start": 0,
+              "username": "ruoruoruoruo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050189916781654097",
+        "in_reply_to_user_id": "1746110754611511296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049926188290953548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoruo1 这是个刻薄的世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 122
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T10:03:56.000Z",
+        "description": "不要說你見過我",
+        "id": "1746110754611511296",
+        "name": "永遠懷念塔可夫斯基",
+        "pinned_tweet_id": "1891258505107054812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047093729698484224/0QcYFqMO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 54,
+          "like_count": 4775,
+          "listed_count": 2,
+          "media_count": 502,
+          "tweet_count": 1986
+        },
+        "username": "ruoruoruoruo1",
+        "verified": false
+      }
+    ]
+  }
+}

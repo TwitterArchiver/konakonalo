@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072244893578354688",
+        "3_2072244905720868864",
+        "3_2072244924179996672",
+        "3_2072244933310963713"
+      ],
+      "media_source_tweet_id": [
+        "2072312467775258974",
+        "2072312467775258974",
+        "2072312467775258974",
+        "2072312467775258974"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072375489516159207",
+    "created_at": "2026-07-01T17:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072375489516159207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410232042395107333",
+          "start": 3,
+          "username": "halekduo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i9ff3isU7i",
+          "end": 76,
+          "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+          "media_key": "3_2072244893578354688",
+          "start": 53,
+          "url": "https://t.co/i9ff3isU7i"
+        },
+        {
+          "display_url": "pic.x.com/i9ff3isU7i",
+          "end": 76,
+          "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+          "media_key": "3_2072244905720868864",
+          "start": 53,
+          "url": "https://t.co/i9ff3isU7i"
+        },
+        {
+          "display_url": "pic.x.com/i9ff3isU7i",
+          "end": 76,
+          "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+          "media_key": "3_2072244924179996672",
+          "start": 53,
+          "url": "https://t.co/i9ff3isU7i"
+        },
+        {
+          "display_url": "pic.x.com/i9ff3isU7i",
+          "end": 76,
+          "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+          "media_key": "3_2072244933310963713",
+          "start": 53,
+          "url": "https://t.co/i9ff3isU7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072375489516159207",
+    "lang": "sl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072312467775258974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @halekduo: Godard homages in Kyoko Okazaki's PINK https://t.co/i9ff3isU7i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2072244893578354688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIXwGFa4AArz29.jpg",
+        "width": 726
+      },
+      {
+        "alt_text": "PIERROT LE FOU",
+        "height": 724,
+        "media_key": "3_2072244905720868864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIXwzUa8AASQ7R.jpg",
+        "width": 736
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2072244924179996672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIXx4Fa4AAtfAW.png",
+        "width": 1377
+      },
+      {
+        "alt_text": "VIVRE SA VIE",
+        "height": 552,
+        "media_key": "3_2072244933310963713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIXyaGaYAE6FUr.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072244893578354688",
+            "3_2072244905720868864",
+            "3_2072244924179996672",
+            "3_2072244933310963713"
+          ],
+          "media_source_tweet_id": [
+            "2072312467775258974",
+            "2072312467775258974",
+            "2072312467775258974",
+            "2072312467775258974"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072375489516159207",
+        "created_at": "2026-07-01T17:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072375489516159207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410232042395107333",
+              "start": 3,
+              "username": "halekduo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 76,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244893578354688",
+              "start": 53,
+              "url": "https://t.co/i9ff3isU7i"
+            },
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 76,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244905720868864",
+              "start": 53,
+              "url": "https://t.co/i9ff3isU7i"
+            },
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 76,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244924179996672",
+              "start": 53,
+              "url": "https://t.co/i9ff3isU7i"
+            },
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 76,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244933310963713",
+              "start": 53,
+              "url": "https://t.co/i9ff3isU7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072375489516159207",
+        "lang": "sl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072312467775258974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @halekduo: Godard homages in Kyoko Okazaki's PINK https://t.co/i9ff3isU7i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072244893578354688",
+            "3_2072244905720868864",
+            "3_2072244924179996672",
+            "3_2072244933310963713"
+          ]
+        },
+        "author_id": "1410232042395107333",
+        "conversation_id": "2072312467775258974",
+        "created_at": "2026-07-01T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072312467775258974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 62,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244893578354688",
+              "start": 39,
+              "url": "https://t.co/i9ff3isU7i"
+            },
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 62,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244905720868864",
+              "start": 39,
+              "url": "https://t.co/i9ff3isU7i"
+            },
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 62,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244924179996672",
+              "start": 39,
+              "url": "https://t.co/i9ff3isU7i"
+            },
+            {
+              "display_url": "pic.x.com/i9ff3isU7i",
+              "end": 62,
+              "expanded_url": "https://x.com/halekduo/status/2072312467775258974/photo/1",
+              "media_key": "3_2072244933310963713",
+              "start": 39,
+              "url": "https://t.co/i9ff3isU7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072312467775258974",
+        "lang": "sl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 19107,
+          "like_count": 615,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "Godard homages in Kyoko Okazaki's PINK https://t.co/i9ff3isU7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 91,
+          "like_count": 4431,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T13:41:48.000Z",
+        "description": "ASOIAF • Cinema • Comics • Anime • MotoGP⁹³",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/halekduo",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/halekduo",
+                "start": 0,
+                "url": "https://t.co/uvNhFRIMYe"
+              }
+            ]
+          }
+        },
+        "id": "1410232042395107333",
+        "location": "26 - he/him - 🇮🇳 - 🔞",
+        "name": "Hal",
+        "pinned_tweet_id": "2035799826257080494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766446997660459008/0fWHHFPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 435,
+          "like_count": 88674,
+          "listed_count": 2,
+          "media_count": 2762,
+          "tweet_count": 22187
+        },
+        "url": "https://t.co/uvNhFRIMYe",
+        "username": "halekduo",
+        "verified": false
+      }
+    ]
+  }
+}

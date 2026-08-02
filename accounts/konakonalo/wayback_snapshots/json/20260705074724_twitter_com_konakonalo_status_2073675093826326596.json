@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073465212922212562",
+    "created_at": "2026-07-05T07:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073675093826326596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1969779745907953664",
+          "start": 0,
+          "username": "osj218000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073675093826326596",
+    "in_reply_to_user_id": "1969779745907953664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073465212922212562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osj218000 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073465207251505154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZtnsxbkAIO3eR.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073465212922212562",
+        "created_at": "2026-07-05T07:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073675093826326596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1969779745907953664",
+              "start": 0,
+              "username": "osj218000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073675093826326596",
+        "in_reply_to_user_id": "1969779745907953664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073465212922212562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osj218000 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073465207251505154"
+          ]
+        },
+        "author_id": "1969779745907953664",
+        "conversation_id": "2073465212922212562",
+        "created_at": "2026-07-04T17:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073465212922212562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKp0SulFBL",
+              "end": 38,
+              "expanded_url": "https://x.com/osj218000/status/2073465212922212562/photo/1",
+              "media_key": "3_2073465207251505154",
+              "start": 15,
+              "url": "https://t.co/NKp0SulFBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073465212922212562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4753,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫你农逼审美低智力高体脂母豚 https://t.co/NKp0SulFBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 132,
+          "like_count": 5232,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T15:04:30.000Z",
+        "description": "可爱善良萌\n我有严重的厌蠢症厌猪症",
+        "id": "1969779745907953664",
+        "location": "Homophobic",
+        "name": "said",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039866044295294976/58fDuiWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 215,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "osj218000",
+        "verified": false
+      }
+    ]
+  }
+}

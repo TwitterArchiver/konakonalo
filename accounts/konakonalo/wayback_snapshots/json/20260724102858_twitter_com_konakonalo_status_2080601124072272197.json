@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2080582029784371430",
+    "created_at": "2026-07-24T10:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080601124072272197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983364475928621062",
+          "start": 0,
+          "username": "BBBltltlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080601124072272197",
+    "in_reply_to_user_id": "1983364475928621062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080582029784371430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBltltlt 真美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_2080582017994076160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-2UmyaMAAZHBs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2080582029784371430",
+        "created_at": "2026-07-24T10:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080601124072272197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983364475928621062",
+              "start": 0,
+              "username": "BBBltltlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080601124072272197",
+        "in_reply_to_user_id": "1983364475928621062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080582029784371430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBltltlt 真美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080582017994076160"
+          ]
+        },
+        "author_id": "1983364475928621062",
+        "conversation_id": "2080582029784371430",
+        "created_at": "2026-07-24T09:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080582029784371430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18h4ce6coT",
+              "end": 26,
+              "expanded_url": "https://x.com/BBBltltlt/status/2080582029784371430/photo/1",
+              "media_key": "3_2080582017994076160",
+              "start": 3,
+              "url": "https://t.co/18h4ce6coT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080582029784371430",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 277,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "cm https://t.co/18h4ce6coT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 243,
+          "like_count": 8137,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 987
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:45:41.000Z",
+        "description": "新号/new account🤧中文/eng，什么都画一点 ，❌ai",
+        "id": "1983364475928621062",
+        "location": "👽",
+        "name": "BBBlt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983365266538119168/JRrtlUtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 182,
+          "like_count": 1297,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "BBBltltlt",
+        "verified": false
+      }
+    ]
+  }
+}

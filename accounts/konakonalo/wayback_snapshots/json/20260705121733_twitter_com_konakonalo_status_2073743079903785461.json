@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073583234689241088"
+      ],
+      "media_source_tweet_id": [
+        "2073583239227494439"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073743079903785461",
+    "created_at": "2026-07-05T12:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073743079903785461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2797768538",
+          "start": 3,
+          "username": "arinaariri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfOyrOTZDH",
+          "end": 60,
+          "expanded_url": "https://x.com/arinaariri/status/2073583239227494439/photo/1",
+          "media_key": "3_2073583234689241088",
+          "start": 37,
+          "url": "https://t.co/wfOyrOTZDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073743079903785461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 441
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073583239227494439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arinaariri: 喫煙所がないから\n自分を喫煙所にしてた人 https://t.co/wfOyrOTZDH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2073583234689241088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbY9zPbkAAYmhf.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073583234689241088"
+          ],
+          "media_source_tweet_id": [
+            "2073583239227494439"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073743079903785461",
+        "created_at": "2026-07-05T12:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073743079903785461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2797768538",
+              "start": 3,
+              "username": "arinaariri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfOyrOTZDH",
+              "end": 60,
+              "expanded_url": "https://x.com/arinaariri/status/2073583239227494439/photo/1",
+              "media_key": "3_2073583234689241088",
+              "start": 37,
+              "url": "https://t.co/wfOyrOTZDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073743079903785461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073583239227494439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arinaariri: 喫煙所がないから\n自分を喫煙所にしてた人 https://t.co/wfOyrOTZDH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073583234689241088"
+          ]
+        },
+        "author_id": "2797768538",
+        "conversation_id": "2073583239227494439",
+        "created_at": "2026-07-05T01:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073583239227494439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfOyrOTZDH",
+              "end": 44,
+              "expanded_url": "https://x.com/arinaariri/status/2073583239227494439/photo/1",
+              "media_key": "3_2073583234689241088",
+              "start": 21,
+              "url": "https://t.co/wfOyrOTZDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073583239227494439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 417861,
+          "like_count": 8771,
+          "quote_count": 93,
+          "reply_count": 136,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "喫煙所がないから\n自分を喫煙所にしてた人 https://t.co/wfOyrOTZDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 135,
+          "like_count": 5273,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T11:50:28.000Z",
+        "description": "ずっと忘れたくない内容を引用にてポストしています。",
+        "id": "2797768538",
+        "location": "ネタは随時DMまで募集しています",
+        "name": "ずっと忘れたくない",
+        "pinned_tweet_id": "2045735235896398176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727020754775248896/V6ve0rF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277991,
+          "following_count": 66578,
+          "like_count": 78619,
+          "listed_count": 488,
+          "media_count": 23,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "arinaariri",
+        "verified": false
+      }
+    ]
+  }
+}

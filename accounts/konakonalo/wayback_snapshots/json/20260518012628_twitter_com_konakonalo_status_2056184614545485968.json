@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055969265128452096"
+      ],
+      "media_source_tweet_id": [
+        "2055969269821939939"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2056184614545485968",
+    "created_at": "2026-05-18T01:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056184614545485968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1989412735936073732",
+          "start": 3,
+          "username": "gothsthetiques"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJ0JRmgdOQ",
+          "end": 43,
+          "expanded_url": "https://x.com/gothsthetiques/status/2055969269821939939/photo/1",
+          "media_key": "3_2055969265128452096",
+          "start": 20,
+          "url": "https://t.co/zJ0JRmgdOQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056184614545485968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055969269821939939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gothsthetiques: https://t.co/zJ0JRmgdOQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 909,
+        "media_key": "3_2055969265128452096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhFJ1UaMAApd7W.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055969265128452096"
+          ],
+          "media_source_tweet_id": [
+            "2055969269821939939"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2056184614545485968",
+        "created_at": "2026-05-18T01:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056184614545485968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1989412735936073732",
+              "start": 3,
+              "username": "gothsthetiques"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJ0JRmgdOQ",
+              "end": 43,
+              "expanded_url": "https://x.com/gothsthetiques/status/2055969269821939939/photo/1",
+              "media_key": "3_2055969265128452096",
+              "start": 20,
+              "url": "https://t.co/zJ0JRmgdOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056184614545485968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055969269821939939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gothsthetiques: https://t.co/zJ0JRmgdOQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055969265128452096"
+          ]
+        },
+        "author_id": "1989412735936073732",
+        "conversation_id": "2055969269821939939",
+        "created_at": "2026-05-17T11:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055969269821939939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJ0JRmgdOQ",
+              "end": 23,
+              "expanded_url": "https://x.com/gothsthetiques/status/2055969269821939939/photo/1",
+              "media_key": "3_2055969265128452096",
+              "start": 0,
+              "url": "https://t.co/zJ0JRmgdOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055969269821939939",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 88902,
+          "like_count": 10917,
+          "quote_count": 79,
+          "reply_count": 4,
+          "retweet_count": 2250
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zJ0JRmgdOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 2144,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 135
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T19:19:04.000Z",
+        "description": "your place for all things of a darker nature 🦇🖤",
+        "id": "1989412735936073732",
+        "location": "never miss a post! notifs🔛🛎️",
+        "name": "goth aesthetics",
+        "pinned_tweet_id": "2053737077595128231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989417571234484226/7GiCIkZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8957,
+          "following_count": 38,
+          "like_count": 4304,
+          "listed_count": 13,
+          "media_count": 780,
+          "tweet_count": 884
+        },
+        "username": "gothsthetiques",
+        "verified": false
+      }
+    ]
+  }
+}

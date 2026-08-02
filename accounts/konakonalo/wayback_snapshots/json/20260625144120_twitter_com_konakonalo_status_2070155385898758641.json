@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2069873971689046332",
+    "created_at": "2026-06-25T14:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070155385898758641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830633795365806080",
+          "start": 0,
+          "username": "dadazi8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070155385898758641",
+    "in_reply_to_user_id": "1830633795365806080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070145261951971684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dadazi8848 你他妈下面痒就拿拖鞋拍拍，去死行不行谁他妈要炮友了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2069873971689046332",
+        "created_at": "2026-06-25T14:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070155385898758641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830633795365806080",
+              "start": 0,
+              "username": "dadazi8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070155385898758641",
+        "in_reply_to_user_id": "1830633795365806080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070145261951971684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dadazi8848 你他妈下面痒就拿拖鞋拍拍，去死行不行谁他妈要炮友了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830633795365806080",
+        "conversation_id": "2069873971689046332",
+        "created_at": "2026-06-25T14:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070145261951971684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070145261951971684",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069873971689046332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 炮友算朋友吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 64,
+          "like_count": 3406,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T15:48:11.000Z",
+        "description": "胡思乱想中",
+        "id": "1830633795365806080",
+        "location": "珠海",
+        "name": "愣头青 hothead",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067576965029330944/RbWdDzLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 58,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "dadazi8848",
+        "verified": false
+      }
+    ]
+  }
+}

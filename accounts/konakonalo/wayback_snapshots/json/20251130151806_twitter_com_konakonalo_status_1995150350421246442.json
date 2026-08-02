@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1995150350421246442",
+    "created_at": "2025-11-30T15:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995150350421246442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1759853863375675392",
+          "start": 3,
+          "username": "Tina34743777469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995150350421246442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995028660852842939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tina34743777469: 呃我要玩一局主播女孩然后让糖糖一有压力就嗑药体验一下化学极乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1995150350421246442",
+        "created_at": "2025-11-30T15:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995150350421246442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1759853863375675392",
+              "start": 3,
+              "username": "Tina34743777469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995150350421246442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995028660852842939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tina34743777469: 呃我要玩一局主播女孩然后让糖糖一有压力就嗑药体验一下化学极乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759853863375675392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1995028660852842939",
+        "created_at": "2025-11-30T07:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995028660852842939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995028660852842939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃我要玩一局主播女孩然后让糖糖一有压力就嗑药体验一下化学极乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T08:14:20.000Z",
+        "description": "什么都干，什么都发。无恶不作但善良",
+        "id": "1759853863375675392",
+        "name": "特别喜欢桂花",
+        "pinned_tweet_id": "1994297266795106410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985792715599364096/mrxIOvFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 130,
+          "like_count": 1541,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 394
+        },
+        "username": "Tina34743777469",
+        "verified": false
+      }
+    ]
+  }
+}

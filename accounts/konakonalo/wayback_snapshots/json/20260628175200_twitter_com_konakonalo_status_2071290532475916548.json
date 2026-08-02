@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071106905099980800",
+        "3_2071106905301192704",
+        "3_2071106906022690817",
+        "3_2071106906932801536"
+      ],
+      "media_source_tweet_id": [
+        "2071106909101252738",
+        "2071106909101252738",
+        "2071106909101252738",
+        "2071106909101252738"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+          "id": "1070725241456930817",
+          "name": "David Lynch"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+          "id": "1070725241456930817",
+          "name": "David Lynch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+          "id": "1070725241456930817",
+          "name": "David Lynch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      }
+    ],
+    "conversation_id": "2071290532475916548",
+    "created_at": "2026-06-28T17:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071290532475916548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1977574497482944512",
+          "start": 3,
+          "username": "WilliamLuc877"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QvkVaPXHz",
+          "end": 98,
+          "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+          "media_key": "3_2071106905099980800",
+          "start": 75,
+          "url": "https://t.co/8QvkVaPXHz"
+        },
+        {
+          "display_url": "pic.x.com/8QvkVaPXHz",
+          "end": 98,
+          "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+          "media_key": "3_2071106905301192704",
+          "start": 75,
+          "url": "https://t.co/8QvkVaPXHz"
+        },
+        {
+          "display_url": "pic.x.com/8QvkVaPXHz",
+          "end": 98,
+          "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+          "media_key": "3_2071106906022690817",
+          "start": 75,
+          "url": "https://t.co/8QvkVaPXHz"
+        },
+        {
+          "display_url": "pic.x.com/8QvkVaPXHz",
+          "end": 98,
+          "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+          "media_key": "3_2071106906932801536",
+          "start": 75,
+          "url": "https://t.co/8QvkVaPXHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071290532475916548",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071106909101252738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WilliamLuc877: Lost Highway (1997)\nDir. David Lynch \nDoP. Peter Deming https://t.co/8QvkVaPXHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2071106905099980800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4MwcpX0AAcHKs.jpg",
+        "width": 1024
+      },
+      {
+        "height": 421,
+        "media_key": "3_2071106905301192704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4MwdZWEAAlzqp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 790,
+        "media_key": "3_2071106906022690817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4MwgFXQAExCv7.jpg",
+        "width": 1920
+      },
+      {
+        "height": 816,
+        "media_key": "3_2071106906932801536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4MwjeWcAAmyqm.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071106905099980800",
+            "3_2071106905301192704",
+            "3_2071106906022690817",
+            "3_2071106906932801536"
+          ],
+          "media_source_tweet_id": [
+            "2071106909101252738",
+            "2071106909101252738",
+            "2071106909101252738",
+            "2071106909101252738"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+              "id": "1070725241456930817",
+              "name": "David Lynch"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+              "id": "1070725241456930817",
+              "name": "David Lynch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+              "id": "1070725241456930817",
+              "name": "David Lynch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          }
+        ],
+        "conversation_id": "2071290532475916548",
+        "created_at": "2026-06-28T17:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071290532475916548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1977574497482944512",
+              "start": 3,
+              "username": "WilliamLuc877"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 98,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106905099980800",
+              "start": 75,
+              "url": "https://t.co/8QvkVaPXHz"
+            },
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 98,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106905301192704",
+              "start": 75,
+              "url": "https://t.co/8QvkVaPXHz"
+            },
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 98,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106906022690817",
+              "start": 75,
+              "url": "https://t.co/8QvkVaPXHz"
+            },
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 98,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106906932801536",
+              "start": 75,
+              "url": "https://t.co/8QvkVaPXHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071290532475916548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071106909101252738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WilliamLuc877: Lost Highway (1997)\nDir. David Lynch \nDoP. Peter Deming https://t.co/8QvkVaPXHz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071106905099980800",
+            "3_2071106905301192704",
+            "3_2071106906022690817",
+            "3_2071106906932801536"
+          ]
+        },
+        "author_id": "1977574497482944512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+              "id": "1070725241456930817",
+              "name": "David Lynch"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+              "id": "1070725241456930817",
+              "name": "David Lynch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American filmmaker, television director, visual artist, musician and occasional actor",
+              "id": "1070725241456930817",
+              "name": "David Lynch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          }
+        ],
+        "conversation_id": "2071106909101252738",
+        "created_at": "2026-06-28T05:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071106909101252738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 79,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106905099980800",
+              "start": 56,
+              "url": "https://t.co/8QvkVaPXHz"
+            },
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 79,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106905301192704",
+              "start": 56,
+              "url": "https://t.co/8QvkVaPXHz"
+            },
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 79,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106906022690817",
+              "start": 56,
+              "url": "https://t.co/8QvkVaPXHz"
+            },
+            {
+              "display_url": "pic.x.com/8QvkVaPXHz",
+              "end": 79,
+              "expanded_url": "https://x.com/WilliamLuc877/status/2071106909101252738/photo/1",
+              "media_key": "3_2071106906932801536",
+              "start": 56,
+              "url": "https://t.co/8QvkVaPXHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071106909101252738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 4658,
+          "like_count": 344,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "Lost Highway (1997)\nDir. David Lynch \nDoP. Peter Deming https://t.co/8QvkVaPXHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 77,
+          "like_count": 3872,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T03:19:29.000Z",
+        "description": "Um grande fã da área cinematográfica no geral 🎬",
+        "id": "1977574497482944512",
+        "name": "wolf_william",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068419156681068544/MZ-bPhmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 33,
+          "like_count": 8851,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "WilliamLuc877",
+        "verified": false
+      }
+    ]
+  }
+}

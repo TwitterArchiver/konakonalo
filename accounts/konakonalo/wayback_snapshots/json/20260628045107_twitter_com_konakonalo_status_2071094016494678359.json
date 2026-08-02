@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2070891961897398755",
+    "created_at": "2026-06-28T04:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071094016494678359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        },
+        {
+          "end": 31,
+          "id": "1626209229542666240",
+          "start": 17,
+          "username": "Himenoskyland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071094016494678359",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071024327479492618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 @Himenoskyland ^o^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2070891961897398755",
+        "created_at": "2026-06-28T04:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071094016494678359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            },
+            {
+              "end": 31,
+              "id": "1626209229542666240",
+              "start": 17,
+              "username": "Himenoskyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071094016494678359",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071024327479492618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 @Himenoskyland ^o^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2070891961897398755",
+        "created_at": "2026-06-28T00:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071024327479492618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            },
+            {
+              "end": 26,
+              "id": "1626209229542666240",
+              "start": 12,
+              "username": "Himenoskyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071024327479492618",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070893958956531748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo @Himenoskyland 太有品了，上面写的包括这个一半我steam都有，这么有品剩下的我也要试试，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 80,
+          "like_count": 3744,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "@GLaDOS8964 的转生，老号被人搞丢了，随时随地无聊中，欢迎来骚扰，友好🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2070547811993801064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 162,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "zau743598828677",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T13:18:24.000Z",
+        "description": "🚪52/88/188",
+        "id": "1626209229542666240",
+        "name": "小真",
+        "pinned_tweet_id": "2008443252295467119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070800964089499648/dEvz2Fcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 172,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "Himenoskyland",
+        "verified": false
+      }
+    ]
+  }
+}

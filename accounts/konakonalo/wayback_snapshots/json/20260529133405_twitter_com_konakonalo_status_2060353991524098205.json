@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059737113118035972",
+        "3_2059737114615443460",
+        "3_2059737114091175938"
+      ],
+      "media_source_tweet_id": [
+        "2059737117744332933",
+        "2059737117744332933",
+        "2059737117744332933"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060353991524098205",
+    "created_at": "2026-05-29T13:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060353991524098205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557201714687709184",
+          "start": 3,
+          "username": "chuuxinhas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iNR0lV37HB",
+          "end": 68,
+          "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+          "media_key": "3_2059737113118035972",
+          "start": 45,
+          "url": "https://t.co/iNR0lV37HB"
+        },
+        {
+          "display_url": "pic.x.com/iNR0lV37HB",
+          "end": 68,
+          "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+          "media_key": "3_2059737114615443460",
+          "start": 45,
+          "url": "https://t.co/iNR0lV37HB"
+        },
+        {
+          "display_url": "pic.x.com/iNR0lV37HB",
+          "end": 68,
+          "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+          "media_key": "3_2059737114091175938",
+          "start": 45,
+          "url": "https://t.co/iNR0lV37HB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060353991524098205",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059737117744332933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuuxinhas: gente serio meio q o maioral https://t.co/iNR0lV37HB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059737113118035972",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWn_c4W0AQW7lR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059737114615443460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWn_idXcAQcSIC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059737114091175938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWn_ggXwAIDVp3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059737113118035972",
+            "3_2059737114615443460",
+            "3_2059737114091175938"
+          ],
+          "media_source_tweet_id": [
+            "2059737117744332933",
+            "2059737117744332933",
+            "2059737117744332933"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060353991524098205",
+        "created_at": "2026-05-29T13:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060353991524098205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557201714687709184",
+              "start": 3,
+              "username": "chuuxinhas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNR0lV37HB",
+              "end": 68,
+              "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+              "media_key": "3_2059737113118035972",
+              "start": 45,
+              "url": "https://t.co/iNR0lV37HB"
+            },
+            {
+              "display_url": "pic.x.com/iNR0lV37HB",
+              "end": 68,
+              "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+              "media_key": "3_2059737114615443460",
+              "start": 45,
+              "url": "https://t.co/iNR0lV37HB"
+            },
+            {
+              "display_url": "pic.x.com/iNR0lV37HB",
+              "end": 68,
+              "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+              "media_key": "3_2059737114091175938",
+              "start": 45,
+              "url": "https://t.co/iNR0lV37HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060353991524098205",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059737117744332933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuuxinhas: gente serio meio q o maioral https://t.co/iNR0lV37HB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059737113118035972",
+            "3_2059737114615443460",
+            "3_2059737114091175938"
+          ]
+        },
+        "author_id": "1557201714687709184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059737117744332933",
+        "created_at": "2026-05-27T20:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059737117744332933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNR0lV37HB",
+              "end": 52,
+              "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+              "media_key": "3_2059737113118035972",
+              "start": 29,
+              "url": "https://t.co/iNR0lV37HB"
+            },
+            {
+              "display_url": "pic.x.com/iNR0lV37HB",
+              "end": 52,
+              "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+              "media_key": "3_2059737114615443460",
+              "start": 29,
+              "url": "https://t.co/iNR0lV37HB"
+            },
+            {
+              "display_url": "pic.x.com/iNR0lV37HB",
+              "end": 52,
+              "expanded_url": "https://x.com/chuuxinhas/status/2059737117744332933/photo/1",
+              "media_key": "3_2059737114091175938",
+              "start": 29,
+              "url": "https://t.co/iNR0lV37HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059737117744332933",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 34664,
+          "like_count": 2273,
+          "quote_count": 62,
+          "reply_count": 20,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "gente serio meio q o maioral https://t.co/iNR0lV37HB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "",
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 43,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 144
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T03:06:42.000Z",
+        "description": "⠀⠀⠀⠀⠀⠀te amo sayaka murata",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuuxinhas.carrd.co",
+                "end": 23,
+                "expanded_url": "https://chuuxinhas.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/FlNU6CPbAZ"
+              }
+            ]
+          }
+        },
+        "id": "1557201714687709184",
+        "location": "loona-izone",
+        "name": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა",
+        "pinned_tweet_id": "2040019774793461775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060320141104095233/TZlPkt-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 1239,
+          "like_count": 3436,
+          "listed_count": 7,
+          "media_count": 870,
+          "tweet_count": 8297
+        },
+        "url": "https://t.co/FlNU6CPbAZ",
+        "username": "chuuxinhas",
+        "verified": false
+      }
+    ]
+  }
+}

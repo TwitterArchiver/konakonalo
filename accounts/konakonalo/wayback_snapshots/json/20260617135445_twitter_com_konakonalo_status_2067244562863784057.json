@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067244556106788864"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2067244562863784057",
+    "created_at": "2026-06-17T13:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067244562863784057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHYJJ2U1zm",
+          "end": 30,
+          "expanded_url": "https://x.com/konakonalo/status/2067244562863784057/photo/1",
+          "media_key": "3_2067244556106788864",
+          "start": 7,
+          "url": "https://t.co/eHYJJ2U1zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067244562863784057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真想狠狠撕咬 https://t.co/eHYJJ2U1zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2067244556106788864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBT-Jaa8AA7vyc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067244556106788864"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2067244562863784057",
+        "created_at": "2026-06-17T13:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067244562863784057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHYJJ2U1zm",
+              "end": 30,
+              "expanded_url": "https://x.com/konakonalo/status/2067244562863784057/photo/1",
+              "media_key": "3_2067244556106788864",
+              "start": 7,
+              "url": "https://t.co/eHYJJ2U1zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244562863784057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想狠狠撕咬 https://t.co/eHYJJ2U1zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 53,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 206
+        },
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2080365460575736175",
+    "created_at": "2026-07-23T18:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080365460575736175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1904731881817735168",
+          "start": 3,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080365460575736175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080266477379395593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3e1diei0_oi7y: 我本来就不是什么好孩子喔，也并不拥有健全的生命，对我这种人，只要放任自流就好了。\n我最讨厌的就是高高在上的大人，既没办法也不想要理解对方的心情，却一心想着要擅断他人的人生来装腔作势了。\n我就是我而已，并不需要任何人帮助或拯救。\n我的生命，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2080365460575736175",
+        "created_at": "2026-07-23T18:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080365460575736175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1904731881817735168",
+              "start": 3,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080365460575736175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080266477379395593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3e1diei0_oi7y: 我本来就不是什么好孩子喔，也并不拥有健全的生命，对我这种人，只要放任自流就好了。\n我最讨厌的就是高高在上的大人，既没办法也不想要理解对方的心情，却一心想着要擅断他人的人生来装腔作势了。\n我就是我而已，并不需要任何人帮助或拯救。\n我的生命，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2080266477379395593",
+        "created_at": "2026-07-23T12:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080266477379395593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080266477379395593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 734,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我本来就不是什么好孩子喔，也并不拥有健全的生命，对我这种人，只要放任自流就好了。\n我最讨厌的就是高高在上的大人，既没办法也不想要理解对方的心情，却一心想着要擅断他人的人生来装腔作势了。\n我就是我而已，并不需要任何人帮助或拯救。\n我的生命，我的生活，我的所思所想也与你无关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 228,
+          "like_count": 8011,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 969
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 433,
+          "like_count": 24946,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

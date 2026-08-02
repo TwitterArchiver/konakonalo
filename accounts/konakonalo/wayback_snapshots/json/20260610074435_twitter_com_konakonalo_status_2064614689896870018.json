@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064281206544384000"
+      ],
+      "media_source_tweet_id": [
+        "2064282324561219785"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2064614689896870018",
+    "created_at": "2026-06-10T07:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064614689896870018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mbzTqhiSPQ",
+          "end": 130,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2064282324561219785/video/1",
+          "media_key": "13_2064281206544384000",
+          "start": 107,
+          "url": "https://t.co/mbzTqhiSPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064614689896870018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064282324561219785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月9日，重庆“山姆打包哥”虐狗事件现场\n现场，一个警察特地脱下警服，粗暴地把一个女子强行压制至跪地状态\n期间，他还威胁地用手指着拍摄者的手机，恶狠狠地大声呵斥：“收起来” https://t.co/mbzTqhiSPQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064614689896870018].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064614689896870018",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064614689896870018"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22166,
+        "height": 550,
+        "media_key": "13_2064281206544384000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064281206544384000/img/o8UNo_96gW7itodB.jpg",
+        "public_metrics": {
+          "view_count": 122973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064281206544384000/vid/avc1/288x550/xxV2vTccx3lZzFLG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064281206544384000/pl/OAzZ2-PpwuYBG-0T.m3u8?v=cfc"
+          }
+        ],
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064281206544384000"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2064282324561219785",
+        "created_at": "2026-06-09T09:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:43:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064282113487118572",
+          "2064282324561219785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbzTqhiSPQ",
+              "end": 110,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064282324561219785/video/1",
+              "media_key": "13_2064281206544384000",
+              "start": 87,
+              "url": "https://t.co/mbzTqhiSPQ"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2064275530757931304",
+              "start": 111,
+              "url": "https://t.co/N7bj90kl2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064282324561219785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 766370,
+          "like_count": 1943,
+          "quote_count": 32,
+          "reply_count": 377,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064275530757931304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月9日，重庆“山姆打包哥”虐狗事件现场\n现场，一个警察特地脱下警服，粗暴地把一个女子强行压制至跪地状态\n期间，他还威胁地用手指着拍摄者的手机，恶狠狠地大声呵斥：“收起来” https://t.co/mbzTqhiSPQ https://t.co/N7bj90kl2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 52,
+          "like_count": 3023,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 194
+        },
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235837,
+          "following_count": 1070,
+          "like_count": 9662,
+          "listed_count": 8792,
+          "media_count": 48299,
+          "tweet_count": 55455
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

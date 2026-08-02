@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080302405938520064",
+        "3_2080302405917495296",
+        "3_2080302405963628544",
+        "3_2080302406022430720"
+      ],
+      "media_source_tweet_id": [
+        "2080302424074658219",
+        "2080302424074658219",
+        "2080302424074658219",
+        "2080302424074658219"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2080445399731753298",
+    "created_at": "2026-07-24T00:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080445399731753298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076285665650831360",
+          "start": 3,
+          "username": "mettazashi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCJQ8t5OSk",
+          "end": 120,
+          "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+          "media_key": "3_2080302405938520064",
+          "start": 97,
+          "url": "https://t.co/rCJQ8t5OSk"
+        },
+        {
+          "display_url": "pic.x.com/rCJQ8t5OSk",
+          "end": 120,
+          "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+          "media_key": "3_2080302405917495296",
+          "start": 97,
+          "url": "https://t.co/rCJQ8t5OSk"
+        },
+        {
+          "display_url": "pic.x.com/rCJQ8t5OSk",
+          "end": 120,
+          "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+          "media_key": "3_2080302405963628544",
+          "start": 97,
+          "url": "https://t.co/rCJQ8t5OSk"
+        },
+        {
+          "display_url": "pic.x.com/rCJQ8t5OSk",
+          "end": 120,
+          "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+          "media_key": "3_2080302406022430720",
+          "start": 97,
+          "url": "https://t.co/rCJQ8t5OSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080445399731753298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080302424074658219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mettazashi3: 後半なんかの曲で柵を越えて虐殺最に行気辿り着いた先に謎の扉があったので開けたら女性の方が震えて立ちすくんでいたので謝罪して即退出しました本当にすみませんでした https://t.co/rCJQ8t5OSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080302405938520064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN64BCtbIAA_Ghd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080302405917495296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN64BCoaUAAp8vH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080302405963628544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN64BCzaQAAbEcD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080302406022430720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN64BDBbgAA4I3b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080302405938520064",
+            "3_2080302405917495296",
+            "3_2080302405963628544",
+            "3_2080302406022430720"
+          ]
+        },
+        "author_id": "2076285665650831360",
+        "conversation_id": "2080302424074658219",
+        "created_at": "2026-07-23T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080302424074658219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 103,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302405938520064",
+              "start": 80,
+              "url": "https://t.co/rCJQ8t5OSk"
+            },
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 103,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302405917495296",
+              "start": 80,
+              "url": "https://t.co/rCJQ8t5OSk"
+            },
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 103,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302405963628544",
+              "start": 80,
+              "url": "https://t.co/rCJQ8t5OSk"
+            },
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 103,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302406022430720",
+              "start": 80,
+              "url": "https://t.co/rCJQ8t5OSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080302424074658219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 11406,
+          "like_count": 674,
+          "quote_count": 18,
+          "reply_count": 10,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "後半なんかの曲で柵を越えて虐殺最に行気辿り着いた先に謎の扉があったので開けたら女性の方が震えて立ちすくんでいたので謝罪して即退出しました本当にすみませんでした https://t.co/rCJQ8t5OSk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080302405938520064",
+            "3_2080302405917495296",
+            "3_2080302405963628544",
+            "3_2080302406022430720"
+          ],
+          "media_source_tweet_id": [
+            "2080302424074658219",
+            "2080302424074658219",
+            "2080302424074658219",
+            "2080302424074658219"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2080445399731753298",
+        "created_at": "2026-07-24T00:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080445399731753298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076285665650831360",
+              "start": 3,
+              "username": "mettazashi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 120,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302405938520064",
+              "start": 97,
+              "url": "https://t.co/rCJQ8t5OSk"
+            },
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 120,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302405917495296",
+              "start": 97,
+              "url": "https://t.co/rCJQ8t5OSk"
+            },
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 120,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302405963628544",
+              "start": 97,
+              "url": "https://t.co/rCJQ8t5OSk"
+            },
+            {
+              "display_url": "pic.x.com/rCJQ8t5OSk",
+              "end": 120,
+              "expanded_url": "https://x.com/mettazashi3/status/2080302424074658219/photo/1",
+              "media_key": "3_2080302406022430720",
+              "start": 97,
+              "url": "https://t.co/rCJQ8t5OSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080445399731753298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080302424074658219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mettazashi3: 後半なんかの曲で柵を越えて虐殺最に行気辿り着いた先に謎の扉があったので開けたら女性の方が震えて立ちすくんでいたので謝罪して即退出しました本当にすみませんでした https://t.co/rCJQ8t5OSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 240,
+          "like_count": 8064,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:40:53.000Z",
+        "description": "動物虐待した奴をお立ち台にしてどこかデカい会場に立つのが夢です\n@senketsu37564\nhttps://t.co/4PHabdJId6\nゲボhttps://t.co/9pprYL7O7u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "senketsu37564"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCSDIN…",
+                "end": 70,
+                "expanded_url": "https://m.youtube.com/channel/UCSDIN5KRF2cHvHnQ35fbemQ?ra=m",
+                "start": 47,
+                "url": "https://t.co/4PHabdJId6"
+              },
+              {
+                "display_url": "instagram.com/senketsu_metta…",
+                "end": 96,
+                "expanded_url": "https://www.instagram.com/senketsu_mettazashi37564/",
+                "start": 73,
+                "url": "https://t.co/9pprYL7O7u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@realotakugebo…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@realotakugebo?ra=m",
+                "start": 0,
+                "url": "https://t.co/L4uWpa7TIu"
+              }
+            ]
+          }
+        },
+        "id": "2076285665650831360",
+        "location": "個人チャンネル",
+        "name": "鮮血A子ちゃん 滅多刺しひろくん",
+        "pinned_tweet_id": "2076306080414707739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078477724071735296/LKZj0lqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 0,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/L4uWpa7TIu",
+        "username": "mettazashi3",
+        "verified": false
+      }
+    ]
+  }
+}

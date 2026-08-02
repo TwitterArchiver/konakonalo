@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2064321783294271921",
+    "created_at": "2026-06-09T12:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064321783294271921"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064321783294271921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难受死了我靠。8t苯海拉明从昨天晚上迷糊到现在。身体软绵绵没有力气头像灌铅了一样沉。清醒不过来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2064321783294271921",
+        "created_at": "2026-06-09T12:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064321783294271921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064321783294271921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难受死了我靠。8t苯海拉明从昨天晚上迷糊到现在。身体软绵绵没有力气头像灌铅了一样沉。清醒不过来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 52,
+          "like_count": 2976,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 190
+        },
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

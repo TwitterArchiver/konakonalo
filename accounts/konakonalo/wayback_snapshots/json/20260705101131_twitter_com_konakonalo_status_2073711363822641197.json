@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073700412021002464",
+    "created_at": "2026-07-05T10:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073711363822641197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073711363822641197",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073710656084496872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 咪咪度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073700412021002464",
+        "created_at": "2026-07-05T10:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073711363822641197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073711363822641197",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073710656084496872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 咪咪度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2073700412021002464",
+        "created_at": "2026-07-05T10:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073710656084496872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073710656084496872",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073700412021002464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 米米嘟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 135,
+          "like_count": 5269,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "摄影爱好者，ins账号如下，@GLaDOS8964 的转生，老号被人搞丢了，脾气极好，随时随地无聊中，欢迎来骚扰，🌈友好，互fo欢迎（没有fo请私信骚扰）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "GLaDOS8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gladoslove?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gladoslove?igsh=OXdrOGJ0dzViaGE1",
+                "start": 0,
+                "url": "https://t.co/at0RBxE0ea"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "河南郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2072525370226844084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 213,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/at0RBxE0ea",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2079944732411867208",
+    "created_at": "2026-07-22T16:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079965074983420122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951428010294517765",
+          "start": 0,
+          "username": "xi4604948568078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079965074983420122",
+    "in_reply_to_user_id": "1951428010294517765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079963173113962821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi4604948568078 (＞人＜;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2079944732411867208",
+        "created_at": "2026-07-22T16:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079965074983420122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951428010294517765",
+              "start": 0,
+              "username": "xi4604948568078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079965074983420122",
+        "in_reply_to_user_id": "1951428010294517765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079963173113962821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi4604948568078 (＞人＜;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951428010294517765",
+        "conversation_id": "2079944732411867208",
+        "created_at": "2026-07-22T16:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079963173113962821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079963173113962821",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079944732411867208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 你好乖啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 217,
+          "like_count": 7946,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T23:41:20.000Z",
+        "description": "",
+        "id": "1951428010294517765",
+        "name": "羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077731542718447616/hiqs7FQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 226,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "xi4604948568078",
+        "verified": false
+      }
+    ]
+  }
+}

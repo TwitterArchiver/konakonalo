@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073596291062362567",
+    "created_at": "2026-07-05T06:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073662652388200776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1399626060585598984",
+          "start": 0,
+          "username": "zhongliu19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073662652388200776",
+    "in_reply_to_user_id": "1399626060585598984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073596291062362567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongliu19 卧槽你前男友也太贱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073596291062362567",
+        "created_at": "2026-07-05T06:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073662652388200776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1399626060585598984",
+              "start": 0,
+              "username": "zhongliu19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073662652388200776",
+        "in_reply_to_user_id": "1399626060585598984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073596291062362567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongliu19 卧槽你前男友也太贱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399626060585598984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2073596291062362567",
+        "created_at": "2026-07-05T02:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073596291062362567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073596291062362567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不会忘记我给前男友这个贱人明日方舟挖了438块至纯源石然后他抽完卡买完皮肤和我说不想要了，\nbyd那些高难关还是我求着同校的大手子帮我打的，他那个号没有ew没有快活没有望的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 129,
+          "like_count": 5194,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T07:17:25.000Z",
+        "description": "🌈男大0m，铁血正太控，非常非常寂寞，梦想是有一个属于自己的家\n纯种二次元，什么都听一点什么都玩一点，非常容易被人影响（会出现被前男友害得暂时不想看某个角色之类的事，且精神状态极差\n欢迎同样的二次元扩列交友，万一能找到爱呢www（目的不纯）\n友链：@yoruranran\nhttps://t.co/6OXQ7RVual",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "yoruranran"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/o76858",
+                "end": 159,
+                "expanded_url": "https://ngl.link/o76858",
+                "start": 136,
+                "url": "https://t.co/6OXQ7RVual"
+              }
+            ]
+          }
+        },
+        "id": "1399626060585598984",
+        "location": "婚礼的梦中",
+        "name": "AAA鬼岛圆尾坂裁缝店首藤祸世",
+        "pinned_tweet_id": "2064492915863302399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072712835877003264/pQZKQI08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 1877,
+          "like_count": 3335,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "zhongliu19",
+        "verified": false
+      }
+    ]
+  }
+}

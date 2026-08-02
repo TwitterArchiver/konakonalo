@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2080982922694422824",
+    "created_at": "2026-07-25T11:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080982922694422824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806835463757406208",
+          "start": 3,
+          "username": "ykkmiguel2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080982922694422824",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080704696650813646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ykkmiguel2: queria sair de casa hj pra beijar na boca de puta e viado num ambiente com a energia bem baixa e usar droga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2080982922694422824",
+        "created_at": "2026-07-25T11:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080982922694422824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806835463757406208",
+              "start": 3,
+              "username": "ykkmiguel2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982922694422824",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080704696650813646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ykkmiguel2: queria sair de casa hj pra beijar na boca de puta e viado num ambiente com a energia bem baixa e usar droga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806835463757406208",
+        "conversation_id": "2080704696650813646",
+        "created_at": "2026-07-24T17:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080704696650813646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080704696650813646",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4343,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "queria sair de casa hj pra beijar na boca de puta e viado num ambiente com a energia bem baixa e usar droga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 244,
+          "like_count": 8240,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T23:42:07.000Z",
+        "description": "sou maconheiro jogo minecraft fumo cigarro bato punheta beijo na boca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ykkmiguel",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ykkmiguel",
+                "start": 0,
+                "url": "https://t.co/utcLcQFITz"
+              }
+            ]
+          }
+        },
+        "id": "1806835463757406208",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Miguel",
+        "pinned_tweet_id": "2078206672426696968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005367155986923520/1eHhhpHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34407,
+          "following_count": 871,
+          "like_count": 43702,
+          "listed_count": 10,
+          "media_count": 2512,
+          "tweet_count": 16498
+        },
+        "url": "https://t.co/utcLcQFITz",
+        "username": "ykkmiguel2",
+        "verified": false
+      }
+    ]
+  }
+}

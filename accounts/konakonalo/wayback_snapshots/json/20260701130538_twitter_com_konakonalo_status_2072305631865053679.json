@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2072305631865053679",
+    "created_at": "2026-07-01T13:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072305631865053679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072305631865053679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一般我只要对某个人产生了嫉妒的情绪我就没办法好好和他们相处了。我会想办法找到他们身上不如我的点然后开始偏执地对待他们比如说在相处中表露出看不起和爱答不理。对方被我搞的很困惑很难受于是会稍稍疏远我，这导致我更加讨厌他们。真心希望自己不要再这样干了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2072305631865053679",
+        "created_at": "2026-07-01T13:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072305631865053679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072305631865053679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般我只要对某个人产生了嫉妒的情绪我就没办法好好和他们相处了。我会想办法找到他们身上不如我的点然后开始偏执地对待他们比如说在相处中表露出看不起和爱答不理。对方被我搞的很困惑很难受于是会稍稍疏远我，这导致我更加讨厌他们。真心希望自己不要再这样干了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 89,
+          "like_count": 4377,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

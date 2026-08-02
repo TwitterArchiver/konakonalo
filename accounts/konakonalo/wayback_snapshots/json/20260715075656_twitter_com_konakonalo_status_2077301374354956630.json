@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077266802401243136"
+      ],
+      "media_source_tweet_id": [
+        "2077266805635100843"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2077301374354956630",
+    "created_at": "2026-07-15T07:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077301374354956630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1035605203645542400",
+          "start": 3,
+          "username": "GioNuclear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qJjqT7DxAN",
+          "end": 78,
+          "expanded_url": "https://x.com/GioNuclear/status/2077266805635100843/photo/1",
+          "media_key": "3_2077266802401243136",
+          "start": 55,
+          "url": "https://t.co/qJjqT7DxAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077301374354956630",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077266805635100843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GioNuclear: me: imma keep it frank with you\nfrank: https://t.co/qJjqT7DxAN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_2077266802401243136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPvJqTWcAAmtcP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077266802401243136"
+          ],
+          "media_source_tweet_id": [
+            "2077266805635100843"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2077301374354956630",
+        "created_at": "2026-07-15T07:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077301374354956630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1035605203645542400",
+              "start": 3,
+              "username": "GioNuclear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJjqT7DxAN",
+              "end": 78,
+              "expanded_url": "https://x.com/GioNuclear/status/2077266805635100843/photo/1",
+              "media_key": "3_2077266802401243136",
+              "start": 55,
+              "url": "https://t.co/qJjqT7DxAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077301374354956630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077266805635100843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GioNuclear: me: imma keep it frank with you\nfrank: https://t.co/qJjqT7DxAN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077266802401243136"
+          ]
+        },
+        "author_id": "1035605203645542400",
+        "conversation_id": "2077266805635100843",
+        "created_at": "2026-07-15T05:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077266805635100843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJjqT7DxAN",
+              "end": 62,
+              "expanded_url": "https://x.com/GioNuclear/status/2077266805635100843/photo/1",
+              "media_key": "3_2077266802401243136",
+              "start": 39,
+              "url": "https://t.co/qJjqT7DxAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077266805635100843",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2911,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "me: imma keep it frank with you\nfrank: https://t.co/qJjqT7DxAN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 184,
+          "like_count": 7268,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-31T19:08:15.000Z",
+        "description": "🇲🇽🇲🇽🇲🇽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/GioNuclear",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/GioNuclear",
+                "start": 0,
+                "url": "https://t.co/22Br41Blnh"
+              }
+            ]
+          }
+        },
+        "id": "1035605203645542400",
+        "name": "⚛︎",
+        "pinned_tweet_id": "2076554822195597470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075811782040424448/thcA7-WD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1086,
+          "like_count": 86094,
+          "listed_count": 1,
+          "media_count": 759,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/22Br41Blnh",
+        "username": "GioNuclear",
+        "verified": false
+      }
+    ]
+  }
+}

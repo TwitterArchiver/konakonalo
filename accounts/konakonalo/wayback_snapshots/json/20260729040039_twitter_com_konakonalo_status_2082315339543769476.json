@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082269140526538752"
+      ],
+      "media_source_tweet_id": [
+        "2082269145270194521"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2082315339543769476",
+    "created_at": "2026-07-29T04:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082315339543769476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1608214835740786688",
+          "start": 3,
+          "username": "fatalseduction"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAKrAPLwF0",
+          "end": 43,
+          "expanded_url": "https://x.com/fatalseduction/status/2082269145270194521/photo/1",
+          "media_key": "3_2082269140526538752",
+          "start": 20,
+          "url": "https://t.co/qAKrAPLwF0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082315339543769476",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082269145270194521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fatalseduction: https://t.co/qAKrAPLwF0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2082269140526538752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOW0wD_XoAAbNZ6.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082269140526538752"
+          ]
+        },
+        "author_id": "1608214835740786688",
+        "conversation_id": "2082269145270194521",
+        "created_at": "2026-07-29T00:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082269145270194521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAKrAPLwF0",
+              "end": 23,
+              "expanded_url": "https://x.com/fatalseduction/status/2082269145270194521/photo/1",
+              "media_key": "3_2082269140526538752",
+              "start": 0,
+              "url": "https://t.co/qAKrAPLwF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082269145270194521",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 375,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qAKrAPLwF0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082269140526538752"
+          ],
+          "media_source_tweet_id": [
+            "2082269145270194521"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2082315339543769476",
+        "created_at": "2026-07-29T04:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082315339543769476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1608214835740786688",
+              "start": 3,
+              "username": "fatalseduction"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAKrAPLwF0",
+              "end": 43,
+              "expanded_url": "https://x.com/fatalseduction/status/2082269145270194521/photo/1",
+              "media_key": "3_2082269140526538752",
+              "start": 20,
+              "url": "https://t.co/qAKrAPLwF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082315339543769476",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082269145270194521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fatalseduction: https://t.co/qAKrAPLwF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 269,
+          "like_count": 8712,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T21:34:41.000Z",
+        "description": "𝒩ur ich kann in dich hineinsehen, gib dich mir einfach hin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ninfadoinferno…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ninfadoinferno?igsh=OWdxMTcxN3RlNmRk&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/V4vl94l7G8"
+              }
+            ]
+          }
+        },
+        "id": "1608214835740786688",
+        "location": "sanguis succubus",
+        "name": "𝔰tephanie",
+        "pinned_tweet_id": "2078869694027633138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063427134723432448/RYwILGGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 1705,
+          "like_count": 49106,
+          "listed_count": 1,
+          "media_count": 3337,
+          "tweet_count": 18072
+        },
+        "url": "https://t.co/V4vl94l7G8",
+        "username": "fatalseduction",
+        "verified": false
+      }
+    ]
+  }
+}

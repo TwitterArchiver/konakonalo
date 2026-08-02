@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073210510590214144"
+      ],
+      "media_source_tweet_id": [
+        "2073210513035530623"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073381807064523192",
+    "created_at": "2026-07-04T12:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073381807064523192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2059979570619482117",
+          "start": 3,
+          "username": "euphoriaffff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Pv8hRGpb5",
+          "end": 41,
+          "expanded_url": "https://x.com/euphoriaffff/status/2073210513035530623/photo/1",
+          "media_key": "3_2073210510590214144",
+          "start": 18,
+          "url": "https://t.co/2Pv8hRGpb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073381807064523192",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073210513035530623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @euphoriaffff: https://t.co/2Pv8hRGpb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2073210510590214144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWF-ZxWAAACpDW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073210510590214144"
+          ],
+          "media_source_tweet_id": [
+            "2073210513035530623"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073381807064523192",
+        "created_at": "2026-07-04T12:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073381807064523192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059979570619482117",
+              "start": 3,
+              "username": "euphoriaffff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Pv8hRGpb5",
+              "end": 41,
+              "expanded_url": "https://x.com/euphoriaffff/status/2073210513035530623/photo/1",
+              "media_key": "3_2073210510590214144",
+              "start": 18,
+              "url": "https://t.co/2Pv8hRGpb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073381807064523192",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073210513035530623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @euphoriaffff: https://t.co/2Pv8hRGpb5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073210510590214144"
+          ]
+        },
+        "author_id": "2059979570619482117",
+        "conversation_id": "2073210513035530623",
+        "created_at": "2026-07-04T01:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073210513035530623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Pv8hRGpb5",
+              "end": 23,
+              "expanded_url": "https://x.com/euphoriaffff/status/2073210513035530623/photo/1",
+              "media_key": "3_2073210510590214144",
+              "start": 0,
+              "url": "https://t.co/2Pv8hRGpb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073210513035530623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 9986,
+          "like_count": 1559,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Pv8hRGpb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 119,
+          "like_count": 5099,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T12:48:41.000Z",
+        "description": "touch me, i scream",
+        "id": "2059979570619482117",
+        "name": "kati",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072461424647897088/5jXyIb8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 95,
+          "like_count": 1151,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "euphoriaffff",
+        "verified": false
+      }
+    ]
+  }
+}

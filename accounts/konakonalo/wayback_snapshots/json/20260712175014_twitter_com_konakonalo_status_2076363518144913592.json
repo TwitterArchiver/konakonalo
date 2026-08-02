@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076046786104586240"
+      ],
+      "media_source_tweet_id": [
+        "2076046800092565754"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2076363518144913592",
+    "created_at": "2026-07-12T17:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076363518144913592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1242125777094602752",
+          "start": 3,
+          "username": "YsOavedeCYl6eLs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qzby0EfgPB",
+          "end": 44,
+          "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2076046800092565754/photo/1",
+          "media_key": "3_2076046786104586240",
+          "start": 21,
+          "url": "https://t.co/Qzby0EfgPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076363518144913592",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076046800092565754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YsOavedeCYl6eLs: https://t.co/Qzby0EfgPB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2076046786104586240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-ZjXba8AAI569.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076046786104586240"
+          ],
+          "media_source_tweet_id": [
+            "2076046800092565754"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2076363518144913592",
+        "created_at": "2026-07-12T17:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076363518144913592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1242125777094602752",
+              "start": 3,
+              "username": "YsOavedeCYl6eLs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qzby0EfgPB",
+              "end": 44,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2076046800092565754/photo/1",
+              "media_key": "3_2076046786104586240",
+              "start": 21,
+              "url": "https://t.co/Qzby0EfgPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076363518144913592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076046800092565754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YsOavedeCYl6eLs: https://t.co/Qzby0EfgPB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076046786104586240"
+          ]
+        },
+        "author_id": "1242125777094602752",
+        "conversation_id": "2076046800092565754",
+        "created_at": "2026-07-11T20:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076046800092565754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qzby0EfgPB",
+              "end": 23,
+              "expanded_url": "https://x.com/YsOavedeCYl6eLs/status/2076046800092565754/photo/1",
+              "media_key": "3_2076046786104586240",
+              "start": 0,
+              "url": "https://t.co/Qzby0EfgPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076046800092565754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 19729,
+          "like_count": 1507,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qzby0EfgPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 167,
+          "like_count": 6838,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T16:27:30.000Z",
+        "description": "オリジナル・ガールズ・ポップ・グループ「イキグサレ」の公式アカウントです。\nダウンロード販売　https://t.co/2kEtp9cYKl\nhttps://t.co/JLnAQhYt3Q\nプロデューサー＠namaitirou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "namaitirou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ikigusare.booth.pm",
+                "end": 70,
+                "expanded_url": "http://ikigusare.booth.pm",
+                "start": 47,
+                "url": "https://t.co/2kEtp9cYKl"
+              },
+              {
+                "display_url": "youtube.com/channel/UC4bkH…",
+                "end": 94,
+                "expanded_url": "https://www.youtube.com/channel/UC4bkHCwADBp9VLEmymKjwfw",
+                "start": 71,
+                "url": "https://t.co/JLnAQhYt3Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "destroy.aki.gs/ikigusare/ikig…",
+                "end": 23,
+                "expanded_url": "http://destroy.aki.gs/ikigusare/ikigusare.html",
+                "start": 0,
+                "url": "https://t.co/BSLLxhbEwr"
+              }
+            ]
+          }
+        },
+        "id": "1242125777094602752",
+        "name": "イキグサレ　公式アカウント",
+        "pinned_tweet_id": "1246064973345722368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245781909503787008/ln2NS8GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14582,
+          "following_count": 0,
+          "like_count": 72,
+          "listed_count": 18,
+          "media_count": 138,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/BSLLxhbEwr",
+        "username": "YsOavedeCYl6eLs",
+        "verified": false
+      }
+    ]
+  }
+}

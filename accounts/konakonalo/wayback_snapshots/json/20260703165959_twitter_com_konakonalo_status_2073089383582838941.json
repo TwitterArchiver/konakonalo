@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2073089383582838941",
+    "created_at": "2026-07-03T16:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073089383582838941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3e3e_3/status/…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/3e3e_3/status/2072961435978912200",
+          "start": 99,
+          "url": "https://t.co/prJsLk4E4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073089383582838941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072961435978912200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些时候会对着这种身型的男人自慰。我绝对不会爱上这种男人但是我觉得肥肉堆叠和松垮的皮肤非常的下流色情。自慰的时候想象着老男人平日里会露出的猥琐表情和如同死人一般的气味感觉很新奇。呃，，，，好无语， https://t.co/prJsLk4E4F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1721,
+        "media_key": "3_2072961427023998976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSjb1LaMAALzIE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073089383582838941",
+        "created_at": "2026-07-03T16:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073089383582838941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3e3e_3/status/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/3e3e_3/status/2072961435978912200",
+              "start": 99,
+              "url": "https://t.co/prJsLk4E4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073089383582838941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072961435978912200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些时候会对着这种身型的男人自慰。我绝对不会爱上这种男人但是我觉得肥肉堆叠和松垮的皮肤非常的下流色情。自慰的时候想象着老男人平日里会露出的猥琐表情和如同死人一般的气味感觉很新奇。呃，，，，好无语， https://t.co/prJsLk4E4F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072961427023998976"
+          ]
+        },
+        "author_id": "1359499220479213571",
+        "conversation_id": "2072961435978912200",
+        "created_at": "2026-07-03T08:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072961435978912200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7xeqwwX16",
+              "end": 44,
+              "expanded_url": "https://x.com/3e3e_3/status/2072961435978912200/photo/1",
+              "media_key": "3_2072961427023998976",
+              "start": 21,
+              "url": "https://t.co/l7xeqwwX16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072961435978912200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 10007,
+          "like_count": 618,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "verified",
+        "text": "レンブラント　ピカソ　ベーコン　卵　ハム https://t.co/l7xeqwwX16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 115,
+          "like_count": 4973,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-10T13:47:35.000Z",
+        "description": "幸あれ",
+        "id": "1359499220479213571",
+        "name": "はびこ　habiko",
+        "pinned_tweet_id": "1465426204824006656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460526318391808004/_V0PB-Uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 40,
+          "like_count": 3517,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "3e3e_3",
+        "verified": false
+      }
+    ]
+  }
+}
