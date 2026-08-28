@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085791376625528833"
+      ],
+      "media_source_tweet_id": [
+        "2085791380912115726"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2086277485436838160",
+    "created_at": "2026-08-09T02:24:48.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086277485436838160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1223049343206416384",
+          "start": 3,
+          "username": "aristomarinetti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XVSnnJebtU",
+          "end": 44,
+          "expanded_url": "https://x.com/aristomarinetti/status/2085791380912115726/photo/1",
+          "media_key": "3_2085791376625528833",
+          "start": 21,
+          "url": "https://t.co/XVSnnJebtU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086277485436838160",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2085791376625528833"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085791380912115726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aristomarinetti: https://t.co/XVSnnJebtU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2085791376625528833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPI4NL9WcAEE-MJ.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085791376625528833"
+          ]
+        },
+        "author_id": "1223049343206416384",
+        "conversation_id": "2085791380912115726",
+        "created_at": "2026-08-07T18:13:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085791380912115726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVSnnJebtU",
+              "end": 23,
+              "expanded_url": "https://x.com/aristomarinetti/status/2085791380912115726/photo/1",
+              "media_key": "3_2085791376625528833",
+              "start": 0,
+              "url": "https://t.co/XVSnnJebtU"
+            },
+            {
+              "display_url": "x.com/aristomarinett…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aristomarinetti/status/2050889795799224665",
+              "start": 24,
+              "url": "https://t.co/keIqfWYZMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085791380912115726",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2085791376625528833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2666,
+          "impression_count": 572596,
+          "like_count": 37057,
+          "quote_count": 103,
+          "reply_count": 40,
+          "retweet_count": 4134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050889795799224665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/XVSnnJebtU https://t.co/keIqfWYZMT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085791376625528833"
+          ],
+          "media_source_tweet_id": [
+            "2085791380912115726"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2086277485436838160",
+        "created_at": "2026-08-09T02:24:48.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086277485436838160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1223049343206416384",
+              "start": 3,
+              "username": "aristomarinetti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVSnnJebtU",
+              "end": 44,
+              "expanded_url": "https://x.com/aristomarinetti/status/2085791380912115726/photo/1",
+              "media_key": "3_2085791376625528833",
+              "start": 21,
+              "url": "https://t.co/XVSnnJebtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086277485436838160",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2085791376625528833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085791380912115726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aristomarinetti: https://t.co/XVSnnJebtU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2086277485436838160",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 312,
+          "like_count": 9630,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1285
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T01:04:31.000Z",
+        "description": "Balli Kombëtar",
+        "id": "1223049343206416384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086156670925672857",
+        "name": "Aristo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223049343206416384/1782027999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026728934658764800/stM0AYu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54612,
+          "following_count": 100,
+          "like_count": 9479,
+          "listed_count": 164,
+          "media_count": 243,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "aristomarinetti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

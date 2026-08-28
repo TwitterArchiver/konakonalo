@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2086978634024378652",
+    "created_at": "2026-08-11T00:50:55.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086978634024378652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/de3dsoul/statu…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/de3dsoul/status/2086814832985305470",
+          "start": 47,
+          "url": "https://t.co/0TLWrZyPJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086978634024378652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086814832985305470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最喜欢的非视觉小说游戏。看到泪水谷我也会忍不住想落泪。和前任在一起的时候我老是在他身边玩😣 https://t.co/0TLWrZyPJ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11145,
+        "height": 720,
+        "media_key": "13_2086745763007049730",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086745763007049730/img/SjwxvQI8MdEX81Eh.jpg",
+        "public_metrics": {
+          "view_count": 6035
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086745763007049730/vid/avc1/320x320/XyRQB2-BdGCO-SR-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086745763007049730/vid/avc1/540x540/qzGhbFsVQB9hmKZK.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086745763007049730/vid/avc1/720x720/lyl1ouGKux7231aX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086745763007049730/pl/NxsuMcVq6QDTJAnv.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2086978634024378652",
+        "created_at": "2026-08-11T00:50:55.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086978634024378652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/de3dsoul/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/de3dsoul/status/2086814832985305470",
+              "start": 47,
+              "url": "https://t.co/0TLWrZyPJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086978634024378652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086814832985305470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最喜欢的非视觉小说游戏。看到泪水谷我也会忍不住想落泪。和前任在一起的时候我老是在他身边玩😣 https://t.co/0TLWrZyPJ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086745763007049730"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086814832985305470",
+        "created_at": "2026-08-10T14:00:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086814832985305470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmcmnGr6C4",
+              "end": 23,
+              "expanded_url": "https://x.com/de3dsoul/status/2086814832985305470/video/1",
+              "media_key": "13_2086745763007049730",
+              "start": 0,
+              "url": "https://t.co/hmcmnGr6C4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086814832985305470",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086745763007049730"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 18399,
+          "like_count": 1114,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hmcmnGr6C4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2086978634024378652",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 329,
+          "like_count": 9917,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "is_identity_verified": true,
+        "location": "him",
+        "most_recent_tweet_id": "2086950728803680296",
+        "name": "定",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1666657380216586240/1762144146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140436,
+          "following_count": 57,
+          "like_count": 14009,
+          "listed_count": 251,
+          "media_count": 5581,
+          "tweet_count": 5956
+        },
+        "url": "",
+        "username": "de3dsoul",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

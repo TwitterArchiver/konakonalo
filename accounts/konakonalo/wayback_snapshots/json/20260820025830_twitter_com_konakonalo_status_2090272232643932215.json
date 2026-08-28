@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090043619675721728",
+        "3_2090043634888368128",
+        "3_2090043645076389888"
+      ],
+      "media_source_tweet_id": [
+        "2090043654966542417",
+        "2090043654966542417",
+        "2090043654966542417"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2090272232643932215",
+    "created_at": "2026-08-20T02:58:30.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090272232643932215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1246561234914349057",
+          "start": 3,
+          "username": "amopeitinhoss2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcKvcG0nUA",
+          "end": 77,
+          "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+          "media_key": "3_2090043619675721728",
+          "start": 54,
+          "url": "https://t.co/vcKvcG0nUA"
+        },
+        {
+          "display_url": "pic.x.com/vcKvcG0nUA",
+          "end": 77,
+          "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+          "media_key": "3_2090043634888368128",
+          "start": 54,
+          "url": "https://t.co/vcKvcG0nUA"
+        },
+        {
+          "display_url": "pic.x.com/vcKvcG0nUA",
+          "end": 77,
+          "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+          "media_key": "3_2090043645076389888",
+          "start": 54,
+          "url": "https://t.co/vcKvcG0nUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090272232643932215",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2090043619675721728"
+      },
+      {
+        "media_key": "3_2090043634888368128"
+      },
+      {
+        "media_key": "3_2090043645076389888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090043654966542417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amopeitinhoss2: eu e a camisa babado que garimpei https://t.co/vcKvcG0nUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2090043619675721728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFTmTvX0AAQYaB.jpg",
+        "width": 2448
+      },
+      {
+        "height": 3264,
+        "media_key": "3_2090043634888368128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFTnMaWYAAXSPb.jpg",
+        "width": 2448
+      },
+      {
+        "height": 3264,
+        "media_key": "3_2090043645076389888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFTnyXXQAAjnZO.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090043619675721728",
+            "3_2090043634888368128",
+            "3_2090043645076389888"
+          ],
+          "media_source_tweet_id": [
+            "2090043654966542417",
+            "2090043654966542417",
+            "2090043654966542417"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2090272232643932215",
+        "created_at": "2026-08-20T02:58:30.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090272232643932215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1246561234914349057",
+              "start": 3,
+              "username": "amopeitinhoss2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcKvcG0nUA",
+              "end": 77,
+              "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+              "media_key": "3_2090043619675721728",
+              "start": 54,
+              "url": "https://t.co/vcKvcG0nUA"
+            },
+            {
+              "display_url": "pic.x.com/vcKvcG0nUA",
+              "end": 77,
+              "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+              "media_key": "3_2090043634888368128",
+              "start": 54,
+              "url": "https://t.co/vcKvcG0nUA"
+            },
+            {
+              "display_url": "pic.x.com/vcKvcG0nUA",
+              "end": 77,
+              "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+              "media_key": "3_2090043645076389888",
+              "start": 54,
+              "url": "https://t.co/vcKvcG0nUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090272232643932215",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090043619675721728"
+          },
+          {
+            "media_key": "3_2090043634888368128"
+          },
+          {
+            "media_key": "3_2090043645076389888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090043654966542417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amopeitinhoss2: eu e a camisa babado que garimpei https://t.co/vcKvcG0nUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090043619675721728",
+            "3_2090043634888368128",
+            "3_2090043645076389888"
+          ]
+        },
+        "author_id": "1246561234914349057",
+        "conversation_id": "2090043654966542417",
+        "created_at": "2026-08-19T11:50:13.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090043654966542417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcKvcG0nUA",
+              "end": 57,
+              "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+              "media_key": "3_2090043619675721728",
+              "start": 34,
+              "url": "https://t.co/vcKvcG0nUA"
+            },
+            {
+              "display_url": "pic.x.com/vcKvcG0nUA",
+              "end": 57,
+              "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+              "media_key": "3_2090043634888368128",
+              "start": 34,
+              "url": "https://t.co/vcKvcG0nUA"
+            },
+            {
+              "display_url": "pic.x.com/vcKvcG0nUA",
+              "end": 57,
+              "expanded_url": "https://x.com/amopeitinhoss2/status/2090043654966542417/photo/1",
+              "media_key": "3_2090043645076389888",
+              "start": 34,
+              "url": "https://t.co/vcKvcG0nUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090043654966542417",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090043619675721728"
+          },
+          {
+            "media_key": "3_2090043634888368128"
+          },
+          {
+            "media_key": "3_2090043645076389888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4898,
+          "like_count": 635,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "eu e a camisa babado que garimpei https://t.co/vcKvcG0nUA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2090272232643932215",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 358,
+          "like_count": 10551,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-04T22:12:44.000Z",
+        "description": "nb\nela/ele",
+        "id": "1246561234914349057",
+        "is_identity_verified": false,
+        "location": "Porto Alegre, Brasil",
+        "most_recent_tweet_id": "2090112570497585433",
+        "name": "d3b",
+        "pinned_tweet_id": "1687215321202003968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246561234914349057/1692395138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975374777695993856/PatHc3P4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 347,
+          "like_count": 14769,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 5152
+        },
+        "url": "",
+        "username": "amopeitinhoss2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

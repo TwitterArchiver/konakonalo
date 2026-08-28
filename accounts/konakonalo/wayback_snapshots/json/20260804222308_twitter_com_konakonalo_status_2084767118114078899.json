@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084767086984019968"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2084767118114078899",
+    "created_at": "2026-08-04T22:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T23:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084767118114078899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587790416057077760",
+          "start": 0,
+          "username": "musk_xxl"
+        },
+        {
+          "end": 26,
+          "id": "1987138845058736133",
+          "start": 10,
+          "username": "maipianaini0930"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6DohFLlFYI",
+          "end": 56,
+          "expanded_url": "https://x.com/konakonalo/status/2084767118114078899/video/1",
+          "media_key": "13_2084767086984019968",
+          "start": 33,
+          "url": "https://t.co/6DohFLlFYI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084767118114078899",
+    "in_reply_to_user_id": "1587790416057077760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@musk_xxl @maipianaini0930 自在得意豪 https://t.co/6DohFLlFYI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10842,
+        "height": 720,
+        "media_key": "13_2084767086984019968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084767086984019968/img/wdubCMOaXZh7QrBl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084767086984019968/vid/avc1/480x270/4wkmD22MYVWVlNpV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084767086984019968/vid/avc1/640x360/Kk4TgHger-rPffdK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084767086984019968/vid/avc1/1280x720/FSQ3_uiwuSWa0eLy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084767086984019968/pl/khgIuBktiiJ4MfOC.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084767086984019968"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2084767118114078899",
+        "created_at": "2026-08-04T22:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084767118114078899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587790416057077760",
+              "start": 0,
+              "username": "musk_xxl"
+            },
+            {
+              "end": 26,
+              "id": "1987138845058736133",
+              "start": 10,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DohFLlFYI",
+              "end": 56,
+              "expanded_url": "https://x.com/konakonalo/status/2084767118114078899/video/1",
+              "media_key": "13_2084767086984019968",
+              "start": 33,
+              "url": "https://t.co/6DohFLlFYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084767118114078899",
+        "in_reply_to_user_id": "1587790416057077760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@musk_xxl @maipianaini0930 自在得意豪 https://t.co/6DohFLlFYI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 287,
+          "like_count": 9173,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1182
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。\n🚪288 - +∞",
+        "id": "1587790416057077760",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 315,
+          "like_count": 6464,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 961
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 306,
+          "like_count": 11331,
+          "listed_count": 1,
+          "media_count": 764,
+          "tweet_count": 5121
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

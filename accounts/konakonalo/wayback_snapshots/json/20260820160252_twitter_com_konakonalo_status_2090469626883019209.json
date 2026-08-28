@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090325849698701312"
+      ],
+      "media_source_tweet_id": [
+        "2090325868308742539"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2090469626883019209",
+    "created_at": "2026-08-20T16:02:52.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090469626883019209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "278912460",
+          "start": 3,
+          "username": "konvekse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9STf4J9u5",
+          "end": 45,
+          "expanded_url": "https://x.com/konvekse/status/2090325868308742539/photo/1",
+          "media_key": "3_2090325849698701312",
+          "start": 22,
+          "url": "https://t.co/A9STf4J9u5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090469626883019209",
+    "lang": "de",
+    "media_metadata": [
+      {
+        "media_key": "3_2090325849698701312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090325868308742539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konvekse: Bauhaus https://t.co/A9STf4J9u5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2090325849698701312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJUSQgbkAAYUHP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090325849698701312"
+          ],
+          "media_source_tweet_id": [
+            "2090325868308742539"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2090469626883019209",
+        "created_at": "2026-08-20T16:02:52.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090469626883019209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "278912460",
+              "start": 3,
+              "username": "konvekse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9STf4J9u5",
+              "end": 45,
+              "expanded_url": "https://x.com/konvekse/status/2090325868308742539/photo/1",
+              "media_key": "3_2090325849698701312",
+              "start": 22,
+              "url": "https://t.co/A9STf4J9u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090469626883019209",
+        "lang": "de",
+        "media_metadata": [
+          {
+            "media_key": "3_2090325849698701312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090325868308742539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konvekse: Bauhaus https://t.co/A9STf4J9u5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090325849698701312"
+          ]
+        },
+        "author_id": "278912460",
+        "conversation_id": "2090325868308742539",
+        "created_at": "2026-08-20T06:31:38.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090325868308742539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9STf4J9u5",
+              "end": 31,
+              "expanded_url": "https://x.com/konvekse/status/2090325868308742539/photo/1",
+              "media_key": "3_2090325849698701312",
+              "start": 8,
+              "url": "https://t.co/A9STf4J9u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090325868308742539",
+        "lang": "de",
+        "media_metadata": [
+          {
+            "media_key": "3_2090325849698701312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1007,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Bauhaus https://t.co/A9STf4J9u5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2090469626883019209",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 361,
+          "like_count": 10658,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1664
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-08T06:30:41.000Z",
+        "description": "rhythm, sound, arrange, process...",
+        "id": "278912460",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090459640874299645",
+        "name": "konvekse",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278912460/1777553112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002370337607213056/JwWCOg8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 175,
+          "like_count": 2619,
+          "listed_count": 4,
+          "media_count": 5193,
+          "tweet_count": 6712
+        },
+        "url": "",
+        "username": "konvekse",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

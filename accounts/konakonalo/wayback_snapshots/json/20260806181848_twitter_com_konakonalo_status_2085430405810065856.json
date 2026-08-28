@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085291498871144448"
+      ],
+      "media_source_tweet_id": [
+        "2085291503979790584"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085430405810065856",
+    "created_at": "2026-08-06T18:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085430405810065856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1256852829689372672",
+          "start": 3,
+          "username": "marco_syrup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKWXmyDGE0",
+          "end": 62,
+          "expanded_url": "https://x.com/marco_syrup/status/2085291503979790584/photo/1",
+          "media_key": "3_2085291498871144448",
+          "start": 39,
+          "url": "https://t.co/lKWXmyDGE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085430405810065856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085291503979790584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marco_syrup: they’re so cute man.. https://t.co/lKWXmyDGE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2085291498871144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBxkeNbQAA_EwJ.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085291498871144448"
+          ]
+        },
+        "author_id": "1256852829689372672",
+        "conversation_id": "2085291503979790584",
+        "created_at": "2026-08-06T09:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085291503979790584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKWXmyDGE0",
+              "end": 45,
+              "expanded_url": "https://x.com/marco_syrup/status/2085291503979790584/photo/1",
+              "media_key": "3_2085291498871144448",
+              "start": 22,
+              "url": "https://t.co/lKWXmyDGE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085291503979790584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3021,
+          "like_count": 473,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "they’re so cute man.. https://t.co/lKWXmyDGE0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085291498871144448"
+          ],
+          "media_source_tweet_id": [
+            "2085291503979790584"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085430405810065856",
+        "created_at": "2026-08-06T18:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085430405810065856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1256852829689372672",
+              "start": 3,
+              "username": "marco_syrup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKWXmyDGE0",
+              "end": 62,
+              "expanded_url": "https://x.com/marco_syrup/status/2085291503979790584/photo/1",
+              "media_key": "3_2085291498871144448",
+              "start": 39,
+              "url": "https://t.co/lKWXmyDGE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085430405810065856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085291503979790584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marco_syrup: they’re so cute man.. https://t.co/lKWXmyDGE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 291,
+          "like_count": 9298,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1214
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T07:47:47.000Z",
+        "description": "⚢ 🩷19❤️ ロリータ&地雷系❤️one who yearns for delicious desserts 🍮 bittersweet, but not bitter! buy merch in link",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "acggoods.com/store/marco-sy…",
+                "end": 23,
+                "expanded_url": "https://acggoods.com/store/marco-syrup?from=share",
+                "start": 0,
+                "url": "https://t.co/Dvl4ugE3Pb"
+              }
+            ]
+          }
+        },
+        "id": "1256852829689372672",
+        "location": "adult",
+        "name": "marco （＾∇＾）",
+        "pinned_tweet_id": "2084990320174121315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083116720030666752/V0GyqYBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4024,
+          "following_count": 1202,
+          "like_count": 253589,
+          "listed_count": 13,
+          "media_count": 5063,
+          "tweet_count": 66605
+        },
+        "url": "https://t.co/Dvl4ugE3Pb",
+        "username": "marco_syrup",
+        "verified": false
+      }
+    ]
+  }
+}

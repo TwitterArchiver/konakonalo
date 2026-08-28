@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2087282463429308472",
+    "created_at": "2026-08-11T20:58:13.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087282463429308472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konakonalo/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/konakonalo/status/2087216943644410167",
+          "start": 16,
+          "url": "https://t.co/KdqRkBhFqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087282463429308472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087216943644410167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "戈多今天没有来，我期待他明天来 https://t.co/KdqRkBhFqj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087282463429308472",
+        "created_at": "2026-08-11T20:58:13.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087282463429308472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konakonalo/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/konakonalo/status/2087216943644410167",
+              "start": 16,
+              "url": "https://t.co/KdqRkBhFqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087282463429308472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087216943644410167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戈多今天没有来，我期待他明天来 https://t.co/KdqRkBhFqj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087216943644410167",
+        "created_at": "2026-08-11T16:37:52.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087216943644410167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087216943644410167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等待戈多….戈多今天来不来？戈多今天来不来？戈多今天来不来？戈多今天还来不来？戈多明天来不来？大后天来不来？不远的未来来不来？不近的未来来不来？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2087282463429308472",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 334,
+          "like_count": 9968,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

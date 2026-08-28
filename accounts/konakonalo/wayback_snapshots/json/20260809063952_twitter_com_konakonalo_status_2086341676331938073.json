@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283786058618945536",
+          "name": "Photographers"
+        }
+      }
+    ],
+    "conversation_id": "2086341676331938073",
+    "created_at": "2026-08-09T06:39:52.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086341676331938073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/leodavinciwave…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/leodavinciwave/status/2086059091626176750",
+          "start": 4,
+          "url": "https://t.co/5MdLvHKiVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086341676331938073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086059091626176750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好震撼 https://t.co/5MdLvHKiVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2086059081761247232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMrrrTbUAAMr-d.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "2086341676331938073",
+        "created_at": "2026-08-09T06:39:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086341676331938073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leodavinciwave…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/leodavinciwave/status/2086059091626176750",
+              "start": 4,
+              "url": "https://t.co/5MdLvHKiVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086341676331938073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086059091626176750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好震撼 https://t.co/5MdLvHKiVn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086059081761247232"
+          ]
+        },
+        "author_id": "1926505021153144832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "2086059091626176750",
+        "created_at": "2026-08-08T11:56:59.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086059091626176750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMicpwZMZY",
+              "end": 98,
+              "expanded_url": "https://x.com/LeoDaVinciWave/status/2086059091626176750/photo/1",
+              "media_key": "3_2086059081761247232",
+              "start": 75,
+              "url": "https://t.co/rMicpwZMZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086059091626176750",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086059081761247232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3250,
+          "impression_count": 1483792,
+          "like_count": 43953,
+          "quote_count": 59,
+          "reply_count": 82,
+          "retweet_count": 1940
+        },
+        "reply_settings": "everyone",
+        "text": "Cigarette Ash Landscape by Chinese artist and photographer Yang Yongliang. https://t.co/rMicpwZMZY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2086341676331938073",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 312,
+          "like_count": 9688,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-25T05:06:14.000Z",
+        "description": "🏛 History । Culture । Art । Science & Nature l🏛 Always curious, always learning.",
+        "id": "1926505021153144832",
+        "is_identity_verified": true,
+        "location": "🌎",
+        "most_recent_tweet_id": "2086317657138299058",
+        "name": "LeoDaVinciWave",
+        "pinned_tweet_id": "2086059091626176750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926505021153144832/1748150244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926505143782014976/WW9FH2Kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40802,
+          "following_count": 7110,
+          "like_count": 23661,
+          "listed_count": 270,
+          "media_count": 5178,
+          "tweet_count": 9651
+        },
+        "url": "",
+        "username": "LeoDaVinciWave",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

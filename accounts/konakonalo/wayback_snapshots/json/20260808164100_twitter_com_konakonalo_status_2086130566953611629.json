@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086079135051333632"
+      ],
+      "media_source_tweet_id": [
+        "2086079142978552296"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2086130566953611629",
+    "created_at": "2026-08-08T16:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086130566953611629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889723695184171008",
+          "start": 3,
+          "username": "andrezalismos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mTk12gCPl4",
+          "end": 42,
+          "expanded_url": "https://x.com/andrezalismos/status/2086079142978552296/photo/1",
+          "media_key": "3_2086079135051333632",
+          "start": 19,
+          "url": "https://t.co/mTk12gCPl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086130566953611629",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086079142978552296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @andrezalismos: https://t.co/mTk12gCPl4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2086079135051333632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPM967oWwAA-uQQ.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086079135051333632"
+          ]
+        },
+        "author_id": "1889723695184171008",
+        "conversation_id": "2086079142978552296",
+        "created_at": "2026-08-08T13:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086079142978552296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTk12gCPl4",
+              "end": 23,
+              "expanded_url": "https://x.com/andrezalismos/status/2086079142978552296/photo/1",
+              "media_key": "3_2086079135051333632",
+              "start": 0,
+              "url": "https://t.co/mTk12gCPl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086079142978552296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1772,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mTk12gCPl4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086079135051333632"
+          ],
+          "media_source_tweet_id": [
+            "2086079142978552296"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2086130566953611629",
+        "created_at": "2026-08-08T16:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086130566953611629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889723695184171008",
+              "start": 3,
+              "username": "andrezalismos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTk12gCPl4",
+              "end": 42,
+              "expanded_url": "https://x.com/andrezalismos/status/2086079142978552296/photo/1",
+              "media_key": "3_2086079135051333632",
+              "start": 19,
+              "url": "https://t.co/mTk12gCPl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086130566953611629",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086079142978552296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @andrezalismos: https://t.co/mTk12gCPl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 310,
+          "like_count": 9542,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T17:10:35.000Z",
+        "description": "",
+        "id": "1889723695184171008",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082645911780364288/l_Uw2hQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 166,
+          "like_count": 1999,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "andrezalismos",
+        "verified": false
+      }
+    ]
+  }
+}

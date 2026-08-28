@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085679222253891584"
+      ],
+      "media_source_tweet_id": [
+        "2085679232999670086"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085958132354969962",
+    "created_at": "2026-08-08T05:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T06:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085958132354969962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "937210522612539392",
+          "start": 3,
+          "username": "lau_haga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCQYJRIlDn",
+          "end": 37,
+          "expanded_url": "https://x.com/lau_haga/status/2085679232999670086/photo/1",
+          "media_key": "3_2085679222253891584",
+          "start": 14,
+          "url": "https://t.co/eCQYJRIlDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085958132354969962",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085679232999670086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lau_haga: https://t.co/eCQYJRIlDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085679222253891584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHSM8XbMAA2YBx.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085679222253891584"
+          ]
+        },
+        "author_id": "937210522612539392",
+        "conversation_id": "2085679232999670086",
+        "created_at": "2026-08-07T10:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085679232999670086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCQYJRIlDn",
+              "end": 23,
+              "expanded_url": "https://x.com/lau_haga/status/2085679232999670086/photo/1",
+              "media_key": "3_2085679222253891584",
+              "start": 0,
+              "url": "https://t.co/eCQYJRIlDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085679232999670086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1418,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eCQYJRIlDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085679222253891584"
+          ],
+          "media_source_tweet_id": [
+            "2085679232999670086"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085958132354969962",
+        "created_at": "2026-08-08T05:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085958132354969962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "937210522612539392",
+              "start": 3,
+              "username": "lau_haga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCQYJRIlDn",
+              "end": 37,
+              "expanded_url": "https://x.com/lau_haga/status/2085679232999670086/photo/1",
+              "media_key": "3_2085679222253891584",
+              "start": 14,
+              "url": "https://t.co/eCQYJRIlDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085958132354969962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085679232999670086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lau_haga: https://t.co/eCQYJRIlDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 301,
+          "like_count": 9453,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T06:42:55.000Z",
+        "description": "日本画 | Japanese painting | YouTubeとSpotifyにてラジオ・ podcast「 ?自由主義? 」配信中 | 連絡・依頼はDMかwchunren@gmail.comまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/harvhit0_o?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/harvhit0_o?igsh=MTViMGtqZDFkNjdhOA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ZUwHrWJPyW"
+              }
+            ]
+          }
+        },
+        "id": "937210522612539392",
+        "location": "武蔵野美術大学",
+        "name": "五十嵐春仁　Igarashi Haruhito",
+        "pinned_tweet_id": "1959845990048915584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936748005190705152/vW5O1pda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 763,
+          "like_count": 6508,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/ZUwHrWJPyW",
+        "username": "lau_haga",
+        "verified": true
+      }
+    ]
+  }
+}

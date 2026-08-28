@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085151766069571584"
+      ],
+      "media_source_tweet_id": [
+        "2085151811204522366"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085439506501759418",
+    "created_at": "2026-08-06T18:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085439506501759418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1306342597586190341",
+          "start": 3,
+          "username": "Based_Haruhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jqBdW6Os69",
+          "end": 99,
+          "expanded_url": "https://x.com/Based_Haruhi/status/2085151811204522366/video/1",
+          "media_key": "13_2085151766069571584",
+          "start": 76,
+          "url": "https://t.co/jqBdW6Os69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085439506501759418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085151811204522366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Based_Haruhi: Haruhi eccentricity one, a different hairstyle every day. https://t.co/jqBdW6Os69"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8068,
+        "height": 586,
+        "media_key": "13_2085151766069571584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085151766069571584/img/03hGVTqwts08UNW0.jpg",
+        "public_metrics": {
+          "view_count": 18822
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085151766069571584/vid/avc1/406x270/-srvs14ksNapLN7u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085151766069571584/vid/avc1/542x360/bWXh4CN4oXPg2XbJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085151766069571584/vid/avc1/884x586/7mMyz0n7RF1qxtQd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085151766069571584/pl/Wogt1_SKoAD8Vs5h.m3u8"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085151766069571584"
+          ]
+        },
+        "author_id": "1306342597586190341",
+        "conversation_id": "2085151811204522366",
+        "created_at": "2026-08-05T23:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T00:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085151811204522366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqBdW6Os69",
+              "end": 81,
+              "expanded_url": "https://x.com/Based_Haruhi/status/2085151811204522366/video/1",
+              "media_key": "13_2085151766069571584",
+              "start": 58,
+              "url": "https://t.co/jqBdW6Os69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085151811204522366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 40226,
+          "like_count": 3015,
+          "quote_count": 12,
+          "reply_count": 8,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "Haruhi eccentricity one, a different hairstyle every day. https://t.co/jqBdW6Os69"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085151766069571584"
+          ],
+          "media_source_tweet_id": [
+            "2085151811204522366"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085439506501759418",
+        "created_at": "2026-08-06T18:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085439506501759418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1306342597586190341",
+              "start": 3,
+              "username": "Based_Haruhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqBdW6Os69",
+              "end": 99,
+              "expanded_url": "https://x.com/Based_Haruhi/status/2085151811204522366/video/1",
+              "media_key": "13_2085151766069571584",
+              "start": 76,
+              "url": "https://t.co/jqBdW6Os69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085439506501759418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085151811204522366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Based_Haruhi: Haruhi eccentricity one, a different hairstyle every day. https://t.co/jqBdW6Os69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 291,
+          "like_count": 9322,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1217
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T21:22:07.000Z",
+        "description": "First off, I'm not interested in ordinary people, but if any of you are aliens, time travelers or espers please come see me. That is all.",
+        "id": "1306342597586190341",
+        "name": "Haruhi Suzumiya",
+        "pinned_tweet_id": "1924238152174047708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070925914825998336/JLOKx_xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 1583,
+          "like_count": 61633,
+          "listed_count": 19,
+          "media_count": 6942,
+          "tweet_count": 18659
+        },
+        "url": "",
+        "username": "Based_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

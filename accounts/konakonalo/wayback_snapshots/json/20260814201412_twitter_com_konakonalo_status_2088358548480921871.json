@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087988232021479424"
+      ],
+      "media_source_tweet_id": [
+        "2087988237541261322"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Chloe Sevigny",
+          "id": "950771231430623232",
+          "name": "Chloe Sevigny"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Chloe Sevigny",
+          "id": "950771231430623232",
+          "name": "Chloe Sevigny"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chloe Sevigny",
+          "id": "950771231430623232",
+          "name": "Chloe Sevigny"
+        }
+      }
+    ],
+    "conversation_id": "2088358548480921871",
+    "created_at": "2026-08-14T20:14:12.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T21:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088358548480921871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "140851445",
+          "start": 3,
+          "username": "tuesdaywood"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gg0xuaQmEO",
+          "end": 60,
+          "expanded_url": "https://x.com/tuesdaywood/status/2087988237541261322/photo/1",
+          "media_key": "3_2087988232021479424",
+          "start": 37,
+          "url": "https://t.co/Gg0xuaQmEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088358548480921871",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2087988232021479424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087988237541261322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuesdaywood: chloë sevigny, 2011 https://t.co/Gg0xuaQmEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1622,
+        "media_key": "3_2087988232021479424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoGPADWEAAOw5z.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087988232021479424"
+          ],
+          "media_source_tweet_id": [
+            "2087988237541261322"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chloe Sevigny",
+              "id": "950771231430623232",
+              "name": "Chloe Sevigny"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Chloe Sevigny",
+              "id": "950771231430623232",
+              "name": "Chloe Sevigny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chloe Sevigny",
+              "id": "950771231430623232",
+              "name": "Chloe Sevigny"
+            }
+          }
+        ],
+        "conversation_id": "2088358548480921871",
+        "created_at": "2026-08-14T20:14:12.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088358548480921871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "140851445",
+              "start": 3,
+              "username": "tuesdaywood"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gg0xuaQmEO",
+              "end": 60,
+              "expanded_url": "https://x.com/tuesdaywood/status/2087988237541261322/photo/1",
+              "media_key": "3_2087988232021479424",
+              "start": 37,
+              "url": "https://t.co/Gg0xuaQmEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088358548480921871",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2087988232021479424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087988237541261322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuesdaywood: chloë sevigny, 2011 https://t.co/Gg0xuaQmEO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087988232021479424"
+          ]
+        },
+        "author_id": "140851445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chloe Sevigny",
+              "id": "950771231430623232",
+              "name": "Chloe Sevigny"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Chloe Sevigny",
+              "id": "950771231430623232",
+              "name": "Chloe Sevigny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chloe Sevigny",
+              "id": "950771231430623232",
+              "name": "Chloe Sevigny"
+            }
+          }
+        ],
+        "conversation_id": "2087988237541261322",
+        "created_at": "2026-08-13T19:42:43.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087988237541261322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gg0xuaQmEO",
+              "end": 43,
+              "expanded_url": "https://x.com/tuesdaywood/status/2087988237541261322/photo/1",
+              "media_key": "3_2087988232021479424",
+              "start": 20,
+              "url": "https://t.co/Gg0xuaQmEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087988237541261322",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2087988232021479424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 56491,
+          "like_count": 2770,
+          "quote_count": 22,
+          "reply_count": 1,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "chloë sevigny, 2011 https://t.co/Gg0xuaQmEO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n可以叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2088358548480921871",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 348,
+          "like_count": 10264,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-06T14:36:11.000Z",
+        "description": "music, films & things I like. singer and harpist 🪉DM for removal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/leticialemes/",
+                "end": 23,
+                "expanded_url": "https://letterboxd.com/leticialemes/",
+                "start": 0,
+                "url": "https://t.co/zckptzXrye"
+              }
+            ]
+          }
+        },
+        "id": "140851445",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088343668541268338",
+        "name": "Letícia",
+        "pinned_tweet_id": "2088309616962621624",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140851445/1549038650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015380605144379392/Lno7jOtq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43366,
+          "following_count": 1078,
+          "like_count": 160509,
+          "listed_count": 182,
+          "media_count": 6084,
+          "tweet_count": 73374
+        },
+        "url": "https://t.co/zckptzXrye",
+        "username": "tuesdaywood",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085180856520585592",
+    "created_at": "2026-08-06T19:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085447358956093832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717730668179054592",
+          "start": 0,
+          "username": "_Mizutani__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085447358956093832",
+    "in_reply_to_user_id": "1717730668179054592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085446561501430008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Mizutani__ 我操……."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085180856520585592",
+        "created_at": "2026-08-06T19:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085447358956093832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717730668179054592",
+              "start": 0,
+              "username": "_Mizutani__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085447358956093832",
+        "in_reply_to_user_id": "1717730668179054592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085446561501430008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Mizutani__ 我操……."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717730668179054592",
+        "conversation_id": "2085180856520585592",
+        "created_at": "2026-08-06T19:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085446561501430008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085446561501430008",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085180856520585592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo xiu xiu《A Promise》\n艾静《追月》\nAlexisonfire《Alexisonfire》\n剩下两个看不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 290,
+          "like_count": 9354,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T02:31:50.000Z",
+        "description": "用户已故， 此账号已被锁定保护点击了解如何保护",
+        "id": "1717730668179054592",
+        "location": "≤50m",
+        "name": "霧雨rcds",
+        "pinned_tweet_id": "2079292972852773111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932101119511339008/6SebuYLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 410,
+          "like_count": 5947,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 1437
+        },
+        "url": "",
+        "username": "_Mizutani__",
+        "verified": false
+      }
+    ]
+  }
+}

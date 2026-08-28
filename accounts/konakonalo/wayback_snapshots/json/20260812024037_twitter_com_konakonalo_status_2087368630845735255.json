@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2087368630845735255",
+    "created_at": "2026-08-12T02:40:37.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087368630845735255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yurideathqotd/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yurideathqotd/status/2087145468098683156",
+          "start": 9,
+          "url": "https://t.co/CKA4wfHWNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087368630845735255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087145468098683156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最喜欢yuri了 https://t.co/CKA4wfHWNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17738,
+        "height": 720,
+        "media_key": "13_2087145425136402432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087145425136402432/img/oflo6g_fqo_zKa2A.jpg",
+        "public_metrics": {
+          "view_count": 119367
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087145425136402432/vid/avc1/362x270/loTVOj0gOeeT6Mdk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087145425136402432/vid/avc1/484x360/0JLBqUbbuFWv_ikT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087145425136402432/vid/avc1/970x720/kp9HP1-jwbXIY84w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087145425136402432/pl/JXBrJMTHVSR2NDfQ.m3u8?v=6d0"
+          }
+        ],
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087368630845735255",
+        "created_at": "2026-08-12T02:40:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087368630845735255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yurideathqotd/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yurideathqotd/status/2087145468098683156",
+              "start": 9,
+              "url": "https://t.co/CKA4wfHWNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087368630845735255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087145468098683156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢yuri了 https://t.co/CKA4wfHWNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087145425136402432"
+          ]
+        },
+        "author_id": "2084038049990606848",
+        "conversation_id": "2087145468098683156",
+        "created_at": "2026-08-11T11:53:51.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087145468098683156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqE9hhliOW",
+              "end": 49,
+              "expanded_url": "https://x.com/yurideathqotd/status/2087145468098683156/video/1",
+              "media_key": "13_2087145425136402432",
+              "start": 26,
+              "url": "https://t.co/AqE9hhliOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087145468098683156",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087145425136402432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1189,
+          "impression_count": 210058,
+          "like_count": 14400,
+          "quote_count": 83,
+          "reply_count": 47,
+          "retweet_count": 3439
+        },
+        "reply_settings": "everyone",
+        "text": "\"school starts next week\" https://t.co/AqE9hhliOW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2087368630845735255",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 337,
+          "like_count": 10014,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1415
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T22:07:05.000Z",
+        "description": "yuri death quote of the day\nog yuri death total eclipse of the heart video\nmain @adderallmaster\nFEEL FREE TO USE MY VIDEO! spread it across twt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "adderallmaster"
+              }
+            ]
+          }
+        },
+        "id": "2084038049990606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087145468098683156",
+        "name": "yuri death qotd",
+        "pinned_tweet_id": "2084041820342792367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084038049990606848/1785708685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084041172796772353/DuGRrljH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 7,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "yurideathqotd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

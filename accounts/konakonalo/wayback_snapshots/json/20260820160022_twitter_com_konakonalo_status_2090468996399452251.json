@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089097979076755456"
+      ],
+      "media_source_tweet_id": [
+        "2089097984311239093"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2090468996399452251",
+    "created_at": "2026-08-20T16:00:22.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090468996399452251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385206009065394182",
+          "start": 3,
+          "username": "chronic_clinic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1HabBxcsaf",
+          "end": 44,
+          "expanded_url": "https://x.com/chronic_clinic_/status/2089097984311239093/photo/1",
+          "media_key": "3_2089097979076755456",
+          "start": 21,
+          "url": "https://t.co/1HabBxcsaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090468996399452251",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089097979076755456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089097984311239093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chronic_clinic_: https://t.co/1HabBxcsaf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2089097979076755456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP33ix_bQAAHi_w.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089097979076755456"
+          ],
+          "media_source_tweet_id": [
+            "2089097984311239093"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2090468996399452251",
+        "created_at": "2026-08-20T16:00:22.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090468996399452251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385206009065394182",
+              "start": 3,
+              "username": "chronic_clinic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HabBxcsaf",
+              "end": 44,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2089097984311239093/photo/1",
+              "media_key": "3_2089097979076755456",
+              "start": 21,
+              "url": "https://t.co/1HabBxcsaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090468996399452251",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089097979076755456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089097984311239093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chronic_clinic_: https://t.co/1HabBxcsaf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089097979076755456"
+          ]
+        },
+        "author_id": "1385206009065394182",
+        "conversation_id": "2089097984311239093",
+        "created_at": "2026-08-16T21:12:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T22:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089097984311239093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HabBxcsaf",
+              "end": 23,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2089097984311239093/photo/1",
+              "media_key": "3_2089097979076755456",
+              "start": 0,
+              "url": "https://t.co/1HabBxcsaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089097984311239093",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089097979076755456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1528,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1HabBxcsaf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2090468996399452251",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 360,
+          "like_count": 10648,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1662
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-22T12:17:17.000Z",
+        "description": "bootleg images",
+        "id": "1385206009065394182",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090445339434352922",
+        "name": "bootleg_images_bot(twee!:void(0)-+****",
+        "pinned_tweet_id": "1574410887343247361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385206009065394182/1639245587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25171,
+          "following_count": 1,
+          "like_count": 9969,
+          "listed_count": 73,
+          "media_count": 8595,
+          "tweet_count": 8644
+        },
+        "url": "",
+        "username": "chronic_clinic_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

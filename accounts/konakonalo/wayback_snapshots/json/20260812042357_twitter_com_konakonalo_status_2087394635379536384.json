@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087357596873416704"
+      ],
+      "media_source_tweet_id": [
+        "2087357604117017066"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2087394635379536384",
+    "created_at": "2026-08-12T04:23:57.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087394635379536384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1418187699865866245",
+          "start": 3,
+          "username": "ebinoinochi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KV7QoSGErp",
+          "end": 40,
+          "expanded_url": "https://x.com/ebinoinochi/status/2087357604117017066/photo/1",
+          "media_key": "3_2087357596873416704",
+          "start": 17,
+          "url": "https://t.co/KV7QoSGErp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087394635379536384",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087357596873416704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087357604117017066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ebinoinochi: https://t.co/KV7QoSGErp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087357596873416704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfIrNDaYAADUT-.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087357596873416704"
+          ]
+        },
+        "author_id": "1418187699865866245",
+        "conversation_id": "2087357604117017066",
+        "created_at": "2026-08-12T01:56:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087357604117017066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KV7QoSGErp",
+              "end": 23,
+              "expanded_url": "https://x.com/ebinoinochi/status/2087357604117017066/photo/1",
+              "media_key": "3_2087357596873416704",
+              "start": 0,
+              "url": "https://t.co/KV7QoSGErp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087357604117017066",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087357596873416704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 491,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KV7QoSGErp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087357596873416704"
+          ],
+          "media_source_tweet_id": [
+            "2087357604117017066"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087394635379536384",
+        "created_at": "2026-08-12T04:23:57.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087394635379536384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1418187699865866245",
+              "start": 3,
+              "username": "ebinoinochi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KV7QoSGErp",
+              "end": 40,
+              "expanded_url": "https://x.com/ebinoinochi/status/2087357604117017066/photo/1",
+              "media_key": "3_2087357596873416704",
+              "start": 17,
+              "url": "https://t.co/KV7QoSGErp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087394635379536384",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087357596873416704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087357604117017066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ebinoinochi: https://t.co/KV7QoSGErp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2087394635379536384",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 338,
+          "like_count": 10033,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-22T12:34:43.000Z",
+        "description": "絵と飯などあります \n作画等: @okiami_daisuki \nskeb(白黒): https://t.co/WqundGBKRp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "okiami_daisuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ebinoinochi",
+                "end": 66,
+                "expanded_url": "https://skeb.jp/@ebinoinochi",
+                "start": 43,
+                "url": "https://t.co/WqundGBKRp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okiami-park.com",
+                "end": 23,
+                "expanded_url": "https://okiami-park.com/",
+                "start": 0,
+                "url": "https://t.co/qDnNQHefIr"
+              }
+            ]
+          }
+        },
+        "id": "1418187699865866245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087357644856295661",
+        "name": "エビの生命",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418187699865866245/1747024308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080394464083001344/xIOaxjZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 245,
+          "like_count": 94568,
+          "listed_count": 7,
+          "media_count": 936,
+          "tweet_count": 13388
+        },
+        "url": "https://t.co/qDnNQHefIr",
+        "username": "ebinoinochi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

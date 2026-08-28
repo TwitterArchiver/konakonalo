@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085440029162459449",
+    "created_at": "2026-08-06T18:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085440029162459449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovedarksoul/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/lovedarksoul/status/2085289791835283568",
+          "start": 17,
+          "url": "https://t.co/URZFtAHWzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085440029162459449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085289791835283568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我分别临摹过这两张，14岁的时候 https://t.co/URZFtAHWzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2085197686588788736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAcP4OXUAA3_NF.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085440029162459449",
+        "created_at": "2026-08-06T18:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085440029162459449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovedarksoul/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lovedarksoul/status/2085289791835283568",
+              "start": 17,
+              "url": "https://t.co/URZFtAHWzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085440029162459449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085289791835283568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我分别临摹过这两张，14岁的时候 https://t.co/URZFtAHWzo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085197686588788736"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "conversation_id": "2085289791835283568",
+        "created_at": "2026-08-06T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085289791835283568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8Ud3Vjqrh",
+              "end": 23,
+              "expanded_url": "https://x.com/lovedarksoul/status/2085289791835283568/photo/1",
+              "media_key": "3_2085197686588788736",
+              "start": 0,
+              "url": "https://t.co/n8Ud3Vjqrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085289791835283568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3972,
+          "like_count": 308,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/n8Ud3Vjqrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 290,
+          "like_count": 9325,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "Plin plin plon",
+        "id": "2010417524526260224",
+        "name": "lovedarksoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077431795960737792/95ZTe92s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43274,
+          "following_count": 23,
+          "like_count": 1336,
+          "listed_count": 79,
+          "media_count": 1615,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "lovedarksoul",
+        "verified": true
+      }
+    ]
+  }
+}

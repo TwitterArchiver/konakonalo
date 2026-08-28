@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088314823742222338"
+      ],
+      "media_source_tweet_id": [
+        "2088314834592866323"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2088338111973789746",
+    "created_at": "2026-08-14T18:52:59.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088338111973789746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1354337299396513798",
+          "start": 3,
+          "username": "YazawaDisciple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ouyPUOByGb",
+          "end": 43,
+          "expanded_url": "https://x.com/YazawaDisciple/status/2088314834592866323/photo/1",
+          "media_key": "3_2088314823742222338",
+          "start": 20,
+          "url": "https://t.co/ouyPUOByGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088338111973789746",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088314823742222338"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088314834592866323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YazawaDisciple: https://t.co/ouyPUOByGb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2088314823742222338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsvRJBWcAIXNJg.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314823742222338"
+          ],
+          "media_source_tweet_id": [
+            "2088314834592866323"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2088338111973789746",
+        "created_at": "2026-08-14T18:52:59.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088338111973789746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1354337299396513798",
+              "start": 3,
+              "username": "YazawaDisciple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouyPUOByGb",
+              "end": 43,
+              "expanded_url": "https://x.com/YazawaDisciple/status/2088314834592866323/photo/1",
+              "media_key": "3_2088314823742222338",
+              "start": 20,
+              "url": "https://t.co/ouyPUOByGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088338111973789746",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314823742222338"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088314834592866323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YazawaDisciple: https://t.co/ouyPUOByGb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314823742222338"
+          ]
+        },
+        "author_id": "1354337299396513798",
+        "conversation_id": "2088314834592866323",
+        "created_at": "2026-08-14T17:20:30.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088314834592866323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouyPUOByGb",
+              "end": 23,
+              "expanded_url": "https://x.com/YazawaDisciple/status/2088314834592866323/photo/1",
+              "media_key": "3_2088314823742222338",
+              "start": 0,
+              "url": "https://t.co/ouyPUOByGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088314834592866323",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314823742222338"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3568,
+          "like_count": 422,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ouyPUOByGb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n可以叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2088338111973789746",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 348,
+          "like_count": 10250,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1538
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-27T07:55:57.000Z",
+        "description": "𝐃𝐚𝐢𝐥𝐲 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 𝐨𝐟 𝐍𝐚𝐧𝐚. 𝐃𝐌 𝐟𝐨𝐫 𝐩𝐚𝐢𝐝 𝐩𝐫𝐨𝐦𝐨𝐬",
+        "id": "1354337299396513798",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088314834592866323",
+        "name": "Nana",
+        "pinned_tweet_id": "2075672676635377939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354337299396513798/1758133456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968380413501444096/JJsxaSnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77331,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 140,
+          "media_count": 2173,
+          "tweet_count": 2190
+        },
+        "url": "",
+        "username": "YazawaDisciple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

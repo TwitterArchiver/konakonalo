@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2087337167672754399",
+    "created_at": "2026-08-12T00:35:36.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087337167672754399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konakonalo/sta…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/konakonalo/status/2087336335711588800",
+          "start": 108,
+          "url": "https://t.co/svzqqyuhoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087337167672754399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087336335711588800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要担心我了，我一直是这样的人。我总是因为想到看似无关紧要之事而焦虑。远和我讲了很多关于救神不救人的观点。也许我需要一个精神依靠。我的精神漂泊无依，我很焦虑，我很焦虑啊！不坚定就难以自洽。我是一个可恶的后现代傻逼。 https://t.co/svzqqyuhoW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087337167672754399",
+        "created_at": "2026-08-12T00:35:36.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087337167672754399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konakonalo/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/konakonalo/status/2087336335711588800",
+              "start": 108,
+              "url": "https://t.co/svzqqyuhoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087337167672754399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087336335711588800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要担心我了，我一直是这样的人。我总是因为想到看似无关紧要之事而焦虑。远和我讲了很多关于救神不救人的观点。也许我需要一个精神依靠。我的精神漂泊无依，我很焦虑，我很焦虑啊！不坚定就难以自洽。我是一个可恶的后现代傻逼。 https://t.co/svzqqyuhoW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087336335711588800",
+        "created_at": "2026-08-12T00:32:17.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087336335711588800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087336335711588800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乡愁，我既感受不到“乡”，情感浓度也没有到“愁”。想到这些我忍不住流泪。我的乡，我的愁，在哪里。。。我止不住的在想塔可夫斯基那个七分钟的长镜头。保护着蜡烛，就像保护着愁思。我想了一晚上。能感受到“愁”都是幸运之人，而我非常不幸。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2087337167672754399",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 337,
+          "like_count": 9991,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1406
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

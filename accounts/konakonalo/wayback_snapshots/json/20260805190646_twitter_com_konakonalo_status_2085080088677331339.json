@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084969185160167425"
+      ],
+      "media_source_tweet_id": [
+        "2084969191275483304"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085080088677331339",
+    "created_at": "2026-08-05T19:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085080088677331339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951885921881903104",
+          "start": 3,
+          "username": "zansei_i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZXByEfan4",
+          "end": 37,
+          "expanded_url": "https://x.com/zansei_i/status/2084969191275483304/photo/1",
+          "media_key": "3_2084969185160167425",
+          "start": 14,
+          "url": "https://t.co/LZXByEfan4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085080088677331339",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084969191275483304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zansei_i: https://t.co/LZXByEfan4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084969185160167425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9MbWEbgAE5cwN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084969185160167425"
+          ]
+        },
+        "author_id": "1951885921881903104",
+        "conversation_id": "2084969191275483304",
+        "created_at": "2026-08-05T11:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084969191275483304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZXByEfan4",
+              "end": 23,
+              "expanded_url": "https://x.com/zansei_i/status/2084969191275483304/photo/1",
+              "media_key": "3_2084969185160167425",
+              "start": 0,
+              "url": "https://t.co/LZXByEfan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084969191275483304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 6249,
+          "like_count": 726,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LZXByEfan4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084969185160167425"
+          ],
+          "media_source_tweet_id": [
+            "2084969191275483304"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085080088677331339",
+        "created_at": "2026-08-05T19:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085080088677331339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951885921881903104",
+              "start": 3,
+              "username": "zansei_i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZXByEfan4",
+              "end": 37,
+              "expanded_url": "https://x.com/zansei_i/status/2084969191275483304/photo/1",
+              "media_key": "3_2084969185160167425",
+              "start": 14,
+              "url": "https://t.co/LZXByEfan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085080088677331339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084969191275483304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zansei_i: https://t.co/LZXByEfan4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 292,
+          "like_count": 9212,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T06:01:10.000Z",
+        "description": "",
+        "id": "1951885921881903104",
+        "name": "啓蟄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966826575816781826/Ppa3ZeHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 96,
+          "like_count": 11004,
+          "listed_count": 6,
+          "media_count": 240,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "zansei_i",
+        "verified": false
+      }
+    ]
+  }
+}

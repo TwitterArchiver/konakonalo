@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2083427680247226609",
+    "created_at": "2026-08-11T04:02:05.000Z",
+    "display_text_range": [
+      20,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087026744637419927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Tisav5000sd"
+        },
+        {
+          "end": 19,
+          "id": "2076519797408559104",
+          "start": 13,
+          "username": "rov2l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087026744637419927",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083427680247226609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tisav5000sd @rov2l 我也打鼓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48733,
+        "height": 720,
+        "media_key": "13_2083427631362674688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083427631362674688/img/-BhATHBzVVwidLgw.jpg",
+        "public_metrics": {
+          "view_count": 153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083427631362674688/vid/avc1/480x270/QbeYty_i-bjNFyvw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083427631362674688/vid/avc1/640x360/5slre6wZNULWNL6M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083427631362674688/vid/avc1/1280x720/288QYMbf5q6ylPQz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083427631362674688/pl/ta2ftXNoi-HZUyzD.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2083427680247226609",
+        "created_at": "2026-08-11T04:02:05.000Z",
+        "display_text_range": [
+          20,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087026744637419927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Tisav5000sd"
+            },
+            {
+              "end": 19,
+              "id": "2076519797408559104",
+              "start": 13,
+              "username": "rov2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087026744637419927",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083427680247226609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tisav5000sd @rov2l 我也打鼓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083427631362674688"
+          ]
+        },
+        "author_id": "1777636769187676160",
+        "conversation_id": "2083427680247226609",
+        "created_at": "2026-08-01T05:40:41.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083427680247226609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZpLAVxEfa",
+              "end": 41,
+              "expanded_url": "https://x.com/Tisav5000sd/status/2083427680247226609/video/1",
+              "media_key": "13_2083427631362674688",
+              "start": 18,
+              "url": "https://t.co/UZpLAVxEfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083427680247226609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2083427631362674688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 751,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "或许是最暴力的尼古喵喵cover了 https://t.co/UZpLAVxEfa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2087026744637419927",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 329,
+          "like_count": 9924,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "啦啦啦外星人啊 快来把我们掳走吧",
+        "id": "1777636769187676160",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2086926654820257906",
+        "name": "TisaV 5680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777636769187676160/1777708558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 155,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "Tisav5000sd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T04:11:59.000Z",
+        "description": "リアルのお姫様｜少女主義と大森靖子",
+        "id": "2076519797408559104",
+        "is_identity_verified": false,
+        "location": "揺れる心を支えてくれた",
+        "most_recent_tweet_id": "2087011436119920699",
+        "name": "ひめにゃ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076519797408559104/1783916193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079245930990276613/Eh_cONzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "rov2l",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

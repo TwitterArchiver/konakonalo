@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2086971265232109811",
+    "created_at": "2026-08-11T00:49:15.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086978215055392779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1610272043853058049",
+          "start": 0,
+          "username": "ucuuyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086978215055392779",
+    "in_reply_to_user_id": "1610272043853058049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086971265232109811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ucuuyh 我笑的想尿尿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2086971265232109811",
+        "created_at": "2026-08-11T00:49:15.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086978215055392779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1610272043853058049",
+              "start": 0,
+              "username": "ucuuyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086978215055392779",
+        "in_reply_to_user_id": "1610272043853058049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086971265232109811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ucuuyh 我笑的想尿尿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610272043853058049",
+        "conversation_id": "2086971265232109811",
+        "created_at": "2026-08-11T00:21:38.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086971265232109811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086971265232109811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁可以叫鸡八嫖断"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2086978215055392779",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 329,
+          "like_count": 9916,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-03T13:49:22.000Z",
+        "description": "吃饭无聊 饿着也无聊 无聊大叔一只，比较喜欢摇滚但是很多音乐我也喜欢，我是the cure的忠实粉丝，叫我小虫、uu都可以嗯嗯",
+        "id": "1610272043853058049",
+        "is_identity_verified": false,
+        "location": "至暗魔龙巢穴",
+        "most_recent_tweet_id": "2086974273214972214",
+        "name": "huucuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1610272043853058049/1743914354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066609623571091456/IjV5LRla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 298,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "ucuuyh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

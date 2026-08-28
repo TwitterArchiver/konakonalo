@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083914537825398784"
+      ],
+      "media_source_tweet_id": [
+        "2083914542229459121"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2084009281280778280",
+    "created_at": "2026-08-02T20:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084009281280778280"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "バニーの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1247646943636905985",
+          "start": 3,
+          "username": "mayoi_mayoi_mmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iS9T2RX9SD",
+          "end": 53,
+          "expanded_url": "https://x.com/mayoi_mayoi_mmm/status/2083914542229459121/photo/1",
+          "media_key": "3_2083914537825398784",
+          "start": 30,
+          "url": "https://t.co/iS9T2RX9SD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084009281280778280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083914542229459121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mayoi_mayoi_mmm: #バニーの日 ♪ https://t.co/iS9T2RX9SD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083914537825398784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuNOyla8AAk49v.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083914537825398784"
+          ]
+        },
+        "author_id": "1247646943636905985",
+        "conversation_id": "2083914542229459121",
+        "created_at": "2026-08-02T13:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083914542229459121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "バニーの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iS9T2RX9SD",
+              "end": 32,
+              "expanded_url": "https://x.com/mayoi_mayoi_mmm/status/2083914542229459121/photo/1",
+              "media_key": "3_2083914537825398784",
+              "start": 9,
+              "url": "https://t.co/iS9T2RX9SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083914542229459121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1217,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#バニーの日 ♪ https://t.co/iS9T2RX9SD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083914537825398784"
+          ],
+          "media_source_tweet_id": [
+            "2083914542229459121"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2084009281280778280",
+        "created_at": "2026-08-02T20:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084009281280778280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "バニーの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1247646943636905985",
+              "start": 3,
+              "username": "mayoi_mayoi_mmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iS9T2RX9SD",
+              "end": 53,
+              "expanded_url": "https://x.com/mayoi_mayoi_mmm/status/2083914542229459121/photo/1",
+              "media_key": "3_2083914537825398784",
+              "start": 30,
+              "url": "https://t.co/iS9T2RX9SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084009281280778280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083914542229459121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mayoi_mayoi_mmm: #バニーの日 ♪ https://t.co/iS9T2RX9SD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 280,
+          "like_count": 9085,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1161
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T22:06:41.000Z",
+        "description": "🥀装画 挿絵のお仕事やりたいです🍇 依頼について🍏https://t.co/f8JXRi273o🍒口コミでぅょぅょバードを広めてください🥞@rururun_hapi 🍈つーはん🍮https://t.co/TOXDcWrKJh 🍯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "rururun_hapi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/uxo_uxo_bird/n…",
+                "end": 48,
+                "expanded_url": "https://note.com/uxo_uxo_bird/n/nf8ba4def8984",
+                "start": 25,
+                "url": "https://t.co/f8JXRi273o"
+              },
+              {
+                "display_url": "mayoimmm.booth.pm",
+                "end": 112,
+                "expanded_url": "https://mayoimmm.booth.pm/",
+                "start": 89,
+                "url": "https://t.co/TOXDcWrKJh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/uxouxoBIRD",
+                "end": 23,
+                "expanded_url": "https://lit.link/uxouxoBIRD",
+                "start": 0,
+                "url": "https://t.co/8r3j3ptSr1"
+              }
+            ]
+          }
+        },
+        "id": "1247646943636905985",
+        "location": "忌み子村",
+        "name": "ぅょぅょバード@8/28-9/12個展",
+        "pinned_tweet_id": "2069726901233758447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080370651102429184/e3a3iq21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7335,
+          "following_count": 848,
+          "like_count": 99405,
+          "listed_count": 68,
+          "media_count": 927,
+          "tweet_count": 4739
+        },
+        "url": "https://t.co/8r3j3ptSr1",
+        "username": "mayoi_mayoi_mmm",
+        "verified": true
+      }
+    ]
+  }
+}

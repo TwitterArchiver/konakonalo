@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2092480106107466148",
+    "created_at": "2026-08-26T05:11:48.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092480106107466148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2027426463713206272",
+          "start": 3,
+          "username": "shimmyjimmy06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092480106107466148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092136506291114134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimmyjimmy06: 最讨厌他妈说脏话的人，真你妈没素质，谁几把再说脏话我就不跟谁玩了，操你妈逼，说了多少遍别他妈骂人，很他妈没素质，他妈了个逼，妈死了都，你们什么时候见过我骂人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2092480106107466148",
+        "created_at": "2026-08-26T05:11:48.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092480106107466148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2027426463713206272",
+              "start": 3,
+              "username": "shimmyjimmy06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092480106107466148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092136506291114134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimmyjimmy06: 最讨厌他妈说脏话的人，真你妈没素质，谁几把再说脏话我就不跟谁玩了，操你妈逼，说了多少遍别他妈骂人，很他妈没素质，他妈了个逼，妈死了都，你们什么时候见过我骂人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027426463713206272",
+        "conversation_id": "2092136506291114134",
+        "created_at": "2026-08-25T06:26:27.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092136506291114134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092136506291114134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 73027,
+          "like_count": 1484,
+          "quote_count": 9,
+          "reply_count": 188,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "最讨厌他妈说脏话的人，真你妈没素质，谁几把再说脏话我就不跟谁玩了，操你妈逼，说了多少遍别他妈骂人，很他妈没素质，他妈了个逼，妈死了都，你们什么时候见过我骂人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2092480106107466148",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 368,
+          "like_count": 10908,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1719
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-27T16:51:59.000Z",
+        "description": "福建唯一柏拉图之人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jimmychenzizzz…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jimmychenzizzzzz1",
+                "start": 0,
+                "url": "https://t.co/Pe26qbl113"
+              }
+            ]
+          }
+        },
+        "id": "2027426463713206272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092258110681592237",
+        "name": "猪2熏",
+        "pinned_tweet_id": "2081617032869785933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027426463713206272/1782834216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048006848071233536/hdjUcc1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 112,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/Pe26qbl113",
+        "username": "shimmyjimmy06",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

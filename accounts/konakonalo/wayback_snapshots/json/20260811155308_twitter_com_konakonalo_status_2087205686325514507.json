@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2087201274861424938",
+    "created_at": "2026-08-11T15:53:08.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087205686325514507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866841812893306885",
+          "start": 0,
+          "username": "Veleno3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087205686325514507",
+    "in_reply_to_user_id": "1866841812893306885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087202769052794999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Veleno3y 我也是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087202769052794999].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087202769052794999",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087202769052794999"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087201274861424938",
+        "created_at": "2026-08-11T15:53:08.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087205686325514507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866841812893306885",
+              "start": 0,
+              "username": "Veleno3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087205686325514507",
+        "in_reply_to_user_id": "1866841812893306885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087202769052794999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Veleno3y 我也是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2087205686325514507",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 330,
+          "like_count": 9978,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1367
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-11T13:45:56.000Z",
+        "description": "",
+        "id": "1866841812893306885",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086120945522188702",
+        "name": "n",
+        "pinned_tweet_id": "2087089788839133194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866841812893306885/1766341111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069590768289808385/-EFS1dTO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 96,
+          "like_count": 8724,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "Veleno3y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

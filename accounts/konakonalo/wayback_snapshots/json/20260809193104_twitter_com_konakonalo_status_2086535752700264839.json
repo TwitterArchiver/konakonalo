@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2086535752700264839",
+    "created_at": "2026-08-09T19:31:04.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086535752700264839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/retro_anime/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/retro_anime/status/2086316575838122134",
+          "start": 4,
+          "url": "https://t.co/CbuOmAbof9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086535752700264839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086316575838122134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看哭了 https://t.co/CbuOmAbof9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2086316573376081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQV3qUXcAAu91s.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2086535752700264839",
+        "created_at": "2026-08-09T19:31:04.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086535752700264839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/retro_anime/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/retro_anime/status/2086316575838122134",
+              "start": 4,
+              "url": "https://t.co/CbuOmAbof9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086535752700264839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086316575838122134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看哭了 https://t.co/CbuOmAbof9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086316573376081920"
+          ]
+        },
+        "author_id": "1365444576530563080",
+        "conversation_id": "2086316575838122134",
+        "created_at": "2026-08-09T05:00:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086316575838122134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYB3OoDrF5",
+              "end": 23,
+              "expanded_url": "https://x.com/retro_anime/status/2086316575838122134/photo/1",
+              "media_key": "3_2086316573376081920",
+              "start": 0,
+              "url": "https://t.co/SYB3OoDrF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086316575838122134",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086316573376081920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 45113,
+          "like_count": 1921,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SYB3OoDrF5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2086535752700264839",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 320,
+          "like_count": 9795,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-26T23:32:26.000Z",
+        "description": "the golden age of anime",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/retro_animes",
+                "end": 23,
+                "expanded_url": "https://instagram.com/retro_animes",
+                "start": 0,
+                "url": "https://t.co/DNy3LE4aHJ"
+              }
+            ]
+          }
+        },
+        "id": "1365444576530563080",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086528005581517213",
+        "name": "Retro Anime",
+        "pinned_tweet_id": "2085816260189733121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365444576530563080/1763769295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657231216142331905/wKeESPsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723513,
+          "following_count": 291,
+          "like_count": 9056,
+          "listed_count": 3078,
+          "media_count": 17620,
+          "tweet_count": 18486
+        },
+        "url": "https://t.co/DNy3LE4aHJ",
+        "username": "retro_anime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

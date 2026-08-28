@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085440261103219050",
+    "created_at": "2026-08-06T18:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085440261103219050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1446160096275275780",
+          "start": 3,
+          "username": "unrecognizab4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085440261103219050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085423751391539369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unrecognizab4L: 自我中心感比较强，每个推文都是说我我我我我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085440261103219050",
+        "created_at": "2026-08-06T18:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085440261103219050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1446160096275275780",
+              "start": 3,
+              "username": "unrecognizab4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085440261103219050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085423751391539369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unrecognizab4L: 自我中心感比较强，每个推文都是说我我我我我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446160096275275780",
+        "conversation_id": "2085423751391539369",
+        "created_at": "2026-08-06T17:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085423751391539369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085423751391539369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自我中心感比较强，每个推文都是说我我我我我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 290,
+          "like_count": 9327,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T17:07:02.000Z",
+        "description": "space cadet\nalt art projects account @",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/manwearingbean…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/manwearingbeanie",
+                "start": 0,
+                "url": "https://t.co/SYjCXQCXgt"
+              }
+            ]
+          }
+        },
+        "id": "1446160096275275780",
+        "location": "space station",
+        "name": "manwearingbeanie",
+        "pinned_tweet_id": "2071875182843846657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049064385524744192/73AiJAQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 344,
+          "like_count": 11146,
+          "listed_count": 0,
+          "media_count": 441,
+          "tweet_count": 3937
+        },
+        "url": "https://t.co/SYjCXQCXgt",
+        "username": "unrecognizab4L",
+        "verified": false
+      }
+    ]
+  }
+}

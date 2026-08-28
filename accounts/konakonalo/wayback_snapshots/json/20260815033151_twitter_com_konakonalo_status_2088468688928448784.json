@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2088428220404412423",
+    "created_at": "2026-08-15T03:31:51.000Z",
+    "display_text_range": [
+      9,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088468688928448784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1415905665667649537",
+          "start": 0,
+          "username": "YySally"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088468688928448784",
+    "in_reply_to_user_id": "1415905665667649537",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088439441153208462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YySally youyou sjdlwiapqisueochqizpwvddjwpsihd🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2088428220404412423",
+        "created_at": "2026-08-15T03:31:51.000Z",
+        "display_text_range": [
+          9,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088468688928448784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1415905665667649537",
+              "start": 0,
+              "username": "YySally"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088468688928448784",
+        "in_reply_to_user_id": "1415905665667649537",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088439441153208462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YySally youyou sjdlwiapqisueochqizpwvddjwpsihd🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415905665667649537",
+        "conversation_id": "2088428220404412423",
+        "created_at": "2026-08-15T01:35:38.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088439441153208462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088439441153208462",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088428220404412423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 没关系惹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n可以叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2088468688928448784",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 350,
+          "like_count": 10282,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-16T05:26:37.000Z",
+        "description": "纯地球人",
+        "id": "1415905665667649537",
+        "is_identity_verified": false,
+        "location": "太阳系",
+        "most_recent_tweet_id": "2088439441153208462",
+        "name": "YYSally",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415905665667649537/1645443655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505771382407266304/B0wkVPd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 156,
+          "like_count": 2539,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "YySally",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

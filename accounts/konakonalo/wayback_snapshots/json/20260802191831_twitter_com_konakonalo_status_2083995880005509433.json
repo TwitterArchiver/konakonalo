@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2083986993705619632",
+    "created_at": "2026-08-02T19:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083995880005509433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985383794581626880",
+          "start": 0,
+          "username": "Chrion_HE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083995880005509433",
+    "in_reply_to_user_id": "1985383794581626880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083986993705619632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chrion_HE 我也想！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2083986993705619632",
+        "created_at": "2026-08-02T19:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083995880005509433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985383794581626880",
+              "start": 0,
+              "username": "Chrion_HE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083995880005509433",
+        "in_reply_to_user_id": "1985383794581626880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083986993705619632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chrion_HE 我也想！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985383794581626880",
+        "conversation_id": "2083986993705619632",
+        "created_at": "2026-08-02T18:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083986993705619632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083986993705619632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想被女人抱在怀里哺育！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 280,
+          "like_count": 9069,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T16:29:39.000Z",
+        "description": "一颗女子口乞的水煮蛋",
+        "id": "1985383794581626880",
+        "name": "犬之初",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073282886133018625/fLk4Gjuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 66,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "Chrion_HE",
+        "verified": false
+      }
+    ]
+  }
+}

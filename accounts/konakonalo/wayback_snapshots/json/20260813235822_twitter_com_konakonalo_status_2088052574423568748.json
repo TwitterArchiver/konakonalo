@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2087928031763738816",
+    "created_at": "2026-08-13T23:58:22.000Z",
+    "display_text_range": [
+      14,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088052574423568748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421301972007849986",
+          "start": 0,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088052574423568748",
+    "in_reply_to_user_id": "1421301972007849986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088051379218883043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbpp10521715 随便你怎么想….前面没拍的时候拽了多久你知道吗。不要再集火我了。怪我是个女生我害怕我不敢拽。怪我没有能力把他们全制服。怪我没能力让他们不要拍视频。满意吗。对不起。我在想办法说一下还原一下真相为了弥补。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087928031763738816",
+        "created_at": "2026-08-13T23:58:22.000Z",
+        "display_text_range": [
+          14,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088052574423568748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421301972007849986",
+              "start": 0,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088052574423568748",
+        "in_reply_to_user_id": "1421301972007849986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088051379218883043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbpp10521715 随便你怎么想….前面没拍的时候拽了多久你知道吗。不要再集火我了。怪我是个女生我害怕我不敢拽。怪我没有能力把他们全制服。怪我没能力让他们不要拍视频。满意吗。对不起。我在想办法说一下还原一下真相为了弥补。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "2087928031763738816",
+        "created_at": "2026-08-13T23:53:37.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088051379218883043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088051379218883043",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087989917637030182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 拉倒吧拍半天就是不上手去拽开"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n可以叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2088052574423568748",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 347,
+          "like_count": 10194,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1496
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "我等了很久，我不会再等了",
+        "id": "1421301972007849986",
+        "is_identity_verified": false,
+        "location": "Mongolia",
+        "most_recent_tweet_id": "2088051379218883043",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1926322347255939336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421301972007849986/1775086423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675109537091584/VK9tOAeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12268,
+          "following_count": 484,
+          "like_count": 25011,
+          "listed_count": 24,
+          "media_count": 926,
+          "tweet_count": 9846
+        },
+        "url": "",
+        "username": "pbpp10521715",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

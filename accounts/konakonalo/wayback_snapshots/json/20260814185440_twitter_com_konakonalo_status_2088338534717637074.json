@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2088338534717637074",
+    "created_at": "2026-08-14T18:54:40.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088338534717637074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/screamnhorror/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/screamnhorror/status/2088127117452083399",
+          "start": 23,
+          "url": "https://t.co/h7AdNfP6Pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088338534717637074",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088127117452083399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "girlhood is a spectrum https://t.co/h7AdNfP6Pr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2088127115363319808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqEjE0XgAAnaEZ.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2088338534717637074",
+        "created_at": "2026-08-14T18:54:40.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088338534717637074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/screamnhorror/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/screamnhorror/status/2088127117452083399",
+              "start": 23,
+              "url": "https://t.co/h7AdNfP6Pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088338534717637074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088127117452083399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "girlhood is a spectrum https://t.co/h7AdNfP6Pr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088127115363319808"
+          ]
+        },
+        "author_id": "765564184465727488",
+        "conversation_id": "2088127117452083399",
+        "created_at": "2026-08-14T04:54:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088127117452083399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlbVivyQYh",
+              "end": 23,
+              "expanded_url": "https://x.com/screamnhorror/status/2088127117452083399/photo/1",
+              "media_key": "3_2088127115363319808",
+              "start": 0,
+              "url": "https://t.co/PlbVivyQYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088127117452083399",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088127115363319808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 23398,
+          "like_count": 2499,
+          "quote_count": 16,
+          "reply_count": 4,
+          "retweet_count": 535
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PlbVivyQYh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n可以叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2088338534717637074",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 348,
+          "like_count": 10251,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-16T15:01:39.000Z",
+        "description": "𝙝𝙤𝙧𝙧𝙤𝙧, 𝙨𝙚𝙭, 𝙖𝙣𝙙 𝙧𝙤𝙘𝙠 𝙣’ 𝙧𝙤𝙡𝙡— ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀ @bridefnosferatu ♡ @vampiiiressa ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ no human is illegal | blm | free palestine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "bridefnosferatu"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "vampiiiressa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/64cvj",
+                "end": 23,
+                "expanded_url": "https://boxd.it/64cvj",
+                "start": 0,
+                "url": "https://t.co/kCgHtcsjQw"
+              }
+            ]
+          }
+        },
+        "id": "765564184465727488",
+        "is_identity_verified": true,
+        "location": "𝖘𝖈𝖔𝖗𝖕𝖎𝖔 | SHE/HER | 18+",
+        "most_recent_tweet_id": "2088329532121948318",
+        "name": "𝑳𝑰𝑽𝑰𝑵𝑮 𝑫𝑬𝑨𝑫 𝑮𝑰𝑹𝑳 🦇",
+        "pinned_tweet_id": "2047344470987792515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/765564184465727488/1780528496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062311936046284800/S3G2W4eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100403,
+          "following_count": 2410,
+          "like_count": 53763,
+          "listed_count": 208,
+          "media_count": 14231,
+          "tweet_count": 30113
+        },
+        "url": "https://t.co/kCgHtcsjQw",
+        "username": "screamnhorror",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

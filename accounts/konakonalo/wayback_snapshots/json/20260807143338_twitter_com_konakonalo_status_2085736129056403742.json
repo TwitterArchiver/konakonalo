@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2085442090708926747",
+    "created_at": "2026-08-07T14:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085736129056403742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1919464133994676224",
+          "start": 0,
+          "username": "NnnNnn1086373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085736129056403742",
+    "in_reply_to_user_id": "1919464133994676224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085733294096949376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NnnNnn1086373 嗯，不想出生，但是既然出生了的话就好好，好好想办法抵抗现在的烦恼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2085442090708926747",
+        "created_at": "2026-08-07T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085736129056403742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1919464133994676224",
+              "start": 0,
+              "username": "NnnNnn1086373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736129056403742",
+        "in_reply_to_user_id": "1919464133994676224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085733294096949376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NnnNnn1086373 嗯，不想出生，但是既然出生了的话就好好，好好想办法抵抗现在的烦恼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919464133994676224",
+        "conversation_id": "2085442090708926747",
+        "created_at": "2026-08-07T14:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085733294096949376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085733294096949376",
+        "in_reply_to_user_id": "1919464133994676224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085732281961111595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 经常设想像“妈的多重宇宙”里那种不同版本的自己，大概都会有相同或不同的烦恼，最后得出结论还是“不出生”最好，或者变成一块石头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。我是眼球绮谭，可以叫我眼球，叫我鼠也行。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 295,
+          "like_count": 9425,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:48:16.000Z",
+        "description": "停滞不前，我是匮乏的人",
+        "id": "1919464133994676224",
+        "name": "1518",
+        "pinned_tweet_id": "2020340921238499769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075628894242385920/60AIxL4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 244,
+          "like_count": 22620,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "NnnNnn1086373",
+        "verified": false
+      }
+    ]
+  }
+}
