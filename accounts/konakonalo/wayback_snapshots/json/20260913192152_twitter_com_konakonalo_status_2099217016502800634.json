@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2099217016502800634",
+    "created_at": "2026-09-13T19:21:52.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099217016502800634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050464553557741569",
+          "start": 3,
+          "username": "sosouulu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099217016502800634",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12882
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098603208012673107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sosouulu: odio cuando un carro me va atropellar y frena jajajaja señor noo, que hace"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2099217016502800634",
+        "created_at": "2026-09-13T19:21:52.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099217016502800634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050464553557741569",
+              "start": 3,
+              "username": "sosouulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099217016502800634",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12882
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098603208012673107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sosouulu: odio cuando un carro me va atropellar y frena jajajaja señor noo, que hace"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050464553557741569",
+        "conversation_id": "2098603208012673107",
+        "created_at": "2026-09-12T02:42:49.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098603208012673107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098603208012673107",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 886,
+          "impression_count": 339821,
+          "like_count": 48972,
+          "quote_count": 154,
+          "reply_count": 32,
+          "retweet_count": 12882
+        },
+        "reply_settings": "everyone",
+        "text": "odio cuando un carro me va atropellar y frena jajajaja señor noo, que hace"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你找到我了！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099217016502800634",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 412,
+          "like_count": 12171,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2014
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T06:37:12.000Z",
+        "description": "ℒoving⠀you⠀forever ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ㅤ ͏ ͏ ͏ ͏ ͏ ͏ㅤㅤ ͏ ͏ㅤ ͏ ͏ ͏ ͏ㅤ ͏ ͏ ͏ ͏ㅤㅤ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ㅤ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ㅤ{ ✶ }⠀can’t⠀be⠀wrong ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sleep.com",
+                "end": 23,
+                "expanded_url": "http://sleep.com",
+                "start": 0,
+                "url": "https://t.co/C3hv6Fl2t0"
+              }
+            ]
+          }
+        },
+        "id": "2050464553557741569",
+        "is_identity_verified": false,
+        "location": "  230825  ",
+        "most_recent_tweet_id": "2099205526316101713",
+        "name": "nana",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050464553557741569/1786909509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089076014483718144/kbLellsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1228,
+          "like_count": 5700,
+          "listed_count": 26,
+          "media_count": 130,
+          "tweet_count": 4434
+        },
+        "url": "https://t.co/C3hv6Fl2t0",
+        "username": "sosouulu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

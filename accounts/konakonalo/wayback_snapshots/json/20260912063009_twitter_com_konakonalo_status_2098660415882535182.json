@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2098641581616345405",
+    "created_at": "2026-09-12T06:30:09.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098660415882535182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2083627915754049536",
+          "start": 0,
+          "username": "2lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098660415882535182",
+    "in_reply_to_user_id": "2083627915754049536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098641581616345405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@2lc5si9 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2098641581616345405",
+        "created_at": "2026-09-12T06:30:09.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098660415882535182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2083627915754049536",
+              "start": 0,
+              "username": "2lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098660415882535182",
+        "in_reply_to_user_id": "2083627915754049536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098641581616345405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@2lc5si9 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083627915754049536",
+        "conversation_id": "2098641581616345405",
+        "created_at": "2026-09-12T05:15:18.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098641581616345405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098641581616345405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我觉得替え玉比最开始就泡在汤里的面条更好吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你找到我了！我是眼球绮谭。叫我眼球。\n我喜欢抛掉书本上街去。我喜欢尖叫核。我喜欢破破烂烂的线头。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2098660415882535182",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 404,
+          "like_count": 12079,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T18:57:40.000Z",
+        "description": "每日发推数量上限之后就只能发这了 @1lc5si9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "1lc5si9"
+              }
+            ]
+          }
+        },
+        "id": "2083627915754049536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098641581616345405",
+        "name": "。",
+        "pinned_tweet_id": "2096838373650653653",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083628698046189569/xv_hgiPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 48,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "2lc5si9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2098793756623532534",
+    "created_at": "2026-09-13T03:26:08.000Z",
+    "display_text_range": [
+      31,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T04:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098976497944183052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        },
+        {
+          "end": 30,
+          "id": "1781868776918790144",
+          "start": 15,
+          "username": "Hoshika_Mahiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098976497944183052",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098858108571504786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 @Hoshika_Mahiyo 黄大叔和胃大叔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2098793756623532534",
+        "created_at": "2026-09-13T03:26:08.000Z",
+        "display_text_range": [
+          31,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098976497944183052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            },
+            {
+              "end": 30,
+              "id": "1781868776918790144",
+              "start": 15,
+              "username": "Hoshika_Mahiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098976497944183052",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098858108571504786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 @Hoshika_Mahiyo 黄大叔和胃大叔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2098793756623532534",
+        "created_at": "2026-09-12T19:35:42.000Z",
+        "display_text_range": [
+          16,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098858108571504786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Hoshika_Mahiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098858108571504786",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098793756623532534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshika_Mahiyo 老年人也可以很慈祥可爱！\n（我想到跟人打电话老是被人说像大叔，不过一想到黄前久美子这样可爱的角色也被称作黄大叔，我反而诡异地高兴了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你找到我了！我是眼球绮谭。叫我眼球。\n我喜欢抛掉书本上街去。我喜欢尖叫核。我喜欢破破烂烂的线头。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2098976497944183052",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 406,
+          "like_count": 12100,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1990
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "反正  大荒年以后  还要谈战争，\n我不如仍去当佣兵。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/blackcrow1917",
+                "end": 23,
+                "expanded_url": "http://t.me/blackcrow1917",
+                "start": 0,
+                "url": "https://t.co/vMj4wbILEU"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2098871699517387150",
+        "name": "胃烧书🍥",
+        "pinned_tweet_id": "2090025046278582467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1788722867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087905660696686592/_A6f0rb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1023,
+          "like_count": 12158,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/vMj4wbILEU",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "也可以叫我刘星瑶~\n同类互fo喵\n🏳️‍⚧️11/08/17 高一 MtF 泛性恋 天残党 半家长党\n🍥2026/08/02 无证含糖 已炸柜\n❌无任何政治立场，不od不抽烟不喝酒不混社会\n👤MBTI-INSFTP 乐观 佛系 非牛顿流体 有点强迫症\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "现居📍吉林四平梨树    想移民去Canada🇨🇦",
+        "most_recent_tweet_id": "2098793756623532534",
+        "name": "Hoshika_Mahiyo",
+        "pinned_tweet_id": "2096462009609166971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1786784735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475212271489024/A9cxjBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1851,
+          "like_count": 3914,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Hoshika_Mahiyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

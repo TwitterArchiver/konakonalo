@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2098290113675772007",
+    "created_at": "2026-09-11T14:57:23.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T15:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098425679599796375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1173259891286392832",
+          "start": 0,
+          "username": "seanwei001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098425679599796375",
+    "in_reply_to_user_id": "1173259891286392832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098290113675772007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seanwei001 大变死人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38986,
+        "height": 720,
+        "media_key": "13_2098290049645461504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098290049645461504/img/xr0ooEuMsrRZLa3i.jpg",
+        "public_metrics": {
+          "view_count": 1127682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098290049645461504/vid/avc1/478x270/OC2-6lrqy3GHC3-l.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098290049645461504/vid/avc1/638x360/QKiNecHRiQJkwuHj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098290049645461504/vid/avc1/1276x720/0Twp1_P-XtMV2cQm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098290049645461504/pl/2fK_agTEKFDJLaSm.m3u8?v=cfc"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2098290113675772007",
+        "created_at": "2026-09-11T14:57:23.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098425679599796375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1173259891286392832",
+              "start": 0,
+              "username": "seanwei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098425679599796375",
+        "in_reply_to_user_id": "1173259891286392832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098290113675772007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seanwei001 大变死人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098290049645461504"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "conversation_id": "2098290113675772007",
+        "created_at": "2026-09-11T05:58:42.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098290113675772007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sa4yIbktda",
+              "end": 71,
+              "expanded_url": "https://x.com/seanwei001/status/2098290113675772007/video/1",
+              "media_key": "13_2098290049645461504",
+              "start": 48,
+              "url": "https://t.co/Sa4yIbktda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098290113675772007",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098290049645461504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 715,
+          "impression_count": 1568747,
+          "like_count": 2615,
+          "quote_count": 24,
+          "reply_count": 311,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "一名中国男子到装修现场检查工程进度，因边走边看手机从建筑物的二楼坠落身亡。\n\n不要被手机牵制。 https://t.co/Sa4yIbktda"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你找到我了！我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2098425679599796375",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 405,
+          "like_count": 12061,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1985
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098424910498742738",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173259891286392832/1616863770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152793,
+          "following_count": 779,
+          "like_count": 30132,
+          "listed_count": 476,
+          "media_count": 30259,
+          "tweet_count": 36485
+        },
+        "url": "",
+        "username": "seanwei001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

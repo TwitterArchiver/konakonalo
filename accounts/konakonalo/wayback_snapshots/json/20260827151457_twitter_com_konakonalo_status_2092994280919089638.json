@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2092994280919089638",
+    "created_at": "2026-08-27T15:14:57.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092994280919089638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1508408540360507393",
+          "start": 3,
+          "username": "YuRain_Is_Doll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092994280919089638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092980370220130370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuRain_Is_Doll: 右派才嗑右美沙芬\n我們左批都嗑佐匹克隆的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2092994280919089638",
+        "created_at": "2026-08-27T15:14:57.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092994280919089638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1508408540360507393",
+              "start": 3,
+              "username": "YuRain_Is_Doll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092994280919089638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092980370220130370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuRain_Is_Doll: 右派才嗑右美沙芬\n我們左批都嗑佐匹克隆的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508408540360507393",
+        "conversation_id": "2092980370220130370",
+        "created_at": "2026-08-27T14:19:40.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092980370220130370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092980370220130370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "右派才嗑右美沙芬\n我們左批都嗑佐匹克隆的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2092994280919089638",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 383,
+          "like_count": 11020,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-28T11:40:34.000Z",
+        "description": "一個幽幽子，共產主義的幽幽子，在幻想鄉遊蕩。名字的鯨魚是台灣獨立的意思。一隻摺耳貓，MtX，雙相/焦慮/P-DID/亞斯/CPTSD。小說作者、會點歌詞創作，需要的可以合作",
+        "id": "1508408540360507393",
+        "is_identity_verified": false,
+        "location": "臺灣、高砂及金馬群島蘇維埃公社聯邦",
+        "most_recent_tweet_id": "2092981573935092106",
+        "name": "🏳️‍⚧️ꨄ︎共產主義的幽々子☭🌏🐋🇵🇸🇪🇭🇺🇦🇨🇺",
+        "pinned_tweet_id": "1897527739915362642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508408540360507393/1708959034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895006997944078336/0Nnvy5Ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 4731,
+          "like_count": 18424,
+          "listed_count": 8,
+          "media_count": 3591,
+          "tweet_count": 68270
+        },
+        "url": "",
+        "username": "YuRain_Is_Doll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

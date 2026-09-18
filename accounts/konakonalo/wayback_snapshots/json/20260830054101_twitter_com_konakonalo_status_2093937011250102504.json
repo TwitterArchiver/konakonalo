@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2093904848257446279",
+    "created_at": "2026-08-30T05:41:01.000Z",
+    "display_text_range": [
+      12,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093937011250102504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2093418707288788992",
+          "start": 0,
+          "username": "stazikzlgn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093937011250102504",
+    "in_reply_to_user_id": "2093418707288788992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093923080326590749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stazikzlgn 我被双相困扰了很久，我现在依旧躯体化很严重，我在对我自己指指点点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2093904848257446279",
+        "created_at": "2026-08-30T05:41:01.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093937011250102504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2093418707288788992",
+              "start": 0,
+              "username": "stazikzlgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093937011250102504",
+        "in_reply_to_user_id": "2093418707288788992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093923080326590749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stazikzlgn 我被双相困扰了很久，我现在依旧躯体化很严重，我在对我自己指指点点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093418707288788992",
+        "conversation_id": "2093904848257446279",
+        "created_at": "2026-08-30T04:45:40.000Z",
+        "display_text_range": [
+          12,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093923080326590749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093923080326590749",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093904848257446279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 有点傲慢了吧，你做好自己就行，没体验别人的痛苦为什么要对别人的生活指指点点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2093937011250102504",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 398,
+          "like_count": 11232,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1805
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T19:24:26.000Z",
+        "description": "",
+        "id": "2093418707288788992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093923080326590749",
+        "name": "stazik",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093419586687586304/EBSdfkLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "stazikzlgn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

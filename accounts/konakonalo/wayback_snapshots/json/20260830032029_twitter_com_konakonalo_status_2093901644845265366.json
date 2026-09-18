@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093786746957729792"
+      ],
+      "media_source_tweet_id": [
+        "2093786801030770952"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093901644845265366",
+    "created_at": "2026-08-30T03:20:29.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093901644845265366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052207464733421574",
+          "start": 3,
+          "username": "harleenXIV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCusN9iXdr",
+          "end": 39,
+          "expanded_url": "https://x.com/harleenXIV/status/2093786801030770952/video/1",
+          "media_key": "13_2093786746957729792",
+          "start": 16,
+          "url": "https://t.co/vCusN9iXdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093901644845265366",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2093786746957729792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1713
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093786801030770952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @harleenXIV: https://t.co/vCusN9iXdr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15464,
+        "height": 588,
+        "media_key": "13_2093786746957729792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093786746957729792/img/0P7A82zrt2rmgnQu.jpg",
+        "public_metrics": {
+          "view_count": 39307
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093786746957729792/vid/avc1/332x270/ztWEvLE7SEZT9aNA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093786746957729792/vid/avc1/442x360/PHOiGHlzAeuesewW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093786746957729792/vid/avc1/724x588/aRyzUprS8y5VnV63.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093786746957729792/pl/P2z-8BJEucaPTr7w.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093786746957729792"
+          ],
+          "media_source_tweet_id": [
+            "2093786801030770952"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093901644845265366",
+        "created_at": "2026-08-30T03:20:29.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093901644845265366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052207464733421574",
+              "start": 3,
+              "username": "harleenXIV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCusN9iXdr",
+              "end": 39,
+              "expanded_url": "https://x.com/harleenXIV/status/2093786801030770952/video/1",
+              "media_key": "13_2093786746957729792",
+              "start": 16,
+              "url": "https://t.co/vCusN9iXdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093901644845265366",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093786746957729792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1713
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093786801030770952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @harleenXIV: https://t.co/vCusN9iXdr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093786746957729792"
+          ]
+        },
+        "author_id": "2052207464733421574",
+        "conversation_id": "2093786801030770952",
+        "created_at": "2026-08-29T19:44:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093786801030770952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCusN9iXdr",
+              "end": 23,
+              "expanded_url": "https://x.com/harleenXIV/status/2093786801030770952/video/1",
+              "media_key": "13_2093786746957729792",
+              "start": 0,
+              "url": "https://t.co/vCusN9iXdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093786801030770952",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093786746957729792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1893,
+          "impression_count": 114666,
+          "like_count": 10858,
+          "quote_count": 25,
+          "reply_count": 21,
+          "retweet_count": 1713
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vCusN9iXdr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2093901644845265366",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 398,
+          "like_count": 11218,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1795
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-07T02:02:50.000Z",
+        "description": "runaway michigan stray (22)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "konect.gg/harleen",
+                "end": 23,
+                "expanded_url": "http://konect.gg/harleen",
+                "start": 0,
+                "url": "https://t.co/AdzO24uptn"
+              }
+            ]
+          }
+        },
+        "id": "2052207464733421574",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093853776247402714",
+        "name": "hhh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052207464733421574/1788048576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093814634012663808/OaRuBZyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 37,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/AdzO24uptn",
+        "username": "harleenXIV",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2097523394988359818",
+    "created_at": "2026-09-09T04:52:09.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T05:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097548591799951778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1605802861434003456",
+          "start": 0,
+          "username": "rotteddakimkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097548591799951778",
+    "in_reply_to_user_id": "1605802861434003456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097545613617610902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@rotteddakimkura tyyy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2097523394988359818",
+        "created_at": "2026-09-09T04:52:09.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097548591799951778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605802861434003456",
+              "start": 0,
+              "username": "rotteddakimkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097548591799951778",
+        "in_reply_to_user_id": "1605802861434003456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097545613617610902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@rotteddakimkura tyyy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605802861434003456",
+        "conversation_id": "2097523394988359818",
+        "created_at": "2026-09-09T04:40:19.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097545613617610902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097545613617610902",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097523394988359818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@konakonalo looks really cool!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你找到我了！我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2097548591799951778",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 404,
+          "like_count": 11974,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1957
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-22T05:50:23.000Z",
+        "description": "18 // male // femboymaxxer // 152cm // cgw 45kg // cw 49kg",
+        "id": "1605802861434003456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097545613617610902",
+        "name": "tsoilent",
+        "pinned_tweet_id": "2068064468526071892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605802861434003456/1781899755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081464493411123200/QZSIKRWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 21,
+          "like_count": 11296,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "rotteddakimkura",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

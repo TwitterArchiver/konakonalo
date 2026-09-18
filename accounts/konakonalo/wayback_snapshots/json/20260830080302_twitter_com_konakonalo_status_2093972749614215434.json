@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2093904848257446279",
+    "created_at": "2026-08-30T08:03:02.000Z",
+    "display_text_range": [
+      15,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093972749614215434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823215199584956416",
+          "start": 0,
+          "username": "_Wang_Hongwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093972749614215434",
+    "in_reply_to_user_id": "1823215199584956416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093965771236139294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Wang_Hongwen 。。完全不是这个意思。本就是一体的。永远都是一体。任何时候都要控制。你在任何时刻都要去操控它而不是让它反过来操控你。意思就是不能一味让精神病作为借口而放弃思考放弃反思放弃进步。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2093904848257446279",
+        "created_at": "2026-08-30T08:03:02.000Z",
+        "display_text_range": [
+          15,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093972749614215434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823215199584956416",
+              "start": 0,
+              "username": "_Wang_Hongwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093972749614215434",
+        "in_reply_to_user_id": "1823215199584956416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093965771236139294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Wang_Hongwen 。。完全不是这个意思。本就是一体的。永远都是一体。任何时候都要控制。你在任何时刻都要去操控它而不是让它反过来操控你。意思就是不能一味让精神病作为借口而放弃思考放弃反思放弃进步。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823215199584956416",
+        "conversation_id": "2093904848257446279",
+        "created_at": "2026-08-30T07:35:18.000Z",
+        "display_text_range": [
+          12,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093965771236139294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093965771236139294",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093945077890691479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 因为我认为你的话里预设了精神疾病的自己和正常的自己是分割开来的，而健全的自己理应控制发病的自己。我认为你的观点可能是这样，当然也可以否认"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2093972749614215434",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 397,
+          "like_count": 11238,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T04:29:38.000Z",
+        "description": "苦痛，恆久。",
+        "id": "1823215199584956416",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2093965771236139294",
+        "name": "Fence",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823215199584956416/1748142258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946882718413021184/juibf4lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "_Wang_Hongwen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
