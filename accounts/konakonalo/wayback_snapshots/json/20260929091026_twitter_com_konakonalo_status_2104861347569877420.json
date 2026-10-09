@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102067668912402433"
+      ],
+      "media_source_tweet_id": [
+        "2102067673589010795"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2104861347569877420",
+    "created_at": "2026-09-29T09:10:26.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104861347569877420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1364943569933377541",
+          "start": 3,
+          "username": "takadaka_tks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHQ6UsGyfW",
+          "end": 41,
+          "expanded_url": "https://x.com/takadaka_tks/status/2102067673589010795/photo/1",
+          "media_key": "3_2102067668912402433",
+          "start": 18,
+          "url": "https://t.co/CHQ6UsGyfW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104861347569877420",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102067668912402433"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 902
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102067673589010795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takadaka_tks: https://t.co/CHQ6UsGyfW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2102067668912402433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwLaFtbcAEytGN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102067668912402433"
+          ],
+          "media_source_tweet_id": [
+            "2102067673589010795"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2104861347569877420",
+        "created_at": "2026-09-29T09:10:26.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104861347569877420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1364943569933377541",
+              "start": 3,
+              "username": "takadaka_tks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHQ6UsGyfW",
+              "end": 41,
+              "expanded_url": "https://x.com/takadaka_tks/status/2102067673589010795/photo/1",
+              "media_key": "3_2102067668912402433",
+              "start": 18,
+              "url": "https://t.co/CHQ6UsGyfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104861347569877420",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102067668912402433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 902
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102067673589010795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takadaka_tks: https://t.co/CHQ6UsGyfW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102067668912402433"
+          ]
+        },
+        "author_id": "1364943569933377541",
+        "conversation_id": "2102067673589010795",
+        "created_at": "2026-09-21T16:09:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102067673589010795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHQ6UsGyfW",
+              "end": 23,
+              "expanded_url": "https://x.com/takadaka_tks/status/2102067673589010795/photo/1",
+              "media_key": "3_2102067668912402433",
+              "start": 0,
+              "url": "https://t.co/CHQ6UsGyfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102067673589010795",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102067668912402433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 748,
+          "impression_count": 74286,
+          "like_count": 8559,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 902
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CHQ6UsGyfW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2104861347569877420",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 419,
+          "like_count": 13319,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-25T14:21:44.000Z",
+        "description": "(高々タカ) \n📞takadakatakah@gmail.com or DM\n📝https://t.co/TweajGjZQp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@takadaka_tks",
+                "end": 63,
+                "expanded_url": "https://skeb.jp/@takadaka_tks",
+                "start": 40,
+                "url": "https://t.co/TweajGjZQp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/taka_daka_tk?s…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/taka_daka_tk?stkn=b25oYzI5dDdsMXd4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jHbeu7byIO"
+              }
+            ]
+          }
+        },
+        "id": "1364943569933377541",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104639174129422641",
+        "name": "TKDK",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364943569933377541/1785024227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093611869408034816/VE0RkcBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10889,
+          "following_count": 153,
+          "like_count": 50107,
+          "listed_count": 56,
+          "media_count": 158,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/jHbeu7byIO",
+        "username": "takadaka_tks",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

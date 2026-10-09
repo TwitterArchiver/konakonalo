@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2106961585642062172",
+    "created_at": "2026-10-05T11:40:31.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107073443976167641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2105883708964352000",
+          "start": 0,
+          "username": "_JudasLoveNHate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107073443976167641",
+    "in_reply_to_user_id": "2105883708964352000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106961585642062172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_JudasLoveNHate 爸比我看的那个了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11250,
+        "height": 1280,
+        "media_key": "13_2106961222847668224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106961222847668224/img/XzBFBfXb-9PlTjOy.jpg",
+        "public_metrics": {
+          "view_count": 134
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961222847668224/vid/avc1/320x568/s5LvZc56nM4XLUM1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961222847668224/vid/avc1/480x852/8A6M5HYdSw1nuuzZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961222847668224/vid/avc1/720x1280/_s5ohgNteDKO59zl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106961222847668224/pl/e0AnkR1GQIoOQxfV.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 12492,
+        "height": 1280,
+        "media_key": "13_2106961350954229760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106961350954229760/img/OspVTib1WgFraVTr.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961350954229760/vid/avc1/320x688/Y6_L3Uf_EMEs0-K9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961350954229760/vid/avc1/480x1034/HLp5dizbTIBxklR_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961350954229760/vid/avc1/594x1280/n0TJr9_E2V0-jGB1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106961350954229760/pl/3jpfU4RqXE57pqB1.m3u8"
+          }
+        ],
+        "width": 594
+      },
+      {
+        "duration_ms": 11633,
+        "height": 1280,
+        "media_key": "13_2106961436069289984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106961436069289984/img/cjY1poSNatdLJqzq.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961436069289984/vid/avc1/320x568/bvFTCbdjy1vflRYv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961436069289984/vid/avc1/480x852/mWTmbeMeZN08oapn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961436069289984/vid/avc1/720x1280/pCGGhBUn56X0F-2_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106961436069289984/pl/gtOL0BF79U3eQ2MJ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10216,
+        "height": 1280,
+        "media_key": "13_2106961510220337152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106961510220337152/img/wRbO5pr9fY1ThAEt.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961510220337152/vid/avc1/320x568/NWj-l5_OUa8hXf4g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961510220337152/vid/avc1/480x852/GbIQqELQFtOgnrqt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106961510220337152/vid/avc1/720x1280/n_QyR5KHVJl1tOev.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106961510220337152/pl/q8sqcxe7hFdvsHFn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2106961585642062172",
+        "created_at": "2026-10-05T11:40:31.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107073443976167641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2105883708964352000",
+              "start": 0,
+              "username": "_JudasLoveNHate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107073443976167641",
+        "in_reply_to_user_id": "2105883708964352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106961585642062172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_JudasLoveNHate 爸比我看的那个了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106961222847668224",
+            "13_2106961350954229760",
+            "13_2106961436069289984",
+            "13_2106961510220337152"
+          ]
+        },
+        "author_id": "2105883708964352000",
+        "conversation_id": "2106961585642062172",
+        "created_at": "2026-10-05T04:16:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106961585642062172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YF0z3BsTBV",
+              "end": 34,
+              "expanded_url": "https://x.com/_JudasLoveNHate/status/2106961585642062172/video/1",
+              "media_key": "13_2106961222847668224",
+              "start": 11,
+              "url": "https://t.co/YF0z3BsTBV"
+            },
+            {
+              "display_url": "pic.x.com/YF0z3BsTBV",
+              "end": 34,
+              "expanded_url": "https://x.com/_JudasLoveNHate/status/2106961585642062172/video/1",
+              "media_key": "13_2106961350954229760",
+              "start": 11,
+              "url": "https://t.co/YF0z3BsTBV"
+            },
+            {
+              "display_url": "pic.x.com/YF0z3BsTBV",
+              "end": 34,
+              "expanded_url": "https://x.com/_JudasLoveNHate/status/2106961585642062172/video/1",
+              "media_key": "13_2106961436069289984",
+              "start": 11,
+              "url": "https://t.co/YF0z3BsTBV"
+            },
+            {
+              "display_url": "pic.x.com/YF0z3BsTBV",
+              "end": 34,
+              "expanded_url": "https://x.com/_JudasLoveNHate/status/2106961585642062172/video/1",
+              "media_key": "13_2106961510220337152",
+              "start": 11,
+              "url": "https://t.co/YF0z3BsTBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106961585642062172",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106961222847668224"
+          },
+          {
+            "media_key": "13_2106961350954229760"
+          },
+          {
+            "media_key": "13_2106961436069289984"
+          },
+          {
+            "media_key": "13_2106961510220337152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 251,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还蛮喜欢这几个视频 https://t.co/YF0z3BsTBV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107073443976167641",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 448,
+          "like_count": 13675,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2415
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-02T12:52:57.000Z",
+        "description": "新中国第一毒枭｜精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜主赐平安如江河",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2105883708964352000",
+        "is_identity_verified": false,
+        "location": "耶路撒冷𝟐𝟕𝐂𝐥𝐮𝐛",
+        "most_recent_tweet_id": "2106987122033041803",
+        "name": "门廊狗𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2106588743629156459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105883708964352000/1791171812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106199375768899584/y1cmauXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 17,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "_JudasLoveNHate",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

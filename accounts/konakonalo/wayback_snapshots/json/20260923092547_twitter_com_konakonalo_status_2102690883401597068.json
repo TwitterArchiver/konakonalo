@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102683979380105531",
+    "created_at": "2026-09-23T09:25:47.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102690883401597068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2098794605223522304",
+          "start": 0,
+          "username": "cigsaferdrug"
+        },
+        {
+          "end": 24,
+          "id": "1774347350049505280",
+          "start": 14,
+          "username": "kkkkyy172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102690883401597068",
+    "in_reply_to_user_id": "2098794605223522304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102683979380105531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsaferdrug @kkkkyy172 goat"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_2102683972958654464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS477tMbkAAjv9L.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102683979380105531",
+        "created_at": "2026-09-23T09:25:47.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102690883401597068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2098794605223522304",
+              "start": 0,
+              "username": "cigsaferdrug"
+            },
+            {
+              "end": 24,
+              "id": "1774347350049505280",
+              "start": 14,
+              "username": "kkkkyy172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102690883401597068",
+        "in_reply_to_user_id": "2098794605223522304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102683979380105531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsaferdrug @kkkkyy172 goat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102683972958654464"
+          ]
+        },
+        "author_id": "2098794605223522304",
+        "conversation_id": "2102683979380105531",
+        "created_at": "2026-09-23T08:58:21.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102683979380105531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1774347350049505280",
+              "start": 10,
+              "username": "kkkkyy172"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8wFUGRasj",
+              "end": 44,
+              "expanded_url": "https://x.com/cigsaferdrug/status/2102683979380105531/photo/1",
+              "media_key": "3_2102683972958654464",
+              "start": 21,
+              "url": "https://t.co/o8wFUGRasj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102683979380105531",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102683972958654464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "holy peak @kkkkyy172 https://t.co/o8wFUGRasj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102690883401597068",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 408,
+          "like_count": 12792,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T15:27:38.000Z",
+        "description": "可以叫我小迴 任何群體全友好 \n查成分互fo\n前世@cigsafterdrug 互關尋回中\n🚪52/88 互fo不用\n只要幸福就好了，祝你幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "cigsafterdrug"
+              }
+            ]
+          }
+        },
+        "id": "2098794605223522304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102683979380105531",
+        "name": "urtoolateialreadydied",
+        "pinned_tweet_id": "2098807783781273721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098794605223522304/1789227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796185112965120/mGi3D7-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 139,
+          "like_count": 2232,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "cigsaferdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T08:06:14.000Z",
+        "description": "我是兔衹\n是只煙癮大的兔兔",
+        "id": "1774347350049505280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101545336372416886",
+        "name": "kkiay",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774347350049505280/1765868728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000485588735238144/NcYZH9EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "kkkkyy172",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2105610929543254160",
+    "created_at": "2026-10-01T10:49:00.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105610929543254160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/plusminuskettl…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/plusminuskettle/status/2105346919497191547",
+          "start": 3,
+          "url": "https://t.co/WrdRr7mphW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105610929543254160",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105346919497191547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。 https://t.co/WrdRr7mphW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2105346898676600832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTex2YiW0AAcpUY.png",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2105610929543254160",
+        "created_at": "2026-10-01T10:49:00.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105610929543254160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/plusminuskettl…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/plusminuskettle/status/2105346919497191547",
+              "start": 3,
+              "url": "https://t.co/WrdRr7mphW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105610929543254160",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105346919497191547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。 https://t.co/WrdRr7mphW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105346898676600832"
+          ]
+        },
+        "author_id": "1302571472834224129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105346919497191547",
+        "created_at": "2026-09-30T17:19:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105346919497191547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZWliSZTVK",
+              "end": 23,
+              "expanded_url": "https://x.com/PlusMinusKettle/status/2105346919497191547/photo/1",
+              "media_key": "3_2105346898676600832",
+              "start": 0,
+              "url": "https://t.co/SZWliSZTVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105346919497191547",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105346898676600832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1088,
+          "impression_count": 147026,
+          "like_count": 4862,
+          "quote_count": 78,
+          "reply_count": 158,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SZWliSZTVK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105610929543254160",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 429,
+          "like_count": 13464,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-06T11:37:03.000Z",
+        "description": "I am on Youtube https://t.co/GBrzEXiTIL\n\nBG source: https://t.co/DnFbiILxjw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/NowanMiracle",
+                "end": 39,
+                "expanded_url": "http://youtube.com/c/NowanMiracle",
+                "start": 16,
+                "url": "https://t.co/GBrzEXiTIL"
+              },
+              {
+                "display_url": "x.com/Dryegen046/sta…",
+                "end": 75,
+                "expanded_url": "https://x.com/Dryegen046/status/1999438535062093906",
+                "start": 52,
+                "url": "https://t.co/DnFbiILxjw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/NowanMiracle",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/NowanMiracle",
+                "start": 0,
+                "url": "https://t.co/NRnkYMZE4X"
+              }
+            ]
+          }
+        },
+        "id": "1302571472834224129",
+        "is_identity_verified": false,
+        "location": "Leithanien (Zwillingstürme)",
+        "most_recent_tweet_id": "2105590593346797581",
+        "name": "➕➖🧠",
+        "pinned_tweet_id": "2103455530882670911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302571472834224129/1790337915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613810800329637888/t0rdrYoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5602,
+          "following_count": 162,
+          "like_count": 62297,
+          "listed_count": 10,
+          "media_count": 2217,
+          "tweet_count": 10073
+        },
+        "url": "https://t.co/NRnkYMZE4X",
+        "username": "PlusMinusKettle",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

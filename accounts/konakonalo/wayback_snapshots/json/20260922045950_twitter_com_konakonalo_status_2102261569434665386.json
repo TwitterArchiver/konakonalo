@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101997946929598465"
+      ],
+      "media_source_tweet_id": [
+        "2101998892443111573"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102261569434665386",
+    "created_at": "2026-09-22T04:59:50.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102261569434665386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488237521750343682",
+          "start": 3,
+          "username": "Zoukanogenya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9hHYFvYx8T",
+          "end": 128,
+          "expanded_url": "https://x.com/Zoukanogenya/status/2101998892443111573/photo/1",
+          "media_key": "3_2101997946929598465",
+          "start": 105,
+          "url": "https://t.co/9hHYFvYx8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102261569434665386",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101997946929598465"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101998892443111573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zoukanogenya: Takashi Mizutani // 水谷孝\n裸のラリーズ // Les Rallizes Dénudés\n\nHeaven magazine, Issue 6, 1980 https://t.co/9hHYFvYx8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2101997946929598465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvL_vFW0AEwTgs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101997946929598465"
+          ],
+          "media_source_tweet_id": [
+            "2101998892443111573"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102261569434665386",
+        "created_at": "2026-09-22T04:59:50.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102261569434665386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488237521750343682",
+              "start": 3,
+              "username": "Zoukanogenya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hHYFvYx8T",
+              "end": 128,
+              "expanded_url": "https://x.com/Zoukanogenya/status/2101998892443111573/photo/1",
+              "media_key": "3_2101997946929598465",
+              "start": 105,
+              "url": "https://t.co/9hHYFvYx8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102261569434665386",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101997946929598465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101998892443111573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zoukanogenya: Takashi Mizutani // 水谷孝\n裸のラリーズ // Les Rallizes Dénudés\n\nHeaven magazine, Issue 6, 1980 https://t.co/9hHYFvYx8T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101997946929598465"
+          ]
+        },
+        "author_id": "1488237521750343682",
+        "conversation_id": "2101998892443111573",
+        "created_at": "2026-09-21T11:36:03.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101998892443111573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hHYFvYx8T",
+              "end": 110,
+              "expanded_url": "https://x.com/Zoukanogenya/status/2101998892443111573/photo/1",
+              "media_key": "3_2101997946929598465",
+              "start": 87,
+              "url": "https://t.co/9hHYFvYx8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101998892443111573",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101997946929598465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4485,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Takashi Mizutani // 水谷孝\n裸のラリーズ // Les Rallizes Dénudés\n\nHeaven magazine, Issue 6, 1980 https://t.co/9hHYFvYx8T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102261569434665386",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 413,
+          "like_count": 12658,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2183
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-31T19:47:56.000Z",
+        "description": "Les Rallizes Dénudés // 裸のラリーズ\nTakashi Mizutani // 水谷孝\n\nUnofficial fan account",
+        "id": "1488237521750343682",
+        "is_identity_verified": false,
+        "location": "Beyond the Mirror",
+        "most_recent_tweet_id": "2102014570478899608",
+        "name": "Field_of_Artificial_Flowers",
+        "pinned_tweet_id": "1605001779992748034",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488237521750343682/1735565376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915913813523574784/DtcLkgY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 99,
+          "like_count": 10802,
+          "listed_count": 5,
+          "media_count": 526,
+          "tweet_count": 3511
+        },
+        "url": "",
+        "username": "Zoukanogenya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

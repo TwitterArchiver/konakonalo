@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104867334892720128"
+      ],
+      "media_source_tweet_id": [
+        "2104867348784283817"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2104881357046599940",
+    "created_at": "2026-09-29T10:29:56.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104881357046599940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950154527455531008",
+          "start": 3,
+          "username": "new1_crc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qTuyn9bFjk",
+          "end": 37,
+          "expanded_url": "https://x.com/new1_crc/status/2104867348784283817/photo/1",
+          "media_key": "3_2104867334892720128",
+          "start": 14,
+          "url": "https://t.co/qTuyn9bFjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104881357046599940",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104867334892720128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104867348784283817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @new1_crc: https://t.co/qTuyn9bFjk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2104867334892720128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTX9sGOakAA6IAx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104867334892720128"
+          ],
+          "media_source_tweet_id": [
+            "2104867348784283817"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2104881357046599940",
+        "created_at": "2026-09-29T10:29:56.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104881357046599940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950154527455531008",
+              "start": 3,
+              "username": "new1_crc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTuyn9bFjk",
+              "end": 37,
+              "expanded_url": "https://x.com/new1_crc/status/2104867348784283817/photo/1",
+              "media_key": "3_2104867334892720128",
+              "start": 14,
+              "url": "https://t.co/qTuyn9bFjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104881357046599940",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104867334892720128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104867348784283817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @new1_crc: https://t.co/qTuyn9bFjk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104867334892720128"
+          ]
+        },
+        "author_id": "1950154527455531008",
+        "conversation_id": "2104867348784283817",
+        "created_at": "2026-09-29T09:34:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104867348784283817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTuyn9bFjk",
+              "end": 23,
+              "expanded_url": "https://x.com/new1_crc/status/2104867348784283817/photo/1",
+              "media_key": "3_2104867334892720128",
+              "start": 0,
+              "url": "https://t.co/qTuyn9bFjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104867348784283817",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104867334892720128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 605,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qTuyn9bFjk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2104881357046599940",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 421,
+          "like_count": 13340,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2392
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-29T11:20:54.000Z",
+        "description": "🔪絵と漫画/🫀悪食伝の進捗→@Geshoben/🎀可愛い絵→@freshhamafuro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Geshoben"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "freshhamafuro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/new1_crc",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/new1_crc",
+                "start": 0,
+                "url": "https://t.co/YFuoRJVmLG"
+              }
+            ]
+          }
+        },
+        "id": "1950154527455531008",
+        "is_identity_verified": false,
+        "location": "通知ほぼ見ることが出来ておりません。",
+        "most_recent_tweet_id": "2104869180185198859",
+        "name": "黒川新一",
+        "pinned_tweet_id": "2017613290214723956",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1950154527455531008/1759335656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009889404022861825/GJyDfT55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 1,
+          "like_count": 1618,
+          "listed_count": 7,
+          "media_count": 512,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/YFuoRJVmLG",
+        "username": "new1_crc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

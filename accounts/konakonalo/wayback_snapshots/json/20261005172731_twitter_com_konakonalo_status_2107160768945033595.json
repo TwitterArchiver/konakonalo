@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2107139414472470781",
+    "created_at": "2026-10-05T17:27:31.000Z",
+    "display_text_range": [
+      9,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T18:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107160768945033595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1683325441950490624",
+          "start": 0,
+          "username": "TTcatZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107160768945033595",
+    "in_reply_to_user_id": "1683325441950490624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107159501858382016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTcatZP 没有没有 没有工作的打算 我还要回学校的 未成年的话应该也没办法打工☹️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2107139414472470781",
+        "created_at": "2026-10-05T17:27:31.000Z",
+        "display_text_range": [
+          9,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T18:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107160768945033595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1683325441950490624",
+              "start": 0,
+              "username": "TTcatZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107160768945033595",
+        "in_reply_to_user_id": "1683325441950490624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107159501858382016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTcatZP 没有没有 没有工作的打算 我还要回学校的 未成年的话应该也没办法打工☹️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683325441950490624",
+        "conversation_id": "2107139414472470781",
+        "created_at": "2026-10-05T17:22:29.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T18:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107159501858382016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107159501858382016",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107139414472470781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 听起来要去工作了啊……\n我也差不多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107160768945033595",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107085317274730496/WkihyEZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 450,
+          "like_count": 13732,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-24T03:57:22.000Z",
+        "description": "be thankful…",
+        "id": "1683325441950490624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107160449599082799",
+        "name": "文月青？？？嗯",
+        "pinned_tweet_id": "2090878123063861742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683325441950490624/1787339412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086813174637133824/7E0a9CL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 2026,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 10614
+        },
+        "url": "",
+        "username": "TTcatZP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

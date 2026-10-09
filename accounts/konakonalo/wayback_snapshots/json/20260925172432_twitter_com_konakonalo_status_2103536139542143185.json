@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103536139542143185",
+    "created_at": "2026-09-25T17:24:32.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T18:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103536139542143185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konakonalo/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/konakonalo/status/2103238219961979358",
+          "start": 6,
+          "url": "https://t.co/ua8G7vVpAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103536139542143185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103238219961979358",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "戒烟，戒烟 https://t.co/ua8G7vVpAk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103536139542143185",
+        "created_at": "2026-09-25T17:24:32.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103536139542143185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konakonalo/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/konakonalo/status/2103238219961979358",
+              "start": 6,
+              "url": "https://t.co/ua8G7vVpAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103536139542143185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103238219961979358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戒烟，戒烟 https://t.co/ua8G7vVpAk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103238219961979358",
+        "created_at": "2026-09-24T21:40:42.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T22:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103238219961979358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103238219961979358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我烟瘾已经到病理性程度我不抽烟我就变了个人我就疯魔大了我就蜷缩爬地丑态百出任由自己被精神病操控我就变成一个动物我就烦躁的想捅我就说很多不可理喻话忍不住感到自己被害忍不住想害一些人，我觉得需要用烟对抗精神病还是太荒唐了，我还是没有学会真正掌控自己，完全独立的那种！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103536139542143185",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 412,
+          "like_count": 13018,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2320
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

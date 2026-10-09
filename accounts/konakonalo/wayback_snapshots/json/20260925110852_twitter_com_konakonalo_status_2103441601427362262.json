@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103418553340977627",
+    "created_at": "2026-09-25T11:08:52.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T12:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103441601427362262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717730668179054592",
+          "start": 0,
+          "username": "_Mizutani__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103441601427362262",
+    "in_reply_to_user_id": "1717730668179054592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103436768062390330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Mizutani__ 好好听啊第一张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103418553340977627",
+        "created_at": "2026-09-25T11:08:52.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103441601427362262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717730668179054592",
+              "start": 0,
+              "username": "_Mizutani__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103441601427362262",
+        "in_reply_to_user_id": "1717730668179054592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103436768062390330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Mizutani__ 好好听啊第一张"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717730668179054592",
+        "conversation_id": "2103418553340977627",
+        "created_at": "2026-09-25T10:49:40.000Z",
+        "display_text_range": [
+          12,
+          252
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103436768062390330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103436768062390330",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103418553340977627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 我有话说了Mihai Edrisch《Un Jour Sans Lendemain》\nKodan Armada《A Collection of Songs》\nMaximillian Colby《Discography》\nPortrait《Complete Discography》\nHot Cross《Cryonics》\nRaein《Il n'y a pas d'orchestre》\nOff Minor《The Heat Death Of The Universe》\n字数不够了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103441601427362262",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 411,
+          "like_count": 12989,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2308
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-27T02:31:50.000Z",
+        "description": "用户已故， 此账号已被锁定保护点击了解如何保护",
+        "id": "1717730668179054592",
+        "is_identity_verified": false,
+        "location": "≤50m",
+        "most_recent_tweet_id": "2103436768062390330",
+        "name": "霧雨rcds",
+        "pinned_tweet_id": "2079292972852773111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717730668179054592/1778030095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932101119511339008/6SebuYLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 414,
+          "like_count": 6289,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "_Mizutani__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

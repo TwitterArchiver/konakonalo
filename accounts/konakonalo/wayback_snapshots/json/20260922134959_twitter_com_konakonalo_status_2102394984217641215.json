@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102166070744457672",
+    "created_at": "2026-09-22T13:49:59.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T14:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102394984217641215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102394984217641215",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102166070744457672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 超喜欢这张专"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102166070744457672",
+        "created_at": "2026-09-22T13:49:59.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102394984217641215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102394984217641215",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102166070744457672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 超喜欢这张专"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743330426985594881",
+        "conversation_id": "2102166070744457672",
+        "created_at": "2026-09-21T22:40:22.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102166070744457672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《性的地狱》，由 透明杂志 演唱，收录于《我们的灵魂乐》专辑中，《性的地狱》下载，《性的地狱》在线试听，更多性的地狱相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=3846…",
+              "end": 40,
+              "expanded_url": "https://y.music.163.com/m/song?id=384668&uct2=X2hO3WR1%2BVhZG8Kc2r%2F9Nw%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76002&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+              "images": [
+                {
+                  "height": 567,
+                  "url": "https://pbs.twimg.com/news_img/2102166084262756352/UWb8FKpk?format=png&name=orig",
+                  "width": 567
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102166084262756352/UWb8FKpk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "性的地狱 - 透明杂志 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=384668&uct2=X2hO3WR1%2BVhZG8Kc2r%2F9Nw%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76002&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.67&sc=wm&tn=",
+              "url": "https://t.co/jQo5n2iZKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102166070744457672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享透明杂志的单曲《性的地狱》: https://t.co/jQo5n2iZKt 凌晨开着霓虹灯听这首歌让我觉得像回到了24年一样 那段时间总是凌晨磕大了开个小灯一直一直听歌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102394984217641215",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 413,
+          "like_count": 12681,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2186
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-🚬代找我 外/电子💚🏳️‍🌈\n-叫我姜鴿江/劣蛛/阿团/JunoPhilip/J \n-CN/EN🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-前英文号:@jiangziqiqqq\n-英文号:@junophilip1014\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "junophilip1014"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/VAA7v2Dfnb"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "is_identity_verified": false,
+        "location": "Ion Jupiter",
+        "most_recent_tweet_id": "2102357596418212261",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2073099134253547652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743330426985594881/1736602464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376409434783745/0i0qhl96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 884,
+          "like_count": 10223,
+          "listed_count": 0,
+          "media_count": 658,
+          "tweet_count": 4610
+        },
+        "url": "https://t.co/VAA7v2Dfnb",
+        "username": "jianggejiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

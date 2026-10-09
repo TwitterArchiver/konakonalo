@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103564721232416980",
+    "created_at": "2026-09-25T19:18:06.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103564721232416980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konakonalo/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/konakonalo/status/2103528469351321824",
+          "start": 4,
+          "url": "https://t.co/inlHIMmVYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103564721232416980",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103528469351321824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。 https://t.co/inlHIMmVYT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103564721232416980",
+        "created_at": "2026-09-25T19:18:06.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103564721232416980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konakonalo/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/konakonalo/status/2103528469351321824",
+              "start": 4,
+              "url": "https://t.co/inlHIMmVYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103564721232416980",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103528469351321824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。 https://t.co/inlHIMmVYT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102993409850106299",
+        "created_at": "2026-09-25T16:54:03.000Z",
+        "display_text_range": [
+          38,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103528469351321824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970691041084010496",
+              "start": 0,
+              "username": "anastasius58364"
+            },
+            {
+              "end": 27,
+              "id": "2053123266764754944",
+              "start": 17,
+              "username": "Taffy9178"
+            },
+            {
+              "end": 37,
+              "id": "1978428582100938752",
+              "start": 28,
+              "username": "q1anzhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103528469351321824",
+        "in_reply_to_user_id": "1970691041084010496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103526692770005241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anastasius58364 @Taffy9178 @q1anzhuo 我并不追求深入的模仿。不过，对于一些真正对某些文化感兴趣的人，我认为应当深入的了解，了解背后的社群、政治、音乐、时尚，然后让它们融入你。这是一种尊重。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103564721232416980",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 412,
+          "like_count": 13028,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2323
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-24T03:27:25.000Z",
+        "description": "",
+        "id": "1970691041084010496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103544576804098084",
+        "name": "Anastasius",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970691516181131264/JGWPwKsz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "anastasius58364",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

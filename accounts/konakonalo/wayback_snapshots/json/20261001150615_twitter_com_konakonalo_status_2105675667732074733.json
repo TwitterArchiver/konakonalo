@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2105663082739732538",
+    "created_at": "2026-10-01T15:06:15.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105675667732074733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085569219400486912",
+          "start": 0,
+          "username": "espasovazio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105675667732074733",
+    "in_reply_to_user_id": "2085569219400486912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105670724547653889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@espasovazio 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2105663082739732538",
+        "created_at": "2026-10-01T15:06:15.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105675667732074733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085569219400486912",
+              "start": 0,
+              "username": "espasovazio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105675667732074733",
+        "in_reply_to_user_id": "2085569219400486912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105670724547653889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@espasovazio 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085569219400486912",
+        "conversation_id": "2105663082739732538",
+        "created_at": "2026-10-01T14:46:36.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105670724547653889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105670724547653889",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105663082739732538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 羡慕天天出去玩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105675667732074733",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 431,
+          "like_count": 13487,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2373
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T03:31:50.000Z",
+        "description": "高三喵喵，文科喵喵😸",
+        "id": "2085569219400486912",
+        "is_identity_verified": false,
+        "location": "空空间",
+        "most_recent_tweet_id": "2105673974634164503",
+        "name": "Espaço Vazio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085569219400486912/1786980855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 50,
+          "like_count": 1419,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "espasovazio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

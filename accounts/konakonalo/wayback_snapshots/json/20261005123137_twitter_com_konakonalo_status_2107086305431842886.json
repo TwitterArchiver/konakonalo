@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106405244766978048",
+        "3_2106405244783726592",
+        "3_2106405244787945472",
+        "3_2106405244779573248"
+      ],
+      "media_source_tweet_id": [
+        "2106405264245367273",
+        "2106405264245367273",
+        "2106405264245367273",
+        "2106405264245367273"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2107086305431842886",
+    "created_at": "2026-10-05T12:31:37.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107086305431842886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1209776487898828800",
+          "start": 3,
+          "username": "eli_yamamoto_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VUxQXizdtM",
+          "end": 50,
+          "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+          "media_key": "3_2106405244766978048",
+          "start": 27,
+          "url": "https://t.co/VUxQXizdtM"
+        },
+        {
+          "display_url": "pic.x.com/VUxQXizdtM",
+          "end": 50,
+          "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+          "media_key": "3_2106405244783726592",
+          "start": 27,
+          "url": "https://t.co/VUxQXizdtM"
+        },
+        {
+          "display_url": "pic.x.com/VUxQXizdtM",
+          "end": 50,
+          "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+          "media_key": "3_2106405244787945472",
+          "start": 27,
+          "url": "https://t.co/VUxQXizdtM"
+        },
+        {
+          "display_url": "pic.x.com/VUxQXizdtM",
+          "end": 50,
+          "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+          "media_key": "3_2106405244779573248",
+          "start": 27,
+          "url": "https://t.co/VUxQXizdtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107086305431842886",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2106405244766978048"
+      },
+      {
+        "media_key": "3_2106405244783726592"
+      },
+      {
+        "media_key": "3_2106405244787945472"
+      },
+      {
+        "media_key": "3_2106405244779573248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106405264245367273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eli_yamamoto_: freedom https://t.co/VUxQXizdtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106405244766978048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt0aO9bAAAhVqH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106405244783726592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt0aPBakAA1XX1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106405244787945472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt0aPCa8AAFwzr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106405244779573248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt0aPAbMAAzlPT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106405244766978048",
+            "3_2106405244783726592",
+            "3_2106405244787945472",
+            "3_2106405244779573248"
+          ],
+          "media_source_tweet_id": [
+            "2106405264245367273",
+            "2106405264245367273",
+            "2106405264245367273",
+            "2106405264245367273"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2107086305431842886",
+        "created_at": "2026-10-05T12:31:37.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107086305431842886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1209776487898828800",
+              "start": 3,
+              "username": "eli_yamamoto_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 50,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244766978048",
+              "start": 27,
+              "url": "https://t.co/VUxQXizdtM"
+            },
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 50,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244783726592",
+              "start": 27,
+              "url": "https://t.co/VUxQXizdtM"
+            },
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 50,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244787945472",
+              "start": 27,
+              "url": "https://t.co/VUxQXizdtM"
+            },
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 50,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244779573248",
+              "start": 27,
+              "url": "https://t.co/VUxQXizdtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107086305431842886",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106405244766978048"
+          },
+          {
+            "media_key": "3_2106405244783726592"
+          },
+          {
+            "media_key": "3_2106405244787945472"
+          },
+          {
+            "media_key": "3_2106405244779573248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106405264245367273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eli_yamamoto_: freedom https://t.co/VUxQXizdtM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106405244766978048",
+            "3_2106405244783726592",
+            "3_2106405244787945472",
+            "3_2106405244779573248"
+          ]
+        },
+        "author_id": "1209776487898828800",
+        "conversation_id": "2106405264245367273",
+        "created_at": "2026-10-03T15:25:24.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106405264245367273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 31,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244766978048",
+              "start": 8,
+              "url": "https://t.co/VUxQXizdtM"
+            },
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 31,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244783726592",
+              "start": 8,
+              "url": "https://t.co/VUxQXizdtM"
+            },
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 31,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244787945472",
+              "start": 8,
+              "url": "https://t.co/VUxQXizdtM"
+            },
+            {
+              "display_url": "pic.x.com/VUxQXizdtM",
+              "end": 31,
+              "expanded_url": "https://x.com/eli_yamamoto_/status/2106405264245367273/photo/1",
+              "media_key": "3_2106405244779573248",
+              "start": 8,
+              "url": "https://t.co/VUxQXizdtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106405264245367273",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106405244766978048"
+          },
+          {
+            "media_key": "3_2106405244783726592"
+          },
+          {
+            "media_key": "3_2106405244787945472"
+          },
+          {
+            "media_key": "3_2106405244779573248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4207,
+          "like_count": 260,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "freedom https://t.co/VUxQXizdtM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107086305431842886",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107085317274730496/WkihyEZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 449,
+          "like_count": 13701,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2422
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-25T10:03:06.000Z",
+        "description": ".*･ﾟ絵はメディア欄 °･*. / お仕事のご依頼はkotowarimegumi@gmail.com迄お願いします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_eri_yamamoto_…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_eri_yamamoto_?igsh=NzdtZ2pwMW54bGlr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/bgn8dnL0Pz"
+              }
+            ]
+          }
+        },
+        "id": "1209776487898828800",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2107055983956840520",
+        "name": "𝖤𝗅𝗂 𝖸𝖺𝗆𝖺𝗆𝗈𝗍𝗈",
+        "pinned_tweet_id": "2062845847344464189",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209776487898828800/1707292876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022641733985800193/LvIgCKN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4949,
+          "following_count": 478,
+          "like_count": 75815,
+          "listed_count": 27,
+          "media_count": 380,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/bgn8dnL0Pz",
+        "username": "eli_yamamoto_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

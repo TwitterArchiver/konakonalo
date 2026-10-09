@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102772676502958464",
+    "created_at": "2026-09-23T17:09:41.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T18:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102807628279861365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963154241997905920",
+          "start": 0,
+          "username": "k9082602834860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102807628279861365",
+    "in_reply_to_user_id": "1963154241997905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102772676502958464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k9082602834860 怎么会打不了，是因为那块软骨的位置不合适吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102772676502958464",
+        "created_at": "2026-09-23T17:09:41.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102807628279861365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963154241997905920",
+              "start": 0,
+              "username": "k9082602834860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102807628279861365",
+        "in_reply_to_user_id": "1963154241997905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102772676502958464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k9082602834860 怎么会打不了，是因为那块软骨的位置不合适吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963154241997905920",
+        "conversation_id": "2102772676502958464",
+        "created_at": "2026-09-23T14:50:48.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102772676502958464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102772676502958464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的鼻钉存在感好低啊。唉还是想打鼻中隔为啥我就打不了呢。。搞得我想打唇钉了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102807628279861365",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 412,
+          "like_count": 12871,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2272
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T08:17:08.000Z",
+        "description": "🫶https://t.co/qCmMKV7NKe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kk83006",
+                "end": 24,
+                "expanded_url": "https://ngl.link/kk83006",
+                "start": 1,
+                "url": "https://t.co/qCmMKV7NKe"
+              }
+            ]
+          }
+        },
+        "id": "1963154241997905920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102775263969038486",
+        "name": "kk",
+        "pinned_tweet_id": "2085793805467562289",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074138434646757377/8XbWPKyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 667,
+          "like_count": 15162,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "k9082602834860",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

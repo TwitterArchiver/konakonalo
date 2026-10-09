@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102087901500838344",
+    "created_at": "2026-09-22T03:47:10.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102243281728057412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933200730443415552",
+          "start": 0,
+          "username": "riverkkk74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102243281728057412",
+    "in_reply_to_user_id": "1933200730443415552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102241825948074339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riverkkk74306 ☄️☄️☄️☄️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102087901500838344",
+        "created_at": "2026-09-22T03:47:10.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102243281728057412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933200730443415552",
+              "start": 0,
+              "username": "riverkkk74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102243281728057412",
+        "in_reply_to_user_id": "1933200730443415552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102241825948074339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riverkkk74306 ☄️☄️☄️☄️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933200730443415552",
+        "conversation_id": "2102087901500838344",
+        "created_at": "2026-09-22T03:41:23.000Z",
+        "display_text_range": [
+          12,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102241825948074339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102241825948074339",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102087901500838344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 我在学校也这么干，谁骂我我就让谁给我a烟钱😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102243281728057412",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 414,
+          "like_count": 12652,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2181
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "Give me drugs or something else",
+        "id": "1933200730443415552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102241825948074339",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933200730443415552/1765185004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 87,
+          "like_count": 8835,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "riverkkk74306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

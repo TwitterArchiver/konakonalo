@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103256899043135968",
+    "created_at": "2026-09-24T23:02:51.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T00:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103258891710845113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103258891710845113",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103256899043135968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "解释自己就代表暴露本心。暴露就是危险，就是把选择权交到别人手里。本来是我决定说或者不说，让或者不让对方看见我。如果我说了，就变成了我等待对方的反应，看对方会理解或者不理解我，喜欢或者不喜欢。太几把荒唐麻烦了吧。说了就他妈要自食主动说的恶果。不如闭嘴。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103256899043135968",
+        "created_at": "2026-09-24T23:02:51.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103258891710845113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103258891710845113",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103256899043135968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解释自己就代表暴露本心。暴露就是危险，就是把选择权交到别人手里。本来是我决定说或者不说，让或者不让对方看见我。如果我说了，就变成了我等待对方的反应，看对方会理解或者不理解我，喜欢或者不喜欢。太几把荒唐麻烦了吧。说了就他妈要自食主动说的恶果。不如闭嘴。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103256899043135968",
+        "created_at": "2026-09-24T22:54:56.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103256899043135968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103256899043135968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我越来越喜欢解释自己。。我说的实在太多了。到底是想解释给谁听？幻想他人理解我，关心他人是否理解我，这下贱到让我都有点恨上自己。眼球绮谭不是已经放弃那套老旧掉牙叙事了吗。问题到底出在哪里，想也想不明白，我为什么又会把已经放弃的东西捡起来。。对自己产生了难以言说的怀疑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103258891710845113",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 411,
+          "like_count": 12957,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2297
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

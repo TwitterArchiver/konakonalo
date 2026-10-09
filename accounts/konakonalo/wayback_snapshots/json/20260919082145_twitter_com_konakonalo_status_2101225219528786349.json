@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2101127667852668959",
+    "created_at": "2026-09-19T08:21:45.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101225219528786349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896195982133735425",
+          "start": 0,
+          "username": "d469765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101225219528786349",
+    "in_reply_to_user_id": "1896195982133735425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101127667852668959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d469765 等待2027，想看摇曳露营4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2101127667852668959",
+        "created_at": "2026-09-19T08:21:45.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101225219528786349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896195982133735425",
+              "start": 0,
+              "username": "d469765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101225219528786349",
+        "in_reply_to_user_id": "1896195982133735425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101127667852668959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d469765 等待2027，想看摇曳露营4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896195982133735425",
+        "conversation_id": "2101127667852668959",
+        "created_at": "2026-09-19T01:54:07.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101127667852668959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101127667852668959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等待2027，想看摇曳露营4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2101225219528786349",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 412,
+          "like_count": 12412,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2109
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-02T13:48:55.000Z",
+        "description": "地の塩",
+        "id": "1896195982133735425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101136402104868988",
+        "name": "Rei二世",
+        "pinned_tweet_id": "2098188352151515158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896195982133735425/1740923547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098186201941643264/KREhLGMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 70,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "d469765",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

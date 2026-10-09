@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101228547084058624",
+        "3_2101228547079872512",
+        "3_2101228547104976896"
+      ],
+      "media_source_tweet_id": [
+        "2101228560463917181",
+        "2101228560463917181",
+        "2101228560463917181"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2101311691250446844",
+    "created_at": "2026-09-19T14:05:22.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101311691250446844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973259614453145600",
+          "start": 3,
+          "username": "tenterra_107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FPg3cyyUy6",
+          "end": 48,
+          "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+          "media_key": "3_2101228547084058624",
+          "start": 25,
+          "url": "https://t.co/FPg3cyyUy6"
+        },
+        {
+          "display_url": "pic.x.com/FPg3cyyUy6",
+          "end": 48,
+          "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+          "media_key": "3_2101228547079872512",
+          "start": 25,
+          "url": "https://t.co/FPg3cyyUy6"
+        },
+        {
+          "display_url": "pic.x.com/FPg3cyyUy6",
+          "end": 48,
+          "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+          "media_key": "3_2101228547104976896",
+          "start": 25,
+          "url": "https://t.co/FPg3cyyUy6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101311691250446844",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101228547084058624"
+      },
+      {
+        "media_key": "3_2101228547079872512"
+      },
+      {
+        "media_key": "3_2101228547104976896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101228560463917181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tenterra_107: 人気の絵3つ https://t.co/FPg3cyyUy6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2101228547084058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkQOxTbAAA5oqu.jpg",
+        "width": 968
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101228547079872512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkQOxSbIAANS8f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101228547104976896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkQOxYaMAAbynb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101228547084058624",
+            "3_2101228547079872512",
+            "3_2101228547104976896"
+          ],
+          "media_source_tweet_id": [
+            "2101228560463917181",
+            "2101228560463917181",
+            "2101228560463917181"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2101311691250446844",
+        "created_at": "2026-09-19T14:05:22.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101311691250446844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973259614453145600",
+              "start": 3,
+              "username": "tenterra_107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPg3cyyUy6",
+              "end": 48,
+              "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+              "media_key": "3_2101228547084058624",
+              "start": 25,
+              "url": "https://t.co/FPg3cyyUy6"
+            },
+            {
+              "display_url": "pic.x.com/FPg3cyyUy6",
+              "end": 48,
+              "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+              "media_key": "3_2101228547079872512",
+              "start": 25,
+              "url": "https://t.co/FPg3cyyUy6"
+            },
+            {
+              "display_url": "pic.x.com/FPg3cyyUy6",
+              "end": 48,
+              "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+              "media_key": "3_2101228547104976896",
+              "start": 25,
+              "url": "https://t.co/FPg3cyyUy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101311691250446844",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101228547084058624"
+          },
+          {
+            "media_key": "3_2101228547079872512"
+          },
+          {
+            "media_key": "3_2101228547104976896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101228560463917181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tenterra_107: 人気の絵3つ https://t.co/FPg3cyyUy6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101228547084058624",
+            "3_2101228547079872512",
+            "3_2101228547104976896"
+          ]
+        },
+        "author_id": "1973259614453145600",
+        "conversation_id": "2101228560463917181",
+        "created_at": "2026-09-19T08:35:02.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101228560463917181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPg3cyyUy6",
+              "end": 30,
+              "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+              "media_key": "3_2101228547084058624",
+              "start": 7,
+              "url": "https://t.co/FPg3cyyUy6"
+            },
+            {
+              "display_url": "pic.x.com/FPg3cyyUy6",
+              "end": 30,
+              "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+              "media_key": "3_2101228547079872512",
+              "start": 7,
+              "url": "https://t.co/FPg3cyyUy6"
+            },
+            {
+              "display_url": "pic.x.com/FPg3cyyUy6",
+              "end": 30,
+              "expanded_url": "https://x.com/tenterra_107/status/2101228560463917181/photo/1",
+              "media_key": "3_2101228547104976896",
+              "start": 7,
+              "url": "https://t.co/FPg3cyyUy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101228560463917181",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101228547084058624"
+          },
+          {
+            "media_key": "3_2101228547079872512"
+          },
+          {
+            "media_key": "3_2101228547104976896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3078,
+          "like_count": 262,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "人気の絵3つ https://t.co/FPg3cyyUy6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2101311691250446844",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 409,
+          "like_count": 12426,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2114
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-01T05:34:39.000Z",
+        "description": "女の子を描きます/萌絵らぶ/×AI /学生/@tenterra_sub\nInstagram | https://t.co/pjTISbFAVJ\nskeb | https://t.co/bkJsIX4FUH\n☘️🐄🥛🥚🍮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "tenterra_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/tenterra_107",
+                "end": 71,
+                "expanded_url": "http://instagram.com/tenterra_107",
+                "start": 48,
+                "url": "https://t.co/pjTISbFAVJ"
+              },
+              {
+                "display_url": "skeb.jp/@tenterra_107",
+                "end": 102,
+                "expanded_url": "http://skeb.jp/@tenterra_107",
+                "start": 79,
+                "url": "https://t.co/bkJsIX4FUH"
+              }
+            ]
+          }
+        },
+        "id": "1973259614453145600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101228560463917181",
+        "name": "てんてら",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1973259614453145600/1779643352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058252586013323264/g4LQQaeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 112,
+          "like_count": 5704,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "tenterra_107",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

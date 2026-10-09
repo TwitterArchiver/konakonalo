@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103828864254525705",
+    "created_at": "2026-09-26T14:21:08.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103852374347649474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085569219400486912",
+          "start": 0,
+          "username": "espasovazio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103852374347649474",
+    "in_reply_to_user_id": "2085569219400486912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103828864254525705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@espasovazio 我想玩你画我猜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103828864254525705",
+        "created_at": "2026-09-26T14:21:08.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103852374347649474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085569219400486912",
+              "start": 0,
+              "username": "espasovazio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103852374347649474",
+        "in_reply_to_user_id": "2085569219400486912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103828864254525705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@espasovazio 我想玩你画我猜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085569219400486912",
+        "conversation_id": "2103828864254525705",
+        "created_at": "2026-09-26T12:47:43.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103828864254525705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103828864254525705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和你们玩你画我猜或者斗地主之类的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103852374347649474",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 415,
+          "like_count": 13096,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T03:31:50.000Z",
+        "description": "空空间",
+        "id": "2085569219400486912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103849093475017126",
+        "name": "Espaço Vazio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085569219400486912/1786980855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089375202795048960/PDWV2Mo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 39,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "espasovazio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102646800486469752",
+    "created_at": "2026-09-23T07:50:12.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102666830154461518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2101579010002038784",
+          "start": 0,
+          "username": "The_s4amm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102666830154461518",
+    "in_reply_to_user_id": "2101579010002038784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102661584933765628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_s4amm 谢谢你，图片中的动物是山羊吗？它们很可爱☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2102661506416422912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4nf-zWsAAtXt2.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102646800486469752",
+        "created_at": "2026-09-23T07:50:12.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102666830154461518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2101579010002038784",
+              "start": 0,
+              "username": "The_s4amm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102666830154461518",
+        "in_reply_to_user_id": "2101579010002038784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102661584933765628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_s4amm 谢谢你，图片中的动物是山羊吗？它们很可爱☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102661506416422912"
+          ]
+        },
+        "author_id": "2101579010002038784",
+        "conversation_id": "2102646800486469752",
+        "created_at": "2026-09-23T07:29:22.000Z",
+        "display_text_range": [
+          12,
+          199
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102661584933765628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGdkZYOZ37",
+              "end": 223,
+              "expanded_url": "https://x.com/The_s4amm/status/2102661584933765628/photo/1",
+              "media_key": "3_2102661506416422912",
+              "start": 200,
+              "url": "https://t.co/SGdkZYOZ37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102661584933765628",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2102661506416422912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102646800486469752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo Это не обязательно шизофрения, но говорит о серьёзных проблемах со здоровьем. Я помню одинокие ребята раньше себе специально далили \"Тульпу\" чтобы разговаривать с ним. Желаю тебе здоровья https://t.co/SGdkZYOZ37"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102666830154461518",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 404,
+          "like_count": 12769,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2226
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T07:48:55.000Z",
+        "description": "",
+        "id": "2101579010002038784",
+        "is_identity_verified": false,
+        "location": "Khabarovsk, Russia",
+        "most_recent_tweet_id": "2102662206638743934",
+        "name": "Андрей",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101579010002038784/1789893439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101591388194283520/vFdC-7Oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "The_s4amm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

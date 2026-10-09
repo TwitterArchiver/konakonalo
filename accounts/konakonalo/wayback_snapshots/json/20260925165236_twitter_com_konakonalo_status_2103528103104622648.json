@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103418553340977627",
+    "created_at": "2026-09-25T16:52:36.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T17:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103528103104622648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916434358917033984",
+          "start": 0,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103528103104622648",
+    "in_reply_to_user_id": "1916434358917033984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103525335275032624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackTrapTrip 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103418553340977627",
+        "created_at": "2026-09-25T16:52:36.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103528103104622648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103528103104622648",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103525335275032624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2103418553340977627",
+        "created_at": "2026-09-25T16:41:36.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103525335275032624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103525335275032624",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103418553340977627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 推荐一下hawthorne heights"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103528103104622648",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 412,
+          "like_count": 13016,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2317
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "just a degenerate that wants a bit attention 同类互关欢迎｜CHN & ENG | she/they｜纯看黄的不要关注我｜pansexual｜不回答药物相关问题｜私信经常要很久才收到抱歉！｜fw #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 120,
+                "tag": "shtwt"
+              },
+              {
+                "end": 133,
+                "start": 127,
+                "tag": "odtwt"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "is_identity_verified": false,
+        "location": "无🚪不接不卖任何/互关可扩列",
+        "most_recent_tweet_id": "2103525780206522651",
+        "name": "黒阱👁️8964 of shtwt",
+        "pinned_tweet_id": "2099684238673039743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916434358917033984/1773544659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091281591619585/JqgLxKnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 196,
+          "like_count": 1345,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2360
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2101173360294289675",
+    "created_at": "2026-09-19T07:56:14.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101218796501717484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691937358944583682",
+          "start": 0,
+          "username": "KanoeYuukoSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101218796501717484",
+    "in_reply_to_user_id": "1691937358944583682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101212842196390082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoeYuukoSama 我都没和他吵起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2101173360294289675",
+        "created_at": "2026-09-19T07:56:14.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101218796501717484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691937358944583682",
+              "start": 0,
+              "username": "KanoeYuukoSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101218796501717484",
+        "in_reply_to_user_id": "1691937358944583682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101212842196390082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoeYuukoSama 我都没和他吵起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691937358944583682",
+        "conversation_id": "2101173360294289675",
+        "created_at": "2026-09-19T07:32:34.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101212842196390082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101212842196390082",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101173360294289675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 你们分手大吵架了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2101218796501717484",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 412,
+          "like_count": 12412,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2108
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-16T22:18:11.000Z",
+        "description": "Progressivism 对小彩虹进行友谊计划，空间翘曲导弹 发射！ 远星号太空艇@KokkoroChyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "KokkoroChyan"
+              }
+            ]
+          }
+        },
+        "id": "1691937358944583682",
+        "is_identity_verified": false,
+        "location": "川陀",
+        "most_recent_tweet_id": "2101218664163033245",
+        "name": "Kanoe Yuuko",
+        "pinned_tweet_id": "2091567712875278566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691937358944583682/1707117451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094683597026553856/w1oQVMLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 702,
+          "like_count": 87010,
+          "listed_count": 12,
+          "media_count": 158,
+          "tweet_count": 13239
+        },
+        "url": "",
+        "username": "KanoeYuukoSama",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

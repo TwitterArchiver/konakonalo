@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102006617659351488",
+    "created_at": "2026-09-21T12:06:45.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102006617659351488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2096847118581551104",
+          "start": 3,
+          "username": "3YeEzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102006617659351488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101980931913597369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3YeEzzZ: 只有自我䖈待才是最崇高的行为。\n极端的自䖈，超越。\n在喉咙钉入一枚大头铜针，以此为中心绽放你的记忆。\n鱼鳞一般，布满你眼白的记忆，从你的睫毛上滑脱，许多舌头，游鱼一般的，虹彩色的新月之舌。\n你可以做到什么程度？\n你可以对自己做到什么程度？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102006617659351488",
+        "created_at": "2026-09-21T12:06:45.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102006617659351488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2096847118581551104",
+              "start": 3,
+              "username": "3YeEzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102006617659351488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101980931913597369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3YeEzzZ: 只有自我䖈待才是最崇高的行为。\n极端的自䖈，超越。\n在喉咙钉入一枚大头铜针，以此为中心绽放你的记忆。\n鱼鳞一般，布满你眼白的记忆，从你的睫毛上滑脱，许多舌头，游鱼一般的，虹彩色的新月之舌。\n你可以做到什么程度？\n你可以对自己做到什么程度？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096847118581551104",
+        "conversation_id": "2101980931913597369",
+        "created_at": "2026-09-21T10:24:41.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101980931913597369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101980931913597369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只有自我䖈待才是最崇高的行为。\n极端的自䖈，超越。\n在喉咙钉入一枚大头铜针，以此为中心绽放你的记忆。\n鱼鳞一般，布满你眼白的记忆，从你的睫毛上滑脱，许多舌头，游鱼一般的，虹彩色的新月之舌。\n你可以做到什么程度？\n你可以对自己做到什么程度？\n你可以忍受疼痛？如果你爱祂。你应当可以忍受疼痛！\n你要切割！切割！切割！\n用无数的粉红婴儿吮吸你的刀刃，他们的泪水是上帝垂下的布帘，他们的哭声将刺入你高悬于天幕后的圣髑。\n你要切割，切割，切割，切割，切割。\n刺进去，扭转，切割。\n直到你的爱消失为止。直到你不再去爱，你不再爱祂，你失去了你，因为你失去了爱。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只有自我䖈待才是最崇高的行为。\n极端的自䖈，超越。\n在喉咙钉入一枚大头铜针，以此为中心绽放你的记忆。\n鱼鳞一般，布满你眼白的记忆，从你的睫毛上滑脱，许多舌头，游鱼一般的，虹彩色的新月之舌。\n你可以做到什么程度？\n你可以对自己做到什么程度？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102006617659351488",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 416,
+          "like_count": 12634,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2168
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:25:56.000Z",
+        "description": "愛，愛，愛",
+        "id": "2096847118581551104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102006618238124321",
+        "name": "S3raph_1m9v",
+        "pinned_tweet_id": "2097118095290904850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096847118581551104/1788762411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096847486854082560/BvWdGIBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 260,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "3YeEzzZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

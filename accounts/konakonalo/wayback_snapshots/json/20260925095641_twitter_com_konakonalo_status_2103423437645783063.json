@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103423437645783063",
+    "created_at": "2026-09-25T09:56:41.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T10:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103423437645783063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546529742618230785",
+          "start": 3,
+          "username": "menorquent3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103423437645783063",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 238
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103192735637438886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @menorquent3: Com licença, será que vós mercê poderia me doar um pouco de cannabis enrolada em um papel apropriado para fumo?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103423437645783063",
+        "created_at": "2026-09-25T09:56:41.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103423437645783063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546529742618230785",
+              "start": 3,
+              "username": "menorquent3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103423437645783063",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103192735637438886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @menorquent3: Com licença, será que vós mercê poderia me doar um pouco de cannabis enrolada em um papel apropriado para fumo?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546529742618230785",
+        "conversation_id": "2103192735637438886",
+        "created_at": "2026-09-24T18:39:58.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103192735637438886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103192735637438886",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7099,
+          "like_count": 828,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "Com licença, será que vós mercê poderia me doar um pouco de cannabis enrolada em um papel apropriado para fumo?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103423437645783063",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 411,
+          "like_count": 12982,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2304
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T16:20:10.000Z",
+        "description": "🪮🥃 🚬 Sou um malandro apaixonado",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jov4stheg0at?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jov4stheg0at?igsh=Yno2djNjaHNhdzFh",
+                "start": 0,
+                "url": "https://t.co/EcPBYs7sbS"
+              }
+            ]
+          }
+        },
+        "id": "1546529742618230785",
+        "is_identity_verified": false,
+        "location": "sp zona suja",
+        "most_recent_tweet_id": "2103321678126190723",
+        "name": "Jovas ben jor",
+        "pinned_tweet_id": "1972390180461166866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546529742618230785/1770287525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019358203125841920/L-8TbLBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 606,
+          "like_count": 6873,
+          "listed_count": 0,
+          "media_count": 752,
+          "tweet_count": 11239
+        },
+        "url": "https://t.co/EcPBYs7sbS",
+        "username": "menorquent3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102783801378357598",
+    "created_at": "2026-09-23T15:35:00.000Z",
+    "display_text_range": [
+      0,
+      151
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T16:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102783801378357598"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102783801378357598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去看Einstürzende Neubauten的演出。散场之后我一边抽烟一边观察来看演出的人们。大部分都是无聊的成年人，说无聊的话，穿自以为先锋但无聊透顶的衣服。大部分人都散发着一股成年人的傲慢和臭味。后来我观察到一个也在一个人抽烟的男子，散发着一股温和的气质。我假装自己打火机坏了上去搭话。我们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102783801378357598",
+        "created_at": "2026-09-23T15:35:00.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102783801378357598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102783801378357598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去看Einstürzende Neubauten的演出。散场之后我一边抽烟一边观察来看演出的人们。大部分都是无聊的成年人，说无聊的话，穿自以为先锋但无聊透顶的衣服。大部分人都散发着一股成年人的傲慢和臭味。后来我观察到一个也在一个人抽烟的男子，散发着一股温和的气质。我假装自己打火机坏了上去搭话。我们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102783801378357598",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 412,
+          "like_count": 12831,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2261
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2105233849861173339",
+    "created_at": "2026-09-30T10:30:07.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105243787530477869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1706946724118368257",
+          "start": 0,
+          "username": "yang_3got"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105243787530477869",
+    "in_reply_to_user_id": "1706946724118368257",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105243225170878927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang_3got ☹️☹️☹️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2105233849861173339",
+        "created_at": "2026-09-30T10:30:07.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105243787530477869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1706946724118368257",
+              "start": 0,
+              "username": "yang_3got"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105243787530477869",
+        "in_reply_to_user_id": "1706946724118368257",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105243225170878927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang_3got ☹️☹️☹️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706946724118368257",
+        "conversation_id": "2105233849861173339",
+        "created_at": "2026-09-30T10:27:53.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105243225170878927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105243225170878927",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105233849861173339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo woc上海也是 而且上海是中午开始下 衣服刚晒就会全打湿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105243787530477869",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 423,
+          "like_count": 13385,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2396
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-27T08:19:59.000Z",
+        "description": "穷的只剩下唉",
+        "id": "1706946724118368257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105243225170878927",
+        "name": "LoserLove",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706946724118368257/1768194697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008065852336181248/hEdYlmXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 15,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "yang_3got",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

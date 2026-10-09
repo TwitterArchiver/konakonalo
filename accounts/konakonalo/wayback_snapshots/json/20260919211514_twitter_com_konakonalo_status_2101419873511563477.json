@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101350613795688448"
+      ],
+      "media_source_tweet_id": [
+        "2101351145532694778"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2101419873511563477",
+    "created_at": "2026-09-19T21:15:14.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T22:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101419873511563477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1896645348095070210",
+          "start": 3,
+          "username": "SpanknMySprunki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/goT1T5lJ7m",
+          "end": 44,
+          "expanded_url": "https://x.com/SpanknMySprunki/status/2101351145532694778/photo/1",
+          "media_key": "3_2101350613795688448",
+          "start": 21,
+          "url": "https://t.co/goT1T5lJ7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101419873511563477",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2101350613795688448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101351145532694778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpanknMySprunki: https://t.co/goT1T5lJ7m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2101350613795688448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSl_P_PXUAANpdc.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101350613795688448"
+          ],
+          "media_source_tweet_id": [
+            "2101351145532694778"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2101419873511563477",
+        "created_at": "2026-09-19T21:15:14.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T22:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101419873511563477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1896645348095070210",
+              "start": 3,
+              "username": "SpanknMySprunki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goT1T5lJ7m",
+              "end": 44,
+              "expanded_url": "https://x.com/SpanknMySprunki/status/2101351145532694778/photo/1",
+              "media_key": "3_2101350613795688448",
+              "start": 21,
+              "url": "https://t.co/goT1T5lJ7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101419873511563477",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101350613795688448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101351145532694778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpanknMySprunki: https://t.co/goT1T5lJ7m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101350613795688448"
+          ]
+        },
+        "author_id": "1896645348095070210",
+        "conversation_id": "2101351145532694778",
+        "created_at": "2026-09-19T16:42:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101351145532694778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/goT1T5lJ7m",
+              "end": 23,
+              "expanded_url": "https://x.com/SpanknMySprunki/status/2101351145532694778/photo/1",
+              "media_key": "3_2101350613795688448",
+              "start": 0,
+              "url": "https://t.co/goT1T5lJ7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101351145532694778",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101350613795688448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 32652,
+          "like_count": 3006,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/goT1T5lJ7m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2101419873511563477",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 413,
+          "like_count": 12485,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2129
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-03T19:36:08.000Z",
+        "description": "This is my x account. Propship and NSFW do NOT interact.\nMy name is Elijah im 17 and i have an interest in Sprunki but i also like Roblox, super mario, and mor.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elijahsprunki.straw.page",
+                "end": 23,
+                "expanded_url": "https://elijahsprunki.straw.page",
+                "start": 0,
+                "url": "https://t.co/J56Sdz6NZ3"
+              }
+            ]
+          }
+        },
+        "id": "1896645348095070210",
+        "is_identity_verified": false,
+        "location": "queen of floptok",
+        "most_recent_tweet_id": "2101351145532694778",
+        "name": "Elijah the Sprunki Fan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896645348095070210/1773095300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978304841672704000/vt-LrwXl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 214,
+          "like_count": 15428,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/J56Sdz6NZ3",
+        "username": "SpanknMySprunki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103244575951536495",
+    "created_at": "2026-09-24T22:05:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T23:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103244575951536495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103244575951536495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头疼的感觉又来了，烦躁的要死。我一直在控制对一些贱人的傲慢我现在感觉完全由不得我管了。要是和你们一样幼稚无聊我会羞愧到自杀。用自己的痛苦来给自己可笑稀巴烂的人生找借口，其实没有那么多借口知道吗，所有的一切都是你造成的。没有任何别人能来帮你规避痛苦，爱都不行，放弃幻想就难成那个屌样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103244575951536495",
+        "created_at": "2026-09-24T22:05:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103244575951536495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103244575951536495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头疼的感觉又来了，烦躁的要死。我一直在控制对一些贱人的傲慢我现在感觉完全由不得我管了。要是和你们一样幼稚无聊我会羞愧到自杀。用自己的痛苦来给自己可笑稀巴烂的人生找借口，其实没有那么多借口知道吗，所有的一切都是你造成的。没有任何别人能来帮你规避痛苦，爱都不行，放弃幻想就难成那个屌样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103244575951536495",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 411,
+          "like_count": 12947,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2294
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100618835221155840"
+      ],
+      "media_source_tweet_id": [
+        "2100618840665473292"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2100863976620114049",
+    "created_at": "2026-09-18T08:26:18.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T09:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100863976620114049"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "初期の宮崎夏次系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1642935079",
+          "start": 3,
+          "username": "natsujikeinfo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZgSFs52PA",
+          "end": 52,
+          "expanded_url": "https://x.com/natsujikeinfo/status/2100618840665473292/photo/1",
+          "media_key": "3_2100618835221155840",
+          "start": 29,
+          "url": "https://t.co/KZgSFs52PA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100863976620114049",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2100618835221155840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100618840665473292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natsujikeinfo: #初期の宮崎夏次系 https://t.co/KZgSFs52PA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2100618835221155840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbls3naEAAPlKk.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100618835221155840"
+          ],
+          "media_source_tweet_id": [
+            "2100618840665473292"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2100863976620114049",
+        "created_at": "2026-09-18T08:26:18.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100863976620114049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "初期の宮崎夏次系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1642935079",
+              "start": 3,
+              "username": "natsujikeinfo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZgSFs52PA",
+              "end": 52,
+              "expanded_url": "https://x.com/natsujikeinfo/status/2100618840665473292/photo/1",
+              "media_key": "3_2100618835221155840",
+              "start": 29,
+              "url": "https://t.co/KZgSFs52PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100863976620114049",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100618835221155840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100618840665473292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natsujikeinfo: #初期の宮崎夏次系 https://t.co/KZgSFs52PA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100618835221155840"
+          ]
+        },
+        "author_id": "1642935079",
+        "conversation_id": "2100618840665473292",
+        "created_at": "2026-09-17T16:12:13.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100618840665473292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "初期の宮崎夏次系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZgSFs52PA",
+              "end": 33,
+              "expanded_url": "https://x.com/natsujikeinfo/status/2100618840665473292/photo/1",
+              "media_key": "3_2100618835221155840",
+              "start": 10,
+              "url": "https://t.co/KZgSFs52PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100618840665473292",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100618835221155840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 30808,
+          "like_count": 2788,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "#初期の宮崎夏次系 https://t.co/KZgSFs52PA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2100863976620114049",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 413,
+          "like_count": 12368,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-03T14:07:04.000Z",
+        "description": "宮崎夏次系作品公式アカウント。マガジンハウス「SHURO」にて『カッパのカーティと祟りどもの愛』（単行本1巻発売中）を連載中。最新短編集『もじるひと』 （早川書房）『なんかいつかの魔法』（講談社）発売中。／インスタ▷natsujikeinfo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuro.world/episode/71005/",
+                "end": 23,
+                "expanded_url": "https://shuro.world/episode/71005/",
+                "start": 0,
+                "url": "https://t.co/voNkcPzxDc"
+              }
+            ]
+          }
+        },
+        "id": "1642935079",
+        "is_identity_verified": false,
+        "location": "こちらのイラストはすべて©宮崎夏次系です",
+        "most_recent_tweet_id": "2100845226676134117",
+        "name": "宮崎夏次系情報",
+        "pinned_tweet_id": "2080638159432688058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642935079/1778590245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/899977372488704001/4zFp4eRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52739,
+          "following_count": 0,
+          "like_count": 6738,
+          "listed_count": 380,
+          "media_count": 3615,
+          "tweet_count": 5782
+        },
+        "url": "https://t.co/voNkcPzxDc",
+        "username": "natsujikeinfo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

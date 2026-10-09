@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2106680424231837832",
+    "created_at": "2026-10-04T15:08:48.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106763473833316461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "All4theY1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106763473833316461",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106680424231837832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All4theY1108 第六个季节"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2106680416224845824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxurUhaoAAm3g4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2106680424231837832",
+        "created_at": "2026-10-04T15:08:48.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106763473833316461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "All4theY1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106763473833316461",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106680424231837832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All4theY1108 第六个季节"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106680416224845824"
+          ]
+        },
+        "author_id": "1990083055231631361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106680424231837832",
+        "created_at": "2026-10-04T09:38:48.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106680424231837832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuBaE2F8cu",
+              "end": 46,
+              "expanded_url": "https://x.com/All4theY1108/status/2106680424231837832/photo/1",
+              "media_key": "3_2106680416224845824",
+              "start": 23,
+              "url": "https://t.co/GuBaE2F8cu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106680424231837832",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106680416224845824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我和朋友们准备了一场寒冷季节的生日演出 https://t.co/GuBaE2F8cu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2106763473833316461",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 435,
+          "like_count": 13607,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "胭芷慟",
+        "id": "1990083055231631361",
+        "is_identity_verified": false,
+        "location": "恨是唯一完整的残缺",
+        "most_recent_tweet_id": "2106751609170801089",
+        "name": "叫我不知道就好",
+        "pinned_tweet_id": "2106339211670700394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990083055231631361/1781402845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106353638440620032/fK_EBCvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 65,
+          "like_count": 8118,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 5030
+        },
+        "url": "",
+        "username": "All4theY1108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

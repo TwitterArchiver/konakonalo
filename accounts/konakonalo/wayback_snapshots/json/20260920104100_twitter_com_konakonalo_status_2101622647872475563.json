@@ -1,0 +1,629 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101355653788839936"
+      ],
+      "media_source_tweet_id": [
+        "2101355658947785199"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Gorillaz",
+          "id": "854454278756290560",
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Gorillaz",
+          "id": "854454278756290560",
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gorillaz",
+          "id": "854454278756290560",
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      }
+    ],
+    "conversation_id": "2101622647872475563",
+    "created_at": "2026-09-20T10:41:00.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101622647872475563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "358116567",
+          "start": 3,
+          "username": "caraculit0wo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uEKRSG6DVT",
+          "end": 78,
+          "expanded_url": "https://x.com/caraculit0wo/status/2101355658947785199/photo/1",
+          "media_key": "3_2101355653788839936",
+          "start": 55,
+          "url": "https://t.co/uEKRSG6DVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101622647872475563",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2101355653788839936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 427
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101355658947785199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caraculit0wo: Como que los Gorillaz no eran estos? https://t.co/uEKRSG6DVT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2101355653788839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmD1WrXsAAfukw.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101355653788839936"
+          ],
+          "media_source_tweet_id": [
+            "2101355658947785199"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2101622647872475563",
+        "created_at": "2026-09-20T10:41:00.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101622647872475563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "358116567",
+              "start": 3,
+              "username": "caraculit0wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEKRSG6DVT",
+              "end": 78,
+              "expanded_url": "https://x.com/caraculit0wo/status/2101355658947785199/photo/1",
+              "media_key": "3_2101355653788839936",
+              "start": 55,
+              "url": "https://t.co/uEKRSG6DVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101622647872475563",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101355653788839936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 427
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101355658947785199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caraculit0wo: Como que los Gorillaz no eran estos? https://t.co/uEKRSG6DVT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101355653788839936"
+          ]
+        },
+        "author_id": "358116567",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gorillaz",
+              "id": "854454278756290560",
+              "name": "Gorillaz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2101355658947785199",
+        "created_at": "2026-09-19T17:00:05.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101355658947785199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEKRSG6DVT",
+              "end": 60,
+              "expanded_url": "https://x.com/caraculit0wo/status/2101355658947785199/photo/1",
+              "media_key": "3_2101355653788839936",
+              "start": 37,
+              "url": "https://t.co/uEKRSG6DVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101355658947785199",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2101355653788839936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 502,
+          "impression_count": 49856,
+          "like_count": 5565,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "Como que los Gorillaz no eran estos? https://t.co/uEKRSG6DVT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2101622647872475563",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 411,
+          "like_count": 12510,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2147
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-19T12:04:59.000Z",
+        "description": "Mar i ana osea Mariana/\nlikes Michines🐱/\nGordita fan de blur y gorillaZ 💁‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caraculitowo.straw.page",
+                "end": 23,
+                "expanded_url": "https://caraculitowo.straw.page/",
+                "start": 0,
+                "url": "https://t.co/iBM7B3eQQi"
+              }
+            ]
+          }
+        },
+        "id": "358116567",
+        "is_identity_verified": false,
+        "location": "Argentina-Buenos Aires",
+        "most_recent_tweet_id": "2101597159221014616",
+        "name": "🍑pastatrola🍋🇦🇷",
+        "pinned_tweet_id": "2080408863325458821",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/358116567/1772291672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956118674001051651/tq-pTMbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 6710,
+          "like_count": 425508,
+          "listed_count": 6,
+          "media_count": 2422,
+          "tweet_count": 105692
+        },
+        "url": "https://t.co/iBM7B3eQQi",
+        "username": "caraculit0wo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

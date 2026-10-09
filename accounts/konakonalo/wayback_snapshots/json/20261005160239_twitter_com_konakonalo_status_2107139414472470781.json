@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2107139414472470781",
+    "created_at": "2026-10-05T16:02:39.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T17:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107139414472470781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2107139414472470781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点过载了。和家里人大吵一架得知我们家的经济状况每况愈下。每天接收的信息也太多。担心我的梦想我魂萦梦绕的未来是否能成真。身边环境也总是让我不安。那种愁思环绕。还是在纠结幻想中的乡愁，幻想中的平静，幻想中的家。。朋友们和麦片一直在支持我，但我真的需要一些刺激。。确实是社会蛆虫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2107139414472470781",
+        "created_at": "2026-10-05T16:02:39.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107139414472470781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107139414472470781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点过载了。和家里人大吵一架得知我们家的经济状况每况愈下。每天接收的信息也太多。担心我的梦想我魂萦梦绕的未来是否能成真。身边环境也总是让我不安。那种愁思环绕。还是在纠结幻想中的乡愁，幻想中的平静，幻想中的家。。朋友们和麦片一直在支持我，但我真的需要一些刺激。。确实是社会蛆虫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107139414472470781",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107085317274730496/WkihyEZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 450,
+          "like_count": 13723,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2425
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

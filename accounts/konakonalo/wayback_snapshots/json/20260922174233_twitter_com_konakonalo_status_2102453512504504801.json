@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102444753396871494",
+    "created_at": "2026-09-22T17:42:33.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102453512504504801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804018929481981952",
+          "start": 0,
+          "username": "Extrustomach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102453512504504801",
+    "in_reply_to_user_id": "1804018929481981952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102444753396871494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Extrustomach 骨头上的肉最好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102444753396871494",
+        "created_at": "2026-09-22T17:42:33.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102453512504504801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804018929481981952",
+              "start": 0,
+              "username": "Extrustomach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102453512504504801",
+        "in_reply_to_user_id": "1804018929481981952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102444753396871494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Extrustomach 骨头上的肉最好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804018929481981952",
+        "conversation_id": "2102444753396871494",
+        "created_at": "2026-09-22T17:07:45.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102444753396871494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhangcw04/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zhangcw04/status/2102184852506517658",
+              "start": 7,
+              "url": "https://t.co/Nfd1rSeUVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102444753396871494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102184852506517658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想吃，不要拆 https://t.co/Nfd1rSeUVC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102453512504504801",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 398,
+          "like_count": 12707,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2194
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-06-21T05:11:02.000Z",
+        "description": "我看见这一代最杰出的头脑毁于翻译\n\n                                                                          原教旨地雷系/死人",
+        "id": "1804018929481981952",
+        "is_identity_verified": false,
+        "location": "Cloudflare",
+        "most_recent_tweet_id": "2102444835550707886",
+        "name": "gemini哭哭🥺",
+        "pinned_tweet_id": "1919684973126418640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804018929481981952/1756961148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006255535910445059/M_kdyH0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 1051,
+          "like_count": 69566,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 9676
+        },
+        "url": "",
+        "username": "Extrustomach",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2106835095223218234",
+    "created_at": "2026-10-05T12:30:37.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107086054864126102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2098794605223522304",
+          "start": 0,
+          "username": "cigsaferdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107086054864126102",
+    "in_reply_to_user_id": "2098794605223522304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106835095223218234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsaferdrug mla😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2106835095223218234",
+        "created_at": "2026-10-05T12:30:37.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107086054864126102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2098794605223522304",
+              "start": 0,
+              "username": "cigsaferdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107086054864126102",
+        "in_reply_to_user_id": "2098794605223522304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106835095223218234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsaferdrug mla😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2098794605223522304",
+        "conversation_id": "2106835095223218234",
+        "created_at": "2026-10-04T19:53:24.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T20:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106835095223218234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106835095223218234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有冇人同我而家開始拍拖咁我哋12月就可以一齊去睇Mla🥀🥀🥀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107086054864126102",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107085317274730496/WkihyEZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 449,
+          "like_count": 13697,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2421
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T15:27:38.000Z",
+        "description": "可以叫我小迴 任何群體全友好 \n查成分互fo\n前世@cigsafterdrug 互關尋回中\n🚪52/88 互fo不用\n只要幸福就好了，祝你幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "cigsafterdrug"
+              }
+            ]
+          }
+        },
+        "id": "2098794605223522304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107084270380700071",
+        "name": "urtoolateialreadydied",
+        "pinned_tweet_id": "2098807783781273721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098794605223522304/1789227039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098796185112965120/mGi3D7-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 162,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "cigsaferdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

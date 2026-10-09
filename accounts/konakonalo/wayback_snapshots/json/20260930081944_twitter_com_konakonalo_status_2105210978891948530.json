@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2104997098303467568",
+    "created_at": "2026-09-30T08:19:44.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105210978891948530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "All4theY1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105210978891948530",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104997098303467568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All4theY1108 最喜欢的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2104997098303467568",
+        "created_at": "2026-09-30T08:19:44.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105210978891948530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "All4theY1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105210978891948530",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104997098303467568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All4theY1108 最喜欢的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2104997098303467568",
+        "created_at": "2026-09-29T18:09:51.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104997098303467568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《JIAO CHUAN DE GUO DU》，由 磨牙 演唱，收录于《JIAO CHUAN DE GUO DU》专辑中，《JIAO CHUAN DE GUO DU》下载，《JIAO CHUAN DE GUO DU》在线试听，更多JIAO CHUAN DE GUO DU相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bhuOjYAE",
+              "end": 23,
+              "expanded_url": "https://163cn.tv/bhuOjYAE",
+              "images": [
+                {
+                  "height": 1612,
+                  "url": "https://pbs.twimg.com/news_img/2104997109145686018/NPyJKS6m?format=jpg&name=orig",
+                  "width": 1612
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104997109145686018/NPyJKS6m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "JIAO CHUAN DE GUO DU - 磨牙 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2738931745&fx-wxqd=&playerUIModeId=76001&app_version=9.6.05&ts-wakeup=&fx-wechatnew=t1&fx-wordtest=&fx-listentest=t3&PlayerStyles_SynchronousSharing=t3&uct2=5533td%2F806bJwCRlzlxiwQ==&dlt=0846&H5_DownloadVIPGift=",
+              "url": "https://t.co/eUQLt3UEYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104997098303467568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eUQLt3UEYE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105210978891948530",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 422,
+          "like_count": 13377,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2394
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "胭芷慟",
+        "id": "1990083055231631361",
+        "is_identity_verified": false,
+        "location": "恨是唯一完整的残缺",
+        "most_recent_tweet_id": "2105184302816501887",
+        "name": "叫我不知道就好",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990083055231631361/1781402845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097040569604485120/mGQIJqxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 53,
+          "like_count": 8048,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 4937
+        },
+        "url": "",
+        "username": "All4theY1108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

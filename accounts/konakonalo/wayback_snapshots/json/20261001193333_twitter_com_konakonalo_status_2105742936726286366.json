@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2105653172970893526",
+    "created_at": "2026-10-01T19:33:33.000Z",
+    "display_text_range": [
+      19,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105742936726286366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "iaa77_7"
+        },
+        {
+          "end": 18,
+          "id": "1587790416057077760",
+          "start": 9,
+          "username": "musk_xxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105742936726286366",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105733445838373139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iaa77_7 @musk_xxl 哈哈哈哈哈这是我朋友，他天天嘲讽我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2105653172970893526",
+        "created_at": "2026-10-01T19:33:33.000Z",
+        "display_text_range": [
+          19,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105742936726286366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "iaa77_7"
+            },
+            {
+              "end": 18,
+              "id": "1587790416057077760",
+              "start": 9,
+              "username": "musk_xxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105742936726286366",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105733445838373139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iaa77_7 @musk_xxl 哈哈哈哈哈这是我朋友，他天天嘲讽我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "2105653172970893526",
+        "created_at": "2026-10-01T18:55:50.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105733445838373139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587790416057077760",
+              "start": 0,
+              "username": "musk_xxl"
+            },
+            {
+              "end": 21,
+              "id": "1939338058199191553",
+              "start": 10,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105733445838373139",
+        "in_reply_to_user_id": "1587790416057077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105690762142945655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musk_xxl @konakonalo 药比短视频好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105742936726286366",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 432,
+          "like_count": 13497,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105739754704912544",
+        "name": "ia",
+        "pinned_tweet_id": "2044447627790696534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505242176560656386/1790362499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052409054769954816/eixaHL2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 488,
+          "like_count": 67257,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 12368
+        },
+        "url": "",
+        "username": "iaa77_7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。\n🚪288 - +∞",
+        "id": "1587790416057077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105704640608457210",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587790416057077760/1779062316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 385,
+          "like_count": 9316,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2102650651843191114",
+    "created_at": "2026-09-23T06:45:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102650651843191114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513444882865856516",
+          "start": 3,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102650651843191114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102625407094718908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thorino10: 河坝上不知道在干嘛，远处一撮妇女，总之低头做自己的事，我一会看看山一会看看云，太阳不露头背阴的时候，一个十几岁的男孩走过来，顺着坝左右移动，像秤杆上的游标，走近才看到他露个屌软绵绵地甩来甩去，脸上还嘻嘻哈哈，没来得及扇耳光，这次直接按在地上砸眼眶骨…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2102650651843191114",
+        "created_at": "2026-09-23T06:45:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102650651843191114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513444882865856516",
+              "start": 3,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102650651843191114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102625407094718908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thorino10: 河坝上不知道在干嘛，远处一撮妇女，总之低头做自己的事，我一会看看山一会看看云，太阳不露头背阴的时候，一个十几岁的男孩走过来，顺着坝左右移动，像秤杆上的游标，走近才看到他露个屌软绵绵地甩来甩去，脸上还嘻嘻哈哈，没来得及扇耳光，这次直接按在地上砸眼眶骨…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2102625407094718908",
+        "created_at": "2026-09-23T05:05:36.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102625407094718908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102625407094718908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "河坝上不知道在干嘛，远处一撮妇女，总之低头做自己的事，我一会看看山一会看看云，太阳不露头背阴的时候，一个十几岁的男孩走过来，顺着坝左右移动，像秤杆上的游标，走近才看到他露个屌软绵绵地甩来甩去，脸上还嘻嘻哈哈，没来得及扇耳光，这次直接按在地上砸眼眶骨，我的手比我的脑子快一步。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102650651843191114",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 402,
+          "like_count": 12746,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2219
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thorino10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thorino10",
+                "start": 0,
+                "url": "https://t.co/ofjPiybh3V"
+              }
+            ]
+          }
+        },
+        "id": "1513444882865856516",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102650524202107295",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513444882865856516/1717081873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7098,
+          "following_count": 482,
+          "like_count": 22081,
+          "listed_count": 26,
+          "media_count": 508,
+          "tweet_count": 7311
+        },
+        "url": "https://t.co/ofjPiybh3V",
+        "username": "thorino10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

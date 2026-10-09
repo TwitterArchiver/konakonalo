@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101656385725579264"
+      ],
+      "media_source_tweet_id": [
+        "2101656392088358960"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "conversation_id": "2101723514445472255",
+    "created_at": "2026-09-20T17:21:48.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101723514445472255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "760101680029380608",
+          "start": 3,
+          "username": "shuzo_oshimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zQI0vodDAF",
+          "end": 41,
+          "expanded_url": "https://x.com/shuzo_oshimi/status/2101656392088358960/photo/1",
+          "media_key": "3_2101656385725579264",
+          "start": 18,
+          "url": "https://t.co/zQI0vodDAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101723514445472255",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2101656385725579264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101656392088358960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuzo_oshimi: https://t.co/zQI0vodDAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2101656385725579264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqVWQcawAA2_tT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101656385725579264"
+          ],
+          "media_source_tweet_id": [
+            "2101656392088358960"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2101723514445472255",
+        "created_at": "2026-09-20T17:21:48.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101723514445472255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "760101680029380608",
+              "start": 3,
+              "username": "shuzo_oshimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQI0vodDAF",
+              "end": 41,
+              "expanded_url": "https://x.com/shuzo_oshimi/status/2101656392088358960/photo/1",
+              "media_key": "3_2101656385725579264",
+              "start": 18,
+              "url": "https://t.co/zQI0vodDAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101723514445472255",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101656385725579264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101656392088358960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuzo_oshimi: https://t.co/zQI0vodDAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101656385725579264"
+          ]
+        },
+        "author_id": "760101680029380608",
+        "conversation_id": "2101656392088358960",
+        "created_at": "2026-09-20T12:55:05.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101656392088358960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQI0vodDAF",
+              "end": 23,
+              "expanded_url": "https://x.com/shuzo_oshimi/status/2101656392088358960/photo/1",
+              "media_key": "3_2101656385725579264",
+              "start": 0,
+              "url": "https://t.co/zQI0vodDAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101656392088358960",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101656385725579264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 14603,
+          "like_count": 925,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zQI0vodDAF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2101723514445472255",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 412,
+          "like_count": 12552,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2150
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-01T13:15:37.000Z",
+        "description": "漫画家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shuzooshimi/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shuzooshimi/",
+                "start": 0,
+                "url": "https://t.co/rbcMfj2Xzm"
+              }
+            ]
+          }
+        },
+        "id": "760101680029380608",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101656392088358960",
+        "name": "押見修造",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760101680029380608/1777173132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925731687113076736/ITU9hyJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135265,
+          "following_count": 148,
+          "like_count": 176,
+          "listed_count": 685,
+          "media_count": 1177,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/rbcMfj2Xzm",
+        "username": "shuzo_oshimi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

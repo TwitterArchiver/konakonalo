@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2103562436393787470",
+    "created_at": "2026-09-26T14:50:33.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103859778686718045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048683684191154176",
+          "start": 0,
+          "username": "lsdprettyboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103859778686718045",
+    "in_reply_to_user_id": "2048683684191154176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103562436393787470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsdprettyboy 啃萝卜在哪里发财呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2103562436393787470",
+        "created_at": "2026-09-26T14:50:33.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103859778686718045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048683684191154176",
+              "start": 0,
+              "username": "lsdprettyboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103859778686718045",
+        "in_reply_to_user_id": "2048683684191154176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103562436393787470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsdprettyboy 啃萝卜在哪里发财呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048683684191154176",
+        "conversation_id": "2103562436393787470",
+        "created_at": "2026-09-25T19:09:01.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103562436393787470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103562436393787470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我kenrobb上身了，我需要钱买药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2103859778686718045",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 415,
+          "like_count": 13125,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2355
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T08:41:44.000Z",
+        "description": "我脑子有问题\n🚪 58｜88 没区别，你比较慷慨可以给我更多，不给也行",
+        "id": "2048683684191154176",
+        "is_identity_verified": false,
+        "location": "NOT FOUND",
+        "most_recent_tweet_id": "2103857229816569968",
+        "name": "豆包我全家活了",
+        "pinned_tweet_id": "2102721359889723740",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048683684191154176/1786864787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088889126976417792/e9A6Db_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 176,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "lsdprettyboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

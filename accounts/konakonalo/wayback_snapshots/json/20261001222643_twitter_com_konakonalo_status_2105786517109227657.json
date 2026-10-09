@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105599118953365504",
+        "3_2105599137139859456",
+        "3_2105599146979655681",
+        "3_2105599160976076800"
+      ],
+      "media_source_tweet_id": [
+        "2105599167414309200",
+        "2105599167414309200",
+        "2105599167414309200",
+        "2105599167414309200"
+      ]
+    },
+    "author_id": "1939338058199191553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1290268694782701574",
+          "name": "Taxi Driver"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1284215709757628416",
+          "name": "Cult classics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1287840544744329216",
+          "name": "Crime Films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284215709757628416",
+          "name": "Cult classics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287840544744329216",
+          "name": "Crime Films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1290268694782701574",
+          "name": "Taxi Driver"
+        }
+      }
+    ],
+    "conversation_id": "2105786517109227657",
+    "created_at": "2026-10-01T22:26:43.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T23:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105786517109227657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033293226132848640",
+          "start": 3,
+          "username": "deanfilmede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ResRSxGLIf",
+          "end": 80,
+          "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+          "media_key": "3_2105599118953365504",
+          "start": 57,
+          "url": "https://t.co/ResRSxGLIf"
+        },
+        {
+          "display_url": "pic.x.com/ResRSxGLIf",
+          "end": 80,
+          "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+          "media_key": "3_2105599137139859456",
+          "start": 57,
+          "url": "https://t.co/ResRSxGLIf"
+        },
+        {
+          "display_url": "pic.x.com/ResRSxGLIf",
+          "end": 80,
+          "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+          "media_key": "3_2105599146979655681",
+          "start": 57,
+          "url": "https://t.co/ResRSxGLIf"
+        },
+        {
+          "display_url": "pic.x.com/ResRSxGLIf",
+          "end": 80,
+          "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+          "media_key": "3_2105599160976076800",
+          "start": 57,
+          "url": "https://t.co/ResRSxGLIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105786517109227657",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2105599118953365504"
+      },
+      {
+        "media_key": "3_2105599137139859456"
+      },
+      {
+        "media_key": "3_2105599146979655681"
+      },
+      {
+        "media_key": "3_2105599160976076800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105599167414309200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deanfilmede: behind the scenes of taxi driver (1976) https://t.co/ResRSxGLIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2105599118953365504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiXPiSXQAATHHF.jpg",
+        "width": 583
+      },
+      {
+        "height": 720,
+        "media_key": "3_2105599137139859456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiXQmCXIAAQTPj.jpg",
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105599146979655681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiXRKsWgAEG6zq.jpg",
+        "width": 2756
+      },
+      {
+        "height": 413,
+        "media_key": "3_2105599160976076800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiXR-1W8AA6WS6.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105599118953365504",
+            "3_2105599137139859456",
+            "3_2105599146979655681",
+            "3_2105599160976076800"
+          ],
+          "media_source_tweet_id": [
+            "2105599167414309200",
+            "2105599167414309200",
+            "2105599167414309200",
+            "2105599167414309200"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          }
+        ],
+        "conversation_id": "2105786517109227657",
+        "created_at": "2026-10-01T22:26:43.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T23:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105786517109227657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033293226132848640",
+              "start": 3,
+              "username": "deanfilmede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 80,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599118953365504",
+              "start": 57,
+              "url": "https://t.co/ResRSxGLIf"
+            },
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 80,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599137139859456",
+              "start": 57,
+              "url": "https://t.co/ResRSxGLIf"
+            },
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 80,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599146979655681",
+              "start": 57,
+              "url": "https://t.co/ResRSxGLIf"
+            },
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 80,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599160976076800",
+              "start": 57,
+              "url": "https://t.co/ResRSxGLIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105786517109227657",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105599118953365504"
+          },
+          {
+            "media_key": "3_2105599137139859456"
+          },
+          {
+            "media_key": "3_2105599146979655681"
+          },
+          {
+            "media_key": "3_2105599160976076800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105599167414309200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deanfilmede: behind the scenes of taxi driver (1976) https://t.co/ResRSxGLIf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105599118953365504",
+            "3_2105599137139859456",
+            "3_2105599146979655681",
+            "3_2105599160976076800"
+          ]
+        },
+        "author_id": "2033293226132848640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284215709757628416",
+              "name": "Cult classics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287840544744329216",
+              "name": "Crime Films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290268694782701574",
+              "name": "Taxi Driver"
+            }
+          }
+        ],
+        "conversation_id": "2105599167414309200",
+        "created_at": "2026-10-01T10:02:16.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105599167414309200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 63,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599118953365504",
+              "start": 40,
+              "url": "https://t.co/ResRSxGLIf"
+            },
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 63,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599137139859456",
+              "start": 40,
+              "url": "https://t.co/ResRSxGLIf"
+            },
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 63,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599146979655681",
+              "start": 40,
+              "url": "https://t.co/ResRSxGLIf"
+            },
+            {
+              "display_url": "pic.x.com/ResRSxGLIf",
+              "end": 63,
+              "expanded_url": "https://x.com/deanfilmede/status/2105599167414309200/photo/1",
+              "media_key": "3_2105599160976076800",
+              "start": 40,
+              "url": "https://t.co/ResRSxGLIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105599167414309200",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105599118953365504"
+          },
+          {
+            "media_key": "3_2105599137139859456"
+          },
+          {
+            "media_key": "3_2105599146979655681"
+          },
+          {
+            "media_key": "3_2105599160976076800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 5583,
+          "like_count": 378,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "behind the scenes of taxi driver (1976) https://t.co/ResRSxGLIf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105786517109227657",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 432,
+          "like_count": 13505,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2377
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T21:24:33.000Z",
+        "description": "#filmtwt old hollywood & old things",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "filmtwt"
+              }
+            ]
+          }
+        },
+        "id": "2033293226132848640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105770394460299416",
+        "name": "cleo ❀",
+        "pinned_tweet_id": "2040095296311415154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033293226132848640/1786745179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040094258183520256/c9iyuufG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 198,
+          "like_count": 5627,
+          "listed_count": 3,
+          "media_count": 458,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "deanfilmede",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

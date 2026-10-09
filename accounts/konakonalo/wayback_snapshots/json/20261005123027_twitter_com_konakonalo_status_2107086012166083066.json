@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1939338058199191553",
+    "conversation_id": "2106962707916476436",
+    "created_at": "2026-10-05T12:30:27.000Z",
+    "display_text_range": [
+      33,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107086012166083066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087350361531219968",
+          "start": 0,
+          "username": "mordlust462058"
+        },
+        {
+          "end": 32,
+          "id": "2105883708964352000",
+          "start": 16,
+          "username": "_JudasLoveNHate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107086012166083066",
+    "in_reply_to_user_id": "2087350361531219968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106962707916476436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mordlust462058 @_JudasLoveNHate 你画画好牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2106962701482422273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1vafDbcAEhmeM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2106962707916476436",
+        "created_at": "2026-10-05T12:30:27.000Z",
+        "display_text_range": [
+          33,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107086012166083066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087350361531219968",
+              "start": 0,
+              "username": "mordlust462058"
+            },
+            {
+              "end": 32,
+              "id": "2105883708964352000",
+              "start": 16,
+              "username": "_JudasLoveNHate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107086012166083066",
+        "in_reply_to_user_id": "2087350361531219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106962707916476436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mordlust462058 @_JudasLoveNHate 你画画好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106962701482422273"
+          ]
+        },
+        "author_id": "2087350361531219968",
+        "conversation_id": "2106962707916476436",
+        "created_at": "2026-10-05T04:20:29.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106962707916476436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "sexpistols"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "sid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NvrsYLfJu4",
+              "end": 49,
+              "expanded_url": "https://x.com/mordlust462058/status/2106962707916476436/photo/1",
+              "media_key": "3_2106962701482422273",
+              "start": 26,
+              "url": "https://t.co/NvrsYLfJu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106962707916476436",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106962701482422273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#sexpistols #sid 這個是稿子，別拿 https://t.co/NvrsYLfJu4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107086012166083066",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107085317274730496/WkihyEZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 449,
+          "like_count": 13696,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2420
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T01:34:34.000Z",
+        "description": "戀母癖：@demo37237",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "demo37237"
+              }
+            ]
+          }
+        },
+        "id": "2087350361531219968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107059906885153081",
+        "name": "寶山狼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087350361531219968/1789982396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107003006529245184/dEvxXik6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 82,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "mordlust462058",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-02T12:52:57.000Z",
+        "description": "新中国第一毒枭｜精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜主赐平安如江河",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2105883708964352000",
+        "is_identity_verified": false,
+        "location": "耶路撒冷𝟐𝟕𝐂𝐥𝐮𝐛",
+        "most_recent_tweet_id": "2106987122033041803",
+        "name": "门廊狗𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2106588743629156459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105883708964352000/1791171812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106199375768899584/y1cmauXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 17,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "_JudasLoveNHate",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
